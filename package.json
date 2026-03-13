@@ -1,0 +1,15 @@
+{
+  "name": "aquaverse-price-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily Klook price scraper for aquaverse-park.com",
+  "scripts": {
+    "scrape": "node scripts/scrape-klook.js",
+    "rates": "node scripts/fetch-rates.js",
+    "update": "node scripts/update-site.js",
+    "all": "npm run scrape && npm run rates && npm run update"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}

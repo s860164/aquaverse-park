@@ -221,22 +221,22 @@
   // ===== Language & Currency Selectors =====
   const CURRENCY_RATES = {
     THB: { rate: 1, symbol: '฿', code: 'THB', decimals: 0 },
-    USD: { rate: 0.0286, symbol: '$', code: 'USD', decimals: 0 },
-    EUR: { rate: 0.0263, symbol: '€', code: 'EUR', decimals: 0 },
-    GBP: { rate: 0.0224, symbol: '£', code: 'GBP', decimals: 0 },
-    JPY: { rate: 4.28, symbol: '¥', code: 'JPY', decimals: 0 },
-    CNY: { rate: 0.208, symbol: '¥', code: 'CNY', decimals: 0 },
-    KRW: { rate: 39.5, symbol: '₩', code: 'KRW', decimals: 0 },
-    TWD: { rate: 0.928, symbol: '$', code: 'TWD', decimals: 0 },
-    HKD: { rate: 0.223, symbol: '$', code: 'HKD', decimals: 0 },
-    SGD: { rate: 0.0382, symbol: '$', code: 'SGD', decimals: 0 },
-    MYR: { rate: 0.127, symbol: 'RM', code: 'MYR', decimals: 0 },
-    PHP: { rate: 1.63, symbol: '₱', code: 'PHP', decimals: 0 },
-    IDR: { rate: 467, symbol: 'Rp', code: 'IDR', decimals: 0 },
-    VND: { rate: 729, symbol: '₫', code: 'VND', decimals: 0 },
-    INR: { rate: 2.43, symbol: '₹', code: 'INR', decimals: 0 },
-    RUB: { rate: 2.46, symbol: '₽', code: 'RUB', decimals: 0 },
-    AUD: { rate: 0.0449, symbol: '$', code: 'AUD', decimals: 0 }
+    USD: { rate: 0.0312, symbol: '$', code: 'USD', decimals: 0 },
+    EUR: { rate: 0.027, symbol: '€', code: 'EUR', decimals: 0 },
+    GBP: { rate: 0.0233, symbol: '£', code: 'GBP', decimals: 0 },
+    JPY: { rate: 4.96, symbol: '¥', code: 'JPY', decimals: 0 },
+    CNY: { rate: 0.214, symbol: '¥', code: 'CNY', decimals: 0 },
+    KRW: { rate: 46.35, symbol: '₩', code: 'KRW', decimals: 0 },
+    TWD: { rate: 0.994, symbol: '$', code: 'TWD', decimals: 0 },
+    HKD: { rate: 0.244, symbol: '$', code: 'HKD', decimals: 0 },
+    SGD: { rate: 0.0399, symbol: '$', code: 'SGD', decimals: 0 },
+    MYR: { rate: 0.123, symbol: 'RM', code: 'MYR', decimals: 0 },
+    PHP: { rate: 1.86, symbol: '₱', code: 'PHP', decimals: 0 },
+    IDR: { rate: 528, symbol: 'Rp', code: 'IDR', decimals: 0 },
+    VND: { rate: 812, symbol: '₫', code: 'VND', decimals: 0 },
+    INR: { rate: 2.88, symbol: '₹', code: 'INR', decimals: 0 },
+    RUB: { rate: 2.47, symbol: '₽', code: 'RUB', decimals: 0 },
+    AUD: { rate: 0.0439, symbol: '$', code: 'AUD', decimals: 0 }
   };
 
   const LANG_MAP = {
