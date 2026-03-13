@@ -130,6 +130,12 @@ p { margin-bottom: 1rem; }
   position: relative;
 }
 
+.logo-img {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+
 .logo-wordmark {
   background: linear-gradient(135deg, #0c4a6e, #0891b2);
   -webkit-background-clip: text;

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 36" fill="none">
+  <defs>
+    <linearGradient id="wml" x1="0" y1="0" x2="130" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="wvl" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="26" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="-0.4" fill="url(#wml)">Aquaverse</text>
+  <text x="138" y="26" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#22d3ee">Guide</text>
+  <path d="M0 33c8-4.5 16 0 24-4.5s16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 16-4.5" stroke="url(#wvl)" stroke-width="1.8" stroke-linecap="round" opacity="0.6" fill="none"/>
+</svg>
