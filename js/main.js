@@ -436,6 +436,7 @@
     const navLinksEl = document.querySelector('.nav-links');
     if (navLinksEl) {
       navLinksEl.style.top = totalHeight + 'px';
+      navLinksEl.style.height = 'calc(100vh - ' + totalHeight + 'px)';
     }
   }
 
