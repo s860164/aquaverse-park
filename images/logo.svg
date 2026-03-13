@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 36" fill="none">
-  <defs>
-    <linearGradient id="wm" x1="0" y1="0" x2="130" y2="130" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0c4a6e"/>
-      <stop offset="1" stop-color="#0891b2"/>
-    </linearGradient>
-    <linearGradient id="wv" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0891b2"/>
-      <stop offset="1" stop-color="#22d3ee"/>
-    </linearGradient>
-  </defs>
-  <text x="0" y="26" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="-0.4" fill="url(#wm)">Aquaverse</text>
-  <text x="138" y="26" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#f97316">Guide</text>
-  <path d="M0 33c8-4.5 16 0 24-4.5s16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 24-4.5 16 0 16-4.5" stroke="url(#wv)" stroke-width="1.8" stroke-linecap="round" opacity="0.6" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 36" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&amp;display=swap');
+  </style>
+  <text x="0" y="28" font-family="'Nunito','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#0891b2">Aquaverse Park</text>
+  <text x="218" y="26" font-family="'Nunito','Segoe UI',Arial,sans-serif" font-size="12" font-weight="500" fill="#94a3b8">Powered by</text>
+  <!-- Klook splash icon -->
+  <g transform="translate(295, 4) scale(0.11)">
+    <path d="M95 10c15-8 28 12 20 25s-30 10-20-25z" fill="#3F51B5"/>
+    <path d="M130 60c20 5 15 35-5 35s-25-30 5-35z" fill="#FF5722"/>
+    <path d="M75 75c10 20-15 35-28 20s5-35 28-20z" fill="#FFC107"/>
+    <path d="M30 30c-10 20-35 10-30-10s30-15 30 10z" fill="#00BCD4"/>
+    <path d="M110 110c18 10 8 38-12 32s-12-38 12-32z" fill="#FF9800"/>
+  </g>
+  <text x="322" y="28" font-family="'Nunito','Segoe UI',Arial,sans-serif" font-size="20" font-weight="800" fill="#FF5722">klook</text>
 </svg>
