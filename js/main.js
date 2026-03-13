@@ -431,10 +431,19 @@
     } else {
       document.body.style.paddingTop = totalHeight + 'px';
     }
+
+    // Update mobile nav menu position to sit below all fixed bars
+    const navLinksEl = document.querySelector('.nav-links');
+    if (navLinksEl) {
+      navLinksEl.style.top = totalHeight + 'px';
+    }
   }
 
   stackHeaderBars();
   window.addEventListener('resize', stackHeaderBars);
+
+  // Recalculate after fonts/images load (heights may change)
+  window.addEventListener('load', stackHeaderBars);
 
   // Init all selectors
   if (document.querySelector('.top-bar')) {
