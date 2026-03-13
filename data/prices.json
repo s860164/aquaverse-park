@@ -1,43 +1,49 @@
 {
-  "lastUpdated": "2026-03-13T00:00:00Z",
+  "lastUpdated": "2026-03-13T15:24:04.393Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
-      "name": "Standard Admission",
-      "priceTHB": 870,
-      "gatePrice": 1595
+      "name": "Water Park Ticket",
+      "priceTHB": 1171,
+      "gatePrice": 1595,
+      "priceUSD": 36.55
     },
     {
-      "id": "admission-locker",
-      "name": "Admission + Locker",
-      "priceTHB": 870,
-      "gatePrice": 1895
+      "id": "admission-food-surf",
+      "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
+      "priceTHB": 1580,
+      "gatePrice": null,
+      "priceUSD": 49.29
     },
     {
-      "id": "admission-onsen",
-      "name": "Admission + Onsen",
-      "priceTHB": 1200,
-      "gatePrice": 2200
+      "id": "group-of-3",
+      "name": "Group of 3 Water Park Ticket",
+      "priceTHB": 1159,
+      "gatePrice": null,
+      "priceUSD": 36.15
     },
     {
-      "id": "vip-cabana-deluxe",
-      "name": "VIP Cabana Deluxe",
-      "priceTHB": 2500,
-      "gatePrice": null
+      "id": "group-of-4",
+      "name": "Group of 4 Water Park Ticket",
+      "priceTHB": 1159,
+      "gatePrice": null,
+      "priceUSD": 36.15
     },
     {
-      "id": "vip-cabana-super",
-      "name": "VIP Cabana Super",
-      "priceTHB": 3000,
-      "gatePrice": null
+      "id": "addons-food",
+      "name": "Add-ons Food and Beverage",
+      "priceTHB": 496,
+      "gatePrice": null,
+      "priceUSD": 15.49
     },
     {
-      "id": "vip-cabana-ultimate",
-      "name": "VIP Cabana Ultimate",
-      "priceTHB": 4000,
-      "gatePrice": null
+      "id": "addons-gokart",
+      "name": "Add-ons Go Kart Activity",
+      "priceTHB": 638,
+      "gatePrice": null,
+      "priceUSD": 19.89
     }
   ],
   "exchangeRates": {

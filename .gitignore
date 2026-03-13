@@ -4,3 +4,5 @@
 node_modules/
 debug-screenshot.png
 .playwright-mcp/
+.firecrawl/
+data/debug-klook.md

@@ -73,8 +73,8 @@ function updateMainJs(exchangeRates) {
   );
 
   if (replaced === content) {
-    console.log('  WARNING: Could not find CURRENCY_RATES block in main.js');
-    return false;
+    console.log('  CURRENCY_RATES in main.js already up to date (no changes)');
+    return true;
   }
 
   fs.writeFileSync(filePath, replaced);

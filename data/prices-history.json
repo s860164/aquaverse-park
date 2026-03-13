@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "date": "2026-03-13",
+    "packages": {
+      "standard-admission": 1171,
+      "admission-food-surf": 1580,
+      "group-of-3": 1159,
+      "group-of-4": 1159,
+      "addons-food": 496,
+      "addons-gokart": 638
+    },
+    "exchangeRates": {
+      "USD": 0.0312,
+      "EUR": 0.027,
+      "GBP": 0.0233,
+      "JPY": 4.96,
+      "CNY": 0.214,
+      "KRW": 46.35,
+      "TWD": 0.994,
+      "HKD": 0.244,
+      "SGD": 0.0399,
+      "MYR": 0.123,
+      "PHP": 1.86,
+      "IDR": 528,
+      "VND": 812,
+      "INR": 2.88,
+      "RUB": 2.47,
+      "AUD": 0.0439
+    }
+  }
+]
