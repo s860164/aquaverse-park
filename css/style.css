@@ -1584,9 +1584,10 @@ p { margin-bottom: 1rem; }
   }
 
   .hero-stats {
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem 2rem;
+    justify-items: center;
   }
 
   .hero-stat {
