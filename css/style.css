@@ -132,9 +132,13 @@ p { margin-bottom: 1rem; }
 
 .logo-img {
   height: auto;
-  width: 220px;
-  max-width: 260px;
+  width: 246px;
+  max-width: 300px;
   display: block;
+}
+
+.nav-logo {
+  margin-left: 3rem;
 }
 
 .logo-wordmark {
@@ -1238,6 +1242,7 @@ p { margin-bottom: 1rem; }
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
+  padding-left: 2rem !important;
 }
 
 .sticky-bar-info {
