@@ -23,6 +23,16 @@
       stickyBar.classList.toggle('visible', scrollY > 600);
     }
 
+    // Mobile: hide top-bar and announcement-bar on scroll
+    if (window.innerWidth <= 768) {
+      const topBar = document.querySelector('.top-bar');
+      const annBar = document.querySelector('.announcement-bar');
+      const shouldHide = scrollY > 60;
+      if (topBar) topBar.classList.toggle('scroll-hidden', shouldHide);
+      if (annBar) annBar.classList.toggle('scroll-hidden', shouldHide);
+      stackHeaderBars();
+    }
+
     lastScroll = scrollY;
   }
 
@@ -32,18 +42,57 @@
   const navToggle = document.querySelector('.nav-toggle');
   const navLinks = document.querySelector('.nav-links');
 
+  // Create menu settings container for language/currency (mobile)
+  let menuSettings = null;
+  if (navLinks) {
+    menuSettings = document.createElement('div');
+    menuSettings.className = 'menu-settings';
+    navLinks.appendChild(menuSettings);
+  }
+
+  function openMobileMenu() {
+    navLinks.classList.add('open');
+    navToggle.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+
+    // Move selectors into menu on mobile
+    if (window.innerWidth <= 768 && menuSettings) {
+      const topBarInner = document.querySelector('.top-bar-inner');
+      if (topBarInner) {
+        const selectors = topBarInner.querySelectorAll('.selector');
+        selectors.forEach(function(s) { menuSettings.appendChild(s); });
+      }
+    }
+  }
+
+  function closeMobileMenu() {
+    navLinks.classList.remove('open');
+    navToggle.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+
+    // Move selectors back to top-bar
+    if (menuSettings) {
+      const topBarInner = document.querySelector('.top-bar-inner');
+      if (topBarInner) {
+        var selectors = menuSettings.querySelectorAll('.selector');
+        selectors.forEach(function(s) { topBarInner.appendChild(s); });
+      }
+    }
+  }
+
   if (navToggle && navLinks) {
-    navToggle.addEventListener('click', () => {
-      navLinks.classList.toggle('open');
-      navToggle.setAttribute('aria-expanded',
-        navLinks.classList.contains('open'));
+    navToggle.addEventListener('click', function() {
+      if (navLinks.classList.contains('open')) {
+        closeMobileMenu();
+      } else {
+        openMobileMenu();
+      }
     });
 
     // Close menu on link click
-    navLinks.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', () => {
-        navLinks.classList.remove('open');
-        navToggle.setAttribute('aria-expanded', 'false');
+    navLinks.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', function() {
+        closeMobileMenu();
       });
     });
   }
@@ -412,14 +461,21 @@
     const nav = document.querySelector('.navbar');
     if (!nav) return;
 
+    const isMobile = window.innerWidth <= 768;
+
     let offset = 0;
     if (topBar) {
       topBar.style.top = '0px';
-      offset += topBar.offsetHeight;
+      // On mobile, skip hidden bars from offset calculation
+      if (!isMobile || !topBar.classList.contains('scroll-hidden')) {
+        offset += topBar.offsetHeight;
+      }
     }
     if (annBar) {
       annBar.style.top = offset + 'px';
-      offset += annBar.offsetHeight;
+      if (!isMobile || !annBar.classList.contains('scroll-hidden')) {
+        offset += annBar.offsetHeight;
+      }
     }
     nav.style.top = offset + 'px';
 
@@ -432,12 +488,8 @@
       document.body.style.paddingTop = totalHeight + 'px';
     }
 
-    // Update mobile nav menu position to sit below all fixed bars
-    const navLinksEl = document.querySelector('.nav-links');
-    if (navLinksEl) {
-      navLinksEl.style.top = totalHeight + 'px';
-      navLinksEl.style.height = 'calc(100vh - ' + totalHeight + 'px)';
-    }
+    // Mobile nav menu: full-screen overlay (top:0, full height via CSS)
+    // No need to set top/height here — CSS handles full-screen on mobile
   }
 
   stackHeaderBars();
