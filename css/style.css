@@ -271,7 +271,7 @@ p { margin-bottom: 1rem; }
 .hero h1 {
   color: #1a365d;
   margin-bottom: 1.25rem;
-  text-shadow: 0 2px 15px rgba(255, 255, 255, 0.8), 0 0 40px rgba(255, 255, 255, 0.4);
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25), 0 0 20px rgba(255, 255, 255, 0.5);
   font-size: clamp(3rem, 8vw, 5.5rem);
   font-weight: 800;
   line-height: 1.1;
@@ -289,6 +289,7 @@ p { margin-bottom: 1rem; }
   -webkit-text-fill-color: initial;
   background: none;
   color: #1a365d;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2), 0 0 15px rgba(255, 255, 255, 0.4);
 }
 
 .hero-subtitle {
@@ -299,6 +300,7 @@ p { margin-bottom: 1rem; }
   opacity: 0.8;
   margin-top: 0.5rem;
   color: #1a365d;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2), 0 0 15px rgba(255, 255, 255, 0.4);
   -webkit-text-fill-color: initial;
   background: none;
 }
