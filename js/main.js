@@ -1,0 +1,470 @@
+/* ============================================
+   Aquaverse Park - Main JavaScript
+   ============================================ */
+
+(function() {
+  'use strict';
+
+  // ===== Navbar scroll effect =====
+  const navbar = document.querySelector('.navbar');
+  const stickyBar = document.querySelector('.sticky-bar');
+  let lastScroll = 0;
+
+  function handleScroll() {
+    const scrollY = window.scrollY;
+
+    // Navbar shadow on scroll
+    if (navbar) {
+      navbar.classList.toggle('scrolled', scrollY > 20);
+    }
+
+    // Sticky booking bar visibility
+    if (stickyBar) {
+      stickyBar.classList.toggle('visible', scrollY > 600);
+    }
+
+    lastScroll = scrollY;
+  }
+
+  window.addEventListener('scroll', handleScroll, { passive: true });
+
+  // ===== Mobile nav toggle =====
+  const navToggle = document.querySelector('.nav-toggle');
+  const navLinks = document.querySelector('.nav-links');
+
+  if (navToggle && navLinks) {
+    navToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('open');
+      navToggle.setAttribute('aria-expanded',
+        navLinks.classList.contains('open'));
+    });
+
+    // Close menu on link click
+    navLinks.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('open');
+        navToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+  }
+
+  // ===== FAQ Accordion =====
+  document.querySelectorAll('.faq-question').forEach(button => {
+    button.addEventListener('click', () => {
+      const item = button.closest('.faq-item');
+      const answer = item.querySelector('.faq-answer');
+      const isActive = item.classList.contains('active');
+
+      // Close all others
+      document.querySelectorAll('.faq-item.active').forEach(activeItem => {
+        if (activeItem !== item) {
+          activeItem.classList.remove('active');
+          activeItem.querySelector('.faq-answer').style.maxHeight = '0';
+        }
+      });
+
+      // Toggle current
+      item.classList.toggle('active');
+      if (!isActive) {
+        answer.style.maxHeight = answer.scrollHeight + 'px';
+      } else {
+        answer.style.maxHeight = '0';
+      }
+    });
+  });
+
+  // ===== Fade-in on scroll =====
+  const fadeEls = document.querySelectorAll('.fade-in');
+
+  if (fadeEls.length > 0) {
+    const fadeObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          fadeObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+    fadeEls.forEach(el => fadeObserver.observe(el));
+  }
+
+  // ===== Smooth scroll for anchor links =====
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      const target = document.querySelector(this.getAttribute('href'));
+      if (target) {
+        e.preventDefault();
+        const offset = 80;
+        const y = target.getBoundingClientRect().top + window.scrollY - offset;
+        window.scrollTo({ top: y, behavior: 'smooth' });
+      }
+    });
+  });
+
+  // ===== Active nav link highlight =====
+  const currentPath = window.location.pathname;
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    const href = link.getAttribute('href');
+    if (href === currentPath || (currentPath === '/' && href === '/') ||
+        (currentPath.includes(href) && href !== '/' && href.length > 1)) {
+      link.classList.add('active');
+    }
+  });
+
+  // ===== Opening hours status =====
+  function updateParkStatus() {
+    const statusEls = document.querySelectorAll('[data-park-status]');
+    if (!statusEls.length) return;
+
+    const now = new Date();
+    const bangkokTime = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Bangkok' }));
+    const day = bangkokTime.getDay();
+    const hour = bangkokTime.getHours();
+    const minute = bangkokTime.getMinutes();
+    const timeNum = hour * 100 + minute;
+
+    let isOpen = false;
+    let statusText = '';
+
+    if (day === 3) {
+      // Wednesday - closed
+      statusText = 'Closed Today (Wednesday)';
+    } else if (timeNum >= 1000 && timeNum < 1800) {
+      isOpen = true;
+      statusText = 'Open Now';
+    } else if (timeNum < 1000) {
+      statusText = 'Opens at 10:00 AM';
+    } else {
+      statusText = 'Closed - Opens Tomorrow 10 AM';
+    }
+
+    statusEls.forEach(el => {
+      el.className = `gbp-status ${isOpen ? 'open' : 'closed'}`;
+      el.innerHTML = `<span class="gbp-status-dot"></span>${statusText}`;
+    });
+  }
+
+  updateParkStatus();
+  setInterval(updateParkStatus, 60000);
+
+  // ===== Booking link tracking =====
+  const BOOKING_URL = 'https://affiliate.klook.com/redirect?aid=115326&aff_adid=1235866&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F85772';
+
+  document.querySelectorAll('[data-booking]').forEach(btn => {
+    btn.href = BOOKING_URL;
+    btn.setAttribute('rel', 'noopener sponsored');
+    btn.setAttribute('target', '_blank');
+  });
+
+  // ===== Copy coupon code =====
+  document.querySelectorAll('[data-copy]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const text = btn.getAttribute('data-copy');
+      navigator.clipboard.writeText(text).then(() => {
+        const original = btn.textContent;
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = original; }, 2000);
+      });
+    });
+  });
+
+  // ===== Language & Currency Selectors =====
+  const CURRENCY_RATES = {
+    THB: { rate: 1, symbol: '฿', code: 'THB', decimals: 0 },
+    USD: { rate: 0.0286, symbol: '$', code: 'USD', decimals: 0 },
+    EUR: { rate: 0.0263, symbol: '€', code: 'EUR', decimals: 0 },
+    GBP: { rate: 0.0224, symbol: '£', code: 'GBP', decimals: 0 },
+    JPY: { rate: 4.28, symbol: '¥', code: 'JPY', decimals: 0 },
+    CNY: { rate: 0.208, symbol: '¥', code: 'CNY', decimals: 0 },
+    KRW: { rate: 39.5, symbol: '₩', code: 'KRW', decimals: 0 },
+    TWD: { rate: 0.928, symbol: '$', code: 'TWD', decimals: 0 },
+    HKD: { rate: 0.223, symbol: '$', code: 'HKD', decimals: 0 },
+    SGD: { rate: 0.0382, symbol: '$', code: 'SGD', decimals: 0 },
+    MYR: { rate: 0.127, symbol: 'RM', code: 'MYR', decimals: 0 },
+    PHP: { rate: 1.63, symbol: '₱', code: 'PHP', decimals: 0 },
+    IDR: { rate: 467, symbol: 'Rp', code: 'IDR', decimals: 0 },
+    VND: { rate: 729, symbol: '₫', code: 'VND', decimals: 0 },
+    INR: { rate: 2.43, symbol: '₹', code: 'INR', decimals: 0 },
+    RUB: { rate: 2.46, symbol: '₽', code: 'RUB', decimals: 0 },
+    AUD: { rate: 0.0449, symbol: '$', code: 'AUD', decimals: 0 }
+  };
+
+  const LANG_MAP = {
+    'en': '/',
+    'zh-CN': '/zh-CN/',
+    'zh-TW': '/zh-TW/',
+    'ja': '/ja/',
+    'ko': '/ko/',
+    'ru': '/ru/',
+    'hi': '/hi/',
+    'ms': '/ms/',
+    'vi': '/vi/',
+    'de': '/de/',
+    'fr': '/fr/',
+    'lo': '/lo/'
+  };
+
+  // Format number with commas
+  function formatNum(n, decimals) {
+    return n.toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+  }
+
+  // Convert price from THB to target currency
+  function convertPrice(thbAmount, currency) {
+    const c = CURRENCY_RATES[currency];
+    if (!c) return thbAmount;
+    const converted = Math.round(thbAmount * c.rate);
+    return formatNum(converted, c.decimals);
+  }
+
+  // Update all prices on page
+  function updateAllPrices(currency) {
+    const c = CURRENCY_RATES[currency];
+    if (!c) return;
+
+    // Pricing cards
+    document.querySelectorAll('[data-price-thb]').forEach(el => {
+      const thb = parseFloat(el.getAttribute('data-price-thb'));
+      const converted = convertPrice(thb, currency);
+      const currencyEl = el.querySelector('.pricing-currency');
+
+      if (currencyEl) {
+        currencyEl.textContent = c.code;
+        currencyEl.nextSibling.textContent = ' ' + converted;
+      } else if (el.classList.contains('sticky-bar-price')) {
+        const origThb = parseFloat(el.getAttribute('data-price-original-thb'));
+        const origConverted = origThb ? convertPrice(origThb, currency) : '';
+        el.innerHTML = `${c.code} ${converted}` + (origConverted ? ` <small>${c.code} ${origConverted}</small>` : '');
+      }
+    });
+
+    // Price note lines under cards
+    document.querySelectorAll('[data-price-note]').forEach(el => {
+      const type = el.getAttribute('data-price-note');
+      if (currency === 'THB') {
+        if (type === 'gate') el.textContent = '~$44 USD per person';
+        if (type === 'online') el.innerHTML = '~$24 USD per person &mdash; Save 45%!';
+        if (type === 'vip') el.innerHTML = '~$69 USD &mdash; Starting price';
+      } else {
+        if (type === 'gate') el.textContent = 'per person';
+        if (type === 'online') el.innerHTML = 'per person &mdash; Save 45%!';
+        if (type === 'vip') el.innerHTML = 'Starting price';
+      }
+    });
+
+    // Update selector button label
+    const label = document.querySelector('.current-currency-label');
+    if (label) label.textContent = `${c.code} ${c.symbol}`;
+
+    // Update active state in dropdown
+    document.querySelectorAll('#currencyMenu [data-currency]').forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-currency') === currency);
+    });
+
+    localStorage.setItem('aq_currency', currency);
+  }
+
+  // Dropdown toggle behavior
+  function initDropdowns() {
+    document.querySelectorAll('.selector-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const dropdown = btn.nextElementSibling;
+        const isOpen = dropdown.classList.contains('open');
+
+        // Close all dropdowns first
+        document.querySelectorAll('.selector-dropdown.open').forEach(d => d.classList.remove('open'));
+        document.querySelectorAll('.selector-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+
+        if (!isOpen) {
+          dropdown.classList.add('open');
+          btn.setAttribute('aria-expanded', 'true');
+        }
+      });
+    });
+
+    // Close on outside click
+    document.addEventListener('click', () => {
+      document.querySelectorAll('.selector-dropdown.open').forEach(d => d.classList.remove('open'));
+      document.querySelectorAll('.selector-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+    });
+
+    // Prevent dropdown close when clicking inside
+    document.querySelectorAll('.selector-dropdown').forEach(d => {
+      d.addEventListener('click', (e) => e.stopPropagation());
+    });
+  }
+
+  // Currency selector
+  function initCurrencySelector() {
+    document.querySelectorAll('#currencyMenu [data-currency]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const currency = btn.getAttribute('data-currency');
+        updateAllPrices(currency);
+        // Close dropdown
+        btn.closest('.selector-dropdown').classList.remove('open');
+        btn.closest('.selector').querySelector('.selector-btn').setAttribute('aria-expanded', 'false');
+      });
+    });
+
+    // Restore saved currency
+    const saved = localStorage.getItem('aq_currency');
+    if (saved && CURRENCY_RATES[saved]) {
+      updateAllPrices(saved);
+    }
+  }
+
+  // Language auto-detect & redirect (only on first visit)
+  function initLanguageDetection() {
+    if (localStorage.getItem('aq_lang_set')) return;
+
+    const browserLang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+    let targetLang = 'en';
+
+    // Match browser language to available translations
+    if (browserLang.startsWith('zh-tw') || browserLang.startsWith('zh-hant')) {
+      targetLang = 'zh-TW';
+    } else if (browserLang.startsWith('zh')) {
+      targetLang = 'zh-CN';
+    } else if (browserLang.startsWith('ja')) {
+      targetLang = 'ja';
+    } else if (browserLang.startsWith('ko')) {
+      targetLang = 'ko';
+    } else if (browserLang.startsWith('ru')) {
+      targetLang = 'ru';
+    } else if (browserLang.startsWith('hi')) {
+      targetLang = 'hi';
+    } else if (browserLang.startsWith('ms')) {
+      targetLang = 'ms';
+    } else if (browserLang.startsWith('vi')) {
+      targetLang = 'vi';
+    } else if (browserLang.startsWith('de')) {
+      targetLang = 'de';
+    } else if (browserLang.startsWith('fr')) {
+      targetLang = 'fr';
+    } else if (browserLang.startsWith('lo')) {
+      targetLang = 'lo';
+    }
+
+    localStorage.setItem('aq_lang_set', '1');
+
+    // Only redirect if not already on the correct language page
+    const path = window.location.pathname;
+    const targetPath = LANG_MAP[targetLang];
+    if (targetLang !== 'en' && path === '/' && targetPath) {
+      window.location.href = targetPath;
+    }
+  }
+
+  // Language selector - mark active based on current page
+  function initLanguageSelector() {
+    const path = window.location.pathname;
+    const langLinks = document.querySelectorAll('#langMenu a');
+    langLinks.forEach(link => {
+      const href = link.getAttribute('href');
+      const isActive = (href === '/' && (path === '/' || path === '/index.html')) ||
+                       (href !== '/' && path.startsWith(href));
+      link.classList.toggle('active', isActive);
+      if (isActive) {
+        const label = document.querySelector('.current-lang-label');
+        if (label) label.textContent = link.textContent;
+      }
+    });
+
+    // On click, remember that user manually chose a language
+    langLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        localStorage.setItem('aq_lang_set', '1');
+      });
+    });
+  }
+
+  // Auto-detect currency based on browser language
+  function autoDetectCurrency() {
+    if (localStorage.getItem('aq_currency')) return;
+
+    const browserLang = (navigator.language || 'en').toLowerCase();
+    let currency = 'THB';
+
+    if (browserLang.startsWith('zh-tw') || browserLang.startsWith('zh-hant')) currency = 'TWD';
+    else if (browserLang.startsWith('zh')) currency = 'CNY';
+    else if (browserLang.startsWith('ja')) currency = 'JPY';
+    else if (browserLang.startsWith('ko')) currency = 'KRW';
+    else if (browserLang.startsWith('ru')) currency = 'RUB';
+    else if (browserLang.startsWith('hi')) currency = 'INR';
+    else if (browserLang.startsWith('ms')) currency = 'MYR';
+    else if (browserLang.startsWith('vi')) currency = 'VND';
+    else if (browserLang.startsWith('de') || browserLang.startsWith('fr')) currency = 'EUR';
+    else if (browserLang.startsWith('en-us')) currency = 'USD';
+    else if (browserLang.startsWith('en-gb')) currency = 'GBP';
+    else if (browserLang.startsWith('en-au')) currency = 'AUD';
+
+    if (currency !== 'THB') {
+      updateAllPrices(currency);
+    }
+  }
+
+  // Stack fixed header bars (top-bar → announcement-bar → navbar)
+  function stackHeaderBars() {
+    const topBar = document.querySelector('.top-bar');
+    const annBar = document.querySelector('.announcement-bar');
+    const nav = document.querySelector('.navbar');
+    if (!nav) return;
+
+    let offset = 0;
+    if (topBar) {
+      topBar.style.top = '0px';
+      offset += topBar.offsetHeight;
+    }
+    if (annBar) {
+      annBar.style.top = offset + 'px';
+      offset += annBar.offsetHeight;
+    }
+    nav.style.top = offset + 'px';
+
+    // Push page content below all fixed bars
+    const totalHeight = offset + nav.offsetHeight;
+    const hero = document.querySelector('.hero');
+    if (hero) {
+      hero.style.paddingTop = totalHeight + 'px';
+    } else {
+      document.body.style.paddingTop = totalHeight + 'px';
+    }
+  }
+
+  stackHeaderBars();
+  window.addEventListener('resize', stackHeaderBars);
+
+  // Init all selectors
+  if (document.querySelector('.top-bar')) {
+    initDropdowns();
+    initCurrencySelector();
+    initLanguageSelector();
+    initLanguageDetection();
+    autoDetectCurrency();
+  }
+
+  // ===== Countdown timer for urgency =====
+  function updateCountdown() {
+    const el = document.getElementById('countdown');
+    if (!el) return;
+
+    const now = new Date();
+    const endOfDay = new Date(now);
+    endOfDay.setHours(23, 59, 59, 999);
+    const diff = endOfDay - now;
+
+    const hours = Math.floor(diff / (1000 * 60 * 60));
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+    el.textContent = `${hours}h ${minutes}m ${seconds}s`;
+  }
+
+  if (document.getElementById('countdown')) {
+    updateCountdown();
+    setInterval(updateCountdown, 1000);
+  }
+
+})();
