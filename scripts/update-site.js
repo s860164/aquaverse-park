@@ -158,50 +158,71 @@ function updatePriceAttributes(filePath, packages) {
     content = newContent;
   }
 
-  // Simpler targeted approach: replace specific known values
-  // Online price (870 -> new)
+  // Update data-price-thb and data-price-original-thb based on context
+  // Use a smarter approach: identify pricing cards by their structure
   if (onlinePrice) {
     const old = content;
-    content = content.replace(/data-price-thb="870"/g, `data-price-thb="${onlinePrice}"`);
+    // Featured card (online price) and sticky bar — update any stale value
+    content = content.replace(
+      /(pricing-card featured[\s\S]*?data-price-thb=")(\d+)(")/,
+      `$1${onlinePrice}$3`
+    );
+    content = content.replace(
+      /(sticky-bar-price[^>]*data-price-thb=")(\d+)(")/g,
+      `$1${onlinePrice}$3`
+    );
     if (content !== old) changed = true;
   }
 
-  // Gate price in attributes
   if (gatePrice) {
-    // Fix broken truncated values like "1" or "2" in some language files
-    // Replace any data-price-thb that's suspiciously small (1-9) in gate price position
-    // Also replace correct old values
     const old = content;
-    content = content.replace(/data-price-thb="1595"/g, `data-price-thb="${gatePrice}"`);
-    content = content.replace(/data-price-original-thb="1595"/g, `data-price-original-thb="${gatePrice}"`);
-    if (content !== old) changed = true;
-  }
-
-  // VIP price in attributes
-  if (vipPrice) {
-    const old = content;
-    content = content.replace(/data-price-thb="2500"/g, `data-price-thb="${vipPrice}"`);
+    // Gate price card (non-featured, non-VIP)
+    content = content.replace(
+      /(pricing-card">\s*<h3>[^<]*(?:Gate|Walk)[^<]*<\/h3>\s*<div[^>]*data-price-thb=")(\d+)(")/,
+      `$1${gatePrice}$3`
+    );
+    // Original price in sticky bar
+    content = content.replace(
+      /(data-price-original-thb=")(\d+)(")/g,
+      `$1${gatePrice}$3`
+    );
     if (content !== old) changed = true;
   }
 
   // Fix broken truncated values (data-price-thb="1" or "2") in some language files
-  // These should be the gate and VIP prices respectively
   if (gatePrice) {
     const old = content;
-    // Only fix "1" or "2" if they appear as pricing-amount data attributes
     content = content.replace(
-      /(pricing-amount[^>]*data-price-thb=")1(")/g,
-      `$1${gatePrice}$2`
+      /(pricing-amount[^>]*data-price-thb=")([1-9])(")/g,
+      (match, pre, val, post) => {
+        const v = parseInt(val, 10);
+        if (v <= 2) return `${pre}${v === 1 ? gatePrice : (vipPrice || v)}${post}`;
+        return match;
+      }
     );
     if (content !== old) changed = true;
   }
-  if (vipPrice) {
-    const old = content;
-    content = content.replace(
-      /(pricing-amount[^>]*data-price-thb=")2(")/g,
-      `$1${vipPrice}$2`
-    );
-    if (content !== old) changed = true;
+
+  // Also update visible fallback text inside pricing-amount divs
+  // Pattern: data-price-thb="1171">\n  <span class="pricing-currency">THB</span>870
+  // Should become: ...>THB</span>1,171
+  const fallbackPattern = /(data-price-thb="(\d+)">\s*<span class="pricing-currency">THB<\/span>)([\d,]+)/g;
+  const beforeFallback = content;
+  content = content.replace(fallbackPattern, (match, prefix, thbValue, visibleText) => {
+    const formatted = formatNumber(parseInt(thbValue, 10));
+    if (visibleText !== formatted) {
+      return `${prefix}${formatted}`;
+    }
+    return match;
+  });
+  if (content !== beforeFallback) changed = true;
+
+  // Update sticky bar visible text: THB X,XXX <small>THB Y,YYY</small>
+  if (onlinePrice) {
+    const stickyPattern = /(sticky-bar-price[^>]*>\s*)THB [\d,]+(\s*<small>)/g;
+    const beforeSticky = content;
+    content = content.replace(stickyPattern, `$1THB ${formatNumber(onlinePrice)}$2`);
+    if (content !== beforeSticky) changed = true;
   }
 
   if (changed) {
@@ -222,37 +243,33 @@ function updateTicketsTable(packages) {
   let content = fs.readFileSync(filePath, 'utf8');
   let changed = false;
 
-  const priceMap = {
-    'standard-admission': { gate: 1595, online: 870 },
-    'admission-locker': { gate: 1895, online: 870 },
-    'admission-onsen': { gate: 2200, online: 1200 },
-    'vip-cabana-deluxe': { gate: null, online: 2500 },
-    'vip-cabana-super': { gate: null, online: 3000 },
-    'vip-cabana-ultimate': { gate: null, online: 4000 }
-  };
+  // Extract current prices from the HTML to build old->new mapping
+  // This avoids hardcoding old values that become stale after first update
+  const currentOnlineAttr = content.match(/data-price-thb="(\d+)"[^>]*>\s*<span class="pricing-currency">THB<\/span>([\d,]+)/);
 
   for (const pkg of packages) {
-    const oldPrices = priceMap[pkg.id];
-    if (!oldPrices) continue;
+    if (!pkg.priceTHB) continue;
+    const newFormatted = `THB ${formatNumber(pkg.priceTHB)}`;
 
-    // Update online price in table (THB x,xxx format)
-    if (oldPrices.online && pkg.priceTHB !== oldPrices.online) {
-      const oldFormatted = `THB ${formatNumber(oldPrices.online)}`;
-      const newFormatted = `THB ${formatNumber(pkg.priceTHB)}`;
-      const old = content;
-      content = content.split(oldFormatted).join(newFormatted);
-      if (content !== old) changed = true;
-    }
-
-    // Update gate price in table
-    if (oldPrices.gate && pkg.gatePrice && pkg.gatePrice !== oldPrices.gate) {
-      const oldFormatted = `THB ${formatNumber(oldPrices.gate)}`;
-      const newFormatted = `THB ${formatNumber(pkg.gatePrice)}`;
-      const old = content;
-      content = content.split(oldFormatted).join(newFormatted);
-      if (content !== old) changed = true;
+    // Update gate price references (THB X,XXX in table cells and prose)
+    if (pkg.gatePrice) {
+      const newGateFormatted = `THB ${formatNumber(pkg.gatePrice)}`;
+      // Gate price doesn't change often, but keep consistent
     }
   }
+
+  // Update all THB price references in the comparison table
+  // Strategy: find table cells with <strong>THB X,XXX</strong> and update based on data-price-thb
+  const tablePricePattern = /data-price-thb="(\d+)"[^>]*>[\s\S]*?<strong>THB ([\d,]+)<\/strong>/g;
+  const beforeTable = content;
+  content = content.replace(tablePricePattern, (match, attrVal, visibleVal) => {
+    const expected = formatNumber(parseInt(attrVal, 10));
+    if (visibleVal !== expected) {
+      return match.replace(`THB ${visibleVal}`, `THB ${expected}`);
+    }
+    return match;
+  });
+  if (content !== beforeTable) changed = true;
 
   // Update savings percentage
   const standardOnline = getPackagePrice(packages, 'standard-admission');
@@ -400,15 +417,23 @@ function updateIndexText(filePath, packages, exchangeRates) {
       if (content !== old) changed = true;
     }
 
-    // Update THB prices in prose
+    // Update THB prices in prose — use dynamic pattern to match any old value
     if (standardGate) {
       const old = content;
-      content = content.replace(/THB 1,595/g, `THB ${formatNumber(standardGate)}`);
+      // Gate price references like "THB 1,595" in structured data and prose
+      content = content.replace(/gate price THB [\d,]+/g, `gate price THB ${formatNumber(standardGate)}`);
+      content = content.replace(/gate price is <strong>THB [\d,]+<\/strong>/g, `gate price is <strong>THB ${formatNumber(standardGate)}</strong>`);
       if (content !== old) changed = true;
     }
     if (standardOnline) {
       const old = content;
-      content = content.replace(/THB 870/g, `THB ${formatNumber(standardOnline)}`);
+      // Online price references like "THB 870" or "THB 1,171" in structured data
+      content = content.replace(/From THB [\d,]+ online/g, `From THB ${formatNumber(standardOnline)} online`);
+      content = content.replace(/from THB [\d,]+ online/g, `from THB ${formatNumber(standardOnline)} online`);
+      content = content.replace(/from just THB [\d,]+ online/g, `from just THB ${formatNumber(standardOnline)} online`);
+      content = content.replace(/start from just THB [\d,]+/g, `start from just THB ${formatNumber(standardOnline)}`);
+      content = content.replace(/start from THB [\d,]+/g, `start from THB ${formatNumber(standardOnline)}`);
+      content = content.replace(/price from THB [\d,]+!/g, `price from THB ${formatNumber(standardOnline)}!`);
       if (content !== old) changed = true;
     }
   }
