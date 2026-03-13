@@ -131,8 +131,8 @@ p { margin-bottom: 1rem; }
 }
 
 .logo-img {
-  height: 30px;
-  width: auto;
+  height: auto;
+  width: 220px;
   max-width: 260px;
   display: block;
 }
