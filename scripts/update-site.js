@@ -92,10 +92,10 @@ function updatePriceAttributes(filePath, packages) {
 
   const onlinePrice = getPackagePrice(packages, 'standard-admission');
   const gatePrice = getPackageGatePrice(packages, 'standard-admission');
-  const vipPrice = getPackagePrice(packages, 'vip-cabana-deluxe');
+  const allInclusivePrice = getPackagePrice(packages, 'admission-food-surf');
 
   // The pricing cards have 3 data-price-thb values in order:
-  // 1st: gate price (1595), 2nd: online price (870), 3rd: VIP price (2500)
+  // 1st: gate price (1595), 2nd: online price (1171), 3rd: all-inclusive price (1580)
   //
   // Strategy: Find all data-price-thb="..." and update based on context.
   // We use the surrounding HTML to identify which price each is.
@@ -141,7 +141,7 @@ function updatePriceAttributes(filePath, packages) {
       }
 
       // Gate price card context (pricing-card without "featured")
-      if (before.includes('pricing-card') && !before.includes('featured') && !before.includes('VIP') && !before.includes('vip') && !before.includes('Cabana') && !before.includes('cabana')) {
+      if (before.includes('pricing-card') && !before.includes('featured') && !before.includes('All-Inclusive') && !before.includes('all-inclusive') && !before.includes('全包') && !before.includes('オールインクルーシブ') && !before.includes('올인클루시브')) {
         // Check if this is the first card (gate price)
         const lastCardStart = before.lastIndexOf('pricing-card');
         const afterCard = before.substring(lastCardStart);
@@ -189,14 +189,26 @@ function updatePriceAttributes(filePath, packages) {
     if (content !== old) changed = true;
   }
 
-  // Fix broken truncated values (data-price-thb="1" or "2") in some language files
-  if (gatePrice) {
+  // Update all-inclusive card price
+  if (allInclusivePrice) {
     const old = content;
+    // Find the third pricing card (after gate and featured) and update its price
+    // Match by card title patterns across languages
+    const allIncPatterns = [
+      /All-Inclusive/i, /Tout Compris/i, /全包/i, /オールインクルーシブ/i,
+      /올인클루시브/i, /Всё включено/i, /Trọn Gói/i, /Semua Termasuk/i,
+      /ລວມທັງໝົດ/i, /ऑल-इंक्लूसिव/i, /All-Inclusive/i
+    ];
+    // Simple approach: find all pricing-amount with data-price-thb that's NOT gate or online price
     content = content.replace(
-      /(pricing-amount[^>]*data-price-thb=")([1-9])(")/g,
+      /(pricing-amount[^>]*data-price-thb=")(\d+)(")/g,
       (match, pre, val, post) => {
         const v = parseInt(val, 10);
-        if (v <= 2) return `${pre}${v === 1 ? gatePrice : (vipPrice || v)}${post}`;
+        if (v !== gatePrice && v !== onlinePrice && v !== allInclusivePrice) {
+          // This is likely the old all-inclusive/VIP price, update it
+          changed = true;
+          return `${pre}${allInclusivePrice}${post}`;
+        }
         return match;
       }
     );
@@ -326,14 +338,20 @@ function updateTicketsTable(packages) {
       if (content !== old) changed = true;
     }
 
-    // ~$69 USD (VIP starting price)
-    const vipPrice = getPackagePrice(packages, 'vip-cabana-deluxe');
-    if (vipPrice) {
-      const newVipUsd = Math.round(vipPrice * rate);
+    // ~$49 USD (all-inclusive price)
+    const allInclusivePrice = getPackagePrice(packages, 'admission-food-surf');
+    if (allInclusivePrice) {
+      const newAllIncUsd = Math.round(allInclusivePrice * rate);
       const old = content;
       content = content.replace(
-        /~\$\d+ USD &mdash; Starting price/g,
-        `~$${newVipUsd} USD &mdash; Starting price`
+        /~\$\d+ USD per person<\/div>/g,
+        (match, offset) => {
+          const before = content.substring(Math.max(0, offset - 200), offset);
+          if (before.includes('All-Inclusive') || before.includes('allinclusive')) {
+            return `~$${newAllIncUsd} USD per person</div>`;
+          }
+          return match;
+        }
       );
       if (content !== old) changed = true;
     }
@@ -357,7 +375,7 @@ function updateIndexText(filePath, packages, exchangeRates) {
 
   const standardOnline = getPackagePrice(packages, 'standard-admission');
   const standardGate = getPackageGatePrice(packages, 'standard-admission');
-  const vipPrice = getPackagePrice(packages, 'vip-cabana-deluxe');
+  const allInclusivePrice = getPackagePrice(packages, 'admission-food-surf');
 
   // Update savings %
   if (standardOnline && standardGate) {
@@ -384,7 +402,7 @@ function updateIndexText(filePath, packages, exchangeRates) {
           if (before.includes('1,595') || before.includes('Gate') || before.includes('gate')) {
             return `(~$${gateUsd} USD)`;
           }
-          if (before.includes('870') || before.includes('Online') || before.includes('online')) {
+          if (before.includes('Online') || before.includes('online') || before.includes(formatNumber(standardOnline))) {
             return `(~$${Math.round(standardOnline * rate)} USD)`;
           }
           return match;
@@ -407,12 +425,18 @@ function updateIndexText(filePath, packages, exchangeRates) {
       if (content !== old) changed = true;
     }
 
-    if (vipPrice) {
-      const vipUsd = Math.round(vipPrice * rate);
+    if (allInclusivePrice) {
+      const allIncUsd = Math.round(allInclusivePrice * rate);
       const old = content;
       content = content.replace(
-        /~\$\d+ USD &mdash; Starting price/g,
-        `~$${vipUsd} USD &mdash; Starting price`
+        /~\$\d+ USD per person<\/div>/g,
+        (match, offset) => {
+          const before = content.substring(Math.max(0, offset - 200), offset);
+          if (before.includes('All-Inclusive') || before.includes('allinclusive')) {
+            return `~$${allIncUsd} USD per person</div>`;
+          }
+          return match;
+        }
       );
       if (content !== old) changed = true;
     }
