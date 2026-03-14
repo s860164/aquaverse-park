@@ -11,12 +11,13 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
 const PRICES_FILE = path.join(ROOT, 'data', 'prices.json');
 
-// All files that contain data-price-thb attributes
-const PRICE_ATTR_FILES = [
+// Core files that always contain data-price-thb attributes
+const CORE_PRICE_FILES = [
   'tickets.html',
   'index.html',
   'de/index.html',
@@ -31,6 +32,37 @@ const PRICE_ATTR_FILES = [
   'zh-CN/index.html',
   'zh-TW/index.html'
 ];
+
+// Dynamically find all HTML files that contain data-price-thb
+function findAllPriceFiles() {
+  const files = new Set(CORE_PRICE_FILES);
+  try {
+    // Find blog files and language blog files with data-price-thb
+    const blogDirs = ['blog'];
+    const langs = ['zh-TW', 'zh-CN', 'ja', 'ko', 'de', 'fr', 'hi', 'ru', 'vi', 'ms', 'lo'];
+    langs.forEach(l => blogDirs.push(`${l}/blog`));
+
+    for (const dir of blogDirs) {
+      const fullDir = path.join(ROOT, dir);
+      if (!fs.existsSync(fullDir)) continue;
+      const entries = fs.readdirSync(fullDir);
+      for (const entry of entries) {
+        if (!entry.endsWith('.html')) continue;
+        const relPath = `${dir}/${entry}`;
+        const fullPath = path.join(ROOT, relPath);
+        const content = fs.readFileSync(fullPath, 'utf8');
+        if (content.includes('data-price-thb') || content.includes('sticky-bar-price')) {
+          files.add(relPath);
+        }
+      }
+    }
+  } catch (e) {
+    console.log('  Note: Could not scan blog dirs:', e.message);
+  }
+  return Array.from(files);
+}
+
+const PRICE_ATTR_FILES = findAllPriceFiles();
 
 function loadPrices() {
   return JSON.parse(fs.readFileSync(PRICES_FILE, 'utf8'));
