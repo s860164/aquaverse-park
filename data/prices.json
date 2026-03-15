@@ -1,47 +1,47 @@
 {
-  "lastUpdated": "2026-03-14T06:32:03.323Z",
+  "lastUpdated": "2026-03-15T06:42:05.284Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1171,
+      "priceTHB": 1176,
       "gatePrice": 1595,
-      "priceUSD": 36.55
+      "priceUSD": 36.45
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1580,
+      "priceTHB": 1587,
       "gatePrice": null,
-      "priceUSD": 49.29
+      "priceUSD": 49.19
     },
     {
       "id": "group-of-3",
       "name": "Group of 3 Water Park Ticket",
-      "priceTHB": 1159,
+      "priceTHB": 1164,
       "gatePrice": null,
-      "priceUSD": 36.15
+      "priceUSD": 36.09
     },
     {
       "id": "group-of-4",
       "name": "Group of 4 Water Park Ticket",
-      "priceTHB": 1159,
+      "priceTHB": 1164,
       "gatePrice": null,
-      "priceUSD": 36.15
+      "priceUSD": 36.09
     },
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 496,
+      "priceTHB": 500,
       "gatePrice": null,
       "priceUSD": 15.49
     },
     {
       "id": "addons-gokart",
       "name": "Add-ons Go Kart Activity",
-      "priceTHB": 638,
+      "priceTHB": 642,
       "gatePrice": null,
       "priceUSD": 19.89
     }
@@ -66,7 +66,7 @@
       "decimals": 0
     },
     "GBP": {
-      "rate": 0.0234,
+      "rate": 0.0233,
       "symbol": "£",
       "code": "GBP",
       "decimals": 0
@@ -90,7 +90,7 @@
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.992,
+      "rate": 0.993,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -102,7 +102,7 @@
       "decimals": 0
     },
     "SGD": {
-      "rate": 0.0397,
+      "rate": 0.0396,
       "symbol": "$",
       "code": "SGD",
       "decimals": 0
@@ -120,7 +120,7 @@
       "decimals": 0
     },
     "IDR": {
-      "rate": 523,
+      "rate": 524,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
