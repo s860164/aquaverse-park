@@ -43,7 +43,17 @@ Disallow: /
 User-agent: Bytespider
 Disallow: /
 
+User-agent: Omgilibot
+Disallow: /
+
 User-agent: cohere-ai
 Disallow: /
+
+# AI Retrieval/Citation Bots - Allow (we want to be cited)
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
 
 Sitemap: https://aquaverse-park.com/sitemap.xml
