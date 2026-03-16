@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T06:42:05.284Z",
+  "lastUpdated": "2026-03-16T07:03:15.903Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
@@ -41,9 +41,9 @@
     {
       "id": "addons-gokart",
       "name": "Add-ons Go Kart Activity",
-      "priceTHB": 642,
+      "priceTHB": 640,
       "gatePrice": null,
-      "priceUSD": 19.89
+      "priceUSD": 19.85
     }
   ],
   "exchangeRates": {
@@ -54,7 +54,7 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.031,
+      "rate": 0.0309,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
@@ -72,7 +72,7 @@
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.94,
+      "rate": 4.93,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
@@ -84,13 +84,13 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.32,
+      "rate": 46.25,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.993,
+      "rate": 0.99,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -114,19 +114,19 @@
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.85,
+      "rate": 1.84,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 524,
+      "rate": 523,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 813,
+      "rate": 806,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
@@ -138,7 +138,7 @@
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.49,
+      "rate": 2.47,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
