@@ -27,5 +27,92 @@
       "RUB": 2.47,
       "AUD": 0.0439
     }
+  },
+  {
+    "date": "2026-03-14",
+    "packages": {
+      "standard-admission": 1171,
+      "admission-food-surf": 1580,
+      "group-of-3": 1159,
+      "group-of-4": 1159,
+      "addons-food": 496,
+      "addons-gokart": 638
+    },
+    "exchangeRates": {
+      "USD": 0.0312,
+      "EUR": 0.027,
+      "GBP": 0.0233,
+      "JPY": 4.96,
+      "CNY": 0.214,
+      "KRW": 46.35,
+      "TWD": 0.994,
+      "HKD": 0.244,
+      "SGD": 0.0399,
+      "MYR": 0.123,
+      "PHP": 1.86,
+      "IDR": 528,
+      "VND": 812,
+      "INR": 2.88,
+      "RUB": 2.47,
+      "AUD": 0.0439
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "packages": {
+      "standard-admission": 1176,
+      "admission-food-surf": 1587,
+      "group-of-3": 1164,
+      "group-of-4": 1164,
+      "addons-food": 500,
+      "addons-gokart": 642
+    },
+    "exchangeRates": {
+      "USD": 0.031,
+      "EUR": 0.027,
+      "GBP": 0.0234,
+      "JPY": 4.94,
+      "CNY": 0.214,
+      "KRW": 46.32,
+      "TWD": 0.992,
+      "HKD": 0.242,
+      "SGD": 0.0397,
+      "MYR": 0.122,
+      "PHP": 1.85,
+      "IDR": 523,
+      "VND": 813,
+      "INR": 2.86,
+      "RUB": 2.49,
+      "AUD": 0.0441
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "packages": {
+      "standard-admission": 1176,
+      "admission-food-surf": 1587,
+      "group-of-3": 1164,
+      "group-of-4": 1164,
+      "addons-food": 500,
+      "addons-gokart": 640
+    },
+    "exchangeRates": {
+      "USD": 0.031,
+      "EUR": 0.027,
+      "GBP": 0.0233,
+      "JPY": 4.94,
+      "CNY": 0.214,
+      "KRW": 46.32,
+      "TWD": 0.993,
+      "HKD": 0.242,
+      "SGD": 0.0396,
+      "MYR": 0.122,
+      "PHP": 1.85,
+      "IDR": 524,
+      "VND": 813,
+      "INR": 2.86,
+      "RUB": 2.49,
+      "AUD": 0.0441
+    }
   }
 ]
