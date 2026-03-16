@@ -292,12 +292,12 @@
     document.querySelectorAll('[data-price-note]').forEach(el => {
       const type = el.getAttribute('data-price-note');
       if (currency === 'THB') {
-        if (type === 'gate') el.textContent = '~$44 USD per person';
-        if (type === 'online') el.innerHTML = '~$24 USD per person &mdash; Save 45%!';
+        if (type === 'gate') el.textContent = '~$50 USD per person';
+        if (type === 'online') el.innerHTML = '~$36 USD per person &mdash; Save ~27%!';
         if (type === 'vip') el.innerHTML = '~$69 USD &mdash; Starting price';
       } else {
         if (type === 'gate') el.textContent = 'per person';
-        if (type === 'online') el.innerHTML = 'per person &mdash; Save 45%!';
+        if (type === 'online') el.innerHTML = 'per person &mdash; Save ~27%!';
         if (type === 'vip') el.innerHTML = 'Starting price';
       }
     });
