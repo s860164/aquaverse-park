@@ -222,21 +222,21 @@
   const CURRENCY_RATES = {
     THB: { rate: 1, symbol: '฿', code: 'THB', decimals: 0 },
     USD: { rate: 0.0309, symbol: '$', code: 'USD', decimals: 0 },
-    EUR: { rate: 0.027, symbol: '€', code: 'EUR', decimals: 0 },
-    GBP: { rate: 0.0233, symbol: '£', code: 'GBP', decimals: 0 },
-    JPY: { rate: 4.93, symbol: '¥', code: 'JPY', decimals: 0 },
-    CNY: { rate: 0.214, symbol: '¥', code: 'CNY', decimals: 0 },
-    KRW: { rate: 46.25, symbol: '₩', code: 'KRW', decimals: 0 },
-    TWD: { rate: 0.99, symbol: '$', code: 'TWD', decimals: 0 },
+    EUR: { rate: 0.0269, symbol: '€', code: 'EUR', decimals: 0 },
+    GBP: { rate: 0.0232, symbol: '£', code: 'GBP', decimals: 0 },
+    JPY: { rate: 4.92, symbol: '¥', code: 'JPY', decimals: 0 },
+    CNY: { rate: 0.213, symbol: '¥', code: 'CNY', decimals: 0 },
+    KRW: { rate: 46.07, symbol: '₩', code: 'KRW', decimals: 0 },
+    TWD: { rate: 0.988, symbol: '$', code: 'TWD', decimals: 0 },
     HKD: { rate: 0.242, symbol: '$', code: 'HKD', decimals: 0 },
-    SGD: { rate: 0.0396, symbol: '$', code: 'SGD', decimals: 0 },
-    MYR: { rate: 0.122, symbol: 'RM', code: 'MYR', decimals: 0 },
+    SGD: { rate: 0.0395, symbol: '$', code: 'SGD', decimals: 0 },
+    MYR: { rate: 0.121, symbol: 'RM', code: 'MYR', decimals: 0 },
     PHP: { rate: 1.84, symbol: '₱', code: 'PHP', decimals: 0 },
-    IDR: { rate: 523, symbol: 'Rp', code: 'IDR', decimals: 0 },
+    IDR: { rate: 524, symbol: 'Rp', code: 'IDR', decimals: 0 },
     VND: { rate: 806, symbol: '₫', code: 'VND', decimals: 0 },
-    INR: { rate: 2.86, symbol: '₹', code: 'INR', decimals: 0 },
-    RUB: { rate: 2.47, symbol: '₽', code: 'RUB', decimals: 0 },
-    AUD: { rate: 0.0441, symbol: '$', code: 'AUD', decimals: 0 }
+    INR: { rate: 2.85, symbol: '₹', code: 'INR', decimals: 0 },
+    RUB: { rate: 2.5, symbol: '₽', code: 'RUB', decimals: 0 },
+    AUD: { rate: 0.0438, symbol: '$', code: 'AUD', decimals: 0 }
   };
 
   const LANG_MAP = {
