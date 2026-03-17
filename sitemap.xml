@@ -1254,4 +1254,53 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New pages: About, Best Time to Visit, Markdown endpoints -->
+  <url>
+    <loc>https://aquaverse-park.com/about.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/blog/best-time-to-visit-aquaverse.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/index.md</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/tickets.md</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/faq.md</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/getting-there.md</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/tips.md</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aquaverse-park.com/attractions.md</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
