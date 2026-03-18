@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T06:48:58.972Z",
+  "lastUpdated": "2026-03-18T06:48:13.435Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
@@ -60,7 +60,7 @@
       "decimals": 0
     },
     "EUR": {
-      "rate": 0.0269,
+      "rate": 0.0268,
       "symbol": "€",
       "code": "EUR",
       "decimals": 0
@@ -84,13 +84,13 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.07,
+      "rate": 46.02,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.988,
+      "rate": 0.987,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -114,37 +114,37 @@
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.84,
+      "rate": 1.85,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 524,
+      "rate": 525,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 806,
+      "rate": 800,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.85,
+      "rate": 2.86,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.5,
+      "rate": 2.53,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0438,
+      "rate": 0.0436,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
