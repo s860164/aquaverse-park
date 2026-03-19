@@ -25,7 +25,7 @@ source: "Aquaverse Park Guide (https://aquaverse-park.com)"
 | Ticket Type | Gate Price | Online Price | What's Included |
 |---|---|---|---|
 | Standard Admission | THB 1,595 | **THB 1,176** | All water rides, wave pool, lazy river, locker |
-| All-Inclusive Package | -- | **THB 1,580** | All water rides + 200 THB food coupon + 1 surf session |
+| All-Inclusive Package | -- | **THB 1,587** | All water rides + 200 THB food coupon + 1 surf session |
 
 Children aged 0-2 enter free with all ticket types. Prices are per person.
 
@@ -45,7 +45,7 @@ Children aged 0-2 enter free with all ticket types. Prices are per person.
 - Free cancellation available
 - Skip the ticket queue
 
-### All-Inclusive Package -- THB 1,580
+### All-Inclusive Package -- THB 1,587
 - All water attractions included
 - 200 THB food & drink coupon
 - 1 FlowRider surf session
