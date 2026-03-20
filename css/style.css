@@ -374,6 +374,13 @@ p { margin-bottom: 1rem; }
   gap: 3rem;
   justify-content: center;
   flex-wrap: wrap;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-radius: 1rem;
+  padding: 1.2rem 2rem;
+  margin: 0 auto;
+  max-width: fit-content;
 }
 
 .hero-stat {
@@ -384,7 +391,8 @@ p { margin-bottom: 1rem; }
   font-size: 2rem;
   font-weight: 800;
   display: block;
-  color: var(--primary, #0891b2);
+  color: #ffffff;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }
 
 .hero-stat-label {
@@ -392,7 +400,8 @@ p { margin-bottom: 1rem; }
   opacity: 1;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #0c4a6e;
+  color: rgba(255, 255, 255, 0.85);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
 }
 
 /* Wave decoration */
@@ -573,18 +582,19 @@ p { margin-bottom: 1rem; }
 }
 
 .tldr-box li {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.5rem;
   font-size: 0.95rem;
+  padding-left: 1.5rem;
+  position: relative;
+  line-height: 1.6;
 }
 
 .tldr-box li::before {
   content: '\2713';
   color: var(--primary);
   font-weight: 700;
-  flex-shrink: 0;
-  margin-top: 0.1em;
+  position: absolute;
+  left: 0;
+  top: 0.1em;
 }
 
 /* ===== TWO COLUMN GRID ===== */
@@ -1967,6 +1977,23 @@ p { margin-bottom: 1rem; }
   padding: 8rem 0 3rem;
   color: white;
   text-align: center;
+  position: relative;
+}
+
+.page-header .breadcrumb li {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.page-header .breadcrumb li::after {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.page-header .breadcrumb a {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.page-header .breadcrumb a:hover {
+  color: white;
 }
 
 .page-header h1 {
