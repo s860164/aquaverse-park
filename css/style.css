@@ -1971,6 +1971,22 @@ p { margin-bottom: 1rem; }
   position: relative;
 }
 
+.page-header .breadcrumb li {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.page-header .breadcrumb li::after {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.page-header .breadcrumb a {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.page-header .breadcrumb a:hover {
+  color: white;
+}
+
 .page-header h1 {
   color: white;
   margin-bottom: 0.75rem;
