@@ -1967,6 +1967,7 @@ p { margin-bottom: 1rem; }
   padding: 8rem 0 3rem;
   color: white;
   text-align: center;
+  position: relative;
 }
 
 .page-header h1 {
