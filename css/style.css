@@ -481,6 +481,18 @@ p { margin-bottom: 1rem; }
   color: white;
 }
 
+/* btn-outline on light backgrounds (e.g. inside info-card) */
+.info-card .btn-outline {
+  color: var(--primary-dark);
+  border-color: var(--primary);
+}
+
+.info-card .btn-outline:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
 .btn-white {
   background: white;
   color: var(--primary-dark);
@@ -2331,43 +2343,6 @@ p { margin-bottom: 1rem; }
     0 0 40px rgba(255, 255, 255, 0.6);
 }
 
-/* FAQ Quick Navigation */
-.faq-quicknav {
-  background: var(--white);
-  border-bottom: 1px solid var(--gray-200);
-  padding: 1rem 0;
-  position: sticky;
-  top: 60px;
-  z-index: 90;
-}
-
-.faq-quicknav-list {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  justify-content: center;
-  padding: 0;
-  margin: 0;
-}
-
-.faq-quicknav-list a {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--gray-200);
-  border-radius: var(--radius-full);
-  color: var(--dark);
-  text-decoration: none;
-  font-size: 0.875rem;
-  font-weight: 500;
-  transition: all var(--transition);
-}
-
-.faq-quicknav-list a:hover {
-  background: var(--primary);
-  color: white;
-  border-color: var(--primary);
-}
 
 /* FAQ Section */
 .faq-section {
@@ -2504,15 +2479,6 @@ p { margin-bottom: 1rem; }
     font-size: 1.75rem;
   }
 
-  .faq-quicknav-list {
-    gap: 0.35rem;
-  }
-
-  .faq-quicknav-list a {
-    font-size: 0.8rem;
-    padding: 0.4rem 0.75rem;
-  }
-
   .accordion-btn {
     padding: 1rem 1.25rem;
     font-size: 0.95rem;
@@ -2526,7 +2492,7 @@ p { margin-bottom: 1rem; }
 
 /* Print styles */
 @media print {
-  .navbar, .footer, .sticky-bar, .cta-banner, .top-bar, .lang-bar, .faq-quicknav { display: none; }
+  .navbar, .footer, .sticky-bar, .cta-banner, .top-bar, .lang-bar { display: none; }
   body { font-size: 12pt; color: black; }
   a { color: black; }
 }
