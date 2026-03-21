@@ -61,7 +61,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Nunito:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css?v=2">
+  <link rel="stylesheet" href="/css/style.css">
 
   <!-- Schema.org: BreadcrumbList + FAQPage -->
   <script type="application/ld+json">
@@ -444,16 +444,24 @@
   <main id="main-content">
 
     <!-- Hero / Page Header -->
-    <section class="page-hero">
-      <div class="container">
+    <section class="hero hero-sm" role="banner">
+      <div class="container hero-content">
         <nav class="breadcrumb" aria-label="Breadcrumb">
-          <ol>
-            <li><a href="/ms/">Laman Utama</a></li>
-            <li aria-current="page">Soalan Lazim</li>
-          </ol>
+          <a href="/ms/">Laman Utama</a> <span aria-hidden="true">/</span>
+          <span aria-current="page">Soalan Lazim</span>
         </nav>
-        <h1 class="page-hero-title">Soalan Lazim</h1>
-        <p class="page-hero-desc">Semua yang perlu anda tahu sebelum melawat Columbia Pictures Aquaverse Pattaya — tiket, waktu, cara ke sana, pakaian, wahana, makanan, dan kemudahan.</p>
+        <h1>
+          Soalan Lazim
+          <span>Jawapan kepada semua soalan anda tentang Aquaverse</span>
+        </h1>
+        <p class="hero-sub">
+          Semua yang perlu anda tahu sebelum melawat Columbia Pictures Aquaverse Pattaya — tiket, waktu, cara ke sana, pakaian, wahana, makanan, dan kemudahan. Hubungi: <a href="tel:+66330049999" style="color: white; text-decoration: underline;">+66 (0) 33 004 999</a>
+        </p>
+      </div>
+      <div class="wave-divider">
+        <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+          <path d="M0 40C240 80 480 0 720 40C960 80 1200 0 1440 40V80H0V40Z" fill="white"/>
+        </svg>
       </div>
     </section>
 
@@ -463,12 +471,12 @@
         <div class="info-card" style="max-width: 700px; margin: 0 auto; text-align: center;">
           <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Pergi ke Kategori</h2>
           <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-            <a href="#tickets" class="btn btn-outline" style="font-size: 0.875rem;">Tiket &amp; Harga</a>
-            <a href="#hours" class="btn btn-outline" style="font-size: 0.875rem;">Waktu Operasi</a>
+            <a href="#tickets-pricing" class="btn btn-outline" style="font-size: 0.875rem;">Tiket &amp; Harga</a>
+            <a href="#hours-schedule" class="btn btn-outline" style="font-size: 0.875rem;">Waktu Operasi</a>
             <a href="#getting-there" class="btn btn-outline" style="font-size: 0.875rem;">Cara Ke Sana</a>
             <a href="#what-to-bring" class="btn btn-outline" style="font-size: 0.875rem;">Apa Perlu Dibawa</a>
-            <a href="#rides" class="btn btn-outline" style="font-size: 0.875rem;">Wahana &amp; Tarikan</a>
-            <a href="#food" class="btn btn-outline" style="font-size: 0.875rem;">Makanan &amp; Jamuan</a>
+            <a href="#rides-attractions" class="btn btn-outline" style="font-size: 0.875rem;">Wahana &amp; Tarikan</a>
+            <a href="#food-dining" class="btn btn-outline" style="font-size: 0.875rem;">Makanan &amp; Jamuan</a>
             <a href="#facilities" class="btn btn-outline" style="font-size: 0.875rem;">Kemudahan &amp; Perkhidmatan</a>
           </div>
         </div>
@@ -476,78 +484,96 @@
     </section>
 
     <!-- Section 1: Tiket & Harga -->
-    <section id="tickets" class="faq-section">
+    <section class="section" id="tickets-pricing" aria-label="Soalan tentang tiket dan harga">
       <div class="container">
-        <h2 class="section-title">Tiket &amp; Harga</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Tiket &amp; Harga</span>
+          <h2>Tiket &amp; Harga</h2>
+          <p>Maklumat tentang harga tiket, diskaun, dan cara pembelian tiket Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Berapakah harga tiket Aquaverse?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Berapakah harga tiket Aquaverse?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tiket Aquaverse dalam talian bermula dari <strong>THB 1,176</strong> (kira-kira MYR 150) untuk dewasa — penjimatan ~27% berbanding harga kaunter THB 1,595. Kanak-kanak di bawah 3 tahun masuk percuma.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tiket Aquaverse dalam talian bermula dari <strong>THB 1,176</strong> (kira-kira MYR 150) untuk dewasa — penjimatan ~27% berbanding harga kaunter THB 1,595. Kanak-kanak di bawah 3 tahun masuk percuma.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apakah perbezaan antara tiket dalam talian dan kaunter?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apakah perbezaan antara tiket dalam talian dan kaunter?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tiket dalam talian menawarkan <strong>diskaun ~27%</strong> berbanding kaunter. Selain menjimatkan wang, tempahan dalam talian membolehkan anda melangkau barisan dan mengesahkan tempat anda terlebih dahulu.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tiket dalam talian menawarkan <strong>diskaun ~27%</strong> berbanding kaunter. Selain menjimatkan wang, tempahan dalam talian membolehkan anda melangkau barisan dan mengesahkan tempat anda terlebih dahulu.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah terdapat diskaun untuk kanak-kanak atau warga emas?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah terdapat diskaun untuk kanak-kanak atau warga emas?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Kanak-kanak di bawah <strong>3 tahun masuk percuma</strong>. Terdapat harga kanak-kanak untuk umur 3–11 tahun. Hubungi taman untuk maklumat diskaun warga emas atau OKU.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Kanak-kanak di bawah <strong>3 tahun masuk percuma</strong>. Terdapat harga kanak-kanak untuk umur 3–11 tahun. Hubungi taman untuk maklumat diskaun warga emas atau OKU.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bolehkah saya membayar dengan kad kredit di taman?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bolehkah saya membayar dengan kad kredit di taman?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Taman menerima kad kredit dan debit utama. Walau bagaimanapun, pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong> — anda perlu mengecas kredit ke gelang tangan terlebih dahulu.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Taman menerima kad kredit dan debit utama. Walau bagaimanapun, pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong> — anda perlu mengecas kredit ke gelang tangan terlebih dahulu.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apakah dasar pembatalan?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apakah dasar pembatalan?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tiket dalam talian yang dibeli melalui Klook biasanya boleh <strong>dibatalkan secara percuma</strong> dalam tempoh tertentu. Semak terma pembatalan semasa membuat tempahan untuk maklumat lanjut.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tiket dalam talian yang dibeli melalui Klook biasanya boleh <strong>dibatalkan secara percuma</strong> dalam tempoh tertentu. Semak terma pembatalan semasa membuat tempahan untuk maklumat lanjut.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Di mana saya boleh mendapatkan tawaran tiket terbaik?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Di mana saya boleh mendapatkan tawaran tiket terbaik?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tawaran terbaik boleh didapati melalui platform tempahan dalam talian yang sah seperti <strong>Klook</strong>. Elakkan membeli dari penjual tidak rasmi untuk mengelakkan penipuan.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tawaran terbaik boleh didapati melalui platform tempahan dalam talian yang sah seperti <strong>Klook</strong>. Elakkan membeli dari penjual tidak rasmi untuk mengelakkan penipuan.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apakah yang termasuk dalam tiket masuk?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apakah yang termasuk dalam tiket masuk?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tiket masuk merangkumi akses kepada semua wahana dan tarikan air, sewa loker asas, dan akses ke kawasan taman. <strong>Makanan, kredit gelang tangan RFID, dan perkhidmatan premium</strong> adalah berasingan.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tiket masuk merangkumi akses kepada semua wahana dan tarikan air, sewa loker asas, dan akses ke kawasan taman. <strong>Makanan, kredit gelang tangan RFID, dan perkhidmatan premium</strong> adalah berasingan.</p>
+              </div>
             </div>
           </div>
 
@@ -556,58 +582,72 @@
     </section>
 
     <!-- Section 2: Waktu Operasi & Jadual -->
-    <section id="hours" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="hours-schedule" aria-label="Soalan tentang waktu operasi">
       <div class="container">
-        <h2 class="section-title">Waktu Operasi &amp; Jadual</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Waktu Operasi &amp; Jadual</span>
+          <h2>Waktu Operasi &amp; Jadual</h2>
+          <p>Maklumat tentang waktu operasi dan masa terbaik untuk melawat Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apakah waktu operasi Aquaverse?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apakah waktu operasi Aquaverse?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Taman beroperasi setiap hari dari <strong>pukul 10 pagi hingga 6 petang</strong> (kecuali hari Rabu). Kemasukan terakhir pada pukul 5 petang, dan semua wahana berhenti beroperasi pada pukul 5.30 petang.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Taman beroperasi setiap hari dari <strong>pukul 10 pagi hingga 6 petang</strong> (kecuali hari Rabu). Kemasukan terakhir pada pukul 5 petang, dan semua wahana berhenti beroperasi pada pukul 5.30 petang.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah taman dibuka pada hari Rabu?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah taman dibuka pada hari Rabu?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tidak. Aquaverse <strong>ditutup setiap hari Rabu</strong> untuk penyelenggaraan berjadual. Sila merancang lawatan anda pada hari-hari lain dalam seminggu.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tidak. Aquaverse <strong>ditutup setiap hari Rabu</strong> untuk penyelenggaraan berjadual. Sila merancang lawatan anda pada hari-hari lain dalam seminggu.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah terdapat musim puncak?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah terdapat musim puncak?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Taman beroperasi sepanjang tahun (kecuali hari Rabu). Semasa musim puncak (cuti umum Thailand, Krismas, Tahun Baru), acara khas mungkin diadakan. Semak media sosial rasmi sebelum melawat.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Taman beroperasi sepanjang tahun (kecuali hari Rabu). Semasa musim puncak (cuti umum Thailand, Krismas, Tahun Baru), acara khas mungkin diadakan. Semak media sosial rasmi sebelum melawat.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah taman beroperasi semasa hujan?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah taman beroperasi semasa hujan?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Taman beroperasi semasa hujan ringan, tetapi wahana luar mungkin <strong>ditutup sementara semasa ribut petir</strong> atau hujan lebat bagi tujuan keselamatan. Jika taman ditutup awal akibat cuaca, pampasan mungkin diberikan.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Taman beroperasi semasa hujan ringan, tetapi wahana luar mungkin <strong>ditutup sementara semasa ribut petir</strong> atau hujan lebat bagi tujuan keselamatan. Jika taman ditutup awal akibat cuaca, pampasan mungkin diberikan.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apakah masa terbaik untuk melawat?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apakah masa terbaik untuk melawat?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Hari bekerja pada waktu pagi (<strong>10 pagi – 12 tengah hari</strong>) adalah paling tenang. Hujung minggu dan cuti umum Thailand lebih sesak, terutama selepas tengah hari. Tempah tiket dalam talian untuk mengelakkan beratur panjang di kaunter.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Hari bekerja pada waktu pagi (<strong>10 pagi – 12 tengah hari</strong>) adalah paling tenang. Hujung minggu dan cuti umum Thailand lebih sesak, terutama selepas tengah hari. Tempah tiket dalam talian untuk mengelakkan beratur panjang di kaunter.</p>
+              </div>
             </div>
           </div>
 
@@ -616,58 +656,72 @@
     </section>
 
     <!-- Section 3: Cara Ke Sana & Parking -->
-    <section id="getting-there" class="faq-section">
+    <section class="section" id="getting-there" aria-label="Soalan tentang cara ke sana">
       <div class="container">
-        <h2 class="section-title">Cara Ke Sana &amp; Parking</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Cara Ke Sana &amp; Parking</span>
+          <h2>Cara Ke Sana &amp; Parking</h2>
+          <p>Panduan perjalanan ke Aquaverse dari Bangkok dan Pattaya.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Di manakah Aquaverse terletak?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Di manakah Aquaverse terletak?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Columbia Pictures Aquaverse terletak di Sattahip, Chon Buri, Thailand. Alamat: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Columbia Pictures Aquaverse terletak di Sattahip, Chon Buri, Thailand. Alamat: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bagaimana untuk pergi dari Bangkok?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bagaimana untuk pergi dari Bangkok?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Dari Bangkok (Lapangan Terbang Suvarnabhumi) mengambil masa kira-kira <strong>1.5–2 jam dengan kereta</strong> melalui Lebuhraya Ekspres Bangna-Trad (Laluan 7). Grab dan bas ulang-alik pelancongan juga tersedia.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Dari Bangkok (Lapangan Terbang Suvarnabhumi) mengambil masa kira-kira <strong>1.5–2 jam dengan kereta</strong> melalui Lebuhraya Ekspres Bangna-Trad (Laluan 7). Grab dan bas ulang-alik pelancongan juga tersedia.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Berapa jauh dari Pattaya?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Berapa jauh dari Pattaya?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Kira-kira <strong>25–35 minit dari pusat bandar Pattaya</strong> dengan kereta. Grab adalah pilihan paling mudah dari Pattaya. Sesetengah hotel di Pattaya juga menyediakan perkhidmatan ulang-alik ke Aquaverse.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Kira-kira <strong>25–35 minit dari pusat bandar Pattaya</strong> dengan kereta. Grab adalah pilihan paling mudah dari Pattaya. Sesetengah hotel di Pattaya juga menyediakan perkhidmatan ulang-alik ke Aquaverse.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah terdapat kemudahan parking?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah terdapat kemudahan parking?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Taman menyediakan <strong>parking percuma</strong> untuk kereta dan motosikal. Tiba awal semasa musim puncak kerana tempat parking mungkin penuh.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Taman menyediakan <strong>parking percuma</strong> untuk kereta dan motosikal. Tiba awal semasa musim puncak kerana tempat parking mungkin penuh.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bolehkah saya ke sana dengan pengangkutan awam?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bolehkah saya ke sana dengan pengangkutan awam?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tiada pengangkutan awam terus ke taman. Cara terbaik adalah menggunakan <strong>Grab</strong>, teksi, atau bas ulang-alik pelancongan dari Pattaya atau Bangkok.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tiada pengangkutan awam terus ke taman. Cara terbaik adalah menggunakan <strong>Grab</strong>, teksi, atau bas ulang-alik pelancongan dari Pattaya atau Bangkok.</p>
+              </div>
             </div>
           </div>
 
@@ -676,65 +730,79 @@
     </section>
 
     <!-- Section 4: Apa Perlu Dibawa & Pakai -->
-    <section id="what-to-bring" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="what-to-bring" aria-label="Soalan tentang apa perlu dibawa">
       <div class="container">
-        <h2 class="section-title">Apa Perlu Dibawa &amp; Pakai</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Apa Perlu Dibawa &amp; Pakai</span>
+          <h2>Apa Perlu Dibawa &amp; Pakai</h2>
+          <p>Senarai perkara yang perlu dibawa dan panduan pakaian untuk lawatan ke Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Pakaian renang apakah yang sesuai dipakai?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Pakaian renang apakah yang sesuai dipakai?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Pakaian renang standard digalakkan. Seluar jeans dan pakaian kapas mungkin tidak dibenarkan di sesetengah wahana. <strong>Baju rash guard</strong> dibenarkan di atas pakaian renang.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Pakaian renang standard digalakkan. Seluar jeans dan pakaian kapas mungkin tidak dibenarkan di sesetengah wahana. <strong>Baju rash guard</strong> dibenarkan di atas pakaian renang.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Kasut apa yang perlu saya pakai?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Kasut apa yang perlu saya pakai?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Sandal atau kasut air adalah pilihan terbaik. Anda boleh berjalan kaki tanpa alas di kawasan taman, tetapi kasut disyorkan untuk melindungi kaki dari permukaan yang panas.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Sandal atau kasut air adalah pilihan terbaik. Anda boleh berjalan kaki tanpa alas di kawasan taman, tetapi kasut disyorkan untuk melindungi kaki dari permukaan yang panas.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apa yang perlu saya bawa?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apa yang perlu saya bawa?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <ul>
-                <li>Pakaian renang (bawa lebih satu pasang jika perlu)</li>
-                <li>Pelindung matahari (produk biodegradable digalakkan)</li>
-                <li>Tuala (boleh disewa di taman)</li>
-                <li>Beg kalis air atau beg zip-lock</li>
-                <li>Wang tunai atau kad kredit</li>
-                <li>ID jika diperlukan</li>
-              </ul>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <ul>
+                  <li>Pakaian renang (bawa lebih satu pasang jika perlu)</li>
+                  <li>Pelindung matahari (produk biodegradable digalakkan)</li>
+                  <li>Tuala (boleh disewa di taman)</li>
+                  <li>Beg kalis air atau beg zip-lock</li>
+                  <li>Wang tunai atau kad kredit</li>
+                  <li>ID jika diperlukan</li>
+                </ul>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bolehkah saya membawa makanan dan minuman sendiri?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bolehkah saya membawa makanan dan minuman sendiri?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Makanan dan minuman dari luar <strong>tidak dibenarkan</strong> masuk ke dalam taman. Foodville food court menawarkan pelbagai pilihan makanan dan minuman. Botol air peribadi yang kosong dibenarkan.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Makanan dan minuman dari luar <strong>tidak dibenarkan</strong> masuk ke dalam taman. Foodville food court menawarkan pelbagai pilihan makanan dan minuman. Botol air peribadi yang kosong dibenarkan.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bagaimana untuk menyimpan barang berharga?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bagaimana untuk menyimpan barang berharga?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Loker berbayar tersedia di seluruh taman. Gunakan loker semasa menaiki wahana. <strong>Taman tidak bertanggungjawab atas kehilangan barang peribadi</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Loker berbayar tersedia di seluruh taman. Gunakan loker semasa menaiki wahana. <strong>Taman tidak bertanggungjawab atas kehilangan barang peribadi</strong>.</p>
+              </div>
             </div>
           </div>
 
@@ -743,58 +811,72 @@
     </section>
 
     <!-- Section 5: Wahana & Tarikan -->
-    <section id="rides" class="faq-section">
+    <section class="section" id="rides-attractions" aria-label="Soalan tentang wahana dan tarikan">
       <div class="container">
-        <h2 class="section-title">Wahana &amp; Tarikan</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Wahana &amp; Tarikan</span>
+          <h2>Wahana &amp; Tarikan</h2>
+          <p>Temui pelbagai wahana air dan tarikan menarik di Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Apakah wahana dan tarikan yang ada?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Apakah wahana dan tarikan yang ada?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Taman menawarkan pelbagai wahana air bertema Columbia Pictures termasuk Ghostbusters, Jumanji, Bad Boys, Hotel Transylvania, dan lain-lain. Terdapat juga <strong>kolam ombak</strong>, sungai malas, dan kawasan kanak-kanak.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Taman menawarkan pelbagai wahana air bertema Columbia Pictures termasuk Ghostbusters, Jumanji, Bad Boys, Hotel Transylvania, dan lain-lain. Terdapat juga <strong>kolam ombak</strong>, sungai malas, dan kawasan kanak-kanak.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah had ketinggian untuk wahana?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah had ketinggian untuk wahana?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Kebanyakan wahana utama memerlukan ketinggian minimum <strong>120 cm</strong>. Sesetengah wahana memerlukan 105 cm. Kawasan kanak-kanak tidak mempunyai had ketinggian. Semak papan tanda di setiap wahana.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Kebanyakan wahana utama memerlukan ketinggian minimum <strong>120 cm</strong>. Sesetengah wahana memerlukan 105 cm. Kawasan kanak-kanak tidak mempunyai had ketinggian. Semak papan tanda di setiap wahana.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bolehkah wanita hamil menaiki wahana?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bolehkah wanita hamil menaiki wahana?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Wanita hamil <strong>tidak digalakkan menaiki kebanyakan wahana air</strong> untuk tujuan keselamatan. Sila berunding dengan doktor anda sebelum melawat.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Wanita hamil <strong>tidak digalakkan menaiki kebanyakan wahana air</strong> untuk tujuan keselamatan. Sila berunding dengan doktor anda sebelum melawat.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Berapa lama masa menunggu untuk wahana?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Berapa lama masa menunggu untuk wahana?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Pada hari bekerja yang tenang, masa menunggu adalah <strong>10–20 minit</strong>. Pada hujung minggu atau musim puncak, wahana popular mungkin memerlukan 40–60 minit. Tiba antara 10–12 pagi untuk meminimumkan masa menunggu.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Pada hari bekerja yang tenang, masa menunggu adalah <strong>10–20 minit</strong>. Pada hujung minggu atau musim puncak, wahana popular mungkin memerlukan 40–60 minit. Tiba antara 10–12 pagi untuk meminimumkan masa menunggu.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah kemudahan untuk pelawat kurang upaya?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah kemudahan untuk pelawat kurang upaya?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Taman berusaha memastikan kebolehcapaian untuk semua pelawat. Sesetengah wahana mungkin mempunyai had berdasarkan keupayaan fizikal. Hubungi taman sebelum melawat untuk mendapatkan panduan terbaik.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Taman berusaha memastikan kebolehcapaian untuk semua pelawat. Sesetengah wahana mungkin mempunyai had berdasarkan keupayaan fizikal. Hubungi taman sebelum melawat untuk mendapatkan panduan terbaik.</p>
+              </div>
             </div>
           </div>
 
@@ -803,58 +885,72 @@
     </section>
 
     <!-- Section 6: Makanan & Jamuan -->
-    <section id="food" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="food-dining" aria-label="Soalan tentang makanan dan jamuan">
       <div class="container">
-        <h2 class="section-title">Makanan &amp; Jamuan</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Makanan &amp; Jamuan</span>
+          <h2>Makanan &amp; Jamuan</h2>
+          <p>Maklumat tentang pilihan makanan, cara pembayaran, dan harga di dalam taman.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah terdapat restoran atau tempat makan di taman?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah terdapat restoran atau tempat makan di taman?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. <strong>Foodville food court</strong> menawarkan pelbagai pilihan termasuk masakan Thai, makanan segera, snek, dan minuman. Gerai minuman dan snek juga tersebar di seluruh taman.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. <strong>Foodville food court</strong> menawarkan pelbagai pilihan termasuk masakan Thai, makanan segera, snek, dan minuman. Gerai minuman dan snek juga tersebar di seluruh taman.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bagaimana cara membayar makanan di taman?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bagaimana cara membayar makanan di taman?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Semua pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong>. Cas kredit ke gelang tangan anda semasa masuk dan gunakan untuk semua pembelian. Baki kredit dikembalikan semasa keluar.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Semua pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong>. Cas kredit ke gelang tangan anda semasa masuk dan gunakan untuk semua pembelian. Baki kredit dikembalikan semasa keluar.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah pilihan makanan vegetarian tersedia?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah pilihan makanan vegetarian tersedia?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Beberapa pilihan vegetarian tersedia di Foodville. Pilihan vegan mungkin terhad — tanya kakitangan untuk mendapatkan bantuan memilih makanan yang sesuai.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Beberapa pilihan vegetarian tersedia di Foodville. Pilihan vegan mungkin terhad — tanya kakitangan untuk mendapatkan bantuan memilih makanan yang sesuai.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bagaimana jika saya mempunyai alahan makanan?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bagaimana jika saya mempunyai alahan makanan?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Jika anda mempunyai alahan makanan, <strong>maklumkan kepada kakitangan</strong> semasa memesan. Taman mungkin tidak dapat menjamin kawalan penuh terhadap semua alergen — berhati-hati jika anda mempunyai alahan yang serius.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Jika anda mempunyai alahan makanan, <strong>maklumkan kepada kakitangan</strong> semasa memesan. Taman mungkin tidak dapat menjamin kawalan penuh terhadap semua alergen — berhati-hati jika anda mempunyai alahan yang serius.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Berapakah harga makanan di taman?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Berapakah harga makanan di taman?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Masakan Thai tempatan berharga <strong>80–150 THB</strong>, makanan barat dan fast food <strong>150–300 THB</strong>. Minuman berharga kira-kira <strong>50–120 THB</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Masakan Thai tempatan berharga <strong>80–150 THB</strong>, makanan barat dan fast food <strong>150–300 THB</strong>. Minuman berharga kira-kira <strong>50–120 THB</strong>.</p>
+              </div>
             </div>
           </div>
 
@@ -863,68 +959,84 @@
     </section>
 
     <!-- Section 7: Kemudahan & Perkhidmatan -->
-    <section id="facilities" class="faq-section">
+    <section class="section" id="facilities" aria-label="Soalan tentang kemudahan dan perkhidmatan">
       <div class="container">
-        <h2 class="section-title">Kemudahan &amp; Perkhidmatan</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Kemudahan &amp; Perkhidmatan</span>
+          <h2>Kemudahan &amp; Perkhidmatan</h2>
+          <p>Maklumat tentang kemudahan dan perkhidmatan yang tersedia di dalam taman.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah kemudahan bilik persalinan dan mandi tersedia?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah kemudahan bilik persalinan dan mandi tersedia?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Terdapat bilik persalinan dan pancuran mandi di seluruh taman. Sesetengah kemudahan premium adalah berbayar. Perkhidmatan <strong>sewa tuala</strong> juga tersedia.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Terdapat bilik persalinan dan pancuran mandi di seluruh taman. Sesetengah kemudahan premium adalah berbayar. Perkhidmatan <strong>sewa tuala</strong> juga tersedia.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah loker tersedia?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah loker tersedia?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Loker berbayar tersedia dalam pelbagai saiz (kecil, sederhana, besar). Loker boleh dikunci dan dibuka menggunakan <strong>gelang tangan RFID</strong> anda.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Loker berbayar tersedia dalam pelbagai saiz (kecil, sederhana, besar). Loker boleh dikunci dan dibuka menggunakan <strong>gelang tangan RFID</strong> anda.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah terdapat kemudahan perubatan di taman?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah terdapat kemudahan perubatan di taman?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Terdapat <strong>pusat pertolongan cemas</strong> di dalam taman dengan petugas terlatih. Pengawal keselamatan air bertugas di semua kawasan renang.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Terdapat <strong>pusat pertolongan cemas</strong> di dalam taman dengan petugas terlatih. Pengawal keselamatan air bertugas di semua kawasan renang.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah Wi-Fi percuma di taman?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah Wi-Fi percuma di taman?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Wi-Fi percuma tersedia di kawasan utama taman. Kualiti sambungan mungkin berbeza mengikut lokasi di dalam taman.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Wi-Fi percuma tersedia di kawasan utama taman. Kualiti sambungan mungkin berbeza mengikut lokasi di dalam taman.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah terdapat kereta sorong atau kerusi roda untuk disewa?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah terdapat kereta sorong atau kerusi roda untuk disewa?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Perkhidmatan sewa kereta sorong bayi dan kerusi roda tersedia. Tanya di kaunter perkhidmatan di pintu masuk taman. Bilangan adalah terhad — tiba awal untuk mendapatkannya.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Perkhidmatan sewa kereta sorong bayi dan kerusi roda tersedia. Tanya di kaunter perkhidmatan di pintu masuk taman. Bilangan adalah terhad — tiba awal untuk mendapatkannya.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Adakah perkhidmatan fotografi tersedia?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Adakah perkhidmatan fotografi tersedia?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ya. Sesetengah wahana mempunyai perkhidmatan tangkapan foto automatik yang boleh dibeli selepas wahana. Kamera peribadi dibenarkan tetapi perlu disimpan dalam sarung kalis air — kamera mungkin dilarang di sesetengah wahana.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ya. Sesetengah wahana mempunyai perkhidmatan tangkapan foto automatik yang boleh dibeli selepas wahana. Kamera peribadi dibenarkan tetapi perlu disimpan dalam sarung kalis air — kamera mungkin dilarang di sesetengah wahana.</p>
+              </div>
             </div>
           </div>
 
