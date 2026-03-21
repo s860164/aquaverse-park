@@ -122,6 +122,31 @@
     });
   });
 
+  // ===== Accordion (translated FAQ pages) =====
+  document.querySelectorAll('.accordion-btn').forEach(button => {
+    button.addEventListener('click', () => {
+      const item = button.closest('.accordion-item');
+      const content = item.querySelector('.accordion-content');
+      const isActive = item.classList.contains('active');
+
+      // Close all others
+      document.querySelectorAll('.accordion-item.active').forEach(activeItem => {
+        if (activeItem !== item) {
+          activeItem.classList.remove('active');
+          activeItem.querySelector('.accordion-content').style.maxHeight = '0';
+        }
+      });
+
+      // Toggle current
+      item.classList.toggle('active');
+      if (!isActive) {
+        content.style.maxHeight = content.scrollHeight + 'px';
+      } else {
+        content.style.maxHeight = '0';
+      }
+    });
+  });
+
   // ===== Fade-in on scroll =====
   const fadeEls = document.querySelectorAll('.fade-in');
 
