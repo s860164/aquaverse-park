@@ -361,29 +361,54 @@
 </head>
 <body>
 
-  <!-- Language Bar -->
-  <div class="lang-bar">
-    <div class="container lang-bar-inner">
-      <div class="lang-list">
-        <a href="/faq.html" hreflang="en">English</a>
-        <a href="/de/faq.html" hreflang="de">Deutsch</a>
-        <a href="/fr/faq.html" hreflang="fr">Français</a>
-        <a href="/hi/faq.html" hreflang="hi">हिंदी</a>
-        <a href="/ja/faq.html" hreflang="ja">日本語</a>
-        <a href="/ko/faq.html" hreflang="ko">한국어</a>
-        <span class="lang-current" aria-current="true">Bahasa Melayu</span>
-        <a href="/lo/faq.html" hreflang="lo">ລາວ</a>
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div class="container top-bar-inner">
+      <div class="selector" id="langSelector">
+        <button class="selector-btn" aria-expanded="false" aria-haspopup="listbox">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10A15.3 15.3 0 0112 2z"/></svg>
+          <span class="current-lang-label">Bahasa Melayu</span>
+          <svg class="chevron" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="selector-dropdown" role="listbox" id="langMenu">
+          <a href="/" lang="en" role="option">English</a>
+          <a href="/zh-CN/" lang="zh-CN" role="option">简体中文</a>
+          <a href="/zh-TW/" lang="zh-TW" role="option">繁體中文</a>
+          <a href="/ja/" lang="ja" role="option">日本語</a>
+          <a href="/ko/" lang="ko" role="option">한국어</a>
+          <a href="/ru/" lang="ru" role="option">Русский</a>
+          <a href="/hi/" lang="hi" role="option">हिन्दी</a>
+          <a href="/ms/" lang="ms" role="option">Bahasa Melayu</a>
+          <a href="/vi/" lang="vi" role="option">Tiếng Việt</a>
+          <a href="/de/" lang="de" role="option">Deutsch</a>
+          <a href="/fr/" lang="fr" role="option">Français</a>
+          <a href="/lo/" lang="lo" role="option">ລາວ</a>
+        </div>
       </div>
-      <div class="currency-selector">
-        <select aria-label="Pilih mata wang" id="currencySelect">
-          <option value="THB">THB ฿</option>
-          <option value="MYR">MYR RM</option>
-          <option value="USD">USD $</option>
-          <option value="EUR">EUR €</option>
-          <option value="GBP">GBP £</option>
-          <option value="AUD">AUD A$</option>
-          <option value="SGD">SGD S$</option>
-        </select>
+      <div class="selector" id="currencySelector">
+        <button class="selector-btn" aria-expanded="false" aria-haspopup="listbox">
+          <span class="current-currency-label">THB ฿</span>
+          <svg class="chevron" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="selector-dropdown" role="listbox" id="currencyMenu">
+          <button data-currency="THB" class="active" role="option">THB ฿ Thai Baht</button>
+          <button data-currency="USD" role="option">USD $ US Dollar</button>
+          <button data-currency="EUR" role="option">EUR € Euro</button>
+          <button data-currency="GBP" role="option">GBP £ British Pound</button>
+          <button data-currency="JPY" role="option">JPY ¥ Japanese Yen</button>
+          <button data-currency="CNY" role="option">CNY ¥ Chinese Yuan</button>
+          <button data-currency="KRW" role="option">KRW ₩ Korean Won</button>
+          <button data-currency="TWD" role="option">TWD $ Taiwan Dollar</button>
+          <button data-currency="HKD" role="option">HKD $ Hong Kong Dollar</button>
+          <button data-currency="SGD" role="option">SGD $ Singapore Dollar</button>
+          <button data-currency="MYR" role="option">MYR RM Malaysian Ringgit</button>
+          <button data-currency="PHP" role="option">PHP ₱ Philippine Peso</button>
+          <button data-currency="IDR" role="option">IDR Rp Indonesian Rupiah</button>
+          <button data-currency="VND" role="option">VND ₫ Vietnamese Dong</button>
+          <button data-currency="INR" role="option">INR ₹ Indian Rupee</button>
+          <button data-currency="RUB" role="option">RUB ₽ Russian Ruble</button>
+          <button data-currency="AUD" role="option">AUD $ Australian Dollar</button>
+        </div>
       </div>
     </div>
   </div>
@@ -433,19 +458,22 @@
     </section>
 
     <!-- Quick Jump Navigation -->
-    <nav class="faq-quicknav" aria-label="Navigasi bahagian FAQ">
+    <section class="section-sm" aria-label="Kategori FAQ">
       <div class="container">
-        <ul class="faq-quicknav-list">
-          <li><a href="#tickets">Tiket &amp; Harga</a></li>
-          <li><a href="#hours">Waktu Operasi</a></li>
-          <li><a href="#getting-there">Cara Ke Sana</a></li>
-          <li><a href="#what-to-bring">Apa Perlu Dibawa</a></li>
-          <li><a href="#rides">Wahana &amp; Tarikan</a></li>
-          <li><a href="#food">Makanan &amp; Jamuan</a></li>
-          <li><a href="#facilities">Kemudahan &amp; Perkhidmatan</a></li>
-        </ul>
+        <div class="info-card" style="max-width: 700px; margin: 0 auto; text-align: center;">
+          <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Pergi ke Kategori</h2>
+          <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+            <a href="#tickets" class="btn btn-outline" style="font-size: 0.875rem;">Tiket &amp; Harga</a>
+            <a href="#hours" class="btn btn-outline" style="font-size: 0.875rem;">Waktu Operasi</a>
+            <a href="#getting-there" class="btn btn-outline" style="font-size: 0.875rem;">Cara Ke Sana</a>
+            <a href="#what-to-bring" class="btn btn-outline" style="font-size: 0.875rem;">Apa Perlu Dibawa</a>
+            <a href="#rides" class="btn btn-outline" style="font-size: 0.875rem;">Wahana &amp; Tarikan</a>
+            <a href="#food" class="btn btn-outline" style="font-size: 0.875rem;">Makanan &amp; Jamuan</a>
+            <a href="#facilities" class="btn btn-outline" style="font-size: 0.875rem;">Kemudahan &amp; Perkhidmatan</a>
+          </div>
+        </div>
       </div>
-    </nav>
+    </section>
 
     <!-- Section 1: Tiket & Harga -->
     <section id="tickets" class="faq-section">
