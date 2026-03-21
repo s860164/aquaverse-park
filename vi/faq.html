@@ -65,7 +65,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Nunito:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css?v=2">
+  <link rel="stylesheet" href="/css/style.css">
 
   <!-- Schema.org: BreadcrumbList + FAQPage -->
   <script type="application/ld+json">
@@ -448,16 +448,24 @@
   <main id="main-content">
 
     <!-- Hero / Page Header -->
-    <section class="page-hero">
-      <div class="container">
+    <section class="hero hero-sm" role="banner">
+      <div class="container hero-content">
         <nav class="breadcrumb" aria-label="Breadcrumb">
-          <ol>
-            <li><a href="/vi/">Trang Chủ</a></li>
-            <li aria-current="page">Câu Hỏi Thường Gặp</li>
-          </ol>
+          <a href="/vi/">Trang Chủ</a> <span aria-hidden="true">/</span>
+          <span aria-current="page">Câu Hỏi Thường Gặp</span>
         </nav>
-        <h1 class="page-hero-title">Câu Hỏi Thường Gặp</h1>
-        <p class="page-hero-desc">Tất cả những gì bạn cần biết trước khi đến Columbia Pictures Aquaverse Pattaya — vé, giờ mở cửa, cách đến, mang gì, trò chơi, ẩm thực và tiện ích.</p>
+        <h1>
+          Câu Hỏi Thường Gặp
+          <span>Giải đáp mọi thắc mắc về chuyến thăm Aquaverse</span>
+        </h1>
+        <p class="hero-sub">
+          Tất cả những gì bạn cần biết trước khi đến Columbia Pictures Aquaverse Pattaya — vé, giờ mở cửa, cách đến, mang gì, trò chơi, ẩm thực và tiện ích. Liên hệ: <a href="tel:+66330049999" style="color: white; text-decoration: underline;">+66 (0) 33 004 999</a>
+        </p>
+      </div>
+      <div class="wave-divider">
+        <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+          <path d="M0 40C240 80 480 0 720 40C960 80 1200 0 1440 40V80H0V40Z" fill="white"/>
+        </svg>
       </div>
     </section>
 
@@ -467,12 +475,12 @@
         <div class="info-card" style="max-width: 700px; margin: 0 auto; text-align: center;">
           <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Chuyển đến Danh Mục</h2>
           <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-            <a href="#tickets" class="btn btn-outline" style="font-size: 0.875rem;">Vé &amp; Giá</a>
-            <a href="#hours" class="btn btn-outline" style="font-size: 0.875rem;">Giờ Mở Cửa</a>
+            <a href="#tickets-pricing" class="btn btn-outline" style="font-size: 0.875rem;">Vé &amp; Giá</a>
+            <a href="#hours-schedule" class="btn btn-outline" style="font-size: 0.875rem;">Giờ Mở Cửa</a>
             <a href="#getting-there" class="btn btn-outline" style="font-size: 0.875rem;">Cách Đến</a>
             <a href="#what-to-bring" class="btn btn-outline" style="font-size: 0.875rem;">Mang Gì</a>
-            <a href="#rides" class="btn btn-outline" style="font-size: 0.875rem;">Trò Chơi</a>
-            <a href="#food" class="btn btn-outline" style="font-size: 0.875rem;">Ẩm Thực</a>
+            <a href="#rides-attractions" class="btn btn-outline" style="font-size: 0.875rem;">Trò Chơi</a>
+            <a href="#food-dining" class="btn btn-outline" style="font-size: 0.875rem;">Ẩm Thực</a>
             <a href="#facilities" class="btn btn-outline" style="font-size: 0.875rem;">Tiện Ích</a>
           </div>
         </div>
@@ -480,78 +488,96 @@
     </section>
 
     <!-- Section 1: Vé & Giá -->
-    <section id="tickets" class="faq-section">
+    <section class="section" id="tickets-pricing" aria-label="Câu hỏi về vé và giá cả">
       <div class="container">
-        <h2 class="section-title">Vé &amp; Giá Cả</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Vé &amp; Giá Cả</span>
+          <h2>Vé &amp; Giá Cả</h2>
+          <p>Thông tin về giá vé, ưu đãi và các loại vé Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Giá vé vào Aquaverse là bao nhiêu?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Giá vé vào Aquaverse là bao nhiêu?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Vé Aquaverse trực tuyến bắt đầu từ <strong>THB 1.176</strong> (khoảng 830.000 VND) cho người lớn — tiết kiệm ~27% so với giá tại quầy THB 1.595. Trẻ em dưới 3 tuổi vào cửa <strong>miễn phí</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Vé Aquaverse trực tuyến bắt đầu từ <strong>THB 1.176</strong> (khoảng 830.000 VND) cho người lớn — tiết kiệm ~27% so với giá tại quầy THB 1.595. Trẻ em dưới 3 tuổi vào cửa <strong>miễn phí</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Vé trực tuyến và vé tại quầy khác nhau như thế nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Vé trực tuyến và vé tại quầy khác nhau như thế nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Vé trực tuyến giảm <strong>~27%</strong> so với giá tại quầy, đồng thời cho phép bỏ qua hàng chờ và đặt chỗ trước — rất tiện lợi vào cuối tuần và ngày lễ.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Vé trực tuyến giảm <strong>~27%</strong> so với giá tại quầy, đồng thời cho phép bỏ qua hàng chờ và đặt chỗ trước — rất tiện lợi vào cuối tuần và ngày lễ.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có giảm giá cho trẻ em hoặc người cao tuổi không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có giảm giá cho trẻ em hoặc người cao tuổi không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Trẻ em dưới <strong>3 tuổi vào cửa miễn phí</strong>. Trẻ từ 3–11 tuổi có giá vé trẻ em. Liên hệ công viên để hỏi về ưu đãi cho người cao tuổi hoặc người khuyết tật.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Trẻ em dưới <strong>3 tuổi vào cửa miễn phí</strong>. Trẻ từ 3–11 tuổi có giá vé trẻ em. Liên hệ công viên để hỏi về ưu đãi cho người cao tuổi hoặc người khuyết tật.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có thể thanh toán bằng thẻ ngân hàng trong công viên không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có thể thanh toán bằng thẻ ngân hàng trong công viên không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, công viên chấp nhận các loại thẻ chính. Tuy nhiên, mọi mua sắm trong công viên đều dùng <strong>hệ thống vòng đeo tay RFID</strong> — bạn cần nạp tiền vào vòng khi vào cổng, số dư được hoàn lại khi ra về.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, công viên chấp nhận các loại thẻ chính. Tuy nhiên, mọi mua sắm trong công viên đều dùng <strong>hệ thống vòng đeo tay RFID</strong> — bạn cần nạp tiền vào vòng khi vào cổng, số dư được hoàn lại khi ra về.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Chính sách hủy vé như thế nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Chính sách hủy vé như thế nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Vé mua qua Klook thường có thể <strong>hủy miễn phí</strong> trong thời gian quy định. Vui lòng kiểm tra điều khoản hủy khi đặt vé.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Vé mua qua Klook thường có thể <strong>hủy miễn phí</strong> trong thời gian quy định. Vui lòng kiểm tra điều khoản hủy khi đặt vé.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Mua vé ở đâu để được giá tốt nhất?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Mua vé ở đâu để được giá tốt nhất?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Giá tốt nhất có thể tìm thấy trên nền tảng đặt vé trực tuyến uy tín như <strong>Klook</strong>. Tránh mua vé từ người bán không chính thức để tránh bị lừa.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Giá tốt nhất có thể tìm thấy trên nền tảng đặt vé trực tuyến uy tín như <strong>Klook</strong>. Tránh mua vé từ người bán không chính thức để tránh bị lừa.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Vé bao gồm những gì?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Vé bao gồm những gì?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Vé vào cổng bao gồm quyền trải nghiệm tất cả trò chơi nước, thuê tủ đựng đồ cơ bản và đi lại trong toàn công viên. <strong>Ăn uống, nạp tiền vòng RFID và dịch vụ cao cấp</strong> tính phí riêng.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Vé vào cổng bao gồm quyền trải nghiệm tất cả trò chơi nước, thuê tủ đựng đồ cơ bản và đi lại trong toàn công viên. <strong>Ăn uống, nạp tiền vòng RFID và dịch vụ cao cấp</strong> tính phí riêng.</p>
+              </div>
             </div>
           </div>
 
@@ -560,58 +586,72 @@
     </section>
 
     <!-- Section 2: Giờ Mở Cửa -->
-    <section id="hours" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="hours-schedule" aria-label="Câu hỏi về giờ mở cửa">
       <div class="container">
-        <h2 class="section-title">Giờ Mở Cửa &amp; Lịch Trình</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Giờ Mở Cửa &amp; Lịch Trình</span>
+          <h2>Giờ Mở Cửa &amp; Lịch Trình</h2>
+          <p>Thông tin về giờ hoạt động và thời điểm tốt nhất để tham quan.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Giờ mở cửa của Aquaverse là mấy giờ?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Giờ mở cửa của Aquaverse là mấy giờ?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Công viên mở cửa hàng ngày từ <strong>10 giờ sáng đến 6 giờ chiều</strong> (trừ thứ Tư). Giờ vào cổng cuối là 5 giờ chiều, tất cả trò chơi dừng lúc 5 giờ 30 chiều.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Công viên mở cửa hàng ngày từ <strong>10 giờ sáng đến 6 giờ chiều</strong> (trừ thứ Tư). Giờ vào cổng cuối là 5 giờ chiều, tất cả trò chơi dừng lúc 5 giờ 30 chiều.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Thứ Tư có mở cửa không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Thứ Tư có mở cửa không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Không. Aquaverse <strong>đóng cửa mỗi thứ Tư</strong> để bảo trì định kỳ. Vui lòng chọn ngày khác trong tuần.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Không. Aquaverse <strong>đóng cửa mỗi thứ Tư</strong> để bảo trì định kỳ. Vui lòng chọn ngày khác trong tuần.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có mùa cao điểm và thấp điểm không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có mùa cao điểm và thấp điểm không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Công viên hoạt động quanh năm (trừ thứ Tư). Trong các dịp lễ Thái Lan, Giáng sinh, Tết Dương lịch có thể có sự kiện đặc biệt — theo dõi mạng xã hội chính thức để cập nhật thông tin.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Công viên hoạt động quanh năm (trừ thứ Tư). Trong các dịp lễ Thái Lan, Giáng sinh, Tết Dương lịch có thể có sự kiện đặc biệt — theo dõi mạng xã hội chính thức để cập nhật thông tin.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Công viên có mở cửa vào ngày mưa không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Công viên có mở cửa vào ngày mưa không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Mưa nhẹ vẫn hoạt động bình thường, nhưng khi có sấm sét hoặc mưa lớn <strong>một số trò chơi ngoài trời có thể tạm dừng</strong> để đảm bảo an toàn. Nếu đóng cửa sớm do thời tiết, khách có thể được bồi thường một phần.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Mưa nhẹ vẫn hoạt động bình thường, nhưng khi có sấm sét hoặc mưa lớn <strong>một số trò chơi ngoài trời có thể tạm dừng</strong> để đảm bảo an toàn. Nếu đóng cửa sớm do thời tiết, khách có thể được bồi thường một phần.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Thời điểm nào đến công viên là tốt nhất?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Thời điểm nào đến công viên là tốt nhất?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ngày thường buổi sáng (<strong>10–12 giờ</strong>) là lúc ít đông nhất. Cuối tuần và ngày lễ thường đông hơn, đặc biệt buổi chiều. Đặt vé trực tuyến để tránh xếp hàng tại quầy.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ngày thường buổi sáng (<strong>10–12 giờ</strong>) là lúc ít đông nhất. Cuối tuần và ngày lễ thường đông hơn, đặc biệt buổi chiều. Đặt vé trực tuyến để tránh xếp hàng tại quầy.</p>
+              </div>
             </div>
           </div>
 
@@ -620,58 +660,72 @@
     </section>
 
     <!-- Section 3: Cách Đến & Bãi Đỗ Xe -->
-    <section id="getting-there" class="faq-section">
+    <section class="section" id="getting-there" aria-label="Câu hỏi về cách đến">
       <div class="container">
-        <h2 class="section-title">Cách Đến &amp; Bãi Đỗ Xe</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Cách Đến &amp; Bãi Đỗ Xe</span>
+          <h2>Cách Đến &amp; Bãi Đỗ Xe</h2>
+          <p>Hướng dẫn di chuyển đến Aquaverse từ Bangkok và Pattaya.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Aquaverse ở đâu?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Aquaverse ở đâu?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Columbia Pictures Aquaverse tọa lạc tại Sattahip, Chon Buri, Thái Lan. Địa chỉ: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Columbia Pictures Aquaverse tọa lạc tại Sattahip, Chon Buri, Thái Lan. Địa chỉ: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Từ Bangkok đến như thế nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Từ Bangkok đến như thế nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Từ Bangkok (sân bay Suvarnabhumi) lái xe khoảng <strong>1,5–2 tiếng</strong> qua cao tốc Bangna-Trad (Quốc lộ 7). Cũng có thể đi Grab hoặc xe buýt du lịch.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Từ Bangkok (sân bay Suvarnabhumi) lái xe khoảng <strong>1,5–2 tiếng</strong> qua cao tốc Bangna-Trad (Quốc lộ 7). Cũng có thể đi Grab hoặc xe buýt du lịch.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Cách Pattaya bao xa?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Cách Pattaya bao xa?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Khoảng <strong>25–35 phút lái xe</strong> từ trung tâm Pattaya. Grab là lựa chọn thuận tiện nhất, một số khách sạn ở Pattaya cũng có xe đưa đón đến Aquaverse.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Khoảng <strong>25–35 phút lái xe</strong> từ trung tâm Pattaya. Grab là lựa chọn thuận tiện nhất, một số khách sạn ở Pattaya cũng có xe đưa đón đến Aquaverse.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có bãi đỗ xe không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có bãi đỗ xe không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, công viên có <strong>bãi đỗ xe miễn phí</strong> cho ô tô và xe máy. Vào mùa cao điểm hãy đến sớm để có chỗ đỗ.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, công viên có <strong>bãi đỗ xe miễn phí</strong> cho ô tô và xe máy. Vào mùa cao điểm hãy đến sớm để có chỗ đỗ.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có thể đi bằng phương tiện công cộng không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có thể đi bằng phương tiện công cộng không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Không có phương tiện công cộng đi thẳng đến đây. Nên dùng <strong>Grab</strong>, taxi hoặc xe buýt du lịch từ Pattaya hoặc Bangkok.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Không có phương tiện công cộng đi thẳng đến đây. Nên dùng <strong>Grab</strong>, taxi hoặc xe buýt du lịch từ Pattaya hoặc Bangkok.</p>
+              </div>
             </div>
           </div>
 
@@ -680,65 +734,79 @@
     </section>
 
     <!-- Section 4: Mang Gì & Mặc Gì -->
-    <section id="what-to-bring" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="what-to-bring" aria-label="Câu hỏi về đồ cần mang">
       <div class="container">
-        <h2 class="section-title">Mang Gì &amp; Mặc Gì</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Mang Gì &amp; Mặc Gì</span>
+          <h2>Mang Gì &amp; Mặc Gì</h2>
+          <p>Những gì cần chuẩn bị trước khi đến Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Nên mặc đồ bơi như thế nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Nên mặc đồ bơi như thế nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Khuyến nghị mặc đồ bơi tiêu chuẩn. Quần jeans và quần short cotton có thể không được phép ở một số trò chơi. Được phép mặc <strong>áo chống nắng (rash guard)</strong> bên ngoài đồ bơi.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Khuyến nghị mặc đồ bơi tiêu chuẩn. Quần jeans và quần short cotton có thể không được phép ở một số trò chơi. Được phép mặc <strong>áo chống nắng (rash guard)</strong> bên ngoài đồ bơi.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Nên đi giày gì?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Nên đi giày gì?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Giày nước hoặc dép lê là tốt nhất. Có thể đi chân trần trong công viên nhưng nên mang giày để bảo vệ chân khỏi nền nóng.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Giày nước hoặc dép lê là tốt nhất. Có thể đi chân trần trong công viên nhưng nên mang giày để bảo vệ chân khỏi nền nóng.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Cần mang theo những gì?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Cần mang theo những gì?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <ul>
-                <li>Đồ bơi (nên có thêm bộ dự phòng)</li>
-                <li>Kem chống nắng (ưu tiên loại phân hủy sinh học)</li>
-                <li>Khăn tắm (có thể thuê tại công viên)</li>
-                <li>Túi chống nước hoặc túi zip</li>
-                <li>Tiền mặt hoặc thẻ ngân hàng</li>
-                <li>Giấy tờ tùy thân khi cần</li>
-              </ul>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <ul>
+                  <li>Đồ bơi (nên có thêm bộ dự phòng)</li>
+                  <li>Kem chống nắng (ưu tiên loại phân hủy sinh học)</li>
+                  <li>Khăn tắm (có thể thuê tại công viên)</li>
+                  <li>Túi chống nước hoặc túi zip</li>
+                  <li>Tiền mặt hoặc thẻ ngân hàng</li>
+                  <li>Giấy tờ tùy thân khi cần</li>
+                </ul>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có thể mang thức ăn và đồ uống vào công viên không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có thể mang thức ăn và đồ uống vào công viên không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p><strong>Không</strong>, thức ăn và đồ uống từ ngoài không được mang vào. Khu ẩm thực Foodville cung cấp nhiều lựa chọn phong phú. Có thể mang bình nước cá nhân rỗng vào.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p><strong>Không</strong>, thức ăn và đồ uống từ ngoài không được mang vào. Khu ẩm thực Foodville cung cấp nhiều lựa chọn phong phú. Có thể mang bình nước cá nhân rỗng vào.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Bảo quản đồ vật có giá trị như thế nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Bảo quản đồ vật có giá trị như thế nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p><strong>Tủ khóa trả phí</strong> có mặt khắp công viên. Hãy cất đồ vật có giá trị vào tủ khi chơi trò chơi. Công viên không chịu trách nhiệm về tài sản bị mất.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p><strong>Tủ khóa trả phí</strong> có mặt khắp công viên. Hãy cất đồ vật có giá trị vào tủ khi chơi trò chơi. Công viên không chịu trách nhiệm về tài sản bị mất.</p>
+              </div>
             </div>
           </div>
 
@@ -747,58 +815,72 @@
     </section>
 
     <!-- Section 5: Trò Chơi & Điểm Tham Quan -->
-    <section id="rides" class="faq-section">
+    <section class="section" id="rides-attractions" aria-label="Câu hỏi về trò chơi và điểm tham quan">
       <div class="container">
-        <h2 class="section-title">Trò Chơi &amp; Điểm Tham Quan</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Trò Chơi &amp; Điểm Tham Quan</span>
+          <h2>Trò Chơi &amp; Điểm Tham Quan</h2>
+          <p>Khám phá các trò chơi nước và điểm tham quan tại Aquaverse.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Công viên có những trò chơi và điểm tham quan nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Công viên có những trò chơi và điểm tham quan nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Công viên có nhiều trò chơi nước theo chủ đề phim Columbia Pictures: Ghostbusters, Jumanji, Bad Boys, Hotel Transylvania và nhiều hơn nữa. Ngoài ra còn có <strong>hồ sóng</strong>, sông lười và khu vui chơi trẻ em.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Công viên có nhiều trò chơi nước theo chủ đề phim Columbia Pictures: Ghostbusters, Jumanji, Bad Boys, Hotel Transylvania và nhiều hơn nữa. Ngoài ra còn có <strong>hồ sóng</strong>, sông lười và khu vui chơi trẻ em.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có giới hạn chiều cao cho trò chơi không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có giới hạn chiều cao cho trò chơi không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có. Hầu hết các trò chơi chính yêu cầu chiều cao tối thiểu <strong>120 cm</strong>, một số trò yêu cầu 105 cm. Khu trẻ em không có giới hạn chiều cao. Xem biển báo ở mỗi trò chơi.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có. Hầu hết các trò chơi chính yêu cầu chiều cao tối thiểu <strong>120 cm</strong>, một số trò yêu cầu 105 cm. Khu trẻ em không có giới hạn chiều cao. Xem biển báo ở mỗi trò chơi.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Phụ nữ mang thai có chơi trò chơi nước được không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Phụ nữ mang thai có chơi trò chơi nước được không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p><strong>Phụ nữ mang thai không được khuyến cáo</strong> tham gia hầu hết các trò chơi nước. Vui lòng tham khảo ý kiến bác sĩ trước khi đến.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p><strong>Phụ nữ mang thai không được khuyến cáo</strong> tham gia hầu hết các trò chơi nước. Vui lòng tham khảo ý kiến bác sĩ trước khi đến.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Phải chờ xếp hàng bao lâu?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Phải chờ xếp hàng bao lâu?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Ngày thường ngoài mùa cao điểm chờ khoảng <strong>10–20 phút</strong>. Cuối tuần và ngày lễ các trò phổ biến có thể chờ 40–60 phút. Đến từ 10–12 giờ để xếp hàng ít nhất.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Ngày thường ngoài mùa cao điểm chờ khoảng <strong>10–20 phút</strong>. Cuối tuần và ngày lễ các trò phổ biến có thể chờ 40–60 phút. Đến từ 10–12 giờ để xếp hàng ít nhất.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Người khuyết tật có thể vào chơi không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Người khuyết tật có thể vào chơi không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Công viên nỗ lực đảm bảo khả năng tiếp cận cho tất cả khách. Một số trò chơi có thể có hạn chế. Liên hệ công viên trước khi đến để được tư vấn kế hoạch tham quan phù hợp.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Công viên nỗ lực đảm bảo khả năng tiếp cận cho tất cả khách. Một số trò chơi có thể có hạn chế. Liên hệ công viên trước khi đến để được tư vấn kế hoạch tham quan phù hợp.</p>
+              </div>
             </div>
           </div>
 
@@ -807,58 +889,72 @@
     </section>
 
     <!-- Section 6: Ẩm Thực & Đồ Uống -->
-    <section id="food" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="food-dining" aria-label="Câu hỏi về ẩm thực">
       <div class="container">
-        <h2 class="section-title">Ẩm Thực &amp; Đồ Uống</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Ẩm Thực &amp; Đồ Uống</span>
+          <h2>Ẩm Thực &amp; Đồ Uống</h2>
+          <p>Thông tin về nhà hàng, khu ẩm thực và thanh toán trong công viên.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có nhà hàng hay khu ẩm thực trong công viên không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có nhà hàng hay khu ẩm thực trong công viên không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, khu ẩm thực <strong>Foodville</strong> cung cấp đồ ăn Thái, đồ ăn nhanh, đồ ăn vặt và đồ uống. Các quầy ăn vặt và đồ uống rải rác khắp công viên.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, khu ẩm thực <strong>Foodville</strong> cung cấp đồ ăn Thái, đồ ăn nhanh, đồ ăn vặt và đồ uống. Các quầy ăn vặt và đồ uống rải rác khắp công viên.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Thanh toán ăn uống trong công viên như thế nào?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Thanh toán ăn uống trong công viên như thế nào?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Tất cả mua sắm trong công viên đều dùng <strong>vòng đeo tay RFID</strong>. Nạp tiền vào vòng khi vào cổng, chạm vòng để thanh toán, số dư được hoàn lại khi ra về.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Tất cả mua sắm trong công viên đều dùng <strong>vòng đeo tay RFID</strong>. Nạp tiền vào vòng khi vào cổng, chạm vòng để thanh toán, số dư được hoàn lại khi ra về.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có món chay hoặc thuần chay không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có món chay hoặc thuần chay không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Foodville có một số lựa chọn chay. Món thuần chay hạn chế hơn — hỏi nhân viên để được hỗ trợ tìm món phù hợp.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Foodville có một số lựa chọn chay. Món thuần chay hạn chế hơn — hỏi nhân viên để được hỗ trợ tìm món phù hợp.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Nếu bị dị ứng thực phẩm thì sao?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Nếu bị dị ứng thực phẩm thì sao?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Hãy thông báo cho nhân viên về dị ứng của bạn khi đặt món. Công viên không thể đảm bảo kiểm soát hoàn toàn các chất gây dị ứng — người có dị ứng nghiêm trọng cần đặc biệt chú ý.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Hãy thông báo cho nhân viên về dị ứng của bạn khi đặt món. Công viên không thể đảm bảo kiểm soát hoàn toàn các chất gây dị ứng — người có dị ứng nghiêm trọng cần đặc biệt chú ý.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Giá đồ ăn trong công viên khoảng bao nhiêu?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Giá đồ ăn trong công viên khoảng bao nhiêu?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Đồ ăn Thái địa phương khoảng <strong>80–150 THB</strong>, đồ Tây và đồ ăn nhanh khoảng <strong>150–300 THB</strong>. Đồ uống khoảng <strong>50–120 THB</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Đồ ăn Thái địa phương khoảng <strong>80–150 THB</strong>, đồ Tây và đồ ăn nhanh khoảng <strong>150–300 THB</strong>. Đồ uống khoảng <strong>50–120 THB</strong>.</p>
+              </div>
             </div>
           </div>
 
@@ -867,68 +963,84 @@
     </section>
 
     <!-- Section 7: Tiện Ích & Dịch Vụ -->
-    <section id="facilities" class="faq-section">
+    <section class="section" id="facilities" aria-label="Câu hỏi về tiện ích và dịch vụ">
       <div class="container">
-        <h2 class="section-title">Tiện Ích &amp; Dịch Vụ</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Tiện Ích &amp; Dịch Vụ</span>
+          <h2>Tiện Ích &amp; Dịch Vụ</h2>
+          <p>Thông tin về các tiện ích và dịch vụ có sẵn trong công viên.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có phòng thay đồ và phòng tắm không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có phòng thay đồ và phòng tắm không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, phòng thay đồ và phòng tắm có mặt khắp công viên. Một số phòng cao cấp tính phí. Cũng có dịch vụ <strong>thuê khăn tắm</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, phòng thay đồ và phòng tắm có mặt khắp công viên. Một số phòng cao cấp tính phí. Cũng có dịch vụ <strong>thuê khăn tắm</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có tủ đựng đồ không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có tủ đựng đồ không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, tủ đựng đồ trả phí với nhiều kích cỡ (nhỏ, vừa, lớn) có mặt khắp công viên, mở khóa bằng <strong>vòng tay RFID</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, tủ đựng đồ trả phí với nhiều kích cỡ (nhỏ, vừa, lớn) có mặt khắp công viên, mở khóa bằng <strong>vòng tay RFID</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có cơ sở y tế trong công viên không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có cơ sở y tế trong công viên không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, công viên có <strong>trạm sơ cứu</strong> với nhân viên được đào tạo. Nhân viên cứu hộ túc trực ở tất cả khu vực nước.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, công viên có <strong>trạm sơ cứu</strong> với nhân viên được đào tạo. Nhân viên cứu hộ túc trực ở tất cả khu vực nước.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có Wi-Fi miễn phí không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có Wi-Fi miễn phí không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Wi-Fi miễn phí có ở các khu vực chính trong công viên. Chất lượng kết nối có thể thay đổi tùy vị trí.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Wi-Fi miễn phí có ở các khu vực chính trong công viên. Chất lượng kết nối có thể thay đổi tùy vị trí.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có xe đẩy em bé hoặc xe lăn cho thuê không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có xe đẩy em bé hoặc xe lăn cho thuê không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có dịch vụ thuê xe đẩy em bé và xe lăn. Hỏi tại quầy dịch vụ ở cổng vào công viên. Số lượng có hạn — hãy đến sớm để đảm bảo có xe.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có dịch vụ thuê xe đẩy em bé và xe lăn. Hỏi tại quầy dịch vụ ở cổng vào công viên. Số lượng có hạn — hãy đến sớm để đảm bảo có xe.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Có dịch vụ chụp ảnh không?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Có dịch vụ chụp ảnh không?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Có, một số trò chơi có hệ thống chụp ảnh tự động — bạn có thể mua ảnh sau khi chơi. Máy ảnh cá nhân cần dùng trong túi chống nước; một số trò chơi không cho phép mang máy ảnh.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Có, một số trò chơi có hệ thống chụp ảnh tự động — bạn có thể mua ảnh sau khi chơi. Máy ảnh cá nhân cần dùng trong túi chống nước; một số trò chơi không cho phép mang máy ảnh.</p>
+              </div>
             </div>
           </div>
 

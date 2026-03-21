@@ -64,7 +64,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Nunito:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css?v=2">
+  <link rel="stylesheet" href="/css/style.css">
 
   <!-- Schema.org: BreadcrumbList + FAQPage -->
   <script type="application/ld+json">
@@ -446,19 +446,27 @@
 
   <main id="main-content">
 
-    <!-- Hero / Page Header -->
-    <section class="page-hero">
-      <div class="container">
-        <nav class="breadcrumb" aria-label="麵包屑導航">
-          <ol>
-            <li><a href="/zh-TW/">首頁</a></li>
-            <li aria-current="page">常見問題</li>
-          </ol>
-        </nav>
-        <h1 class="page-hero-title">常見問題</h1>
-        <p class="page-hero-desc">遊覽 Columbia Pictures Aquaverse 芭提雅前，您需要了解的一切——門票、開放時間、交通路線、攜帶物品、遊樂設施、美食及園內服務，全在這裡。</p>
-      </div>
-    </section>
+  <!-- Page Header -->
+  <section class="hero hero-sm" role="banner">
+    <div class="container hero-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/zh-TW/">首頁</a> <span aria-hidden="true">/</span>
+        <span aria-current="page">常見問題</span>
+      </nav>
+      <h1>
+        常見問題
+        <span>40+ 常見問題解答</span>
+      </h1>
+      <p class="hero-sub">
+        遊覽 Columbia Pictures Aquaverse 芭提雅前，您需要了解的一切。找不到答案？歡迎致電 <a href="tel:+66330049999" style="color: white; text-decoration: underline;">+66 (0) 33 004 999</a>。
+      </p>
+    </div>
+    <div class="wave-divider">
+      <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+        <path d="M0 40C240 80 480 0 720 40C960 80 1200 0 1440 40V80H0V40Z" fill="white"/>
+      </svg>
+    </div>
+  </section>
 
     <!-- Quick Jump Navigation -->
     <section class="section-sm" aria-label="常見問題分類">
@@ -466,91 +474,110 @@
         <div class="info-card" style="max-width: 700px; margin: 0 auto; text-align: center;">
           <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">跳至分類</h2>
           <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-            <a href="#tickets" class="btn btn-outline" style="font-size: 0.875rem;">門票 &amp; 價格</a>
-            <a href="#hours" class="btn btn-outline" style="font-size: 0.875rem;">開放時間</a>
+            <a href="#tickets-pricing" class="btn btn-outline" style="font-size: 0.875rem;">門票 &amp; 價格</a>
+            <a href="#hours-schedule" class="btn btn-outline" style="font-size: 0.875rem;">開放時間</a>
             <a href="#getting-there" class="btn btn-outline" style="font-size: 0.875rem;">交通 &amp; 停車</a>
             <a href="#what-to-bring" class="btn btn-outline" style="font-size: 0.875rem;">攜帶物品</a>
-            <a href="#rides" class="btn btn-outline" style="font-size: 0.875rem;">遊樂設施</a>
-            <a href="#food" class="btn btn-outline" style="font-size: 0.875rem;">餐飲</a>
+            <a href="#rides-attractions" class="btn btn-outline" style="font-size: 0.875rem;">遊樂設施</a>
+            <a href="#food-dining" class="btn btn-outline" style="font-size: 0.875rem;">餐飲</a>
             <a href="#facilities" class="btn btn-outline" style="font-size: 0.875rem;">設施 &amp; 服務</a>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Section 1: 門票 & 價格 -->
-    <section id="tickets" class="faq-section">
+    <!-- ========== 門票 & 價格 ========== -->
+    <section class="section" id="tickets-pricing" aria-label="門票與價格常見問題">
       <div class="container">
-        <h2 class="section-title">門票 &amp; 價格</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">門票 &amp; 價格</span>
+          <h2>門票 &amp; 價格</h2>
+          <p>門票費用、折扣與購票方式的所有資訊。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Aquaverse 門票多少錢？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Aquaverse 門票多少錢？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Aquaverse 線上門票成人價格從 <strong>THB 1,176</strong>（約 NTD 1,050）起，比現場購票價 THB 1,595 節省約 <strong>27%</strong>。3 歲以下兒童免費入園。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Aquaverse 線上門票成人價格從 <strong>THB 1,176</strong>（約 NTD 1,050）起，比現場購票價 THB 1,595 節省約 <strong>27%</strong>。3 歲以下兒童免費入園。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              線上購票與現場購票有什麼差別？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>線上購票與現場購票有什麼差別？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>線上購票可享約 <strong>27% 折扣</strong>，同時可跳過售票窗口排隊，提前鎖定名額，在週末及假日尤為方便。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>線上購票可享約 <strong>27% 折扣</strong>，同時可跳過售票窗口排隊，提前鎖定名額，在週末及假日尤為方便。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              兒童或老人有優惠票嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>兒童或老人有優惠票嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p><strong>3 歲以下兒童免費</strong>。3—11 歲兒童享有兒童票價格。老人或身障人士優惠請直接聯繫樂園洽詢。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p><strong>3 歲以下兒童免費</strong>。3—11 歲兒童享有兒童票價格。老人或身障人士優惠請直接聯繫樂園洽詢。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              樂園內可以刷信用卡嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>樂園內可以刷信用卡嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>可以，樂園接受主要信用卡及金融卡。但園內消費均透過 <strong>RFID 手環系統</strong>完成——入園時需先向手環儲值，離園時退還餘額。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>可以，樂園接受主要信用卡及金融卡。但園內消費均透過 <strong>RFID 手環系統</strong>完成——入園時需先向手環儲值，離園時退還餘額。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              門票可以退款嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>門票可以退款嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>透過 Klook 購買的線上門票通常可在規定期限內<strong>免費取消</strong>。請在預訂時查看具體退款條款。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>透過 Klook 購買的線上門票通常可在規定期限內<strong>免費取消</strong>。請在預訂時查看具體退款條款。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              哪裡可以買到最優惠的門票？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>哪裡可以買到最優惠的門票？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>最優惠的門票可透過 <strong>Klook</strong> 等正規線上平台購買，請避免向非官方管道購票，以防受騙。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>最優惠的門票可透過 <strong>Klook</strong> 等正規線上平台購買，請避免向非官方管道購票，以防受騙。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              門票包含哪些內容？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>門票包含哪些內容？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>門票包含所有水上遊樂設施的遊玩資格、基本置物櫃租用及全園區通行。<strong>餐飲、RFID 手環儲值及加值服務</strong>需另行付費。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>門票包含所有水上遊樂設施的遊玩資格、基本置物櫃租用及全園區通行。<strong>餐飲、RFID 手環儲值及加值服務</strong>需另行付費。</p>
+              </div>
             </div>
           </div>
 
@@ -558,59 +585,74 @@
       </div>
     </section>
 
-    <!-- Section 2: 開放時間 -->
-    <section id="hours" class="faq-section faq-section--alt">
+    <!-- ========== 開放時間 ========== -->
+    <section class="section section-gray" id="hours-schedule" aria-label="開放時間常見問題">
       <div class="container">
-        <h2 class="section-title">開放時間 &amp; 營業安排</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">開放時間</span>
+          <h2>開放時間 &amp; 營業安排</h2>
+          <p>樂園開放與休園時間，以及最佳遊覽時段。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Aquaverse 的開放時間是什麼？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Aquaverse 的開放時間是什麼？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>樂園每天<strong>上午 10 點至下午 6 點</strong>開放（週三休園）。最晚入園時間為下午 5 點，所有設施於下午 5 點 30 分停止運行。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>樂園每天<strong>上午 10 點至下午 6 點</strong>開放（週三休園）。最晚入園時間為下午 5 點，所有設施於下午 5 點 30 分停止運行。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              週三開放嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>週三開放嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>不開放。Aquaverse <strong>每週三休園</strong>，進行定期維護保養。請選擇其他日期前往遊玩。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>不開放。Aquaverse <strong>每週三休園</strong>，進行定期維護保養。請選擇其他日期前往遊玩。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有旺季和淡季之分嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有旺季和淡季之分嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>樂園全年開放（週三除外）。泰國法定假日、聖誕節、元旦等期間可能舉辦特別活動，出發前請關注官方社群媒體取得最新資訊。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>樂園全年開放（週三除外）。泰國法定假日、聖誕節、元旦等期間可能舉辦特別活動，出發前請關注官方社群媒體取得最新資訊。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              下雨天還有營業嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>下雨天還有營業嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>小雨天正常開放，但遇到雷雨或強降雨時，<strong>部分戶外設施可能臨時暫停</strong>以確保安全。因天氣提前閉園時，樂園會視情況提供相應補償。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>小雨天正常開放，但遇到雷雨或強降雨時，<strong>部分戶外設施可能臨時暫停</strong>以確保安全。因天氣提前閉園時，樂園會視情況提供相應補償。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              什麼時候去人最少？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>什麼時候去人最少？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>平日<strong>上午 10 點至 12 點</strong>是全天最清閒的時段。週末和泰國國定假日下午人潮最多。提前線上購票可跳過領票排隊。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>平日<strong>上午 10 點至 12 點</strong>是全天最清閒的時段。週末和泰國國定假日下午人潮最多。提前線上購票可跳過領票排隊。</p>
+              </div>
             </div>
           </div>
 
@@ -618,59 +660,74 @@
       </div>
     </section>
 
-    <!-- Section 3: 交通 & 停車 -->
-    <section id="getting-there" class="faq-section">
+    <!-- ========== 交通 & 停車 ========== -->
+    <section class="section" id="getting-there" aria-label="交通停車常見問題">
       <div class="container">
-        <h2 class="section-title">交通 &amp; 停車</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">交通 &amp; 停車</span>
+          <h2>交通 &amp; 停車</h2>
+          <p>如何從曼谷、芭提雅及各機場抵達 Aquaverse。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Aquaverse 在哪裡？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Aquaverse 在哪裡？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Columbia Pictures Aquaverse 位於泰國春武里府梭桃邑縣。地址：<strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Columbia Pictures Aquaverse 位於泰國春武里府梭桃邑縣。地址：<strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              從曼谷怎麼去？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>從曼谷怎麼去？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>從曼谷（蘇汪納蓬機場）自駕約需 <strong>1.5—2 小時</strong>，走邦納-達叻高速公路（7 號國道）。也可搭乘 Grab 專車或旅遊巴士前往。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>從曼谷（蘇汪納蓬機場）自駕約需 <strong>1.5—2 小時</strong>，走邦納-達叻高速公路（7 號國道）。也可搭乘 Grab 專車或旅遊巴士前往。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              距離芭提雅多遠？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>距離芭提雅多遠？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>距芭提雅市區約 <strong>25—35 分鐘車程</strong>。建議使用 Grab 叫車，部分芭提雅飯店也提供前往 Aquaverse 的接駁服務。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>距芭提雅市區約 <strong>25—35 分鐘車程</strong>。建議使用 Grab 叫車，部分芭提雅飯店也提供前往 Aquaverse 的接駁服務。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有停車場嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有停車場嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有，樂園提供<strong>免費停車場</strong>，轎車和機車均可停放。旺季時請提早到達，以免停車場已滿。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有，樂園提供<strong>免費停車場</strong>，轎車和機車均可停放。旺季時請提早到達，以免停車場已滿。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              能搭乘大眾運輸抵達嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>能搭乘大眾運輸抵達嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>目前無直達的大眾運輸。建議使用 <strong>Grab</strong> 叫車，或從芭提雅、曼谷搭乘旅遊巴士前往。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>目前無直達的大眾運輸。建議使用 <strong>Grab</strong> 叫車，或從芭提雅、曼谷搭乘旅遊巴士前往。</p>
+              </div>
             </div>
           </div>
 
@@ -678,66 +735,81 @@
       </div>
     </section>
 
-    <!-- Section 4: 攜帶物品 & 著裝 -->
-    <section id="what-to-bring" class="faq-section faq-section--alt">
+    <!-- ========== 攜帶物品 ========== -->
+    <section class="section section-gray" id="what-to-bring" aria-label="攜帶物品常見問題">
       <div class="container">
-        <h2 class="section-title">攜帶物品 &amp; 著裝建議</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">攜帶物品</span>
+          <h2>攜帶物品 &amp; 著裝建議</h2>
+          <p>著裝規定、必備物品清單與禁止攜帶物品。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              應該穿什麼泳裝？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>應該穿什麼泳裝？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>建議穿標準泳裝。部分設施不允許穿牛仔褲和棉質短褲。泳裝外可加穿<strong>防曬衣（拉什加德）</strong>。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>建議穿標準泳裝。部分設施不允許穿牛仔褲和棉質短褲。泳裝外可加穿<strong>防曬衣（拉什加德）</strong>。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              應該穿什麼鞋？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>應該穿什麼鞋？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>建議穿水鞋或涼拖鞋。園區內可以赤腳行走，但建議穿鞋以防被燙熱的地面燙傷腳底。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>建議穿水鞋或涼拖鞋。園區內可以赤腳行走，但建議穿鞋以防被燙熱的地面燙傷腳底。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              需要帶什麼？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>需要帶什麼？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <ul>
-                <li>泳裝（建議備用一套）</li>
-                <li>防曬乳（推薦可降解產品）</li>
-                <li>毛巾（園內可租借）</li>
-                <li>防水袋或夾鏈袋</li>
-                <li>現金或信用卡</li>
-                <li>證件（如需）</li>
-              </ul>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <ul>
+                  <li>泳裝（建議備用一套）</li>
+                  <li>防曬乳（推薦可降解產品）</li>
+                  <li>毛巾（園內可租借）</li>
+                  <li>防水袋或夾鏈袋</li>
+                  <li>現金或信用卡</li>
+                  <li>證件（如需）</li>
+                </ul>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              可以自帶食物和飲料入園嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>可以自帶食物和飲料入園嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p><strong>不可以</strong>，外帶食物和飲料不允許帶入園內。園內 Foodville 美食廣場提供豐富餐飲選擇。可攜帶個人空水壺入園。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p><strong>不可以</strong>，外帶食物和飲料不允許帶入園內。園內 Foodville 美食廣場提供豐富餐飲選擇。可攜帶個人空水壺入園。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              貴重物品怎麼保管？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>貴重物品怎麼保管？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>園內各處設有<strong>付費置物櫃</strong>，乘坐設施時請將貴重物品存入櫃中。樂園不對個人物品的遺失負責。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>園內各處設有<strong>付費置物櫃</strong>，乘坐設施時請將貴重物品存入櫃中。樂園不對個人物品的遺失負責。</p>
+              </div>
             </div>
           </div>
 
@@ -745,59 +817,74 @@
       </div>
     </section>
 
-    <!-- Section 5: 遊樂設施 -->
-    <section id="rides" class="faq-section">
+    <!-- ========== 遊樂設施 ========== -->
+    <section class="section" id="rides-attractions" aria-label="遊樂設施常見問題">
       <div class="container">
-        <h2 class="section-title">遊樂設施 &amp; 景點</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">遊樂設施</span>
+          <h2>遊樂設施 &amp; 景點</h2>
+          <p>身高限制、設施詳情與遊玩注意事項。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有哪些遊樂設施和景點？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有哪些遊樂設施和景點？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>樂園擁有以 Columbia Pictures 電影 IP 為主題的多種水上設施，包括捉鬼敢死隊、野蠻遊戲、絕地戰警、怪獸假期等主題區。此外還有<strong>造浪池</strong>、懶人河和兒童戲水區。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>樂園擁有以 Columbia Pictures 電影 IP 為主題的多種水上設施，包括捉鬼敢死隊、野蠻遊戲、絕地戰警、怪獸假期等主題區。此外還有<strong>造浪池</strong>、懶人河和兒童戲水區。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              設施有身高限制嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>設施有身高限制嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有。主要設施通常要求身高至少 <strong>120 公分</strong>，部分設施要求 105 公分。兒童區無身高限制。具體規定請查看各設施入口處的標示牌。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有。主要設施通常要求身高至少 <strong>120 公分</strong>，部分設施要求 105 公分。兒童區無身高限制。具體規定請查看各設施入口處的標示牌。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              孕婦可以玩水上設施嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>孕婦可以玩水上設施嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p><strong>不建議孕婦</strong>遊玩大多數水上設施。請在出發前諮詢醫生，園內部分非乘坐類景點仍可參觀。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p><strong>不建議孕婦</strong>遊玩大多數水上設施。請在出發前諮詢醫生，園內部分非乘坐類景點仍可參觀。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              各設施排隊要多久？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>各設施排隊要多久？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>非旺季平日排隊約 <strong>10—20 分鐘</strong>。週末及假日熱門設施可能需等候 40—60 分鐘。上午 10—12 點到園可有效縮短等待時間。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>非旺季平日排隊約 <strong>10—20 分鐘</strong>。週末及假日熱門設施可能需等候 40—60 分鐘。上午 10—12 點到園可有效縮短等待時間。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              身障人士可以遊玩嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>身障人士可以遊玩嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>樂園致力於為所有遊客提供無障礙體驗，但部分設施因安全原因可能有所限制。建議出發前聯繫樂園，以便提前規劃最佳遊覽方案。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>樂園致力於為所有遊客提供無障礙體驗，但部分設施因安全原因可能有所限制。建議出發前聯繫樂園，以便提前規劃最佳遊覽方案。</p>
+              </div>
             </div>
           </div>
 
@@ -805,59 +892,74 @@
       </div>
     </section>
 
-    <!-- Section 6: 餐飲 -->
-    <section id="food" class="faq-section faq-section--alt">
+    <!-- ========== 餐飲 ========== -->
+    <section class="section section-gray" id="food-dining" aria-label="餐飲常見問題">
       <div class="container">
-        <h2 class="section-title">餐飲</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">餐飲</span>
+          <h2>餐飲</h2>
+          <p>園內餐廳選擇、特殊飲食需求與付款方式。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              園內有餐廳或美食區嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>園內有餐廳或美食區嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有，<strong>Foodville 美食廣場</strong>提供泰式料理、速食、小吃及飲料，園內各處還設有小吃攤和飲品站。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有，<strong>Foodville 美食廣場</strong>提供泰式料理、速食、小吃及飲料，園內各處還設有小吃攤和飲品站。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              園內怎麼付款？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>園內怎麼付款？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>園內所有消費均透過 <strong>RFID 手環</strong>結帳。入園時先向手環儲值，消費時輕觸手環即可完成付款，離園時退還剩餘餘額。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>園內所有消費均透過 <strong>RFID 手環</strong>結帳。入園時先向手環儲值，消費時輕觸手環即可完成付款，離園時退還剩餘餘額。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有素食或純素選項嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有素食或純素選項嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Foodville 提供部分素食選項，純素選擇較少，可向工作人員詢問協助。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Foodville 提供部分素食選項，純素選擇較少，可向工作人員詢問協助。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              如果有食物過敏怎麼辦？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>如果有食物過敏怎麼辦？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>點餐時請告知工作人員您的過敏情況。樂園無法保證完全隔離所有過敏原，有嚴重過敏史的遊客請格外注意。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>點餐時請告知工作人員您的過敏情況。樂園無法保證完全隔離所有過敏原，有嚴重過敏史的遊客請格外注意。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              園內餐飲價格大概是多少？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>園內餐飲價格大概是多少？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>泰式在地料理約 <strong>80—150 泰銖</strong>，西餐和速食約 <strong>150—300 泰銖</strong>，飲品約 <strong>50—120 泰銖</strong>。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>泰式在地料理約 <strong>80—150 泰銖</strong>，西餐和速食約 <strong>150—300 泰銖</strong>，飲品約 <strong>50—120 泰銖</strong>。</p>
+              </div>
             </div>
           </div>
 
@@ -865,69 +967,86 @@
       </div>
     </section>
 
-    <!-- Section 7: 設施 & 服務 -->
-    <section id="facilities" class="faq-section">
+    <!-- ========== 設施 & 服務 ========== -->
+    <section class="section" id="facilities" aria-label="設施服務常見問題">
       <div class="container">
-        <h2 class="section-title">設施 &amp; 服務</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">設施 &amp; 服務</span>
+          <h2>設施 &amp; 服務</h2>
+          <p>Wi-Fi、急救設施、無障礙服務及其他園內設施。</p>
+        </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有更衣室和淋浴設施嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有更衣室和淋浴設施嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有，園內各處均設有更衣室和淋浴間，部分高級更衣室需付費使用。同時提供<strong>毛巾租借</strong>服務。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有，園內各處均設有更衣室和淋浴間，部分高級更衣室需付費使用。同時提供<strong>毛巾租借</strong>服務。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有置物櫃嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有置物櫃嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有，園內提供多種尺寸（小、中、大）的付費置物櫃，使用 <strong>RFID 手環</strong>即可開鎖和關鎖。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有，園內提供多種尺寸（小、中、大）的付費置物櫃，使用 <strong>RFID 手環</strong>即可開鎖和關鎖。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              園內有醫療設施嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>園內有醫療設施嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有，園內設有<strong>急救中心</strong>，配備專業急救人員，所有水上區域均有救生員值勤。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有，園內設有<strong>急救中心</strong>，配備專業急救人員，所有水上區域均有救生員值勤。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              園內有免費 Wi-Fi 嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>園內有免費 Wi-Fi 嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>主要區域提供免費 Wi-Fi，訊號品質因位置而異。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>主要區域提供免費 Wi-Fi，訊號品質因位置而異。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有嬰兒車或輪椅租借嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有嬰兒車或輪椅租借嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>提供嬰兒車和輪椅租借服務，請在園區入口服務台洽詢。數量有限，建議提早到達以確保可以租到。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>提供嬰兒車和輪椅租借服務，請在園區入口服務台洽詢。數量有限，建議提早到達以確保可以租到。</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              有拍照服務嗎？
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>有拍照服務嗎？</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>有，部分設施設有自動拍照系統，乘坐結束後可購買照片留念。個人相機須使用防水保護殼；部分設施禁止攜帶相機。</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>有，部分設施設有自動拍照系統，乘坐結束後可購買照片留念。個人相機須使用防水保護殼；部分設施禁止攜帶相機。</p>
+              </div>
             </div>
           </div>
 

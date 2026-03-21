@@ -62,7 +62,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Nunito:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css?v=2">
+  <link rel="stylesheet" href="/css/style.css">
 
   <!-- Schema.org: BreadcrumbList + FAQPage -->
   <script type="application/ld+json">
@@ -444,19 +444,27 @@
 
   <main id="main-content">
 
-    <!-- Hero / Page Header -->
-    <section class="page-hero">
-      <div class="container">
-        <nav class="breadcrumb" aria-label="Breadcrumb">
-          <ol>
-            <li><a href="/ru/">Главная</a></li>
-            <li aria-current="page">FAQ</li>
-          </ol>
-        </nav>
-        <h1 class="page-hero-title">Часто задаваемые вопросы</h1>
-        <p class="page-hero-desc">Всё, что нужно знать перед посещением Columbia Pictures Aquaverse в Паттайе — билеты, часы работы, как добраться, что надеть, аттракционы, еда и услуги.</p>
-      </div>
-    </section>
+  <!-- Page Header -->
+  <section class="hero hero-sm" role="banner">
+    <div class="container hero-content">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/ru/">Главная</a> <span aria-hidden="true">/</span>
+        <span aria-current="page">FAQ</span>
+      </nav>
+      <h1>
+        Часто задаваемые вопросы
+        <span>Ответы на 40+ вопросов о парке</span>
+      </h1>
+      <p class="hero-sub">
+        Всё, что нужно знать перед посещением Columbia Pictures Aquaverse в Паттайе. Не нашли ответ? Звоните: <a href="tel:+66330049999" style="color: white; text-decoration: underline;">+66 (0) 33 004 999</a>
+      </p>
+    </div>
+    <div class="wave-divider">
+      <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+        <path d="M0 40C240 80 480 0 720 40C960 80 1200 0 1440 40V80H0V40Z" fill="white"/>
+      </svg>
+    </div>
+  </section>
 
     <!-- Quick Jump Navigation -->
     <section class="section-sm" aria-label="Разделы FAQ">
@@ -464,12 +472,12 @@
         <div class="info-card" style="max-width: 700px; margin: 0 auto; text-align: center;">
           <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Перейти к разделу</h2>
           <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-            <a href="#tickets" class="btn btn-outline" style="font-size: 0.875rem;">Билеты &amp; Цены</a>
-            <a href="#hours" class="btn btn-outline" style="font-size: 0.875rem;">Режим работы</a>
+            <a href="#tickets-pricing" class="btn btn-outline" style="font-size: 0.875rem;">Билеты &amp; Цены</a>
+            <a href="#hours-schedule" class="btn btn-outline" style="font-size: 0.875rem;">Режим работы</a>
             <a href="#getting-there" class="btn btn-outline" style="font-size: 0.875rem;">Как добраться</a>
             <a href="#what-to-bring" class="btn btn-outline" style="font-size: 0.875rem;">Что взять с собой</a>
-            <a href="#rides" class="btn btn-outline" style="font-size: 0.875rem;">Аттракционы</a>
-            <a href="#food" class="btn btn-outline" style="font-size: 0.875rem;">Еда &amp; Питание</a>
+            <a href="#rides-attractions" class="btn btn-outline" style="font-size: 0.875rem;">Аттракционы</a>
+            <a href="#food-dining" class="btn btn-outline" style="font-size: 0.875rem;">Еда &amp; Питание</a>
             <a href="#facilities" class="btn btn-outline" style="font-size: 0.875rem;">Услуги &amp; Сервис</a>
           </div>
         </div>
@@ -477,78 +485,96 @@
     </section>
 
     <!-- Section 1: Билеты & Цены -->
-    <section id="tickets" class="faq-section">
+    <section class="section" id="tickets-pricing" aria-label="Билеты и цены FAQ">
       <div class="container">
-        <h2 class="section-title">Билеты &amp; Цены</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Билеты &amp; Цены</span>
+          <h2>Билеты &amp; Цены</h2>
+          <p>Всё о стоимости билетов, скидках и способах покупки.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Сколько стоят билеты в Aquaverse?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Сколько стоят билеты в Aquaverse?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Онлайн-билеты начинаются от <strong>THB 1 176</strong> (около 3 100 руб.) для взрослых — экономия ~27% по сравнению с ценой в кассе THB 1 595. Дети до 3 лет проходят <strong>бесплатно</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Онлайн-билеты начинаются от <strong>THB 1 176</strong> (около 3 100 руб.) для взрослых — экономия ~27% по сравнению с ценой в кассе THB 1 595. Дети до 3 лет проходят <strong>бесплатно</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Чем отличаются онлайн-билеты от кассовых?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Чем отличаются онлайн-билеты от кассовых?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Онлайн-билеты дают <strong>скидку ~27%</strong> и позволяют пропустить очередь в кассу. Бронирование заранее гарантирует вам место, особенно в выходные и праздники.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Онлайн-билеты дают <strong>скидку ~27%</strong> и позволяют пропустить очередь в кассу. Бронирование заранее гарантирует вам место, особенно в выходные и праздники.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли скидки для детей или пенсионеров?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли скидки для детей или пенсионеров?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Дети до <strong>3 лет проходят бесплатно</strong>. Для детей 3–11 лет действует детская цена. По вопросам скидок для пенсионеров или людей с ограниченными возможностями обращайтесь в парк напрямую.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Дети до <strong>3 лет проходят бесплатно</strong>. Для детей 3–11 лет действует детская цена. По вопросам скидок для пенсионеров или людей с ограниченными возможностями обращайтесь в парк напрямую.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Можно ли оплатить картой на территории парка?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Можно ли оплатить картой на территории парка?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. Парк принимает основные кредитные и дебетовые карты. Для покупок внутри парка используется <strong>система RFID-браслетов</strong> — необходимо заранее пополнить баланс браслета.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. Парк принимает основные кредитные и дебетовые карты. Для покупок внутри парка используется <strong>система RFID-браслетов</strong> — необходимо заранее пополнить баланс браслета.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Какова политика отмены билетов?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Какова политика отмены билетов?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Онлайн-билеты, купленные через Klook, как правило, можно <strong>бесплатно отменить</strong> в течение определённого срока. Уточняйте условия отмены при бронировании.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Онлайн-билеты, купленные через Klook, как правило, можно <strong>бесплатно отменить</strong> в течение определённого срока. Уточняйте условия отмены при бронировании.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Где купить билеты дешевле всего?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Где купить билеты дешевле всего?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Лучшие цены — на официальных платформах онлайн-бронирования, таких как <strong>Klook</strong>. Избегайте покупки у неофициальных продавцов во избежание мошенничества.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Лучшие цены — на официальных платформах онлайн-бронирования, таких как <strong>Klook</strong>. Избегайте покупки у неофициальных продавцов во избежание мошенничества.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Что входит в стоимость билета?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Что входит в стоимость билета?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Входной билет включает доступ ко всем водным аттракционам, базовую аренду шкафчика и посещение всей территории парка. <strong>Питание, пополнение RFID-браслета и премиальные услуги</strong> оплачиваются отдельно.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Входной билет включает доступ ко всем водным аттракционам, базовую аренду шкафчика и посещение всей территории парка. <strong>Питание, пополнение RFID-браслета и премиальные услуги</strong> оплачиваются отдельно.</p>
+              </div>
             </div>
           </div>
 
@@ -557,58 +583,72 @@
     </section>
 
     <!-- Section 2: Режим работы -->
-    <section id="hours" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="hours-schedule" aria-label="Режим работы и расписание FAQ">
       <div class="container">
-        <h2 class="section-title">Режим работы &amp; Расписание</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Режим работы &amp; Расписание</span>
+          <h2>Режим работы &amp; Расписание</h2>
+          <p>Часы работы парка, выходные дни и советы по планированию визита.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Каков режим работы Aquaverse?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Каков режим работы Aquaverse?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Парк работает ежедневно с <strong>10:00 до 18:00</strong> (кроме среды). Последний вход — в 17:00, все аттракционы прекращают работу в 17:30.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Парк работает ежедневно с <strong>10:00 до 18:00</strong> (кроме среды). Последний вход — в 17:00, все аттракционы прекращают работу в 17:30.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Парк работает по средам?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Парк работает по средам?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Нет. Aquaverse <strong>закрыт каждую среду</strong> для планового технического обслуживания. Планируйте визит на другие дни недели.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Нет. Aquaverse <strong>закрыт каждую среду</strong> для планового технического обслуживания. Планируйте визит на другие дни недели.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли высокий и низкий сезон?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли высокий и низкий сезон?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Парк работает круглый год (кроме среды). В высокий сезон (тайские праздники, Рождество, Новый год) проводятся специальные мероприятия. Следите за обновлениями в официальных соцсетях парка.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Парк работает круглый год (кроме среды). В высокий сезон (тайские праздники, Рождество, Новый год) проводятся специальные мероприятия. Следите за обновлениями в официальных соцсетях парка.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Парк работает во время дождя?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Парк работает во время дождя?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>При лёгком дожде парк работает. При грозе или ливне <strong>некоторые уличные аттракционы могут временно закрываться</strong> в целях безопасности. При раннем закрытии по метеоусловиям возможна частичная компенсация.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>При лёгком дожде парк работает. При грозе или ливне <strong>некоторые уличные аттракционы могут временно закрываться</strong> в целях безопасности. При раннем закрытии по метеоусловиям возможна частичная компенсация.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Когда лучше всего посещать парк?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Когда лучше всего посещать парк?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Будние дни утром (<strong>10:00–12:00</strong>) — наименее загруженное время. В выходные и тайские праздники парк наиболее оживлён, особенно после полудня. Покупайте билеты онлайн, чтобы не стоять в очереди в кассу.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Будние дни утром (<strong>10:00–12:00</strong>) — наименее загруженное время. В выходные и тайские праздники парк наиболее оживлён, особенно после полудня. Покупайте билеты онлайн, чтобы не стоять в очереди в кассу.</p>
+              </div>
             </div>
           </div>
 
@@ -617,58 +657,72 @@
     </section>
 
     <!-- Section 3: Как добраться -->
-    <section id="getting-there" class="faq-section">
+    <section class="section" id="getting-there" aria-label="Как добраться и парковка FAQ">
       <div class="container">
-        <h2 class="section-title">Как добраться &amp; Парковка</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Как добраться &amp; Парковка</span>
+          <h2>Как добраться &amp; Парковка</h2>
+          <p>Маршруты до парка из Бангкока и Паттайи, а также информация о парковке.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Где находится Aquaverse?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Где находится Aquaverse?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Columbia Pictures Aquaverse расположен в районе Саттахип провинции Чонбури, Таиланд. Адрес: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Columbia Pictures Aquaverse расположен в районе Саттахип провинции Чонбури, Таиланд. Адрес: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Как добраться из Бангкока?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Как добраться из Бангкока?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Из Бангкока (аэропорт Суварнабхуми) — около <strong>1,5–2 часов на машине</strong> по трассе Бангна–Трад (шоссе 7). Также доступны Grab и туристические шаттлы.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Из Бангкока (аэропорт Суварнабхуми) — около <strong>1,5–2 часов на машине</strong> по трассе Бангна–Трад (шоссе 7). Также доступны Grab и туристические шаттлы.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Как далеко от Паттайи?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Как далеко от Паттайи?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Примерно <strong>25–35 минут от центра Паттайи</strong> на машине. Самый удобный способ — Grab. Некоторые отели Паттайи предлагают трансфер до парка.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Примерно <strong>25–35 минут от центра Паттайи</strong> на машине. Самый удобный способ — Grab. Некоторые отели Паттайи предлагают трансфер до парка.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли парковка?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли парковка?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. На территории парка есть <strong>бесплатная парковка</strong> для автомобилей и мотоциклов. В высокий сезон приезжайте пораньше — парковка может быть занята.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. На территории парка есть <strong>бесплатная парковка</strong> для автомобилей и мотоциклов. В высокий сезон приезжайте пораньше — парковка может быть занята.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Можно ли добраться на общественном транспорте?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Можно ли добраться на общественном транспорте?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Прямого общественного транспорта нет. Лучший вариант — <strong>Grab</strong>, такси или туристический шаттл из Паттайи или Бангкока.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Прямого общественного транспорта нет. Лучший вариант — <strong>Grab</strong>, такси или туристический шаттл из Паттайи или Бангкока.</p>
+              </div>
             </div>
           </div>
 
@@ -677,65 +731,79 @@
     </section>
 
     <!-- Section 4: Что взять с собой -->
-    <section id="what-to-bring" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="what-to-bring" aria-label="Что взять с собой FAQ">
       <div class="container">
-        <h2 class="section-title">Что взять с собой &amp; Как одеться</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Что взять с собой &amp; Как одеться</span>
+          <h2>Что взять с собой &amp; Как одеться</h2>
+          <p>Советы по одежде, обуви и необходимым вещам для комфортного визита.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Какой купальник надеть?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Какой купальник надеть?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Рекомендуется стандартный купальный костюм. Джинсы и хлопковые шорты могут быть запрещены на некоторых аттракционах. Поверх купальника разрешена <strong>рашгард-футболка</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Рекомендуется стандартный купальный костюм. Джинсы и хлопковые шорты могут быть запрещены на некоторых аттракционах. Поверх купальника разрешена <strong>рашгард-футболка</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Какую обувь взять?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Какую обувь взять?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Лучше всего подойдут аквашузы или сланцы. По территории парка можно ходить босиком, но обувь рекомендуется для защиты ног от горячего покрытия.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Лучше всего подойдут аквашузы или сланцы. По территории парка можно ходить босиком, но обувь рекомендуется для защиты ног от горячего покрытия.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Что взять с собой?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Что взять с собой?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <ul>
-                <li>Купальник (желательно запасной)</li>
-                <li>Солнцезащитный крем (желательно биоразлагаемый)</li>
-                <li>Полотенце (или возьмите в аренду в парке)</li>
-                <li>Водонепроницаемая сумка или zip-пакет</li>
-                <li>Наличные или банковская карта</li>
-                <li>Удостоверение личности при необходимости</li>
-              </ul>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <ul>
+                  <li>Купальник (желательно запасной)</li>
+                  <li>Солнцезащитный крем (желательно биоразлагаемый)</li>
+                  <li>Полотенце (или возьмите в аренду в парке)</li>
+                  <li>Водонепроницаемая сумка или zip-пакет</li>
+                  <li>Наличные или банковская карта</li>
+                  <li>Удостоверение личности при необходимости</li>
+                </ul>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Можно ли пронести еду и напитки в парк?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Можно ли пронести еду и напитки в парк?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Еда и напитки снаружи <strong>не разрешены</strong>. Фуд-корт Foodville предлагает широкий выбор блюд и напитков. Пустую личную бутылку для воды взять с собой можно.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Еда и напитки снаружи <strong>не разрешены</strong>. Фуд-корт Foodville предлагает широкий выбор блюд и напитков. Пустую личную бутылку для воды взять с собой можно.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Как хранить ценные вещи?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Как хранить ценные вещи?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>По всему парку расположены <strong>платные шкафчики</strong>. Оставляйте ценности в шкафчике во время аттракционов. Парк не несёт ответственности за утерянное имущество.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>По всему парку расположены <strong>платные шкафчики</strong>. Оставляйте ценности в шкафчике во время аттракционов. Парк не несёт ответственности за утерянное имущество.</p>
+              </div>
             </div>
           </div>
 
@@ -744,58 +812,72 @@
     </section>
 
     <!-- Section 5: Аттракционы -->
-    <section id="rides" class="faq-section">
+    <section class="section" id="rides-attractions" aria-label="Аттракционы FAQ">
       <div class="container">
-        <h2 class="section-title">Аттракционы</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Аттракционы</span>
+          <h2>Аттракционы</h2>
+          <p>Информация об аттракционах, ограничениях по росту и очередях.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Какие аттракционы есть в парке?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Какие аттракционы есть в парке?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Парк предлагает водные аттракционы в тематике Columbia Pictures: Охотники за привидениями, Джуманджи, Плохие парни, Монстры на каникулах и другие. Также есть <strong>волновой бассейн</strong>, ленивая река и детская зона.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Парк предлагает водные аттракционы в тематике Columbia Pictures: Охотники за привидениями, Джуманджи, Плохие парни, Монстры на каникулах и другие. Также есть <strong>волновой бассейн</strong>, ленивая река и детская зона.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли ограничения по росту?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли ограничения по росту?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. На большинстве основных аттракционов минимальный рост <strong>120 см</strong>, на некоторых — 105 см. В детской зоне ограничений по росту нет. Смотрите таблички перед каждым аттракционом.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. На большинстве основных аттракционов минимальный рост <strong>120 см</strong>, на некоторых — 105 см. В детской зоне ограничений по росту нет. Смотрите таблички перед каждым аттракционом.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Можно ли беременным пользоваться аттракционами?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Можно ли беременным пользоваться аттракционами?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Беременным <strong>не рекомендуется посещать большинство водных аттракционов</strong>. Проконсультируйтесь с врачом перед поездкой. Некоторые безопасные зоны парка доступны.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Беременным <strong>не рекомендуется посещать большинство водных аттракционов</strong>. Проконсультируйтесь с врачом перед поездкой. Некоторые безопасные зоны парка доступны.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Сколько ждать в очереди?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Сколько ждать в очереди?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>В будние дни вне сезона — <strong>10–20 минут</strong>. В выходные и праздники на популярных аттракционах — 40–60 минут. Приезжайте к открытию в 10:00 для минимальных очередей.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>В будние дни вне сезона — <strong>10–20 минут</strong>. В выходные и праздники на популярных аттракционах — 40–60 минут. Приезжайте к открытию в 10:00 для минимальных очередей.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли доступ для людей с ограниченными возможностями?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли доступ для людей с ограниченными возможностями?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Парк стремится обеспечить доступность для всех гостей. Некоторые аттракционы могут иметь ограничения. Свяжитесь с парком заранее для планирования оптимального визита.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Парк стремится обеспечить доступность для всех гостей. Некоторые аттракционы могут иметь ограничения. Свяжитесь с парком заранее для планирования оптимального визита.</p>
+              </div>
             </div>
           </div>
 
@@ -804,58 +886,72 @@
     </section>
 
     <!-- Section 6: Еда & Питание -->
-    <section id="food" class="faq-section faq-section--alt">
+    <section class="section section-gray" id="food-dining" aria-label="Еда и питание FAQ">
       <div class="container">
-        <h2 class="section-title">Еда &amp; Питание</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Еда &amp; Питание</span>
+          <h2>Еда &amp; Питание</h2>
+          <p>Рестораны, способы оплаты еды и цены внутри парка.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли рестораны или кафе в парке?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли рестораны или кафе в парке?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. <strong>Фуд-корт Foodville</strong> предлагает тайскую кухню, фастфуд, закуски и напитки. По всему парку также работают ларьки с едой и напитками.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. <strong>Фуд-корт Foodville</strong> предлагает тайскую кухню, фастфуд, закуски и напитки. По всему парку также работают ларьки с едой и напитками.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Как оплачивать еду внутри парка?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Как оплачивать еду внутри парка?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Для всех покупок используется <strong>система RFID-браслетов</strong>. Пополните баланс браслета при входе и оплачивайте всё касанием. Остаток средств возвращается при выходе из парка.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Для всех покупок используется <strong>система RFID-браслетов</strong>. Пополните баланс браслета при входе и оплачивайте всё касанием. Остаток средств возвращается при выходе из парка.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли вегетарианские блюда?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли вегетарианские блюда?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Несколько вегетарианских вариантов есть в Foodville. Выбор для веганов ограничен — обратитесь к сотрудникам за помощью.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Несколько вегетарианских вариантов есть в Foodville. Выбор для веганов ограничен — обратитесь к сотрудникам за помощью.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Что делать, если есть пищевая аллергия?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Что делать, если есть пищевая аллергия?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Сообщите сотрудникам об аллергии при заказе. Парк не может гарантировать полное отсутствие аллергенов — будьте особенно осторожны при серьёзных аллергиях.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Сообщите сотрудникам об аллергии при заказе. Парк не может гарантировать полное отсутствие аллергенов — будьте особенно осторожны при серьёзных аллергиях.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Каковы цены на еду в парке?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Каковы цены на еду в парке?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Тайская еда — <strong>80–150 бат</strong>, западная кухня и фастфуд — <strong>150–300 бат</strong>. Напитки — около <strong>50–120 бат</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Тайская еда — <strong>80–150 бат</strong>, западная кухня и фастфуд — <strong>150–300 бат</strong>. Напитки — около <strong>50–120 бат</strong>.</p>
+              </div>
             </div>
           </div>
 
@@ -864,68 +960,84 @@
     </section>
 
     <!-- Section 7: Услуги & Сервис -->
-    <section id="facilities" class="faq-section">
+    <section class="section" id="facilities" aria-label="Услуги и сервис FAQ">
       <div class="container">
-        <h2 class="section-title">Услуги &amp; Сервис</h2>
-        <div class="accordion">
+        <div class="section-header fade-in">
+          <span class="section-label">Услуги &amp; Сервис</span>
+          <h2>Услуги &amp; Сервис</h2>
+          <p>Раздевалки, шкафчики, медицинская помощь и другие услуги парка.</p>
+        </div>
+        <div class="faq-list fade-in" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem;">
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли раздевалки и душевые?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли раздевалки и душевые?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. По всему парку есть раздевалки и душевые. Часть премиальных кабинок платная. Также доступна <strong>аренда полотенец</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. По всему парку есть раздевалки и душевые. Часть премиальных кабинок платная. Также доступна <strong>аренда полотенец</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли шкафчики для хранения вещей?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли шкафчики для хранения вещей?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. Платные шкафчики нескольких размеров (малый, средний, большой) доступны по всему парку. Открываются и закрываются <strong>RFID-браслетом</strong>.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. Платные шкафчики нескольких размеров (малый, средний, большой) доступны по всему парку. Открываются и закрываются <strong>RFID-браслетом</strong>.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли медицинская помощь в парке?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли медицинская помощь в парке?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. В парке работает <strong>пункт первой помощи</strong> с обученным персоналом. На всех водных аттракционах дежурят спасатели.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. В парке работает <strong>пункт первой помощи</strong> с обученным персоналом. На всех водных аттракционах дежурят спасатели.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли бесплатный Wi-Fi?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли бесплатный Wi-Fi?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Бесплатный Wi-Fi доступен в основных зонах парка. Качество сигнала может варьироваться в зависимости от расположения на территории.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Бесплатный Wi-Fi доступен в основных зонах парка. Качество сигнала может варьироваться в зависимости от расположения на территории.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли коляски или инвалидные кресла напрокат?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли коляски или инвалидные кресла напрокат?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Прокат детских колясок и инвалидных кресел доступен. Обращайтесь на стойку информации у входа в парк. Количество ограничено — приезжайте пораньше.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Прокат детских колясок и инвалидных кресел доступен. Обращайтесь на стойку информации у входа в парк. Количество ограничено — приезжайте пораньше.</p>
+              </div>
             </div>
           </div>
 
-          <div class="accordion-item">
-            <button class="accordion-btn" aria-expanded="false">
-              Есть ли фотоуслуги?
-              <span class="accordion-icon" aria-hidden="true"></span>
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>Есть ли фотоуслуги?</span>
+              <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </button>
-            <div class="accordion-content">
-              <p>Да. На некоторых аттракционах есть автоматическая фотосъёмка — фото можно купить по окончании. Личные камеры разрешены в водонепроницаемом чехле; на отдельных аттракционах камеры запрещены.</p>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer-inner">
+                <p>Да. На некоторых аттракционах есть автоматическая фотосъёмка — фото можно купить по окончании. Личные камеры разрешены в водонепроницаемом чехле; на отдельных аттракционах камеры запрещены.</p>
+              </div>
             </div>
           </div>
 
