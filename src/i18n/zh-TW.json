@@ -1,0 +1,390 @@
+{
+  "skipLink": "Skip to main content",
+  "nav": {
+    "home": "首頁",
+    "attractions": "遊樂設施",
+    "tickets": "門票",
+    "gettingThere": "交通指南",
+    "tips": "遊玩攻略",
+    "faq": "常見問題",
+    "blog": "攻略部落格",
+    "bookTickets": "預訂門票"
+  },
+  "announcement": {
+    "text": "限時優惠：Aquaverse 門票最高立省~27% &mdash; 線上專享價僅 THB 1,176 起！",
+    "linkText": "立即預訂 &rarr;"
+  },
+  "faq": {
+    "title": "Aquaverse 常見問題 | 40+ 問答 | Columbia Pictures Aquaverse",
+    "metaDescription": "Columbia Pictures Aquaverse 芭提雅 40 餘個常見問題詳解。涵蓋門票價格、開放時間、交通、著裝、遊樂設施、美食及園內服務等全部資訊。",
+    "metaKeywords": "Aquaverse 常見問題, Aquaverse FAQ, Aquaverse 門票, Aquaverse 開放時間, Aquaverse 著裝, Aquaverse 美食, Aquaverse 身高限制, Aquaverse 停車",
+    "ogTitle": "Aquaverse 常見問題 | 40+ 問答",
+    "ogDescription": "解答您關於 Columbia Pictures Aquaverse 的所有疑問。門票、開放時間、交通、攜帶物品、遊樂設施、美食及園內服務一網打盡。",
+    "twitterTitle": "Aquaverse 常見問題 | 40+ 問答",
+    "twitterDescription": "40+ 條關於芭提雅 Aquaverse 的常見問題：門票、開放時間、交通、著裝、遊樂設施、美食等。",
+    "breadcrumbHome": "首頁",
+    "breadcrumbCurrent": "常見問題",
+    "heroTitle": "常見問題",
+    "heroSubtitle": "40+ 常見問題解答",
+    "heroText": "遊覽 Columbia Pictures Aquaverse 芭提雅前，您需要了解的一切。找不到答案？歡迎致電 <a href=\"tel:+66330049999\" style=\"color: white; text-decoration: underline;\">+66 (0) 33 004 999</a>。",
+    "jumpTitle": "跳至分類",
+    "jumpLabels": {
+      "tickets-pricing": "門票 &amp; 價格",
+      "hours-schedule": "開放時間",
+      "getting-there": "交通 &amp; 停車",
+      "what-to-bring": "攜帶物品",
+      "rides-attractions": "遊樂設施",
+      "food-dining": "餐飲",
+      "facilities": "設施 &amp; 服務"
+    },
+    "categories": [
+      {
+        "id": "tickets-pricing",
+        "sectionLabel": "門票 &amp; 價格",
+        "heading": "門票 &amp; 價格",
+        "description": "門票費用、折扣與購票方式的所有資訊。",
+        "questions": [
+          {
+            "question": "Aquaverse 門票多少錢？",
+            "answer": "<p>Aquaverse 線上門票成人價格從 <strong>THB 1,176</strong>（約 NTD 1,050）起，比現場購票價 THB 1,595 節省約 <strong>27%</strong>。3 歲以下兒童免費入園。</p>"
+          },
+          {
+            "question": "線上購票與現場購票有什麼差別？",
+            "answer": "<p>線上購票可享約 <strong>27% 折扣</strong>，同時可跳過售票窗口排隊，提前鎖定名額，在週末及假日尤為方便。</p>"
+          },
+          {
+            "question": "兒童或老人有優惠票嗎？",
+            "answer": "<p><strong>3 歲以下兒童免費</strong>。3—11 歲兒童享有兒童票價格。老人或身障人士優惠請直接聯繫樂園洽詢。</p>"
+          },
+          {
+            "question": "樂園內可以刷信用卡嗎？",
+            "answer": "<p>可以，樂園接受主要信用卡及金融卡。但園內消費均透過 <strong>RFID 手環系統</strong>完成——入園時需先向手環儲值，離園時退還餘額。</p>"
+          },
+          {
+            "question": "門票可以退款嗎？",
+            "answer": "<p>透過 Klook 購買的線上門票通常可在規定期限內<strong>免費取消</strong>。請在預訂時查看具體退款條款。</p>"
+          },
+          {
+            "question": "哪裡可以買到最優惠的門票？",
+            "answer": "<p>最優惠的門票可透過 <strong>Klook</strong> 等正規線上平台購買，請避免向非官方管道購票，以防受騙。</p>"
+          },
+          {
+            "question": "門票包含哪些內容？",
+            "answer": "<p>門票包含所有水上遊樂設施的遊玩資格、基本置物櫃租用及全園區通行。<strong>餐飲、RFID 手環儲值及加值服務</strong>需另行付費。</p>"
+          }
+        ]
+      },
+      {
+        "id": "hours-schedule",
+        "sectionLabel": "開放時間",
+        "heading": "開放時間 &amp; 營業安排",
+        "description": "樂園開放與休園時間，以及最佳遊覽時段。",
+        "questions": [
+          {
+            "question": "Aquaverse 的開放時間是什麼？",
+            "answer": "<p>樂園每天<strong>上午 10 點至下午 6 點</strong>開放（週三休園）。最晚入園時間為下午 5 點，所有設施於下午 5 點 30 分停止運行。</p>"
+          },
+          {
+            "question": "週三開放嗎？",
+            "answer": "<p>不開放。Aquaverse <strong>每週三休園</strong>，進行定期維護保養。請選擇其他日期前往遊玩。</p>"
+          },
+          {
+            "question": "有旺季和淡季之分嗎？",
+            "answer": "<p>樂園全年開放（週三除外）。泰國法定假日、聖誕節、元旦等期間可能舉辦特別活動，出發前請關注官方社群媒體取得最新資訊。</p>"
+          },
+          {
+            "question": "下雨天還有營業嗎？",
+            "answer": "<p>小雨天正常開放，但遇到雷雨或強降雨時，<strong>部分戶外設施可能臨時暫停</strong>以確保安全。因天氣提前閉園時，樂園會視情況提供相應補償。</p>"
+          },
+          {
+            "question": "什麼時候去人最少？",
+            "answer": "<p>平日<strong>上午 10 點至 12 點</strong>是全天最清閒的時段。週末和泰國國定假日下午人潮最多。提前線上購票可跳過領票排隊。</p>"
+          }
+        ]
+      },
+      {
+        "id": "getting-there",
+        "sectionLabel": "交通 &amp; 停車",
+        "heading": "交通 &amp; 停車",
+        "description": "如何從曼谷、芭提雅及各機場抵達 Aquaverse。",
+        "questions": [
+          {
+            "question": "Aquaverse 在哪裡？",
+            "answer": "<p>Columbia Pictures Aquaverse 位於泰國春武里府梭桃邑縣。地址：<strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>。</p>"
+          },
+          {
+            "question": "從曼谷怎麼去？",
+            "answer": "<p>從曼谷（蘇汪納蓬機場）自駕約需 <strong>1.5—2 小時</strong>，走邦納-達叻高速公路（7 號國道）。也可搭乘 Grab 專車或旅遊巴士前往。</p>"
+          },
+          {
+            "question": "距離芭提雅多遠？",
+            "answer": "<p>距芭提雅市區約 <strong>25—35 分鐘車程</strong>。建議使用 Grab 叫車，部分芭提雅飯店也提供前往 Aquaverse 的接駁服務。</p>"
+          },
+          {
+            "question": "有停車場嗎？",
+            "answer": "<p>有，樂園提供<strong>免費停車場</strong>，轎車和機車均可停放。旺季時請提早到達，以免停車場已滿。</p>"
+          },
+          {
+            "question": "能搭乘大眾運輸抵達嗎？",
+            "answer": "<p>目前無直達的大眾運輸。建議使用 <strong>Grab</strong> 叫車，或從芭提雅、曼谷搭乘旅遊巴士前往。</p>"
+          }
+        ]
+      },
+      {
+        "id": "what-to-bring",
+        "sectionLabel": "攜帶物品",
+        "heading": "攜帶物品 &amp; 著裝建議",
+        "description": "著裝規定、必備物品清單與禁止攜帶物品。",
+        "questions": [
+          {
+            "question": "應該穿什麼泳裝？",
+            "answer": "<p>建議穿標準泳裝。部分設施不允許穿牛仔褲和棉質短褲。泳裝外可加穿<strong>防曬衣（拉什加德）</strong>。</p>"
+          },
+          {
+            "question": "應該穿什麼鞋？",
+            "answer": "<p>建議穿水鞋或涼拖鞋。園區內可以赤腳行走，但建議穿鞋以防被燙熱的地面燙傷腳底。</p>"
+          },
+          {
+            "question": "需要帶什麼？",
+            "answer": "<ul>\n                  <li>泳裝（建議備用一套）</li>\n                  <li>防曬乳（推薦可降解產品）</li>\n                  <li>毛巾（園內可租借）</li>\n                  <li>防水袋或夾鏈袋</li>\n                  <li>現金或信用卡</li>\n                  <li>證件（如需）</li>\n                </ul>"
+          },
+          {
+            "question": "可以自帶食物和飲料入園嗎？",
+            "answer": "<p><strong>不可以</strong>，外帶食物和飲料不允許帶入園內。園內 Foodville 美食廣場提供豐富餐飲選擇。可攜帶個人空水壺入園。</p>"
+          },
+          {
+            "question": "貴重物品怎麼保管？",
+            "answer": "<p>園內各處設有<strong>付費置物櫃</strong>，乘坐設施時請將貴重物品存入櫃中。樂園不對個人物品的遺失負責。</p>"
+          }
+        ]
+      },
+      {
+        "id": "rides-attractions",
+        "sectionLabel": "遊樂設施",
+        "heading": "遊樂設施 &amp; 景點",
+        "description": "身高限制、設施詳情與遊玩注意事項。",
+        "questions": [
+          {
+            "question": "有哪些遊樂設施和景點？",
+            "answer": "<p>樂園擁有以 Columbia Pictures 電影 IP 為主題的多種水上設施，包括捉鬼敢死隊、野蠻遊戲、絕地戰警、怪獸假期等主題區。此外還有<strong>造浪池</strong>、懶人河和兒童戲水區。</p>"
+          },
+          {
+            "question": "設施有身高限制嗎？",
+            "answer": "<p>有。主要設施通常要求身高至少 <strong>120 公分</strong>，部分設施要求 105 公分。兒童區無身高限制。具體規定請查看各設施入口處的標示牌。</p>"
+          },
+          {
+            "question": "孕婦可以玩水上設施嗎？",
+            "answer": "<p><strong>不建議孕婦</strong>遊玩大多數水上設施。請在出發前諮詢醫生，園內部分非乘坐類景點仍可參觀。</p>"
+          },
+          {
+            "question": "各設施排隊要多久？",
+            "answer": "<p>非旺季平日排隊約 <strong>10—20 分鐘</strong>。週末及假日熱門設施可能需等候 40—60 分鐘。上午 10—12 點到園可有效縮短等待時間。</p>"
+          },
+          {
+            "question": "身障人士可以遊玩嗎？",
+            "answer": "<p>樂園致力於為所有遊客提供無障礙體驗，但部分設施因安全原因可能有所限制。建議出發前聯繫樂園，以便提前規劃最佳遊覽方案。</p>"
+          }
+        ]
+      },
+      {
+        "id": "food-dining",
+        "sectionLabel": "餐飲",
+        "heading": "餐飲",
+        "description": "園內餐廳選擇、特殊飲食需求與付款方式。",
+        "questions": [
+          {
+            "question": "園內有餐廳或美食區嗎？",
+            "answer": "<p>有，<strong>Foodville 美食廣場</strong>提供泰式料理、速食、小吃及飲料，園內各處還設有小吃攤和飲品站。</p>"
+          },
+          {
+            "question": "園內怎麼付款？",
+            "answer": "<p>園內所有消費均透過 <strong>RFID 手環</strong>結帳。入園時先向手環儲值，消費時輕觸手環即可完成付款，離園時退還剩餘餘額。</p>"
+          },
+          {
+            "question": "有素食或純素選項嗎？",
+            "answer": "<p>Foodville 提供部分素食選項，純素選擇較少，可向工作人員詢問協助。</p>"
+          },
+          {
+            "question": "如果有食物過敏怎麼辦？",
+            "answer": "<p>點餐時請告知工作人員您的過敏情況。樂園無法保證完全隔離所有過敏原，有嚴重過敏史的遊客請格外注意。</p>"
+          },
+          {
+            "question": "園內餐飲價格大概是多少？",
+            "answer": "<p>泰式在地料理約 <strong>80—150 泰銖</strong>，西餐和速食約 <strong>150—300 泰銖</strong>，飲品約 <strong>50—120 泰銖</strong>。</p>"
+          }
+        ]
+      },
+      {
+        "id": "facilities",
+        "sectionLabel": "門票 &amp; 價格",
+        "heading": "門票 &amp; 價格",
+        "description": "門票費用、折扣與購票方式的所有資訊。",
+        "questions": [
+          {
+            "question": "Aquaverse 門票多少錢？",
+            "answer": "<p>Aquaverse 線上門票成人價格從 <strong>THB 1,176</strong>（約 NTD 1,050）起，比現場購票價 THB 1,595 節省約 <strong>27%</strong>。3 歲以下兒童免費入園。</p>"
+          },
+          {
+            "question": "線上購票與現場購票有什麼差別？",
+            "answer": "<p>線上購票可享約 <strong>27% 折扣</strong>，同時可跳過售票窗口排隊，提前鎖定名額，在週末及假日尤為方便。</p>"
+          },
+          {
+            "question": "兒童或老人有優惠票嗎？",
+            "answer": "<p><strong>3 歲以下兒童免費</strong>。3—11 歲兒童享有兒童票價格。老人或身障人士優惠請直接聯繫樂園洽詢。</p>"
+          },
+          {
+            "question": "樂園內可以刷信用卡嗎？",
+            "answer": "<p>可以，樂園接受主要信用卡及金融卡。但園內消費均透過 <strong>RFID 手環系統</strong>完成——入園時需先向手環儲值，離園時退還餘額。</p>"
+          },
+          {
+            "question": "門票可以退款嗎？",
+            "answer": "<p>透過 Klook 購買的線上門票通常可在規定期限內<strong>免費取消</strong>。請在預訂時查看具體退款條款。</p>"
+          },
+          {
+            "question": "哪裡可以買到最優惠的門票？",
+            "answer": "<p>最優惠的門票可透過 <strong>Klook</strong> 等正規線上平台購買，請避免向非官方管道購票，以防受騙。</p>"
+          },
+          {
+            "question": "門票包含哪些內容？",
+            "answer": "<p>門票包含所有水上遊樂設施的遊玩資格、基本置物櫃租用及全園區通行。<strong>餐飲、RFID 手環儲值及加值服務</strong>需另行付費。</p>"
+          },
+          {
+            "question": "Aquaverse 的開放時間是什麼？",
+            "answer": "<p>樂園每天<strong>上午 10 點至下午 6 點</strong>開放（週三休園）。最晚入園時間為下午 5 點，所有設施於下午 5 點 30 分停止運行。</p>"
+          },
+          {
+            "question": "週三開放嗎？",
+            "answer": "<p>不開放。Aquaverse <strong>每週三休園</strong>，進行定期維護保養。請選擇其他日期前往遊玩。</p>"
+          },
+          {
+            "question": "有旺季和淡季之分嗎？",
+            "answer": "<p>樂園全年開放（週三除外）。泰國法定假日、聖誕節、元旦等期間可能舉辦特別活動，出發前請關注官方社群媒體取得最新資訊。</p>"
+          },
+          {
+            "question": "下雨天還有營業嗎？",
+            "answer": "<p>小雨天正常開放，但遇到雷雨或強降雨時，<strong>部分戶外設施可能臨時暫停</strong>以確保安全。因天氣提前閉園時，樂園會視情況提供相應補償。</p>"
+          },
+          {
+            "question": "什麼時候去人最少？",
+            "answer": "<p>平日<strong>上午 10 點至 12 點</strong>是全天最清閒的時段。週末和泰國國定假日下午人潮最多。提前線上購票可跳過領票排隊。</p>"
+          },
+          {
+            "question": "Aquaverse 在哪裡？",
+            "answer": "<p>Columbia Pictures Aquaverse 位於泰國春武里府梭桃邑縣。地址：<strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>。</p>"
+          },
+          {
+            "question": "從曼谷怎麼去？",
+            "answer": "<p>從曼谷（蘇汪納蓬機場）自駕約需 <strong>1.5—2 小時</strong>，走邦納-達叻高速公路（7 號國道）。也可搭乘 Grab 專車或旅遊巴士前往。</p>"
+          },
+          {
+            "question": "距離芭提雅多遠？",
+            "answer": "<p>距芭提雅市區約 <strong>25—35 分鐘車程</strong>。建議使用 Grab 叫車，部分芭提雅飯店也提供前往 Aquaverse 的接駁服務。</p>"
+          },
+          {
+            "question": "有停車場嗎？",
+            "answer": "<p>有，樂園提供<strong>免費停車場</strong>，轎車和機車均可停放。旺季時請提早到達，以免停車場已滿。</p>"
+          },
+          {
+            "question": "能搭乘大眾運輸抵達嗎？",
+            "answer": "<p>目前無直達的大眾運輸。建議使用 <strong>Grab</strong> 叫車，或從芭提雅、曼谷搭乘旅遊巴士前往。</p>"
+          },
+          {
+            "question": "應該穿什麼泳裝？",
+            "answer": "<p>建議穿標準泳裝。部分設施不允許穿牛仔褲和棉質短褲。泳裝外可加穿<strong>防曬衣（拉什加德）</strong>。</p>"
+          },
+          {
+            "question": "應該穿什麼鞋？",
+            "answer": "<p>建議穿水鞋或涼拖鞋。園區內可以赤腳行走，但建議穿鞋以防被燙熱的地面燙傷腳底。</p>"
+          },
+          {
+            "question": "需要帶什麼？",
+            "answer": "<ul>\n                  <li>泳裝（建議備用一套）</li>\n                  <li>防曬乳（推薦可降解產品）</li>\n                  <li>毛巾（園內可租借）</li>\n                  <li>防水袋或夾鏈袋</li>\n                  <li>現金或信用卡</li>\n                  <li>證件（如需）</li>\n                </ul>"
+          },
+          {
+            "question": "可以自帶食物和飲料入園嗎？",
+            "answer": "<p><strong>不可以</strong>，外帶食物和飲料不允許帶入園內。園內 Foodville 美食廣場提供豐富餐飲選擇。可攜帶個人空水壺入園。</p>"
+          },
+          {
+            "question": "貴重物品怎麼保管？",
+            "answer": "<p>園內各處設有<strong>付費置物櫃</strong>，乘坐設施時請將貴重物品存入櫃中。樂園不對個人物品的遺失負責。</p>"
+          },
+          {
+            "question": "有哪些遊樂設施和景點？",
+            "answer": "<p>樂園擁有以 Columbia Pictures 電影 IP 為主題的多種水上設施，包括捉鬼敢死隊、野蠻遊戲、絕地戰警、怪獸假期等主題區。此外還有<strong>造浪池</strong>、懶人河和兒童戲水區。</p>"
+          },
+          {
+            "question": "設施有身高限制嗎？",
+            "answer": "<p>有。主要設施通常要求身高至少 <strong>120 公分</strong>，部分設施要求 105 公分。兒童區無身高限制。具體規定請查看各設施入口處的標示牌。</p>"
+          },
+          {
+            "question": "孕婦可以玩水上設施嗎？",
+            "answer": "<p><strong>不建議孕婦</strong>遊玩大多數水上設施。請在出發前諮詢醫生，園內部分非乘坐類景點仍可參觀。</p>"
+          },
+          {
+            "question": "各設施排隊要多久？",
+            "answer": "<p>非旺季平日排隊約 <strong>10—20 分鐘</strong>。週末及假日熱門設施可能需等候 40—60 分鐘。上午 10—12 點到園可有效縮短等待時間。</p>"
+          },
+          {
+            "question": "身障人士可以遊玩嗎？",
+            "answer": "<p>樂園致力於為所有遊客提供無障礙體驗，但部分設施因安全原因可能有所限制。建議出發前聯繫樂園，以便提前規劃最佳遊覽方案。</p>"
+          },
+          {
+            "question": "園內有餐廳或美食區嗎？",
+            "answer": "<p>有，<strong>Foodville 美食廣場</strong>提供泰式料理、速食、小吃及飲料，園內各處還設有小吃攤和飲品站。</p>"
+          },
+          {
+            "question": "園內怎麼付款？",
+            "answer": "<p>園內所有消費均透過 <strong>RFID 手環</strong>結帳。入園時先向手環儲值，消費時輕觸手環即可完成付款，離園時退還剩餘餘額。</p>"
+          },
+          {
+            "question": "有素食或純素選項嗎？",
+            "answer": "<p>Foodville 提供部分素食選項，純素選擇較少，可向工作人員詢問協助。</p>"
+          },
+          {
+            "question": "如果有食物過敏怎麼辦？",
+            "answer": "<p>點餐時請告知工作人員您的過敏情況。樂園無法保證完全隔離所有過敏原，有嚴重過敏史的遊客請格外注意。</p>"
+          },
+          {
+            "question": "園內餐飲價格大概是多少？",
+            "answer": "<p>泰式在地料理約 <strong>80—150 泰銖</strong>，西餐和速食約 <strong>150—300 泰銖</strong>，飲品約 <strong>50—120 泰銖</strong>。</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "stickyBar": {
+    "subText": "每人 &bull; 立省~27%",
+    "bookNow": "立即預訂 &rarr;",
+    "ariaLabel": "預訂欄"
+  },
+  "footer": {
+    "brandDescription": "泰國芭提雅 Columbia Pictures Aquaverse 完整獨立指南。我們為遊客提供最新資訊、實用貼士和最優惠門票，助您規劃完美的水上樂園之旅。",
+    "quickLinksHeading": "快速連結",
+    "quickLinks": [
+      "全部遊樂設施",
+      "門票與價格",
+      "交通指南",
+      "遊玩攻略",
+      "常見問題"
+    ],
+    "guidesHeading": "攻略指南",
+    "guideLabels": [
+      "Aquaverse 對比 Ramayana",
+      "帶娃遊 Aquaverse",
+      "從曼谷出發交通指南",
+      "門票價格指南",
+      "真實評測",
+      "Aquaverse 附近飯店",
+      "美食指南"
+    ],
+    "parkInfoHeading": "樂園資訊",
+    "mapsLinkText": "在 Google 地圖查看",
+    "hoursItems": [
+      "每天上午10點 &ndash; 下午6點",
+      "每週三休園"
+    ],
+    "affiliate": "Aquaverse-Park.com is an independent travel guide and affiliate website. We earn commissions from qualifying purchases made through links on this site at no extra cost to you. Tickets are sold through authorized resellers (Klook) and are official e-tickets for Columbia Pictures Aquaverse.",
+    "disclaimer": "Aquaverse-Park.com is <strong>not</strong> the official website of Columbia Pictures Aquaverse. We are not affiliated with, endorsed by, or connected to Columbia Pictures, Sony Pictures Entertainment, Amazon MGM Studios, or any of their subsidiaries. All trademarks, logos, and brand names are the property of their respective owners. Prices, operating hours, and park information are subject to change without notice. Please verify all details on the official website before your visit.",
+    "copyright": "&copy; 2026 Aquaverse-Park.com &mdash; Independent travel guide. Not an official website."
+  }
+}

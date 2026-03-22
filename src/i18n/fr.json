@@ -1,0 +1,382 @@
+{
+  "skipLink": "Passer au contenu principal",
+  "nav": {
+    "home": "Accueil",
+    "attractions": "Attractions",
+    "tickets": "Billets",
+    "gettingThere": "Comment s&rsquo;y rendre",
+    "tips": "Conseils",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "bookTickets": "R&eacute;server des billets"
+  },
+  "announcement": {
+    "text": "Offre limit&eacute;e : &Eacute;conomisez jusqu&rsquo;&agrave; ~27% sur les billets Aquaverse &mdash; Prix exclusif en ligne &agrave; partir de THB 1&nbsp;176 (~22 EUR)&nbsp;!",
+    "linkText": "R&eacute;server &rarr;"
+  },
+  "faq": {
+    "title": "FAQ Aquaverse | 40+ Questions Fréquentes | Columbia Pictures Aquaverse",
+    "metaDescription": "Réponses à 40+ questions fréquentes sur Columbia Pictures Aquaverse Pattaya. Billets, horaires, accès, tenue vestimentaire, manèges, restauration, équipements et plus.",
+    "metaKeywords": "FAQ Aquaverse, questions Aquaverse, billets Aquaverse FAQ, horaires Aquaverse, code vestimentaire Aquaverse, restauration Aquaverse, restrictions taille Aquaverse, parking Aquaverse",
+    "ogTitle": "FAQ Aquaverse | 40+ Questions Fréquentes Répondues",
+    "ogDescription": "Trouvez les réponses à toutes vos questions sur la visite de Columbia Pictures Aquaverse. Billets, horaires, accès, quoi apporter, manèges, restauration et équipements.",
+    "twitterTitle": "FAQ Aquaverse | 40+ Questions Fréquentes Répondues",
+    "twitterDescription": "Réponses à 40+ FAQ sur Aquaverse Pattaya : billets, horaires, accès, tenue, manèges, restauration et plus.",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbCurrent": "FAQ",
+    "heroTitle": "Foire Aux Questions",
+    "heroSubtitle": "40+ Questions Fr&eacute;quentes R&eacute;pondues",
+    "heroText": "Tout ce que vous devez savoir sur la visite de Columbia Pictures Aquaverse &agrave; Pattaya.\n        Vous ne trouvez pas votre r&eacute;ponse&nbsp;? Appelez le <a href=\"tel:+66330049999\" style=\"color: white; text-decoration: underline;\">+66 (0) 33 004 999</a>.",
+    "jumpTitle": "Aller &agrave; une cat&eacute;gorie",
+    "jumpLabels": {
+      "tickets-pricing": "Billets &amp; Tarifs",
+      "hours-schedule": "Horaires &amp; Planning",
+      "getting-there": "Acc&egrave;s &amp; Parking",
+      "what-to-bring": "Quoi Apporter",
+      "rides-attractions": "Man&egrave;ges &amp; Attractions",
+      "food-dining": "Restauration",
+      "facilities": "&Eacute;quipements"
+    },
+    "categories": [
+      {
+        "id": "tickets-pricing",
+        "sectionLabel": "Cat&eacute;gorie 1",
+        "heading": "Billets &amp; Tarifs",
+        "description": "Tout sur les prix des billets, les r&eacute;ductions et les options de r&eacute;servation.",
+        "questions": [
+          {
+            "question": "Combien co&ucirc;tent les billets Aquaverse&nbsp;?",
+            "answer": "<p>Le prix &agrave; l&rsquo;entr&eacute;e est de <strong>THB 1&nbsp;595</strong> (~22 EUR) par personne. Les billets en ligne &agrave; l&rsquo;avance commencent &agrave; partir de <strong>THB 1&nbsp;176</strong> (~22 EUR), soit jusqu&rsquo;&agrave; <strong>~27% d&rsquo;&eacute;conomie</strong>. Les enfants de moins de 3 ans entrent gratuitement. Les billets en ligne incluent la location de casier (valeur THB 300).</p>\n                <p><a href=\"/tickets.html\">Voir toutes les options de billets et comparer les prix &rarr;</a></p>"
+          },
+          {
+            "question": "Combien co&ucirc;tent les billets enfants &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les enfants de moins de <strong>3 ans entrent gratuitement</strong>. Les enfants de 3&ndash;12 ans et les seniors de 65 ans et plus peuvent b&eacute;n&eacute;ficier d&rsquo;un tarif r&eacute;duit &agrave; l&rsquo;entr&eacute;e de <strong>THB 1&nbsp;290</strong> (contre THB 1&nbsp;590 pour les adultes). Les billets en ligne utilisent g&eacute;n&eacute;ralement un tarif unique pour tous les &acirc;ges 3+, &agrave; partir de <strong>THB 1&nbsp;176</strong>.</p>"
+          },
+          {
+            "question": "Est-il moins cher d&rsquo;acheter les billets en ligne ou &agrave; l&rsquo;entr&eacute;e&nbsp;?",
+            "answer": "<p>Les billets en ligne sont <strong>nettement moins chers</strong>. Le prix &agrave; l&rsquo;entr&eacute;e est de THB 1&nbsp;595 tandis que les prix en ligne commencent &agrave; partir de THB 1&nbsp;176 &mdash; soit jusqu&rsquo;&agrave; <strong>~27% de r&eacute;duction</strong>. Les billets en ligne incluent &eacute;galement la location de casier gratuite (valeur THB 300) et une confirmation de bon mobile instantan&eacute;e. Nous recommandons fortement de r&eacute;server en ligne via des plateformes comme Klook ou KKday.</p>\n                <p><a href=\"/tickets.html\">Comparer les offres de billets en ligne &rarr;</a></p>"
+          },
+          {
+            "question": "La location de casier est-elle incluse avec les billets Aquaverse&nbsp;?",
+            "answer": "<p>La location de casier est <strong>incluse gratuitement avec les billets en ligne</strong>. Si vous achetez les billets &agrave; l&rsquo;entr&eacute;e, la location de casier co&ucirc;te <strong>THB 300</strong> suppl&eacute;mentaires. Les casiers sont situ&eacute;s pr&egrave;s de l&rsquo;entr&eacute;e et peuvent &ecirc;tre utilis&eacute;s un nombre illimit&eacute; de fois dans la journ&eacute;e gr&acirc;ce &agrave; votre bracelet RFID.</p>"
+          },
+          {
+            "question": "Y a-t-il des r&eacute;ductions ou promotions pour Aquaverse&nbsp;?",
+            "answer": "<p>Oui, les meilleures r&eacute;ductions sont disponibles via les plateformes de r&eacute;servation en ligne comme <strong>Klook, KKday et Tiquets</strong> avec des &eacute;conomies jusqu&rsquo;&agrave; ~27% sur le prix &agrave; l&rsquo;entr&eacute;e. Les ressortissants tha&iuml;landais peuvent b&eacute;n&eacute;ficier de tarifs sp&eacute;ciaux sur pr&eacute;sentation d&rsquo;une pi&egrave;ce d&rsquo;identit&eacute; valide. Des promotions occasionnelles ont lieu pendant les f&ecirc;tes et &eacute;v&eacute;nements sp&eacute;ciaux &mdash; consultez les r&eacute;seaux sociaux du parc pour les derni&egrave;res offres.</p>"
+          },
+          {
+            "question": "Aquaverse propose-t-il des tarifs de groupe&nbsp;?",
+            "answer": "<p>Oui, Aquaverse propose des tarifs de groupe pour les groupes de <strong>10 personnes ou plus</strong>. Les r&eacute;servations de groupe doivent &ecirc;tre organis&eacute;es directement aupr&egrave;s de l&rsquo;&eacute;quipe commerciale du parc. Les groupes scolaires, les sorties d&rsquo;entreprise et les voyagistes peuvent b&eacute;n&eacute;ficier de remises suppl&eacute;mentaires. Contactez le parc au <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a> pour les demandes de tarifs de groupe.</p>"
+          },
+          {
+            "question": "Combien co&ucirc;te un cabana &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les options de location de cabana sont&nbsp;: <strong>Deluxe THB 2&nbsp;500/jour</strong>, Super Deluxe THB 3&nbsp;000/jour et VIP THB 3&nbsp;500/jour. Les cabanas comprennent un ombrage, des si&egrave;ges confortables, des serviettes, un assistant personnel et un service de restauration prioritaire. Les r&eacute;servations sont recommand&eacute;es, surtout le week-end.</p>"
+          },
+          {
+            "question": "Puis-je &ecirc;tre rembours&eacute; pour mes billets Aquaverse&nbsp;?",
+            "answer": "<p>Les politiques de remboursement d&eacute;pendent de l&rsquo;endroit o&ugrave; vous avez achet&eacute; vos billets. La plupart des plateformes en ligne (Klook, KKday) offrent l&rsquo;<strong>annulation gratuite jusqu&rsquo;&agrave; 24 heures</strong> avant la date de visite. Les billets achet&eacute;s &agrave; l&rsquo;entr&eacute;e sont g&eacute;n&eacute;ralement non remboursables. V&eacute;rifiez toujours la politique d&rsquo;annulation avant de r&eacute;server.</p>"
+          }
+        ]
+      },
+      {
+        "id": "hours-schedule",
+        "sectionLabel": "Cat&eacute;gorie 2",
+        "heading": "Horaires &amp; Planning",
+        "description": "Horaires d&rsquo;ouverture, fermetures et meilleures p&eacute;riodes pour visiter.",
+        "questions": [
+          {
+            "question": "Quels sont les horaires d&rsquo;ouverture d&rsquo;Aquaverse&nbsp;?",
+            "answer": "<p>Aquaverse est ouvert <strong>tous les jours de 10h00 &agrave; 18h00</strong>. Les man&egrave;ges ferment &agrave; 17h45. La derni&egrave;re admission est &agrave; 15h30. Le parc est ferm&eacute; tous les <strong>mercredis</strong> pour maintenance programm&eacute;e.</p>"
+          },
+          {
+            "question": "Aquaverse est-il ferm&eacute; le mercredi&nbsp;?",
+            "answer": "<p>Oui, Columbia Pictures Aquaverse est <strong>ferm&eacute; tous les mercredis</strong> pour maintenance programm&eacute;e. Le parc est ouvert de 10h &agrave; 18h le lundi, mardi, jeudi, vendredi, samedi et dimanche.</p>"
+          },
+          {
+            "question": "Quelle est la derni&egrave;re admission &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>La derni&egrave;re admission &agrave; Aquaverse est &agrave; <strong>15h30</strong>. Apr&egrave;s cette heure, aucun nouveau visiteur n&rsquo;est admis. Tous les man&egrave;ges ferment &agrave; 17h45 et le parc ferme &agrave; 18h00. Nous recommandons d&rsquo;arriver &agrave; l&rsquo;ouverture &agrave; 10h pour profiter de la journ&eacute;e compl&egrave;te.</p>"
+          },
+          {
+            "question": "Aquaverse est-il ouvert les jours f&eacute;ri&eacute;s tha&iuml;landais&nbsp;?",
+            "answer": "<p>Oui, Aquaverse est g&eacute;n&eacute;ralement ouvert les jours f&eacute;ri&eacute;s tha&iuml;landais (sauf les mercredis). Les p&eacute;riodes de f&ecirc;tes comme Songkran, le Nouvel An et les vacances scolaires sont g&eacute;n&eacute;ralement plus fr&eacute;quent&eacute;es avec des horaires &eacute;tendus possibles. Consultez la <strong>page Facebook officielle</strong> du parc ou appelez le <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a> pour les horaires sp&eacute;cifiques.</p>"
+          },
+          {
+            "question": "Quelle est la meilleure p&eacute;riode pour visiter Aquaverse&nbsp;?",
+            "answer": "<p>Les <strong>jours de semaine</strong> (lundi, mardi, jeudi, vendredi) sont les moins fr&eacute;quent&eacute;s. La <strong>saison s&egrave;che</strong> (novembre &agrave; avril) offre les meilleures conditions m&eacute;t&eacute;orologiques. Arrivez &agrave; 10h &agrave; l&rsquo;ouverture pour les files d&rsquo;attente les plus courtes. &Eacute;vitez les week-ends et les vacances scolaires tha&iuml;landaises si possible.</p>"
+          }
+        ]
+      },
+      {
+        "id": "getting-there",
+        "sectionLabel": "Cat&eacute;gorie 3",
+        "heading": "Acc&egrave;s &amp; Parking",
+        "description": "Comment se rendre &agrave; Aquaverse depuis Bangkok, Pattaya et les a&eacute;roports.",
+        "questions": [
+          {
+            "question": "Comment aller &agrave; Aquaverse depuis Bangkok&nbsp;?",
+            "answer": "<p><strong>En voiture&nbsp;:</strong> 1h30&ndash;2h via l&rsquo;autoroute Route 7 vers Pattaya. <strong>En bus&nbsp;:</strong> Depuis le terminal de bus d&rsquo;Ekkamai (pr&egrave;s du BTS Ekkamai), puis taxi jusqu&rsquo;au parc. <strong>En van partag&eacute;&nbsp;:</strong> Depuis Victory Monument ou Ekkamai, environ <strong>THB 240</strong> par personne. <strong>En Grab/taxi&nbsp;:</strong> THB 1&nbsp;200&ndash;1&nbsp;500 plus p&eacute;ages depuis Bangkok.</p>\n                <p><a href=\"/getting-there.html\">Guide complet pour se rendre &agrave; Aquaverse &rarr;</a></p>"
+          },
+          {
+            "question": "Comment aller &agrave; Aquaverse depuis Pattaya&nbsp;?",
+            "answer": "<p>Aquaverse est situ&eacute; &agrave; environ <strong>30 minutes au sud</strong> du centre-ville de Pattaya &agrave; Na Jomtien. <strong>En Grab/taxi&nbsp;:</strong> THB 300&ndash;500 depuis le centre de Pattaya. <strong>En songthaew (taxi partag&eacute;)&nbsp;:</strong> Prenez l&rsquo;itin&eacute;raire Na Jomtien. Il n&rsquo;y a pas de navette officielle du parc. L&rsquo;adresse est&nbsp;: 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip.</p>"
+          },
+          {
+            "question": "Y a-t-il une navette pour Aquaverse&nbsp;?",
+            "answer": "<p>Non, Aquaverse n&rsquo;exploite pas de navette officielle. La meilleure option depuis Pattaya est <strong>Grab</strong> (THB 300&ndash;500, 20&ndash;30 minutes). Certains h&ocirc;tels et voyagistes proposent des transferts priv&eacute;s moyennant un suppl&eacute;ment &mdash; renseignez-vous aupr&egrave;s de votre h&eacute;bergement.</p>"
+          },
+          {
+            "question": "Le parking est-il gratuit &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Oui, le parking est <strong>enti&egrave;rement gratuit</strong> pour tous les visiteurs d&rsquo;Aquaverse. Le parking est grand avec de la place pour les voitures, les vans et les bus de tourisme. Le parking moto est &eacute;galement disponible. Le parking est situ&eacute; directement devant l&rsquo;entr&eacute;e.</p>"
+          },
+          {
+            "question": "Comment aller &agrave; Aquaverse depuis l&rsquo;a&eacute;roport de Suvarnabhumi ou U-Tapao&nbsp;?",
+            "answer": "<p><strong>Depuis Suvarnabhumi (BKK)&nbsp;:</strong> 1h30&ndash;2h en voiture/taxi via l&rsquo;autoroute Route 7, environ <strong>THB 1&nbsp;500&ndash;2&nbsp;000</strong>. <strong>Depuis U-Tapao (UTP)&nbsp;:</strong> Seulement 20&ndash;30 minutes en voiture/taxi, environ <strong>THB 300&ndash;500</strong>. U-Tapao est l&rsquo;a&eacute;roport le plus proche d&rsquo;Aquaverse et dessert des vols depuis les principales villes tha&iuml;landaises ainsi que certaines destinations internationales.</p>"
+          }
+        ]
+      },
+      {
+        "id": "what-to-bring",
+        "sectionLabel": "Cat&eacute;gorie 4",
+        "heading": "Quoi Apporter &amp; Porter",
+        "description": "Code vestimentaire, articles autoris&eacute;s et ce qu&rsquo;il faut laisser &agrave; la maison.",
+        "questions": [
+          {
+            "question": "Que porter &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Une <strong>tenue de bain appropri&eacute;e</strong> est requise pour toutes les attractions aquatiques &mdash; maillots de bain, bikinis, shorts de bain et combinaisons anti-UV sont tous autoris&eacute;s. &Eacute;vitez les v&ecirc;tements avec des boutons, fermetures &eacute;clair ou boucles m&eacute;talliques sur les toboggans. Les chaussures aquatiques sont recommand&eacute;es pour marcher entre les zones. Tous les visiteurs doivent se doucher avant d&rsquo;acc&eacute;der aux attractions.</p>\n                <p><a href=\"/tips.html\">Voir tous nos conseils de visite &rarr;</a></p>"
+          },
+          {
+            "question": "Puis-je apporter ma propre serviette &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Oui, vous pouvez et <strong>devriez apporter votre propre serviette</strong> pour &eacute;conomiser. La location de serviette est disponible dans le parc moyennant un suppl&eacute;ment. Une serviette microfibre &agrave; s&eacute;chage rapide est id&eacute;ale car elle est compacte et s&egrave;che vite.</p>"
+          },
+          {
+            "question": "Puis-je apporter de la nourriture et des boissons &agrave; Aquaverse&nbsp;?",
+            "answer": "<p><strong>Non</strong>, la nourriture et les boissons ext&eacute;rieures ne sont pas autoris&eacute;es dans le parc. Les seules exceptions sont la nourriture pour b&eacute;b&eacute;s, le lait maternisé, les aliments m&eacute;dicalement n&eacute;cessaires et les bouteilles d&rsquo;eau scell&eacute;es. Le parc dispose de plusieurs restaurants et snack-bars avec des options de cuisine tha&iuml;landaise et internationale.</p>"
+          },
+          {
+            "question": "Quelle est la taille des casiers &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les casiers standard sont suffisamment grands pour contenir un <strong>sac &agrave; dos, des v&ecirc;tements de rechange, des chaussures et des effets personnels</strong>. Ils sont situ&eacute;s pr&egrave;s de l&rsquo;entr&eacute;e principale et peuvent &ecirc;tre utilis&eacute;s un nombre illimit&eacute; de fois dans la journ&eacute;e avec votre bracelet RFID. La location est gratuite avec les billets en ligne ou <strong>THB 300</strong> &agrave; l&rsquo;entr&eacute;e.</p>"
+          },
+          {
+            "question": "Quels articles sont interdits &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les articles interdits comprennent&nbsp;: nourriture et boissons ext&eacute;rieures, r&eacute;cipients en verre, skateboards et trottinettes, chaises pliantes et tentes pop-up, jouets gonflables et ballons de plage, objets tranchants, alcool apport&eacute; de l&rsquo;ext&eacute;rieur, drones et &eacute;quipements de photographie professionnelle. Les <strong>GoPros et perches &agrave; selfie</strong> ne sont pas autoris&eacute;s sur les man&egrave;ges mais permis dans les zones pi&eacute;tonnes.</p>"
+          }
+        ]
+      },
+      {
+        "id": "rides-attractions",
+        "sectionLabel": "Cat&eacute;gorie 5",
+        "heading": "Man&egrave;ges &amp; Attractions",
+        "description": "Restrictions de taille, capacit&eacute;s des man&egrave;ges et zones pour enfants.",
+        "questions": [
+          {
+            "question": "Quelles sont les restrictions de taille pour les man&egrave;ges &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les restrictions de taille varient selon le man&egrave;ge. Les toboggans extr&ecirc;mes <strong>Zombieland</strong> exigent une taille minimale de <strong>120 cm</strong>. La zone enfants Hotel Transylvania, la piscine &agrave; vagues et la rivi&egrave;re paresseuse n&rsquo;ont pas de restrictions de taille. Le poids maximum est de <strong>136 kg</strong> par si&egrave;ge. Des panneaux de mesure de taille sont affich&eacute;s &agrave; l&rsquo;entr&eacute;e de chaque man&egrave;ge.</p>\n                <p><a href=\"/attractions.html\">Voir toutes les attractions et leurs caract&eacute;ristiques &rarr;</a></p>"
+          },
+          {
+            "question": "Puis-je faire les man&egrave;ges seul &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>La plupart des toboggans peuvent &ecirc;tre utilis&eacute;s en solo. Certains man&egrave;ges en radeau n&eacute;cessitent 2 &agrave; 4 riders &mdash; dans ces cas, les riders seuls sont regroup&eacute;s avec d&rsquo;autres visiteurs. Le simulateur de surf <strong>FlowRider</strong> est une exp&eacute;rience solo. Renseignez-vous aupr&egrave;s des agents &agrave; chaque attraction pour les exigences sp&eacute;cifiques.</p>"
+          },
+          {
+            "question": "Quelle est la limite d&rsquo;&acirc;ge pour le karting &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Des restrictions de taille et d&rsquo;&acirc;ge s&rsquo;appliquent pour l&rsquo;exp&eacute;rience de karting <strong>Bad Boys</strong>. Le karting co&ucirc;te <strong>THB 640</strong> en suppl&eacute;ment (non inclus dans l&rsquo;admission standard du parc).</p>"
+          },
+          {
+            "question": "Le FlowRider est-il difficile &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Le simulateur de surf <strong>FlowRider</strong> propose deux modes&nbsp;: le <strong>bodyboard</strong> (adapt&eacute; aux d&eacute;butants, la plupart des visiteurs r&eacute;ussissent au premier essai) et le <strong>surf debout</strong> (avanc&eacute;, n&eacute;cessite &eacute;quilibre et pratique). Des instructeurs sont disponibles pour aider les d&eacute;butants. Aucune exp&eacute;rience pr&eacute;alable de surf n&rsquo;est n&eacute;cessaire pour le bodyboard. Taille minimale&nbsp;: <strong>110 cm</strong>.</p>"
+          },
+          {
+            "question": "Quelles zones sont les meilleures pour les jeunes enfants &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>La zone <strong>Hotel Transylvania</strong> est sp&eacute;cialement con&ccedil;ue pour les jeunes enfants, avec le plus grand terrain de jeux aquatique pour enfants d&rsquo;Asie du Sud-Est comprenant 9 toboggans adapt&eacute;s, des pads &agrave; &eacute;claboussures et des dizaines d&rsquo;attractions. La rivi&egrave;re paresseuse <strong>Cloudy with a Chance of Meatballs</strong> et les zones peu profondes de la <strong>Mega Wave Pool</strong> sont &eacute;galement id&eacute;ales pour les plus jeunes.</p>"
+          }
+        ]
+      },
+      {
+        "id": "food-dining",
+        "sectionLabel": "Cat&eacute;gorie 6",
+        "heading": "Restauration",
+        "description": "Restaurants, options alimentaires et fonctionnement du syst&egrave;me de paiement Foodville.",
+        "questions": [
+          {
+            "question": "Quels restaurants se trouvent &agrave; l&rsquo;int&eacute;rieur d&rsquo;Aquaverse&nbsp;?",
+            "answer": "<p>Aquaverse dispose de plusieurs espaces de restauration th&eacute;matiques dont une <strong>food court</strong>, des stands de cuisine tha&iuml;landaise et des snack-bars. Le parc utilise un syst&egrave;me de cr&eacute;dit appel&eacute; <strong>Foodville</strong> pour tous les achats. Les prix des plats vont de <strong>THB 80 &agrave; THB 350</strong>. Des stands de collations et de glaces sont &eacute;galement dispers&eacute;s dans tout le parc.</p>"
+          },
+          {
+            "question": "Y a-t-il de la nourriture halal &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Bien qu&rsquo;il n&rsquo;y ait pas de restaurant certifi&eacute; halal d&eacute;di&eacute; &agrave; Aquaverse, plusieurs options alimentaires conviennent aux visiteurs musulmans, notamment les fruits de mer, le poulet grillé et les plats de l&eacute;gumes. Le personnel peut renseigner sur les ingr&eacute;dients. Les plats &agrave; base de porc sont clairement indiqu&eacute;s sur les menus. Pour des exigences halal strictes, il est conseill&eacute; de manger avant d&rsquo;arriver au parc.</p>"
+          },
+          {
+            "question": "Y a-t-il des options v&eacute;g&eacute;tariennes ou v&eacute;ganes &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Oui, des <strong>options v&eacute;g&eacute;tariennes</strong> sont disponibles dans la plupart des points de restauration, notamment des burgers v&eacute;g&eacute;tariens, des salades, des plats de riz, des fruits frais et des saut&eacute;s de l&eacute;gumes tha&iuml;landais. Les options v&eacute;ganes sont plus limit&eacute;es mais disponibles sur demande. Le bar propose des smoothies et jus de fruits frais.</p>"
+          },
+          {
+            "question": "Comment fonctionne le syst&egrave;me de paiement RFID &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>&Agrave; l&rsquo;entr&eacute;e, les visiteurs re&ccedil;oivent un <strong>bracelet RFID</strong> qui peut &ecirc;tre recharg&eacute; aux bornes de recharge. Le bracelet est utilis&eacute; pour payer la nourriture, les boissons, les marchandises et les activit&eacute;s optionnelles dans tout le parc via le syst&egrave;me <strong>Foodville</strong>. Tout solde non utilis&eacute; est rembours&eacute; aux bornes de sortie. Le bracelet est &eacute;galement li&eacute; au syst&egrave;me de capture photo automatique du parc.</p>"
+          }
+        ]
+      },
+      {
+        "id": "facilities",
+        "sectionLabel": "Cat&eacute;gorie 1",
+        "heading": "Billets &amp; Tarifs",
+        "description": "Tout sur les prix des billets, les r&eacute;ductions et les options de r&eacute;servation.",
+        "questions": [
+          {
+            "question": "Combien co&ucirc;tent les billets Aquaverse&nbsp;?",
+            "answer": "<p>Le prix &agrave; l&rsquo;entr&eacute;e est de <strong>THB 1&nbsp;595</strong> (~22 EUR) par personne. Les billets en ligne &agrave; l&rsquo;avance commencent &agrave; partir de <strong>THB 1&nbsp;176</strong> (~22 EUR), soit jusqu&rsquo;&agrave; <strong>~27% d&rsquo;&eacute;conomie</strong>. Les enfants de moins de 3 ans entrent gratuitement. Les billets en ligne incluent la location de casier (valeur THB 300).</p>\n                <p><a href=\"/tickets.html\">Voir toutes les options de billets et comparer les prix &rarr;</a></p>"
+          },
+          {
+            "question": "Combien co&ucirc;tent les billets enfants &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les enfants de moins de <strong>3 ans entrent gratuitement</strong>. Les enfants de 3&ndash;12 ans et les seniors de 65 ans et plus peuvent b&eacute;n&eacute;ficier d&rsquo;un tarif r&eacute;duit &agrave; l&rsquo;entr&eacute;e de <strong>THB 1&nbsp;290</strong> (contre THB 1&nbsp;590 pour les adultes). Les billets en ligne utilisent g&eacute;n&eacute;ralement un tarif unique pour tous les &acirc;ges 3+, &agrave; partir de <strong>THB 1&nbsp;176</strong>.</p>"
+          },
+          {
+            "question": "Est-il moins cher d&rsquo;acheter les billets en ligne ou &agrave; l&rsquo;entr&eacute;e&nbsp;?",
+            "answer": "<p>Les billets en ligne sont <strong>nettement moins chers</strong>. Le prix &agrave; l&rsquo;entr&eacute;e est de THB 1&nbsp;595 tandis que les prix en ligne commencent &agrave; partir de THB 1&nbsp;176 &mdash; soit jusqu&rsquo;&agrave; <strong>~27% de r&eacute;duction</strong>. Les billets en ligne incluent &eacute;galement la location de casier gratuite (valeur THB 300) et une confirmation de bon mobile instantan&eacute;e. Nous recommandons fortement de r&eacute;server en ligne via des plateformes comme Klook ou KKday.</p>\n                <p><a href=\"/tickets.html\">Comparer les offres de billets en ligne &rarr;</a></p>"
+          },
+          {
+            "question": "La location de casier est-elle incluse avec les billets Aquaverse&nbsp;?",
+            "answer": "<p>La location de casier est <strong>incluse gratuitement avec les billets en ligne</strong>. Si vous achetez les billets &agrave; l&rsquo;entr&eacute;e, la location de casier co&ucirc;te <strong>THB 300</strong> suppl&eacute;mentaires. Les casiers sont situ&eacute;s pr&egrave;s de l&rsquo;entr&eacute;e et peuvent &ecirc;tre utilis&eacute;s un nombre illimit&eacute; de fois dans la journ&eacute;e gr&acirc;ce &agrave; votre bracelet RFID.</p>"
+          },
+          {
+            "question": "Y a-t-il des r&eacute;ductions ou promotions pour Aquaverse&nbsp;?",
+            "answer": "<p>Oui, les meilleures r&eacute;ductions sont disponibles via les plateformes de r&eacute;servation en ligne comme <strong>Klook, KKday et Tiquets</strong> avec des &eacute;conomies jusqu&rsquo;&agrave; ~27% sur le prix &agrave; l&rsquo;entr&eacute;e. Les ressortissants tha&iuml;landais peuvent b&eacute;n&eacute;ficier de tarifs sp&eacute;ciaux sur pr&eacute;sentation d&rsquo;une pi&egrave;ce d&rsquo;identit&eacute; valide. Des promotions occasionnelles ont lieu pendant les f&ecirc;tes et &eacute;v&eacute;nements sp&eacute;ciaux &mdash; consultez les r&eacute;seaux sociaux du parc pour les derni&egrave;res offres.</p>"
+          },
+          {
+            "question": "Aquaverse propose-t-il des tarifs de groupe&nbsp;?",
+            "answer": "<p>Oui, Aquaverse propose des tarifs de groupe pour les groupes de <strong>10 personnes ou plus</strong>. Les r&eacute;servations de groupe doivent &ecirc;tre organis&eacute;es directement aupr&egrave;s de l&rsquo;&eacute;quipe commerciale du parc. Les groupes scolaires, les sorties d&rsquo;entreprise et les voyagistes peuvent b&eacute;n&eacute;ficier de remises suppl&eacute;mentaires. Contactez le parc au <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a> pour les demandes de tarifs de groupe.</p>"
+          },
+          {
+            "question": "Combien co&ucirc;te un cabana &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les options de location de cabana sont&nbsp;: <strong>Deluxe THB 2&nbsp;500/jour</strong>, Super Deluxe THB 3&nbsp;000/jour et VIP THB 3&nbsp;500/jour. Les cabanas comprennent un ombrage, des si&egrave;ges confortables, des serviettes, un assistant personnel et un service de restauration prioritaire. Les r&eacute;servations sont recommand&eacute;es, surtout le week-end.</p>"
+          },
+          {
+            "question": "Puis-je &ecirc;tre rembours&eacute; pour mes billets Aquaverse&nbsp;?",
+            "answer": "<p>Les politiques de remboursement d&eacute;pendent de l&rsquo;endroit o&ugrave; vous avez achet&eacute; vos billets. La plupart des plateformes en ligne (Klook, KKday) offrent l&rsquo;<strong>annulation gratuite jusqu&rsquo;&agrave; 24 heures</strong> avant la date de visite. Les billets achet&eacute;s &agrave; l&rsquo;entr&eacute;e sont g&eacute;n&eacute;ralement non remboursables. V&eacute;rifiez toujours la politique d&rsquo;annulation avant de r&eacute;server.</p>"
+          },
+          {
+            "question": "Quels sont les horaires d&rsquo;ouverture d&rsquo;Aquaverse&nbsp;?",
+            "answer": "<p>Aquaverse est ouvert <strong>tous les jours de 10h00 &agrave; 18h00</strong>. Les man&egrave;ges ferment &agrave; 17h45. La derni&egrave;re admission est &agrave; 15h30. Le parc est ferm&eacute; tous les <strong>mercredis</strong> pour maintenance programm&eacute;e.</p>"
+          },
+          {
+            "question": "Aquaverse est-il ferm&eacute; le mercredi&nbsp;?",
+            "answer": "<p>Oui, Columbia Pictures Aquaverse est <strong>ferm&eacute; tous les mercredis</strong> pour maintenance programm&eacute;e. Le parc est ouvert de 10h &agrave; 18h le lundi, mardi, jeudi, vendredi, samedi et dimanche.</p>"
+          },
+          {
+            "question": "Quelle est la derni&egrave;re admission &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>La derni&egrave;re admission &agrave; Aquaverse est &agrave; <strong>15h30</strong>. Apr&egrave;s cette heure, aucun nouveau visiteur n&rsquo;est admis. Tous les man&egrave;ges ferment &agrave; 17h45 et le parc ferme &agrave; 18h00. Nous recommandons d&rsquo;arriver &agrave; l&rsquo;ouverture &agrave; 10h pour profiter de la journ&eacute;e compl&egrave;te.</p>"
+          },
+          {
+            "question": "Aquaverse est-il ouvert les jours f&eacute;ri&eacute;s tha&iuml;landais&nbsp;?",
+            "answer": "<p>Oui, Aquaverse est g&eacute;n&eacute;ralement ouvert les jours f&eacute;ri&eacute;s tha&iuml;landais (sauf les mercredis). Les p&eacute;riodes de f&ecirc;tes comme Songkran, le Nouvel An et les vacances scolaires sont g&eacute;n&eacute;ralement plus fr&eacute;quent&eacute;es avec des horaires &eacute;tendus possibles. Consultez la <strong>page Facebook officielle</strong> du parc ou appelez le <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a> pour les horaires sp&eacute;cifiques.</p>"
+          },
+          {
+            "question": "Quelle est la meilleure p&eacute;riode pour visiter Aquaverse&nbsp;?",
+            "answer": "<p>Les <strong>jours de semaine</strong> (lundi, mardi, jeudi, vendredi) sont les moins fr&eacute;quent&eacute;s. La <strong>saison s&egrave;che</strong> (novembre &agrave; avril) offre les meilleures conditions m&eacute;t&eacute;orologiques. Arrivez &agrave; 10h &agrave; l&rsquo;ouverture pour les files d&rsquo;attente les plus courtes. &Eacute;vitez les week-ends et les vacances scolaires tha&iuml;landaises si possible.</p>"
+          },
+          {
+            "question": "Comment aller &agrave; Aquaverse depuis Bangkok&nbsp;?",
+            "answer": "<p><strong>En voiture&nbsp;:</strong> 1h30&ndash;2h via l&rsquo;autoroute Route 7 vers Pattaya. <strong>En bus&nbsp;:</strong> Depuis le terminal de bus d&rsquo;Ekkamai (pr&egrave;s du BTS Ekkamai), puis taxi jusqu&rsquo;au parc. <strong>En van partag&eacute;&nbsp;:</strong> Depuis Victory Monument ou Ekkamai, environ <strong>THB 240</strong> par personne. <strong>En Grab/taxi&nbsp;:</strong> THB 1&nbsp;200&ndash;1&nbsp;500 plus p&eacute;ages depuis Bangkok.</p>\n                <p><a href=\"/getting-there.html\">Guide complet pour se rendre &agrave; Aquaverse &rarr;</a></p>"
+          },
+          {
+            "question": "Comment aller &agrave; Aquaverse depuis Pattaya&nbsp;?",
+            "answer": "<p>Aquaverse est situ&eacute; &agrave; environ <strong>30 minutes au sud</strong> du centre-ville de Pattaya &agrave; Na Jomtien. <strong>En Grab/taxi&nbsp;:</strong> THB 300&ndash;500 depuis le centre de Pattaya. <strong>En songthaew (taxi partag&eacute;)&nbsp;:</strong> Prenez l&rsquo;itin&eacute;raire Na Jomtien. Il n&rsquo;y a pas de navette officielle du parc. L&rsquo;adresse est&nbsp;: 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip.</p>"
+          },
+          {
+            "question": "Y a-t-il une navette pour Aquaverse&nbsp;?",
+            "answer": "<p>Non, Aquaverse n&rsquo;exploite pas de navette officielle. La meilleure option depuis Pattaya est <strong>Grab</strong> (THB 300&ndash;500, 20&ndash;30 minutes). Certains h&ocirc;tels et voyagistes proposent des transferts priv&eacute;s moyennant un suppl&eacute;ment &mdash; renseignez-vous aupr&egrave;s de votre h&eacute;bergement.</p>"
+          },
+          {
+            "question": "Le parking est-il gratuit &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Oui, le parking est <strong>enti&egrave;rement gratuit</strong> pour tous les visiteurs d&rsquo;Aquaverse. Le parking est grand avec de la place pour les voitures, les vans et les bus de tourisme. Le parking moto est &eacute;galement disponible. Le parking est situ&eacute; directement devant l&rsquo;entr&eacute;e.</p>"
+          },
+          {
+            "question": "Comment aller &agrave; Aquaverse depuis l&rsquo;a&eacute;roport de Suvarnabhumi ou U-Tapao&nbsp;?",
+            "answer": "<p><strong>Depuis Suvarnabhumi (BKK)&nbsp;:</strong> 1h30&ndash;2h en voiture/taxi via l&rsquo;autoroute Route 7, environ <strong>THB 1&nbsp;500&ndash;2&nbsp;000</strong>. <strong>Depuis U-Tapao (UTP)&nbsp;:</strong> Seulement 20&ndash;30 minutes en voiture/taxi, environ <strong>THB 300&ndash;500</strong>. U-Tapao est l&rsquo;a&eacute;roport le plus proche d&rsquo;Aquaverse et dessert des vols depuis les principales villes tha&iuml;landaises ainsi que certaines destinations internationales.</p>"
+          },
+          {
+            "question": "Que porter &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Une <strong>tenue de bain appropri&eacute;e</strong> est requise pour toutes les attractions aquatiques &mdash; maillots de bain, bikinis, shorts de bain et combinaisons anti-UV sont tous autoris&eacute;s. &Eacute;vitez les v&ecirc;tements avec des boutons, fermetures &eacute;clair ou boucles m&eacute;talliques sur les toboggans. Les chaussures aquatiques sont recommand&eacute;es pour marcher entre les zones. Tous les visiteurs doivent se doucher avant d&rsquo;acc&eacute;der aux attractions.</p>\n                <p><a href=\"/tips.html\">Voir tous nos conseils de visite &rarr;</a></p>"
+          },
+          {
+            "question": "Puis-je apporter ma propre serviette &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Oui, vous pouvez et <strong>devriez apporter votre propre serviette</strong> pour &eacute;conomiser. La location de serviette est disponible dans le parc moyennant un suppl&eacute;ment. Une serviette microfibre &agrave; s&eacute;chage rapide est id&eacute;ale car elle est compacte et s&egrave;che vite.</p>"
+          },
+          {
+            "question": "Puis-je apporter de la nourriture et des boissons &agrave; Aquaverse&nbsp;?",
+            "answer": "<p><strong>Non</strong>, la nourriture et les boissons ext&eacute;rieures ne sont pas autoris&eacute;es dans le parc. Les seules exceptions sont la nourriture pour b&eacute;b&eacute;s, le lait maternisé, les aliments m&eacute;dicalement n&eacute;cessaires et les bouteilles d&rsquo;eau scell&eacute;es. Le parc dispose de plusieurs restaurants et snack-bars avec des options de cuisine tha&iuml;landaise et internationale.</p>"
+          },
+          {
+            "question": "Quelle est la taille des casiers &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les casiers standard sont suffisamment grands pour contenir un <strong>sac &agrave; dos, des v&ecirc;tements de rechange, des chaussures et des effets personnels</strong>. Ils sont situ&eacute;s pr&egrave;s de l&rsquo;entr&eacute;e principale et peuvent &ecirc;tre utilis&eacute;s un nombre illimit&eacute; de fois dans la journ&eacute;e avec votre bracelet RFID. La location est gratuite avec les billets en ligne ou <strong>THB 300</strong> &agrave; l&rsquo;entr&eacute;e.</p>"
+          },
+          {
+            "question": "Quels articles sont interdits &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les articles interdits comprennent&nbsp;: nourriture et boissons ext&eacute;rieures, r&eacute;cipients en verre, skateboards et trottinettes, chaises pliantes et tentes pop-up, jouets gonflables et ballons de plage, objets tranchants, alcool apport&eacute; de l&rsquo;ext&eacute;rieur, drones et &eacute;quipements de photographie professionnelle. Les <strong>GoPros et perches &agrave; selfie</strong> ne sont pas autoris&eacute;s sur les man&egrave;ges mais permis dans les zones pi&eacute;tonnes.</p>"
+          },
+          {
+            "question": "Quelles sont les restrictions de taille pour les man&egrave;ges &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Les restrictions de taille varient selon le man&egrave;ge. Les toboggans extr&ecirc;mes <strong>Zombieland</strong> exigent une taille minimale de <strong>120 cm</strong>. La zone enfants Hotel Transylvania, la piscine &agrave; vagues et la rivi&egrave;re paresseuse n&rsquo;ont pas de restrictions de taille. Le poids maximum est de <strong>136 kg</strong> par si&egrave;ge. Des panneaux de mesure de taille sont affich&eacute;s &agrave; l&rsquo;entr&eacute;e de chaque man&egrave;ge.</p>\n                <p><a href=\"/attractions.html\">Voir toutes les attractions et leurs caract&eacute;ristiques &rarr;</a></p>"
+          },
+          {
+            "question": "Puis-je faire les man&egrave;ges seul &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>La plupart des toboggans peuvent &ecirc;tre utilis&eacute;s en solo. Certains man&egrave;ges en radeau n&eacute;cessitent 2 &agrave; 4 riders &mdash; dans ces cas, les riders seuls sont regroup&eacute;s avec d&rsquo;autres visiteurs. Le simulateur de surf <strong>FlowRider</strong> est une exp&eacute;rience solo. Renseignez-vous aupr&egrave;s des agents &agrave; chaque attraction pour les exigences sp&eacute;cifiques.</p>"
+          },
+          {
+            "question": "Quelle est la limite d&rsquo;&acirc;ge pour le karting &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Des restrictions de taille et d&rsquo;&acirc;ge s&rsquo;appliquent pour l&rsquo;exp&eacute;rience de karting <strong>Bad Boys</strong>. Le karting co&ucirc;te <strong>THB 640</strong> en suppl&eacute;ment (non inclus dans l&rsquo;admission standard du parc).</p>"
+          },
+          {
+            "question": "Le FlowRider est-il difficile &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Le simulateur de surf <strong>FlowRider</strong> propose deux modes&nbsp;: le <strong>bodyboard</strong> (adapt&eacute; aux d&eacute;butants, la plupart des visiteurs r&eacute;ussissent au premier essai) et le <strong>surf debout</strong> (avanc&eacute;, n&eacute;cessite &eacute;quilibre et pratique). Des instructeurs sont disponibles pour aider les d&eacute;butants. Aucune exp&eacute;rience pr&eacute;alable de surf n&rsquo;est n&eacute;cessaire pour le bodyboard. Taille minimale&nbsp;: <strong>110 cm</strong>.</p>"
+          },
+          {
+            "question": "Quelles zones sont les meilleures pour les jeunes enfants &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>La zone <strong>Hotel Transylvania</strong> est sp&eacute;cialement con&ccedil;ue pour les jeunes enfants, avec le plus grand terrain de jeux aquatique pour enfants d&rsquo;Asie du Sud-Est comprenant 9 toboggans adapt&eacute;s, des pads &agrave; &eacute;claboussures et des dizaines d&rsquo;attractions. La rivi&egrave;re paresseuse <strong>Cloudy with a Chance of Meatballs</strong> et les zones peu profondes de la <strong>Mega Wave Pool</strong> sont &eacute;galement id&eacute;ales pour les plus jeunes.</p>"
+          },
+          {
+            "question": "Quels restaurants se trouvent &agrave; l&rsquo;int&eacute;rieur d&rsquo;Aquaverse&nbsp;?",
+            "answer": "<p>Aquaverse dispose de plusieurs espaces de restauration th&eacute;matiques dont une <strong>food court</strong>, des stands de cuisine tha&iuml;landaise et des snack-bars. Le parc utilise un syst&egrave;me de cr&eacute;dit appel&eacute; <strong>Foodville</strong> pour tous les achats. Les prix des plats vont de <strong>THB 80 &agrave; THB 350</strong>. Des stands de collations et de glaces sont &eacute;galement dispers&eacute;s dans tout le parc.</p>"
+          },
+          {
+            "question": "Y a-t-il de la nourriture halal &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Bien qu&rsquo;il n&rsquo;y ait pas de restaurant certifi&eacute; halal d&eacute;di&eacute; &agrave; Aquaverse, plusieurs options alimentaires conviennent aux visiteurs musulmans, notamment les fruits de mer, le poulet grillé et les plats de l&eacute;gumes. Le personnel peut renseigner sur les ingr&eacute;dients. Les plats &agrave; base de porc sont clairement indiqu&eacute;s sur les menus. Pour des exigences halal strictes, il est conseill&eacute; de manger avant d&rsquo;arriver au parc.</p>"
+          },
+          {
+            "question": "Y a-t-il des options v&eacute;g&eacute;tariennes ou v&eacute;ganes &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>Oui, des <strong>options v&eacute;g&eacute;tariennes</strong> sont disponibles dans la plupart des points de restauration, notamment des burgers v&eacute;g&eacute;tariens, des salades, des plats de riz, des fruits frais et des saut&eacute;s de l&eacute;gumes tha&iuml;landais. Les options v&eacute;ganes sont plus limit&eacute;es mais disponibles sur demande. Le bar propose des smoothies et jus de fruits frais.</p>"
+          },
+          {
+            "question": "Comment fonctionne le syst&egrave;me de paiement RFID &agrave; Aquaverse&nbsp;?",
+            "answer": "<p>&Agrave; l&rsquo;entr&eacute;e, les visiteurs re&ccedil;oivent un <strong>bracelet RFID</strong> qui peut &ecirc;tre recharg&eacute; aux bornes de recharge. Le bracelet est utilis&eacute; pour payer la nourriture, les boissons, les marchandises et les activit&eacute;s optionnelles dans tout le parc via le syst&egrave;me <strong>Foodville</strong>. Tout solde non utilis&eacute; est rembours&eacute; aux bornes de sortie. Le bracelet est &eacute;galement li&eacute; au syst&egrave;me de capture photo automatique du parc.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "stickyBar": {
+    "subText": "par personne &bull; &eacute;conomisez ~27%",
+    "bookNow": "R&eacute;server maintenant",
+    "ariaLabel": "Barre de r&eacute;servation"
+  },
+  "footer": {
+    "brandDescription": "Votre guide complet et ind&eacute;pendant de Columbia Pictures Aquaverse &agrave; Pattaya. Conseils de voyage, comparaisons de billets et bien plus encore.",
+    "quickLinksHeading": "Liens rapides",
+    "quickLinks": [
+      "Accueil",
+      "Attractions",
+      "Billets",
+      "Comment s&rsquo;y rendre",
+      "Conseils",
+      "FAQ"
+    ],
+    "guidesHeading": "Guides de voyage",
+    "guideLabels": [
+      "Blog"
+    ],
+    "parkInfoHeading": "",
+    "mapsLinkText": "",
+    "hoursItems": [],
+    "affiliate": "",
+    "disclaimer": "",
+    "copyright": "This is an independent fan guide. Not affiliated with or endorsed by Columbia Pictures or Sony Pictures. All trademarks belong to their respective owners."
+  }
+}

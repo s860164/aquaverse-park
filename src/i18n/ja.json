@@ -1,0 +1,385 @@
+{
+  "skipLink": "メインコンテンツへスキップ",
+  "nav": {
+    "home": "ホーム",
+    "attractions": "アトラクション",
+    "tickets": "チケット",
+    "gettingThere": "アクセス",
+    "tips": "攻略法",
+    "faq": "よくある質問",
+    "blog": "ブログ",
+    "bookTickets": "チケット予約"
+  },
+  "announcement": {
+    "text": "期間限定：Aquaverseチケット最大~27%OFF &mdash; オンライン限定価格 THB 1,176（約3,800円）から！",
+    "linkText": "今すぐ予約 &rarr;"
+  },
+  "faq": {
+    "title": "Aquaverse よくある質問 | 40以上のQ&A | Columbia Pictures Aquaverse",
+    "metaDescription": "Columbia Pictures Aquaverseパタヤに関する40以上のよくある質問への回答。チケット、営業時間、アクセス、服装、アトラクション、食事、施設などをご案内。",
+    "metaKeywords": "Aquaverse FAQ, Aquaverse よくある質問, Aquaverse チケット, Aquaverse 営業時間, Aquaverse 服装, Aquaverse 食事, Aquaverse 身長制限, Aquaverse 駐車場",
+    "ogTitle": "Aquaverse よくある質問 | 40以上のQ&A",
+    "ogDescription": "Columbia Pictures Aquaverse訪問に関するすべての質問への回答。チケット、営業時間、アクセス、持ち物、アトラクション、食事、施設について。",
+    "twitterTitle": "Aquaverse よくある質問 | 40以上のQ&A",
+    "twitterDescription": "Aquaverseパタヤに関する40以上のFAQ：チケット、営業時間、アクセス、服装、アトラクション、食事など。",
+    "breadcrumbHome": "ホーム",
+    "breadcrumbCurrent": "よくある質問",
+    "heroTitle": "よくある質問",
+    "heroSubtitle": "40以上の質問にお答えします",
+    "heroText": "パタヤのColumbia Pictures Aquaverse訪問に関するすべての疑問にお答えします。\n        お探しの回答が見つからない場合は <a href=\"tel:+66330049999\" style=\"color: white; text-decoration: underline;\">+66 (0) 33 004 999</a> までお電話ください。",
+    "jumpTitle": "カテゴリから探す",
+    "jumpLabels": {
+      "tickets-pricing": "チケット &amp; 料金",
+      "hours-schedule": "営業時間 &amp; スケジュール",
+      "getting-there": "アクセス &amp; 駐車場",
+      "what-to-bring": "持ち物 &amp; 服装",
+      "rides-attractions": "アトラクション",
+      "food-dining": "食事 &amp; ダイニング",
+      "facilities": "施設 &amp; サービス"
+    },
+    "categories": [
+      {
+        "id": "tickets-pricing",
+        "sectionLabel": "チケット &amp; 料金",
+        "heading": "チケット &amp; 料金",
+        "description": "チケット料金・割引・予約方法に関するすべての情報。",
+        "questions": [
+          {
+            "question": "Aquaverseのチケット料金はいくらですか？",
+            "answer": "<p>当日券（ゲート購入）はお一人様<strong>THB 1,595</strong>（約3,800円）です。オンライン事前購入チケットは<strong>THB 1,176</strong>（約2,800円）から、最大<strong>約27%お得</strong>です。3歳未満のお子様は無料。オンラインチケットにはロッカーレンタル（THB 300相当）が含まれます。</p>\n                <p><a href=\"/tickets.html\">全チケットオプションと料金比較を見る &rarr;</a></p>"
+          },
+          {
+            "question": "Aquaverseの子ども料金はいくらですか？",
+            "answer": "<p><strong>3歳未満のお子様は無料</strong>でご入場いただけます。3〜12歳のお子様と65歳以上のシニアの方は、ゲートで<strong>THB 1,290</strong>の割引料金が適用される場合があります（大人はTHB 1,590）。オンラインチケットは通常3歳以上の全年齢で一律<strong>THB 1,176</strong>からとなります。</p>"
+          },
+          {
+            "question": "オンライン購入とゲート購入、どちらがお得ですか？",
+            "answer": "<p>オンライン購入が<strong>断然お得</strong>です。ゲート料金THB 1,595に対し、オンラインはTHB 1,176から、最大<strong>約27%割引</strong>。さらにロッカーレンタル無料（THB 300相当）と即時モバイルバウチャー確認が付きます。KlookやKKdayでの事前購入を強くお勧めします。</p>\n                <p><a href=\"/tickets.html\">オンラインチケットのお得な情報を比較 &rarr;</a></p>"
+          },
+          {
+            "question": "Aquaverseのチケットにロッカーレンタルは含まれますか？",
+            "answer": "<p>オンライン事前購入チケットには<strong>ロッカーレンタルが無料で含まれます</strong>。ゲート購入の場合、ロッカーレンタルは別途<strong>THB 300</strong>が必要です。ロッカーは入口近くにあり、RFIDリストバンドで1日中何度でも利用可能です。</p>"
+          },
+          {
+            "question": "Aquaverseの割引やプロモーションはありますか？",
+            "answer": "<p>はい、最もお得な割引は<strong>Klook・KKday・Tiquets</strong>などのオンライン予約プラットフォームで、ゲート料金から最大約27%OFF。タイ国籍の方は有効なIDで特別料金が適用される場合があります。祝日や特別イベント期間中に期間限定プロモーションが実施されることもあります &mdash; 最新情報はパークの公式SNSをご確認ください。</p>"
+          },
+          {
+            "question": "Aquaverseにグループ料金はありますか？",
+            "answer": "<p>はい、<strong>10名以上のグループ</strong>には団体料金をご用意しています。グループ予約はパークの営業チームに直接ご連絡ください。学校グループ・法人・旅行会社にはさらなる割引が適用される場合があります。団体料金のお問い合わせは<a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>まで。</p>"
+          },
+          {
+            "question": "Aquaverseのカバナ料金はいくらですか？",
+            "answer": "<p>カバナレンタルの選択肢：<strong>デラックス THB 2,500/日</strong>、スーパーデラックス THB 3,000/日、VIP THB 3,500/日。カバナにはシェード・快適なシート・タオル・専属アテンダント・優先フードサービスが含まれます。週末は事前予約をお勧めします。</p>"
+          },
+          {
+            "question": "Aquaverseチケットの返金はできますか？",
+            "answer": "<p>返金ポリシーは購入場所によって異なります。ほとんどのオンラインプラットフォーム（Klook・KKday）では、訪問日の<strong>24時間前まで無料キャンセル</strong>が可能です。ゲート購入チケットは原則返金不可です。予約前に必ずキャンセルポリシーをご確認ください。</p>"
+          }
+        ]
+      },
+      {
+        "id": "hours-schedule",
+        "sectionLabel": "営業時間 &amp; スケジュール",
+        "heading": "営業時間 &amp; スケジュール",
+        "description": "営業時間・休園日・ベストな訪問時期について。",
+        "questions": [
+          {
+            "question": "Aquaverseの営業時間は？",
+            "answer": "<p>Aquaverseは<strong>毎日午前10時〜午後6時</strong>の営業です。ライドは午後5時45分に終了。最終入場は<strong>午後3時30分</strong>。毎週<strong>水曜日</strong>は定期メンテナンスのため休園となります。</p>"
+          },
+          {
+            "question": "Aquaverseは水曜日に休園ですか？",
+            "answer": "<p>はい、Columbia Pictures Aquaverseは定期メンテナンスのため<strong>毎週水曜日が休園</strong>となります。月・火・木・金・土・日曜日は午前10時〜午後6時に営業しています。</p>"
+          },
+          {
+            "question": "Aquaverseの最終入場時間は？",
+            "answer": "<p>最終入場は<strong>午後3時30分</strong>です。それ以降の新規入場はできません。全ライドは午後5時45分に終了し、パークは午後6時に閉園します。1日を満喫するため、<strong>午前10時の開園</strong>に合わせてお越しください。</p>"
+          },
+          {
+            "question": "Aquaverseはタイの祝日にも営業していますか？",
+            "answer": "<p>はい、Aquaverseは一般的にタイの祝日（水曜日を除く）も営業しています。ソンクラーン・正月・学校休み期間は混雑し、営業時間が延長される場合があります。具体的な祝日スケジュールはパーク<strong>公式Facebookページ</strong>か<a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>にお問い合わせください。</p>"
+          },
+          {
+            "question": "Aquaverseを訪れるベストシーズンはいつですか？",
+            "answer": "<p><strong>平日</strong>（月・火・木・金）が最も空いています。<strong>乾季</strong>（11月〜4月）が最も天候に恵まれます。待ち時間を最短にするには開園の<strong>午前10時</strong>に到着するのがベスト。週末やタイの学校休み期間はなるべく避けることをお勧めします。</p>"
+          }
+        ]
+      },
+      {
+        "id": "getting-there",
+        "sectionLabel": "アクセス &amp; 駐車場",
+        "heading": "アクセス &amp; 駐車場",
+        "description": "バンコク・パタヤ・各空港からAquaverseへのアクセス方法。",
+        "questions": [
+          {
+            "question": "バンコクからAquaverseへのアクセス方法は？",
+            "answer": "<p><strong>車：</strong>パタヤ方面へ高速道路7号線経由で1.5〜2時間。<strong>バス：</strong>エカマイバスターミナル（BTSエカマイ駅隣）からバス乗車後、タクシーでパークへ。<strong>相乗りバン：</strong>ビクトリーモニュメントまたはエカマイから約<strong>THB 240/人</strong>。<strong>Grab/タクシー：</strong>バンコクからTHB 1,200〜1,500＋高速料金。</p>\n                <p><a href=\"/getting-there.html\">Aquaverseへのアクセス完全ガイド &rarr;</a></p>"
+          },
+          {
+            "question": "パタヤからAquaverseへのアクセス方法は？",
+            "answer": "<p>AquaverseはNa JomtienにあるパタヤΡΕΜ市街地から<strong>南へ約30分</strong>の場所にあります。<strong>Grab/タクシー：</strong>パタヤ中心部からTHB 300〜500。<strong>ソンテウ（乗り合いタクシー）：</strong>Na Jomtienルートをご利用ください。公式シャトルバスはありません。住所：888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip。</p>"
+          },
+          {
+            "question": "Aquaverseへのシャトルバスはありますか？",
+            "answer": "<p>いいえ、公式シャトルバスは運行していません。パタヤからは<strong>Grab</strong>（THB 300〜500、20〜30分）が最もお勧めです。一部のホテルや旅行会社が有料で送迎サービスを提供している場合があります。宿泊施設にご確認ください。</p>"
+          },
+          {
+            "question": "Aquaverseの駐車場は無料ですか？",
+            "answer": "<p>はい、全ゲストに<strong>無料駐車場</strong>をご提供しています。普通車・バン・観光バスに対応した広い駐車場です。バイク駐車場もあります。駐車場は入口正面にあります。</p>"
+          },
+          {
+            "question": "スワンナプーム空港またはウタパオ空港からのアクセスは？",
+            "answer": "<p><strong>スワンナプーム（BKK）から：</strong>高速道路7号線経由で車/タクシーにより1.5〜2時間、約<strong>THB 1,500〜2,000</strong>。<strong>ウタパオ（UTP）から：</strong>車/タクシーで<strong>20〜30分</strong>、約THB 300〜500。ウタパオはAquaverseに最も近い空港で、主要タイ都市および一部の国際線が就航しています。</p>"
+          }
+        ]
+      },
+      {
+        "id": "what-to-bring",
+        "sectionLabel": "持ち物 &amp; 服装",
+        "heading": "持ち物 &amp; 服装",
+        "description": "服装ルール・持ち込み可能なもの・持ち込み禁止品について。",
+        "questions": [
+          {
+            "question": "Aquaverseでは何を着ていけばいいですか？",
+            "answer": "<p>全ウォーターアトラクションでは<strong>適切な水着が必要</strong>です。水着・ビキニ・ボードショーツ・ラッシュガードはOK。ウォータースライドではボタン・ジッパー・金属バックル付きの服は不可。ゾーン間の移動には<strong>ウォーターシューズ</strong>をお勧めします。全ゲストはウォーターアトラクション利用前にシャワーが必要です。</p>\n                <p><a href=\"/tips.html\">訪問のヒントをすべて見る &rarr;</a></p>"
+          },
+          {
+            "question": "タオルは持参できますか？",
+            "answer": "<p>はい、節約のために<strong>自分のタオルをお持ちいただくことをお勧めします</strong>。パーク内でタオルレンタルも有料でご利用いただけます。速乾性のマイクロファイバータオルがコンパクトで乾きやすくお勧めです。</p>"
+          },
+          {
+            "question": "食べ物や飲み物を持ち込めますか？",
+            "answer": "<p><strong>いいえ</strong>、外部からの食べ物・飲み物の持ち込みは禁止されています。例外はベビーフード・粉ミルク・医療上必要な食品・<strong>封を開けていないペットボトル</strong>のみです。パーク内にはタイ料理・各国料理を提供するレストランやスナックバーが複数あります。</p>"
+          },
+          {
+            "question": "Aquaverseのロッカーはどのくらいの大きさですか？",
+            "answer": "<p>標準ロッカーはバックパック・着替え・靴・貴重品を収納できる十分な大きさです。メイン入口近くに設置されており、<strong>RFIDリストバンド</strong>で1日中何度でも利用可能です。ロッカーレンタルはオンラインチケット購入で<strong>無料</strong>、ゲート購入ではTHB 300となります。</p>"
+          },
+          {
+            "question": "Aquaverseへの持ち込み禁止品は？",
+            "answer": "<p>持ち込み禁止品：外部からの食べ物・飲み物、ガラス容器、スケートボード・スクーター、折りたたみ椅子・ポップアップテント、浮き輪・ビーチボール、刃物、外部からのアルコール、ドローン、プロ用カメラ機材。<strong>GoPro・自撮り棒</strong>はライド利用不可ですが、歩行エリアでは使用可能です。</p>"
+          }
+        ]
+      },
+      {
+        "id": "rides-attractions",
+        "sectionLabel": "アトラクション &amp; ライド",
+        "heading": "アトラクション &amp; ライド",
+        "description": "身長制限・ライドの定員・お子様向けエリアについて。",
+        "questions": [
+          {
+            "question": "Aquaverseの身長制限は？",
+            "answer": "<p>身長制限はアトラクションにより異なります。<strong>Zombieland</strong>極限スライドは最低<strong>120cm</strong>が必要。Hotel Transylvania子どもゾーン・ウェーブプール・レイジーリバーに身長制限はありません。1シートあたりの最大体重は<strong>136kg</strong>です。各アトラクション入口に身長計測板が設置されています。</p>\n                <p><a href=\"/attractions.html\">全アトラクション情報を見る &rarr;</a></p>"
+          },
+          {
+            "question": "1人でもライドに乗れますか？",
+            "answer": "<p>ほとんどのスライドは1人で利用できます。一部のラフトライドは2〜4名が必要な場合があり、その際は他のゲストと同乗させていただきます。<strong>FlowRider</strong>サーフシミュレーターは1人乗りです。各アトラクションのスタッフにご確認ください。</p>"
+          },
+          {
+            "question": "ゴーカートの年齢制限は？",
+            "answer": "<p><strong>Bad Boys</strong>ゴーカート体験には身長・年齢制限があります。ゴーカートは追加料金<strong>THB 640</strong>（パーク入場料に含まれません）でご利用いただけます。</p>"
+          },
+          {
+            "question": "FlowRiderは難しいですか？",
+            "answer": "<p><strong>FlowRider</strong>サーフシミュレーターには2つのモードがあります：<strong>ボディボード</strong>（初心者向け、ほとんどの方が初回から楽しめます）と<strong>スタンドアップサーフィン</strong>（上級者向け、バランスと練習が必要）。初心者向けにインストラクターも在籍しています。ボディボードにサーフィン経験は不要です。最低身長<strong>110cm</strong>。</p>"
+          },
+          {
+            "question": "小さなお子様に最適なゾーンは？",
+            "answer": "<p><strong>Hotel Transylvaniaゾーン</strong>は小さなお子様向けに特別設計されており、東南アジア最大の子ども用ウォータープレイグラウンドには子ども向けスライド9基・スプラッシュパッド・多数のウォーターフィーチャーがあります。<strong>Cloudy with a Chance of Meatballs</strong>レイジーリバーや<strong>メガウェーブプール</strong>の浅いエリアも小さなお子様に大人気です。</p>"
+          }
+        ]
+      },
+      {
+        "id": "food-dining",
+        "sectionLabel": "食事 &amp; ダイニング",
+        "heading": "食事 &amp; ダイニング",
+        "description": "レストラン・食事のオプション・Foodville支払いシステムについて。",
+        "questions": [
+          {
+            "question": "Aquaverse内のレストランは？",
+            "answer": "<p>Aquaverseにはフードコート・タイ料理スタンド・スナックバーなど複数のテーマダイニングエリアがあります。全購入には<strong>Foodville</strong>というクレジットバンドシステムを使用します。料理の価格は<strong>THB 80〜350</strong>程度です。パーク内各所にスナックカートやアイスクリームスタンドもあります。</p>"
+          },
+          {
+            "question": "ハラール食はありますか？",
+            "answer": "<p>ハラール認定レストランはありませんが、シーフード・グリルチキン・野菜料理など、イスラム教徒のゲストに適した選択肢が複数あります。スタッフが食材についてお答えします。<strong>ポーク系メニュー</strong>はメニューに明記されています。厳格なハラール食をご希望の場合は、パーク到着前に食事を済ませることをお勧めします。</p>"
+          },
+          {
+            "question": "ベジタリアン・ヴィーガン向けの食事はありますか？",
+            "answer": "<p>はい、ほとんどのフードアウトレットで<strong>ベジタリアン向けメニュー</strong>をご用意しています。ベジバーガー・サラダ・ライス料理・フレッシュフルーツ・タイ野菜炒めなどがあります。ヴィーガンの選択肢は限られますがリクエストにより対応可能です。バーエリアではフレッシュフルーツスムージーやジュースをご提供しています。</p>"
+          },
+          {
+            "question": "RFIDリストバンドの使い方は？",
+            "answer": "<p>入場時に<strong>RFIDリストバンド</strong>をお受け取りいただき、チャージステーションでクレジットをチャージします。バンドは<strong>Foodville</strong>システムを通じてパーク内の食事・飲み物・グッズ・オプションアクティビティの支払いに使用します。未使用残高は出口キオスクで返金されます。バンドはパーク内の自動撮影システムにも連動しています。</p>"
+          }
+        ]
+      },
+      {
+        "id": "facilities",
+        "sectionLabel": "チケット &amp; 料金",
+        "heading": "チケット &amp; 料金",
+        "description": "チケット料金・割引・予約方法に関するすべての情報。",
+        "questions": [
+          {
+            "question": "Aquaverseのチケット料金はいくらですか？",
+            "answer": "<p>当日券（ゲート購入）はお一人様<strong>THB 1,595</strong>（約3,800円）です。オンライン事前購入チケットは<strong>THB 1,176</strong>（約2,800円）から、最大<strong>約27%お得</strong>です。3歳未満のお子様は無料。オンラインチケットにはロッカーレンタル（THB 300相当）が含まれます。</p>\n                <p><a href=\"/tickets.html\">全チケットオプションと料金比較を見る &rarr;</a></p>"
+          },
+          {
+            "question": "Aquaverseの子ども料金はいくらですか？",
+            "answer": "<p><strong>3歳未満のお子様は無料</strong>でご入場いただけます。3〜12歳のお子様と65歳以上のシニアの方は、ゲートで<strong>THB 1,290</strong>の割引料金が適用される場合があります（大人はTHB 1,590）。オンラインチケットは通常3歳以上の全年齢で一律<strong>THB 1,176</strong>からとなります。</p>"
+          },
+          {
+            "question": "オンライン購入とゲート購入、どちらがお得ですか？",
+            "answer": "<p>オンライン購入が<strong>断然お得</strong>です。ゲート料金THB 1,595に対し、オンラインはTHB 1,176から、最大<strong>約27%割引</strong>。さらにロッカーレンタル無料（THB 300相当）と即時モバイルバウチャー確認が付きます。KlookやKKdayでの事前購入を強くお勧めします。</p>\n                <p><a href=\"/tickets.html\">オンラインチケットのお得な情報を比較 &rarr;</a></p>"
+          },
+          {
+            "question": "Aquaverseのチケットにロッカーレンタルは含まれますか？",
+            "answer": "<p>オンライン事前購入チケットには<strong>ロッカーレンタルが無料で含まれます</strong>。ゲート購入の場合、ロッカーレンタルは別途<strong>THB 300</strong>が必要です。ロッカーは入口近くにあり、RFIDリストバンドで1日中何度でも利用可能です。</p>"
+          },
+          {
+            "question": "Aquaverseの割引やプロモーションはありますか？",
+            "answer": "<p>はい、最もお得な割引は<strong>Klook・KKday・Tiquets</strong>などのオンライン予約プラットフォームで、ゲート料金から最大約27%OFF。タイ国籍の方は有効なIDで特別料金が適用される場合があります。祝日や特別イベント期間中に期間限定プロモーションが実施されることもあります &mdash; 最新情報はパークの公式SNSをご確認ください。</p>"
+          },
+          {
+            "question": "Aquaverseにグループ料金はありますか？",
+            "answer": "<p>はい、<strong>10名以上のグループ</strong>には団体料金をご用意しています。グループ予約はパークの営業チームに直接ご連絡ください。学校グループ・法人・旅行会社にはさらなる割引が適用される場合があります。団体料金のお問い合わせは<a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>まで。</p>"
+          },
+          {
+            "question": "Aquaverseのカバナ料金はいくらですか？",
+            "answer": "<p>カバナレンタルの選択肢：<strong>デラックス THB 2,500/日</strong>、スーパーデラックス THB 3,000/日、VIP THB 3,500/日。カバナにはシェード・快適なシート・タオル・専属アテンダント・優先フードサービスが含まれます。週末は事前予約をお勧めします。</p>"
+          },
+          {
+            "question": "Aquaverseチケットの返金はできますか？",
+            "answer": "<p>返金ポリシーは購入場所によって異なります。ほとんどのオンラインプラットフォーム（Klook・KKday）では、訪問日の<strong>24時間前まで無料キャンセル</strong>が可能です。ゲート購入チケットは原則返金不可です。予約前に必ずキャンセルポリシーをご確認ください。</p>"
+          },
+          {
+            "question": "Aquaverseの営業時間は？",
+            "answer": "<p>Aquaverseは<strong>毎日午前10時〜午後6時</strong>の営業です。ライドは午後5時45分に終了。最終入場は<strong>午後3時30分</strong>。毎週<strong>水曜日</strong>は定期メンテナンスのため休園となります。</p>"
+          },
+          {
+            "question": "Aquaverseは水曜日に休園ですか？",
+            "answer": "<p>はい、Columbia Pictures Aquaverseは定期メンテナンスのため<strong>毎週水曜日が休園</strong>となります。月・火・木・金・土・日曜日は午前10時〜午後6時に営業しています。</p>"
+          },
+          {
+            "question": "Aquaverseの最終入場時間は？",
+            "answer": "<p>最終入場は<strong>午後3時30分</strong>です。それ以降の新規入場はできません。全ライドは午後5時45分に終了し、パークは午後6時に閉園します。1日を満喫するため、<strong>午前10時の開園</strong>に合わせてお越しください。</p>"
+          },
+          {
+            "question": "Aquaverseはタイの祝日にも営業していますか？",
+            "answer": "<p>はい、Aquaverseは一般的にタイの祝日（水曜日を除く）も営業しています。ソンクラーン・正月・学校休み期間は混雑し、営業時間が延長される場合があります。具体的な祝日スケジュールはパーク<strong>公式Facebookページ</strong>か<a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>にお問い合わせください。</p>"
+          },
+          {
+            "question": "Aquaverseを訪れるベストシーズンはいつですか？",
+            "answer": "<p><strong>平日</strong>（月・火・木・金）が最も空いています。<strong>乾季</strong>（11月〜4月）が最も天候に恵まれます。待ち時間を最短にするには開園の<strong>午前10時</strong>に到着するのがベスト。週末やタイの学校休み期間はなるべく避けることをお勧めします。</p>"
+          },
+          {
+            "question": "バンコクからAquaverseへのアクセス方法は？",
+            "answer": "<p><strong>車：</strong>パタヤ方面へ高速道路7号線経由で1.5〜2時間。<strong>バス：</strong>エカマイバスターミナル（BTSエカマイ駅隣）からバス乗車後、タクシーでパークへ。<strong>相乗りバン：</strong>ビクトリーモニュメントまたはエカマイから約<strong>THB 240/人</strong>。<strong>Grab/タクシー：</strong>バンコクからTHB 1,200〜1,500＋高速料金。</p>\n                <p><a href=\"/getting-there.html\">Aquaverseへのアクセス完全ガイド &rarr;</a></p>"
+          },
+          {
+            "question": "パタヤからAquaverseへのアクセス方法は？",
+            "answer": "<p>AquaverseはNa JomtienにあるパタヤΡΕΜ市街地から<strong>南へ約30分</strong>の場所にあります。<strong>Grab/タクシー：</strong>パタヤ中心部からTHB 300〜500。<strong>ソンテウ（乗り合いタクシー）：</strong>Na Jomtienルートをご利用ください。公式シャトルバスはありません。住所：888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip。</p>"
+          },
+          {
+            "question": "Aquaverseへのシャトルバスはありますか？",
+            "answer": "<p>いいえ、公式シャトルバスは運行していません。パタヤからは<strong>Grab</strong>（THB 300〜500、20〜30分）が最もお勧めです。一部のホテルや旅行会社が有料で送迎サービスを提供している場合があります。宿泊施設にご確認ください。</p>"
+          },
+          {
+            "question": "Aquaverseの駐車場は無料ですか？",
+            "answer": "<p>はい、全ゲストに<strong>無料駐車場</strong>をご提供しています。普通車・バン・観光バスに対応した広い駐車場です。バイク駐車場もあります。駐車場は入口正面にあります。</p>"
+          },
+          {
+            "question": "スワンナプーム空港またはウタパオ空港からのアクセスは？",
+            "answer": "<p><strong>スワンナプーム（BKK）から：</strong>高速道路7号線経由で車/タクシーにより1.5〜2時間、約<strong>THB 1,500〜2,000</strong>。<strong>ウタパオ（UTP）から：</strong>車/タクシーで<strong>20〜30分</strong>、約THB 300〜500。ウタパオはAquaverseに最も近い空港で、主要タイ都市および一部の国際線が就航しています。</p>"
+          },
+          {
+            "question": "Aquaverseでは何を着ていけばいいですか？",
+            "answer": "<p>全ウォーターアトラクションでは<strong>適切な水着が必要</strong>です。水着・ビキニ・ボードショーツ・ラッシュガードはOK。ウォータースライドではボタン・ジッパー・金属バックル付きの服は不可。ゾーン間の移動には<strong>ウォーターシューズ</strong>をお勧めします。全ゲストはウォーターアトラクション利用前にシャワーが必要です。</p>\n                <p><a href=\"/tips.html\">訪問のヒントをすべて見る &rarr;</a></p>"
+          },
+          {
+            "question": "タオルは持参できますか？",
+            "answer": "<p>はい、節約のために<strong>自分のタオルをお持ちいただくことをお勧めします</strong>。パーク内でタオルレンタルも有料でご利用いただけます。速乾性のマイクロファイバータオルがコンパクトで乾きやすくお勧めです。</p>"
+          },
+          {
+            "question": "食べ物や飲み物を持ち込めますか？",
+            "answer": "<p><strong>いいえ</strong>、外部からの食べ物・飲み物の持ち込みは禁止されています。例外はベビーフード・粉ミルク・医療上必要な食品・<strong>封を開けていないペットボトル</strong>のみです。パーク内にはタイ料理・各国料理を提供するレストランやスナックバーが複数あります。</p>"
+          },
+          {
+            "question": "Aquaverseのロッカーはどのくらいの大きさですか？",
+            "answer": "<p>標準ロッカーはバックパック・着替え・靴・貴重品を収納できる十分な大きさです。メイン入口近くに設置されており、<strong>RFIDリストバンド</strong>で1日中何度でも利用可能です。ロッカーレンタルはオンラインチケット購入で<strong>無料</strong>、ゲート購入ではTHB 300となります。</p>"
+          },
+          {
+            "question": "Aquaverseへの持ち込み禁止品は？",
+            "answer": "<p>持ち込み禁止品：外部からの食べ物・飲み物、ガラス容器、スケートボード・スクーター、折りたたみ椅子・ポップアップテント、浮き輪・ビーチボール、刃物、外部からのアルコール、ドローン、プロ用カメラ機材。<strong>GoPro・自撮り棒</strong>はライド利用不可ですが、歩行エリアでは使用可能です。</p>"
+          },
+          {
+            "question": "Aquaverseの身長制限は？",
+            "answer": "<p>身長制限はアトラクションにより異なります。<strong>Zombieland</strong>極限スライドは最低<strong>120cm</strong>が必要。Hotel Transylvania子どもゾーン・ウェーブプール・レイジーリバーに身長制限はありません。1シートあたりの最大体重は<strong>136kg</strong>です。各アトラクション入口に身長計測板が設置されています。</p>\n                <p><a href=\"/attractions.html\">全アトラクション情報を見る &rarr;</a></p>"
+          },
+          {
+            "question": "1人でもライドに乗れますか？",
+            "answer": "<p>ほとんどのスライドは1人で利用できます。一部のラフトライドは2〜4名が必要な場合があり、その際は他のゲストと同乗させていただきます。<strong>FlowRider</strong>サーフシミュレーターは1人乗りです。各アトラクションのスタッフにご確認ください。</p>"
+          },
+          {
+            "question": "ゴーカートの年齢制限は？",
+            "answer": "<p><strong>Bad Boys</strong>ゴーカート体験には身長・年齢制限があります。ゴーカートは追加料金<strong>THB 640</strong>（パーク入場料に含まれません）でご利用いただけます。</p>"
+          },
+          {
+            "question": "FlowRiderは難しいですか？",
+            "answer": "<p><strong>FlowRider</strong>サーフシミュレーターには2つのモードがあります：<strong>ボディボード</strong>（初心者向け、ほとんどの方が初回から楽しめます）と<strong>スタンドアップサーフィン</strong>（上級者向け、バランスと練習が必要）。初心者向けにインストラクターも在籍しています。ボディボードにサーフィン経験は不要です。最低身長<strong>110cm</strong>。</p>"
+          },
+          {
+            "question": "小さなお子様に最適なゾーンは？",
+            "answer": "<p><strong>Hotel Transylvaniaゾーン</strong>は小さなお子様向けに特別設計されており、東南アジア最大の子ども用ウォータープレイグラウンドには子ども向けスライド9基・スプラッシュパッド・多数のウォーターフィーチャーがあります。<strong>Cloudy with a Chance of Meatballs</strong>レイジーリバーや<strong>メガウェーブプール</strong>の浅いエリアも小さなお子様に大人気です。</p>"
+          },
+          {
+            "question": "Aquaverse内のレストランは？",
+            "answer": "<p>Aquaverseにはフードコート・タイ料理スタンド・スナックバーなど複数のテーマダイニングエリアがあります。全購入には<strong>Foodville</strong>というクレジットバンドシステムを使用します。料理の価格は<strong>THB 80〜350</strong>程度です。パーク内各所にスナックカートやアイスクリームスタンドもあります。</p>"
+          },
+          {
+            "question": "ハラール食はありますか？",
+            "answer": "<p>ハラール認定レストランはありませんが、シーフード・グリルチキン・野菜料理など、イスラム教徒のゲストに適した選択肢が複数あります。スタッフが食材についてお答えします。<strong>ポーク系メニュー</strong>はメニューに明記されています。厳格なハラール食をご希望の場合は、パーク到着前に食事を済ませることをお勧めします。</p>"
+          },
+          {
+            "question": "ベジタリアン・ヴィーガン向けの食事はありますか？",
+            "answer": "<p>はい、ほとんどのフードアウトレットで<strong>ベジタリアン向けメニュー</strong>をご用意しています。ベジバーガー・サラダ・ライス料理・フレッシュフルーツ・タイ野菜炒めなどがあります。ヴィーガンの選択肢は限られますがリクエストにより対応可能です。バーエリアではフレッシュフルーツスムージーやジュースをご提供しています。</p>"
+          },
+          {
+            "question": "RFIDリストバンドの使い方は？",
+            "answer": "<p>入場時に<strong>RFIDリストバンド</strong>をお受け取りいただき、チャージステーションでクレジットをチャージします。バンドは<strong>Foodville</strong>システムを通じてパーク内の食事・飲み物・グッズ・オプションアクティビティの支払いに使用します。未使用残高は出口キオスクで返金されます。バンドはパーク内の自動撮影システムにも連動しています。</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "stickyBar": {
+    "subText": "から &bull; 最大~27%割引",
+    "bookNow": "今すぐ予約",
+    "ariaLabel": "予約バー"
+  },
+  "footer": {
+    "brandDescription": "パタヤ、タイのColumbia Pictures Aquaverseに関する独立した総合ガイド。最新情報・旅のヒント・最お得なチケット情報をお届けします。",
+    "quickLinksHeading": "クイックリンク",
+    "quickLinks": [
+      "ホーム",
+      "アトラクション",
+      "チケット",
+      "アクセス",
+      "攻略法",
+      "よくある質問"
+    ],
+    "guidesHeading": "ガイド",
+    "guideLabels": [
+      "ブログ"
+    ],
+    "parkInfoHeading": "パーク情報",
+    "mapsLinkText": "",
+    "hoursItems": [
+      "毎日 午前10時 &ndash; 午後6時",
+      "水曜定休"
+    ],
+    "affiliate": "",
+    "disclaimer": "",
+    "copyright": "This is an independent fan guide. Not affiliated with or endorsed by Columbia Pictures or Sony Pictures. All trademarks belong to their respective owners."
+  }
+}
