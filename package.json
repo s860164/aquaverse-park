@@ -4,10 +4,14 @@
   "private": true,
   "description": "Daily Klook price scraper for aquaverse-park.com",
   "scripts": {
+    "build": "node src/build.js",
+    "build:faq": "node src/build.js --page faq",
     "scrape": "node scripts/scrape-klook.js",
     "rates": "node scripts/fetch-rates.js",
     "update": "node scripts/update-site.js",
     "all": "npm run scrape && npm run rates && npm run update"
   },
-  "dependencies": {}
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
 }

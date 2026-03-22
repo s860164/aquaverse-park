@@ -1,0 +1,5 @@
+  <!-- Hreflang tags for multi-language SEO -->
+{%- for altLang in site.languages %}
+  <link rel="alternate" hreflang="{{ altLang.hreflang }}" href="{{ site.baseUrl }}/{{ altLang.prefix }}{{ page.slug }}">
+{%- endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ site.baseUrl }}/{{ page.slug }}">

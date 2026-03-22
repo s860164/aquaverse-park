@@ -1,0 +1,390 @@
+{
+  "skipLink": "Skip to main content",
+  "nav": {
+    "home": "Laman Utama",
+    "attractions": "Tarikan",
+    "tickets": "Tiket",
+    "gettingThere": "Cara Ke Sana",
+    "tips": "Tips",
+    "faq": "Soalan Lazim",
+    "blog": "Blog",
+    "bookTickets": "Tempah Tiket"
+  },
+  "announcement": {
+    "text": "Tawaran Terhad: Jimat sehingga ~27% untuk tiket Aquaverse &mdash; Harga eksklusif dalam talian dari THB 1,176!",
+    "linkText": "Tempah Sekarang &rarr;"
+  },
+  "faq": {
+    "title": "Soalan Lazim Aquaverse | 40+ Soalan &amp; Jawapan | Columbia Pictures Aquaverse",
+    "metaDescription": "Lebih 40 soalan lazim tentang Columbia Pictures Aquaverse Pattaya. Dapatkan jawapan tentang tiket, waktu operasi, cara ke sana, pakaian, wahana, makanan, dan kemudahan.",
+    "metaKeywords": "Aquaverse soalan lazim, Aquaverse FAQ, Aquaverse tiket, Aquaverse waktu, Aquaverse pakaian, Aquaverse makanan, Aquaverse had ketinggian, Aquaverse parking",
+    "ogTitle": "Soalan Lazim Aquaverse | 40+ Soalan &amp; Jawapan",
+    "ogDescription": "Jawapan untuk semua soalan anda tentang lawatan ke Columbia Pictures Aquaverse. Tiket, waktu, cara ke sana, apa perlu dibawa, wahana, makanan, dan kemudahan.",
+    "twitterTitle": "Soalan Lazim Aquaverse | 40+ Soalan &amp; Jawapan",
+    "twitterDescription": "40+ soalan lazim tentang Aquaverse Pattaya: tiket, waktu, cara ke sana, pakaian, wahana, makanan, dan lagi.",
+    "breadcrumbHome": "Laman Utama",
+    "breadcrumbCurrent": "Soalan Lazim",
+    "heroTitle": "Soalan Lazim",
+    "heroSubtitle": "Jawapan kepada semua soalan anda tentang Aquaverse",
+    "heroText": "Semua yang perlu anda tahu sebelum melawat Columbia Pictures Aquaverse Pattaya — tiket, waktu, cara ke sana, pakaian, wahana, makanan, dan kemudahan. Hubungi: <a href=\"tel:+66330049999\" style=\"color: white; text-decoration: underline;\">+66 (0) 33 004 999</a>",
+    "jumpTitle": "Pergi ke Kategori",
+    "jumpLabels": {
+      "tickets-pricing": "Tiket &amp; Harga",
+      "hours-schedule": "Waktu Operasi",
+      "getting-there": "Cara Ke Sana",
+      "what-to-bring": "Apa Perlu Dibawa",
+      "rides-attractions": "Wahana &amp; Tarikan",
+      "food-dining": "Makanan &amp; Jamuan",
+      "facilities": "Kemudahan &amp; Perkhidmatan"
+    },
+    "categories": [
+      {
+        "id": "tickets-pricing",
+        "sectionLabel": "Tiket &amp; Harga",
+        "heading": "Tiket &amp; Harga",
+        "description": "Maklumat tentang harga tiket, diskaun, dan cara pembelian tiket Aquaverse.",
+        "questions": [
+          {
+            "question": "Berapakah harga tiket Aquaverse?",
+            "answer": "<p>Tiket Aquaverse dalam talian bermula dari <strong>THB 1,176</strong> (kira-kira MYR 150) untuk dewasa — penjimatan ~27% berbanding harga kaunter THB 1,595. Kanak-kanak di bawah 3 tahun masuk percuma.</p>"
+          },
+          {
+            "question": "Apakah perbezaan antara tiket dalam talian dan kaunter?",
+            "answer": "<p>Tiket dalam talian menawarkan <strong>diskaun ~27%</strong> berbanding kaunter. Selain menjimatkan wang, tempahan dalam talian membolehkan anda melangkau barisan dan mengesahkan tempat anda terlebih dahulu.</p>"
+          },
+          {
+            "question": "Adakah terdapat diskaun untuk kanak-kanak atau warga emas?",
+            "answer": "<p>Kanak-kanak di bawah <strong>3 tahun masuk percuma</strong>. Terdapat harga kanak-kanak untuk umur 3–11 tahun. Hubungi taman untuk maklumat diskaun warga emas atau OKU.</p>"
+          },
+          {
+            "question": "Bolehkah saya membayar dengan kad kredit di taman?",
+            "answer": "<p>Ya. Taman menerima kad kredit dan debit utama. Walau bagaimanapun, pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong> — anda perlu mengecas kredit ke gelang tangan terlebih dahulu.</p>"
+          },
+          {
+            "question": "Apakah dasar pembatalan?",
+            "answer": "<p>Tiket dalam talian yang dibeli melalui Klook biasanya boleh <strong>dibatalkan secara percuma</strong> dalam tempoh tertentu. Semak terma pembatalan semasa membuat tempahan untuk maklumat lanjut.</p>"
+          },
+          {
+            "question": "Di mana saya boleh mendapatkan tawaran tiket terbaik?",
+            "answer": "<p>Tawaran terbaik boleh didapati melalui platform tempahan dalam talian yang sah seperti <strong>Klook</strong>. Elakkan membeli dari penjual tidak rasmi untuk mengelakkan penipuan.</p>"
+          },
+          {
+            "question": "Apakah yang termasuk dalam tiket masuk?",
+            "answer": "<p>Tiket masuk merangkumi akses kepada semua wahana dan tarikan air, sewa loker asas, dan akses ke kawasan taman. <strong>Makanan, kredit gelang tangan RFID, dan perkhidmatan premium</strong> adalah berasingan.</p>"
+          }
+        ]
+      },
+      {
+        "id": "hours-schedule",
+        "sectionLabel": "Waktu Operasi &amp; Jadual",
+        "heading": "Waktu Operasi &amp; Jadual",
+        "description": "Maklumat tentang waktu operasi dan masa terbaik untuk melawat Aquaverse.",
+        "questions": [
+          {
+            "question": "Apakah waktu operasi Aquaverse?",
+            "answer": "<p>Taman beroperasi setiap hari dari <strong>pukul 10 pagi hingga 6 petang</strong> (kecuali hari Rabu). Kemasukan terakhir pada pukul 5 petang, dan semua wahana berhenti beroperasi pada pukul 5.30 petang.</p>"
+          },
+          {
+            "question": "Adakah taman dibuka pada hari Rabu?",
+            "answer": "<p>Tidak. Aquaverse <strong>ditutup setiap hari Rabu</strong> untuk penyelenggaraan berjadual. Sila merancang lawatan anda pada hari-hari lain dalam seminggu.</p>"
+          },
+          {
+            "question": "Adakah terdapat musim puncak?",
+            "answer": "<p>Taman beroperasi sepanjang tahun (kecuali hari Rabu). Semasa musim puncak (cuti umum Thailand, Krismas, Tahun Baru), acara khas mungkin diadakan. Semak media sosial rasmi sebelum melawat.</p>"
+          },
+          {
+            "question": "Adakah taman beroperasi semasa hujan?",
+            "answer": "<p>Taman beroperasi semasa hujan ringan, tetapi wahana luar mungkin <strong>ditutup sementara semasa ribut petir</strong> atau hujan lebat bagi tujuan keselamatan. Jika taman ditutup awal akibat cuaca, pampasan mungkin diberikan.</p>"
+          },
+          {
+            "question": "Apakah masa terbaik untuk melawat?",
+            "answer": "<p>Hari bekerja pada waktu pagi (<strong>10 pagi – 12 tengah hari</strong>) adalah paling tenang. Hujung minggu dan cuti umum Thailand lebih sesak, terutama selepas tengah hari. Tempah tiket dalam talian untuk mengelakkan beratur panjang di kaunter.</p>"
+          }
+        ]
+      },
+      {
+        "id": "getting-there",
+        "sectionLabel": "Cara Ke Sana &amp; Parking",
+        "heading": "Cara Ke Sana &amp; Parking",
+        "description": "Panduan perjalanan ke Aquaverse dari Bangkok dan Pattaya.",
+        "questions": [
+          {
+            "question": "Di manakah Aquaverse terletak?",
+            "answer": "<p>Columbia Pictures Aquaverse terletak di Sattahip, Chon Buri, Thailand. Alamat: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>"
+          },
+          {
+            "question": "Bagaimana untuk pergi dari Bangkok?",
+            "answer": "<p>Dari Bangkok (Lapangan Terbang Suvarnabhumi) mengambil masa kira-kira <strong>1.5–2 jam dengan kereta</strong> melalui Lebuhraya Ekspres Bangna-Trad (Laluan 7). Grab dan bas ulang-alik pelancongan juga tersedia.</p>"
+          },
+          {
+            "question": "Berapa jauh dari Pattaya?",
+            "answer": "<p>Kira-kira <strong>25–35 minit dari pusat bandar Pattaya</strong> dengan kereta. Grab adalah pilihan paling mudah dari Pattaya. Sesetengah hotel di Pattaya juga menyediakan perkhidmatan ulang-alik ke Aquaverse.</p>"
+          },
+          {
+            "question": "Adakah terdapat kemudahan parking?",
+            "answer": "<p>Ya. Taman menyediakan <strong>parking percuma</strong> untuk kereta dan motosikal. Tiba awal semasa musim puncak kerana tempat parking mungkin penuh.</p>"
+          },
+          {
+            "question": "Bolehkah saya ke sana dengan pengangkutan awam?",
+            "answer": "<p>Tiada pengangkutan awam terus ke taman. Cara terbaik adalah menggunakan <strong>Grab</strong>, teksi, atau bas ulang-alik pelancongan dari Pattaya atau Bangkok.</p>"
+          }
+        ]
+      },
+      {
+        "id": "what-to-bring",
+        "sectionLabel": "Apa Perlu Dibawa &amp; Pakai",
+        "heading": "Apa Perlu Dibawa &amp; Pakai",
+        "description": "Senarai perkara yang perlu dibawa dan panduan pakaian untuk lawatan ke Aquaverse.",
+        "questions": [
+          {
+            "question": "Pakaian renang apakah yang sesuai dipakai?",
+            "answer": "<p>Pakaian renang standard digalakkan. Seluar jeans dan pakaian kapas mungkin tidak dibenarkan di sesetengah wahana. <strong>Baju rash guard</strong> dibenarkan di atas pakaian renang.</p>"
+          },
+          {
+            "question": "Kasut apa yang perlu saya pakai?",
+            "answer": "<p>Sandal atau kasut air adalah pilihan terbaik. Anda boleh berjalan kaki tanpa alas di kawasan taman, tetapi kasut disyorkan untuk melindungi kaki dari permukaan yang panas.</p>"
+          },
+          {
+            "question": "Apa yang perlu saya bawa?",
+            "answer": "<ul>\n                  <li>Pakaian renang (bawa lebih satu pasang jika perlu)</li>\n                  <li>Pelindung matahari (produk biodegradable digalakkan)</li>\n                  <li>Tuala (boleh disewa di taman)</li>\n                  <li>Beg kalis air atau beg zip-lock</li>\n                  <li>Wang tunai atau kad kredit</li>\n                  <li>ID jika diperlukan</li>\n                </ul>"
+          },
+          {
+            "question": "Bolehkah saya membawa makanan dan minuman sendiri?",
+            "answer": "<p>Makanan dan minuman dari luar <strong>tidak dibenarkan</strong> masuk ke dalam taman. Foodville food court menawarkan pelbagai pilihan makanan dan minuman. Botol air peribadi yang kosong dibenarkan.</p>"
+          },
+          {
+            "question": "Bagaimana untuk menyimpan barang berharga?",
+            "answer": "<p>Loker berbayar tersedia di seluruh taman. Gunakan loker semasa menaiki wahana. <strong>Taman tidak bertanggungjawab atas kehilangan barang peribadi</strong>.</p>"
+          }
+        ]
+      },
+      {
+        "id": "rides-attractions",
+        "sectionLabel": "Wahana &amp; Tarikan",
+        "heading": "Wahana &amp; Tarikan",
+        "description": "Temui pelbagai wahana air dan tarikan menarik di Aquaverse.",
+        "questions": [
+          {
+            "question": "Apakah wahana dan tarikan yang ada?",
+            "answer": "<p>Taman menawarkan pelbagai wahana air bertema Columbia Pictures termasuk Ghostbusters, Jumanji, Bad Boys, Hotel Transylvania, dan lain-lain. Terdapat juga <strong>kolam ombak</strong>, sungai malas, dan kawasan kanak-kanak.</p>"
+          },
+          {
+            "question": "Adakah had ketinggian untuk wahana?",
+            "answer": "<p>Ya. Kebanyakan wahana utama memerlukan ketinggian minimum <strong>120 cm</strong>. Sesetengah wahana memerlukan 105 cm. Kawasan kanak-kanak tidak mempunyai had ketinggian. Semak papan tanda di setiap wahana.</p>"
+          },
+          {
+            "question": "Bolehkah wanita hamil menaiki wahana?",
+            "answer": "<p>Wanita hamil <strong>tidak digalakkan menaiki kebanyakan wahana air</strong> untuk tujuan keselamatan. Sila berunding dengan doktor anda sebelum melawat.</p>"
+          },
+          {
+            "question": "Berapa lama masa menunggu untuk wahana?",
+            "answer": "<p>Pada hari bekerja yang tenang, masa menunggu adalah <strong>10–20 minit</strong>. Pada hujung minggu atau musim puncak, wahana popular mungkin memerlukan 40–60 minit. Tiba antara 10–12 pagi untuk meminimumkan masa menunggu.</p>"
+          },
+          {
+            "question": "Adakah kemudahan untuk pelawat kurang upaya?",
+            "answer": "<p>Taman berusaha memastikan kebolehcapaian untuk semua pelawat. Sesetengah wahana mungkin mempunyai had berdasarkan keupayaan fizikal. Hubungi taman sebelum melawat untuk mendapatkan panduan terbaik.</p>"
+          }
+        ]
+      },
+      {
+        "id": "food-dining",
+        "sectionLabel": "Makanan &amp; Jamuan",
+        "heading": "Makanan &amp; Jamuan",
+        "description": "Maklumat tentang pilihan makanan, cara pembayaran, dan harga di dalam taman.",
+        "questions": [
+          {
+            "question": "Adakah terdapat restoran atau tempat makan di taman?",
+            "answer": "<p>Ya. <strong>Foodville food court</strong> menawarkan pelbagai pilihan termasuk masakan Thai, makanan segera, snek, dan minuman. Gerai minuman dan snek juga tersebar di seluruh taman.</p>"
+          },
+          {
+            "question": "Bagaimana cara membayar makanan di taman?",
+            "answer": "<p>Semua pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong>. Cas kredit ke gelang tangan anda semasa masuk dan gunakan untuk semua pembelian. Baki kredit dikembalikan semasa keluar.</p>"
+          },
+          {
+            "question": "Adakah pilihan makanan vegetarian tersedia?",
+            "answer": "<p>Beberapa pilihan vegetarian tersedia di Foodville. Pilihan vegan mungkin terhad — tanya kakitangan untuk mendapatkan bantuan memilih makanan yang sesuai.</p>"
+          },
+          {
+            "question": "Bagaimana jika saya mempunyai alahan makanan?",
+            "answer": "<p>Jika anda mempunyai alahan makanan, <strong>maklumkan kepada kakitangan</strong> semasa memesan. Taman mungkin tidak dapat menjamin kawalan penuh terhadap semua alergen — berhati-hati jika anda mempunyai alahan yang serius.</p>"
+          },
+          {
+            "question": "Berapakah harga makanan di taman?",
+            "answer": "<p>Masakan Thai tempatan berharga <strong>80–150 THB</strong>, makanan barat dan fast food <strong>150–300 THB</strong>. Minuman berharga kira-kira <strong>50–120 THB</strong>.</p>"
+          }
+        ]
+      },
+      {
+        "id": "facilities",
+        "sectionLabel": "Tiket &amp; Harga",
+        "heading": "Tiket &amp; Harga",
+        "description": "Maklumat tentang harga tiket, diskaun, dan cara pembelian tiket Aquaverse.",
+        "questions": [
+          {
+            "question": "Berapakah harga tiket Aquaverse?",
+            "answer": "<p>Tiket Aquaverse dalam talian bermula dari <strong>THB 1,176</strong> (kira-kira MYR 150) untuk dewasa — penjimatan ~27% berbanding harga kaunter THB 1,595. Kanak-kanak di bawah 3 tahun masuk percuma.</p>"
+          },
+          {
+            "question": "Apakah perbezaan antara tiket dalam talian dan kaunter?",
+            "answer": "<p>Tiket dalam talian menawarkan <strong>diskaun ~27%</strong> berbanding kaunter. Selain menjimatkan wang, tempahan dalam talian membolehkan anda melangkau barisan dan mengesahkan tempat anda terlebih dahulu.</p>"
+          },
+          {
+            "question": "Adakah terdapat diskaun untuk kanak-kanak atau warga emas?",
+            "answer": "<p>Kanak-kanak di bawah <strong>3 tahun masuk percuma</strong>. Terdapat harga kanak-kanak untuk umur 3–11 tahun. Hubungi taman untuk maklumat diskaun warga emas atau OKU.</p>"
+          },
+          {
+            "question": "Bolehkah saya membayar dengan kad kredit di taman?",
+            "answer": "<p>Ya. Taman menerima kad kredit dan debit utama. Walau bagaimanapun, pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong> — anda perlu mengecas kredit ke gelang tangan terlebih dahulu.</p>"
+          },
+          {
+            "question": "Apakah dasar pembatalan?",
+            "answer": "<p>Tiket dalam talian yang dibeli melalui Klook biasanya boleh <strong>dibatalkan secara percuma</strong> dalam tempoh tertentu. Semak terma pembatalan semasa membuat tempahan untuk maklumat lanjut.</p>"
+          },
+          {
+            "question": "Di mana saya boleh mendapatkan tawaran tiket terbaik?",
+            "answer": "<p>Tawaran terbaik boleh didapati melalui platform tempahan dalam talian yang sah seperti <strong>Klook</strong>. Elakkan membeli dari penjual tidak rasmi untuk mengelakkan penipuan.</p>"
+          },
+          {
+            "question": "Apakah yang termasuk dalam tiket masuk?",
+            "answer": "<p>Tiket masuk merangkumi akses kepada semua wahana dan tarikan air, sewa loker asas, dan akses ke kawasan taman. <strong>Makanan, kredit gelang tangan RFID, dan perkhidmatan premium</strong> adalah berasingan.</p>"
+          },
+          {
+            "question": "Apakah waktu operasi Aquaverse?",
+            "answer": "<p>Taman beroperasi setiap hari dari <strong>pukul 10 pagi hingga 6 petang</strong> (kecuali hari Rabu). Kemasukan terakhir pada pukul 5 petang, dan semua wahana berhenti beroperasi pada pukul 5.30 petang.</p>"
+          },
+          {
+            "question": "Adakah taman dibuka pada hari Rabu?",
+            "answer": "<p>Tidak. Aquaverse <strong>ditutup setiap hari Rabu</strong> untuk penyelenggaraan berjadual. Sila merancang lawatan anda pada hari-hari lain dalam seminggu.</p>"
+          },
+          {
+            "question": "Adakah terdapat musim puncak?",
+            "answer": "<p>Taman beroperasi sepanjang tahun (kecuali hari Rabu). Semasa musim puncak (cuti umum Thailand, Krismas, Tahun Baru), acara khas mungkin diadakan. Semak media sosial rasmi sebelum melawat.</p>"
+          },
+          {
+            "question": "Adakah taman beroperasi semasa hujan?",
+            "answer": "<p>Taman beroperasi semasa hujan ringan, tetapi wahana luar mungkin <strong>ditutup sementara semasa ribut petir</strong> atau hujan lebat bagi tujuan keselamatan. Jika taman ditutup awal akibat cuaca, pampasan mungkin diberikan.</p>"
+          },
+          {
+            "question": "Apakah masa terbaik untuk melawat?",
+            "answer": "<p>Hari bekerja pada waktu pagi (<strong>10 pagi – 12 tengah hari</strong>) adalah paling tenang. Hujung minggu dan cuti umum Thailand lebih sesak, terutama selepas tengah hari. Tempah tiket dalam talian untuk mengelakkan beratur panjang di kaunter.</p>"
+          },
+          {
+            "question": "Di manakah Aquaverse terletak?",
+            "answer": "<p>Columbia Pictures Aquaverse terletak di Sattahip, Chon Buri, Thailand. Alamat: <strong>888 Moo 1, Khao Chi Chan, Sattahip, Chon Buri 20180, Thailand</strong>.</p>"
+          },
+          {
+            "question": "Bagaimana untuk pergi dari Bangkok?",
+            "answer": "<p>Dari Bangkok (Lapangan Terbang Suvarnabhumi) mengambil masa kira-kira <strong>1.5–2 jam dengan kereta</strong> melalui Lebuhraya Ekspres Bangna-Trad (Laluan 7). Grab dan bas ulang-alik pelancongan juga tersedia.</p>"
+          },
+          {
+            "question": "Berapa jauh dari Pattaya?",
+            "answer": "<p>Kira-kira <strong>25–35 minit dari pusat bandar Pattaya</strong> dengan kereta. Grab adalah pilihan paling mudah dari Pattaya. Sesetengah hotel di Pattaya juga menyediakan perkhidmatan ulang-alik ke Aquaverse.</p>"
+          },
+          {
+            "question": "Adakah terdapat kemudahan parking?",
+            "answer": "<p>Ya. Taman menyediakan <strong>parking percuma</strong> untuk kereta dan motosikal. Tiba awal semasa musim puncak kerana tempat parking mungkin penuh.</p>"
+          },
+          {
+            "question": "Bolehkah saya ke sana dengan pengangkutan awam?",
+            "answer": "<p>Tiada pengangkutan awam terus ke taman. Cara terbaik adalah menggunakan <strong>Grab</strong>, teksi, atau bas ulang-alik pelancongan dari Pattaya atau Bangkok.</p>"
+          },
+          {
+            "question": "Pakaian renang apakah yang sesuai dipakai?",
+            "answer": "<p>Pakaian renang standard digalakkan. Seluar jeans dan pakaian kapas mungkin tidak dibenarkan di sesetengah wahana. <strong>Baju rash guard</strong> dibenarkan di atas pakaian renang.</p>"
+          },
+          {
+            "question": "Kasut apa yang perlu saya pakai?",
+            "answer": "<p>Sandal atau kasut air adalah pilihan terbaik. Anda boleh berjalan kaki tanpa alas di kawasan taman, tetapi kasut disyorkan untuk melindungi kaki dari permukaan yang panas.</p>"
+          },
+          {
+            "question": "Apa yang perlu saya bawa?",
+            "answer": "<ul>\n                  <li>Pakaian renang (bawa lebih satu pasang jika perlu)</li>\n                  <li>Pelindung matahari (produk biodegradable digalakkan)</li>\n                  <li>Tuala (boleh disewa di taman)</li>\n                  <li>Beg kalis air atau beg zip-lock</li>\n                  <li>Wang tunai atau kad kredit</li>\n                  <li>ID jika diperlukan</li>\n                </ul>"
+          },
+          {
+            "question": "Bolehkah saya membawa makanan dan minuman sendiri?",
+            "answer": "<p>Makanan dan minuman dari luar <strong>tidak dibenarkan</strong> masuk ke dalam taman. Foodville food court menawarkan pelbagai pilihan makanan dan minuman. Botol air peribadi yang kosong dibenarkan.</p>"
+          },
+          {
+            "question": "Bagaimana untuk menyimpan barang berharga?",
+            "answer": "<p>Loker berbayar tersedia di seluruh taman. Gunakan loker semasa menaiki wahana. <strong>Taman tidak bertanggungjawab atas kehilangan barang peribadi</strong>.</p>"
+          },
+          {
+            "question": "Apakah wahana dan tarikan yang ada?",
+            "answer": "<p>Taman menawarkan pelbagai wahana air bertema Columbia Pictures termasuk Ghostbusters, Jumanji, Bad Boys, Hotel Transylvania, dan lain-lain. Terdapat juga <strong>kolam ombak</strong>, sungai malas, dan kawasan kanak-kanak.</p>"
+          },
+          {
+            "question": "Adakah had ketinggian untuk wahana?",
+            "answer": "<p>Ya. Kebanyakan wahana utama memerlukan ketinggian minimum <strong>120 cm</strong>. Sesetengah wahana memerlukan 105 cm. Kawasan kanak-kanak tidak mempunyai had ketinggian. Semak papan tanda di setiap wahana.</p>"
+          },
+          {
+            "question": "Bolehkah wanita hamil menaiki wahana?",
+            "answer": "<p>Wanita hamil <strong>tidak digalakkan menaiki kebanyakan wahana air</strong> untuk tujuan keselamatan. Sila berunding dengan doktor anda sebelum melawat.</p>"
+          },
+          {
+            "question": "Berapa lama masa menunggu untuk wahana?",
+            "answer": "<p>Pada hari bekerja yang tenang, masa menunggu adalah <strong>10–20 minit</strong>. Pada hujung minggu atau musim puncak, wahana popular mungkin memerlukan 40–60 minit. Tiba antara 10–12 pagi untuk meminimumkan masa menunggu.</p>"
+          },
+          {
+            "question": "Adakah kemudahan untuk pelawat kurang upaya?",
+            "answer": "<p>Taman berusaha memastikan kebolehcapaian untuk semua pelawat. Sesetengah wahana mungkin mempunyai had berdasarkan keupayaan fizikal. Hubungi taman sebelum melawat untuk mendapatkan panduan terbaik.</p>"
+          },
+          {
+            "question": "Adakah terdapat restoran atau tempat makan di taman?",
+            "answer": "<p>Ya. <strong>Foodville food court</strong> menawarkan pelbagai pilihan termasuk masakan Thai, makanan segera, snek, dan minuman. Gerai minuman dan snek juga tersebar di seluruh taman.</p>"
+          },
+          {
+            "question": "Bagaimana cara membayar makanan di taman?",
+            "answer": "<p>Semua pembelian dalam taman menggunakan <strong>sistem gelang tangan RFID</strong>. Cas kredit ke gelang tangan anda semasa masuk dan gunakan untuk semua pembelian. Baki kredit dikembalikan semasa keluar.</p>"
+          },
+          {
+            "question": "Adakah pilihan makanan vegetarian tersedia?",
+            "answer": "<p>Beberapa pilihan vegetarian tersedia di Foodville. Pilihan vegan mungkin terhad — tanya kakitangan untuk mendapatkan bantuan memilih makanan yang sesuai.</p>"
+          },
+          {
+            "question": "Bagaimana jika saya mempunyai alahan makanan?",
+            "answer": "<p>Jika anda mempunyai alahan makanan, <strong>maklumkan kepada kakitangan</strong> semasa memesan. Taman mungkin tidak dapat menjamin kawalan penuh terhadap semua alergen — berhati-hati jika anda mempunyai alahan yang serius.</p>"
+          },
+          {
+            "question": "Berapakah harga makanan di taman?",
+            "answer": "<p>Masakan Thai tempatan berharga <strong>80–150 THB</strong>, makanan barat dan fast food <strong>150–300 THB</strong>. Minuman berharga kira-kira <strong>50–120 THB</strong>.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "stickyBar": {
+    "subText": "seorang &bull; Jimat ~27%",
+    "bookNow": "Tempah Sekarang &rarr;",
+    "ariaLabel": "Bar tempahan"
+  },
+  "footer": {
+    "brandDescription": "Panduan bebas lengkap anda untuk Columbia Pictures Aquaverse di Pattaya, Thailand. Kami membantu pelawat merancang pengalaman taman air yang sempurna dengan maklumat terkini, tips, dan tawaran tiket terbaik.",
+    "quickLinksHeading": "Pautan Pantas",
+    "quickLinks": [
+      "Semua Tarikan",
+      "Tiket &amp; Harga",
+      "Cara Ke Sana",
+      "Tips Pelawat",
+      "Soalan Lazim"
+    ],
+    "guidesHeading": "Panduan",
+    "guideLabels": [
+      "Aquaverse vs Ramayana",
+      "Aquaverse Bersama Kanak-kanak",
+      "Pergi dari Bangkok",
+      "Panduan Harga Tiket",
+      "Ulasan Jujur",
+      "Hotel Dekat Aquaverse",
+      "Panduan Makanan"
+    ],
+    "parkInfoHeading": "Maklumat Taman",
+    "mapsLinkText": "Lihat di Google Maps",
+    "hoursItems": [
+      "Buka Setiap Hari 10 PG &ndash; 6 PTG",
+      "Tutup Hari Rabu"
+    ],
+    "affiliate": "Aquaverse-Park.com is an independent travel guide and affiliate website. We earn commissions from qualifying purchases made through links on this site at no extra cost to you. Tickets are sold through authorized resellers (Klook) and are official e-tickets for Columbia Pictures Aquaverse.",
+    "disclaimer": "Aquaverse-Park.com is <strong>not</strong> the official website of Columbia Pictures Aquaverse. We are not affiliated with, endorsed by, or connected to Columbia Pictures, Sony Pictures Entertainment, Amazon MGM Studios, or any of their subsidiaries. All trademarks, logos, and brand names are the property of their respective owners. Prices, operating hours, and park information are subject to change without notice. Please verify all details on the official website before your visit.",
+    "copyright": "&copy; 2026 Aquaverse-Park.com &mdash; Independent travel guide. Not an official website."
+  }
+}
