@@ -259,5 +259,34 @@
       "RUB": 2.59,
       "AUD": 0.0434
     }
+  },
+  {
+    "date": "2026-03-22",
+    "packages": {
+      "standard-admission": 1174,
+      "admission-food-surf": 1585,
+      "group-of-3": 1168,
+      "group-of-4": 1168,
+      "addons-food": 498,
+      "addons-gokart": 642
+    },
+    "exchangeRates": {
+      "USD": 0.0305,
+      "EUR": 0.0264,
+      "GBP": 0.0228,
+      "JPY": 4.85,
+      "CNY": 0.211,
+      "KRW": 45.75,
+      "TWD": 0.971,
+      "HKD": 0.239,
+      "SGD": 0.0391,
+      "MYR": 0.12,
+      "PHP": 1.82,
+      "IDR": 516,
+      "VND": 795,
+      "INR": 2.84,
+      "RUB": 2.6,
+      "AUD": 0.0433
+    }
   }
 ]
