@@ -262,6 +262,18 @@ p { margin-bottom: 1rem; }
 
 .hero.hero-sm .hero-sub {
   display: block;
+  color: var(--dark-600);
+  opacity: 1;
+}
+
+.hero.hero-sm .breadcrumb,
+.hero.hero-sm .breadcrumb a,
+.hero.hero-sm .breadcrumb span {
+  color: var(--dark-600);
+}
+
+.hero.hero-sm .breadcrumb a:hover {
+  color: var(--primary-dark);
 }
 
 @media (max-width: 768px) {
