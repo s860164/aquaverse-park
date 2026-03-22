@@ -386,5 +386,565 @@
     "affiliate": "Aquaverse-Park.com is an independent travel guide and affiliate website. We earn commissions from qualifying purchases made through links on this site at no extra cost to you. Tickets are sold through authorized resellers (Klook) and are official e-tickets for Columbia Pictures Aquaverse.",
     "disclaimer": "Aquaverse-Park.com is <strong>not</strong> the official website of Columbia Pictures Aquaverse. We are not affiliated with, endorsed by, or connected to Columbia Pictures, Sony Pictures Entertainment, Amazon MGM Studios, or any of their subsidiaries. All trademarks, logos, and brand names are the property of their respective owners. Prices, operating hours, and park information are subject to change without notice. Please verify all details on the official website before your visit.",
     "copyright": "&copy; 2026 Aquaverse-Park.com &mdash; Independent travel guide. Not an official website."
+  },
+  "home": {
+    "title": "Columbia Pictures Aquaverse Pattaya | Vé, Trò Chơi & Hướng Dẫn Đầy Đủ 2026",
+    "metaDescription": "Hướng dẫn đầy đủ Columbia Pictures Aquaverse tại Pattaya, Thái Lan. 9 khu vực chủ đề phim, 20+ trò chơi nước, vé từ THB 1,176. Giờ mở cửa, cách đến, mẹo & đánh giá.",
+    "metaKeywords": "Aquaverse, Columbia Pictures Aquaverse, Aquaverse Pattaya, công viên nước Pattaya, công viên giải trí Thái Lan, vé Aquaverse, trò chơi Aquaverse, công viên nước Ghostbusters, trò chơi Jumanji, công viên nước Hotel Transylvania",
+    "ogTitle": "Columbia Pictures Aquaverse Pattaya | Hướng Dẫn Đầy Đủ & Vé 2026",
+    "ogDescription": "Công viên nước chủ đề Columbia Pictures đầu tiên trên thế giới tại Pattaya. 9 khu vực phim, 20+ trò chơi. Nhận vé giảm giá và hướng dẫn du khách đầy đủ.",
+    "twitterTitle": "Columbia Pictures Aquaverse Pattaya | Hướng Dẫn Đầy Đủ 2026",
+    "twitterDescription": "9 khu vực chủ đề phim, 20+ trò chơi nước tại Pattaya. Vé từ THB 1,176. Hướng dẫn du khách đầy đủ.",
+    "schemaDescription": "The world's first Columbia Pictures themed water and amusement park in Pattaya, Thailand, featuring 9 movie-themed zones with 20+ rides and attractions.",
+    "heroPreTitle": "Columbia Pictures",
+    "heroTitle": "Aquaverse",
+    "heroSubtitle": "Pattaya, Thái Lan",
+    "heroCta": "Đặt Vé Giảm Giá &rarr;",
+    "stats": [
+      {
+        "number": "9",
+        "label": "Khu Vực Phim"
+      },
+      {
+        "number": "20+",
+        "label": "Trò Chơi"
+      },
+      {
+        "number": "4.3/5",
+        "label": "Đánh Giá Google"
+      },
+      {
+        "number": "~27%",
+        "label": "Giảm Giá Trực Tuyến"
+      }
+    ],
+    "tldr": [
+      {
+        "bold": "Gì:",
+        "text": "Công viên nước chủ đề Columbia Pictures đầu tiên trên thế giới với 9 khu vực phim (Ghostbusters, Jumanji, Hotel Transylvania, Zombieland, và nhiều hơn nữa)"
+      },
+      {
+        "bold": "Ở đâu:",
+        "text": "Na Jomtien, Sattahip, Pattaya &mdash; 1,5 giờ từ Bangkok"
+      },
+      {
+        "bold": "Giờ mở cửa:",
+        "text": "Hàng ngày 10:00 SA &ndash; 6:00 CH (đóng cửa thứ Tư)"
+      },
+      {
+        "bold": "Vé:",
+        "text": "Từ THB 1,176 trực tuyến (giá tại cổng THB 1.595) &mdash; trẻ em dưới 3 tuổi miễn phí"
+      },
+      {
+        "bold": "Phù hợp nhất:",
+        "text": "Gia đình, người tìm kiếm cảm giác mạnh, fan phim &mdash; chuyến đi trong ngày lý tưởng từ Bangkok hoặc Pattaya"
+      },
+      {
+        "bold": "Điểm nhấn:",
+        "text": "Vòm Nước Đầu Tiên Trên Thế Giới, đường trượt nước cao nhất châu Á (18m), mô phỏng lướt sóng FlowRider, đua xe go-kart, onsen"
+      }
+    ],
+    "gbp": {
+      "category": "Công Viên Nước &middot; Công Viên Giải Trí &middot; Pattaya",
+      "ratingAriaLabel": "4,3 trên 5 sao",
+      "ratingText": "<strong>4.3</strong> (7.840+ đánh giá)",
+      "details": [
+        "<strong>Địa chỉ:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+        "<strong>Giờ mở cửa:</strong> 10:00 SA &ndash; 6:00 CH (Đóng cửa thứ Tư)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>Đang kiểm tra...</span>",
+        "<strong>Điện thoại:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+        "<strong>Vé:</strong> THB 1,176 &ndash; 1.595 mỗi người",
+        "<strong>Bãi đậu xe:</strong> Miễn phí cho tất cả du khách"
+      ],
+      "statusText": "Đang kiểm tra...",
+      "ctaText": "Nhận Vé Giảm Giá &rarr;"
+    },
+    "whyVisit": {
+      "heading": "Tại Sao Nên Đến Aquaverse?",
+      "introText": "Columbia Pictures Aquaverse là <strong>công viên giải trí mang thương hiệu Columbia Pictures đầu tiên trên thế giới</strong>, tọa lạc tại khu vực bờ biển Pattaya. Ban đầu mở cửa với tên Cartoon Network Amazone vào năm 2014, công viên được thiết kế lại hoàn toàn và ra mắt lại vào <strong>tháng 10 năm 2022</strong> với bản quyền Sony Pictures.",
+      "cards": [
+        {
+          "heading": "9 Khu Vực Phim",
+          "text": "Theo chủ đề các bộ phim yêu thích bao gồm Ghostbusters, Jumanji, Hotel Transylvania, và Zombieland"
+        },
+        {
+          "heading": "20+ Trò Chơi",
+          "text": "Từ đường trượt nước ly kỳ đến hồ sóng khổng lồ, sông lười, và mô phỏng lướt sóng FlowRider"
+        },
+        {
+          "heading": "Thân Thiện Gia Đình",
+          "text": "Khu vui chơi nước thương hiệu lớn nhất Đông Nam Á tại khu Hotel Transylvania với hàng chục trò chơi nước"
+        },
+        {
+          "heading": "Không Chỉ Có Nước",
+          "text": "Go-kart, mini golf, onsen, biểu diễn trực tiếp, và hòa nhạc tại Omnitheatre hồ sóng"
+        }
+      ]
+    },
+    "zones": {
+      "sectionLabel": "Khám Phá Công Viên",
+      "heading": "9 Khu Vực Chủ Đề Phim",
+      "description": "Mỗi khu vực mang đến sự sống động cho các bộ phim Columbia Pictures yêu thích với chủ đề sâu sắc, trò chơi độc đáo, và trải nghiệm khó quên.",
+      "items": [
+        {
+          "cssClass": "zone-hotel-t",
+          "tag": "Yêu Thích Của Trẻ Em",
+          "name": "Khu Hotel Transylvania",
+          "description": "Khu vui chơi nước thương hiệu lớn nhất Đông Nam Á. 9 đường trượt nước, hàng chục trò chơi nước, và gặp gỡ nhân vật với Drac, Mavis, và Blobby.",
+          "highlights": [
+            {
+              "emoji": "👶",
+              "label": "Thân Thiện Gia Đình"
+            },
+            {
+              "emoji": "📸",
+              "label": "Nhân Vật"
+            },
+            {
+              "emoji": "🎉",
+              "label": "Tiệc Bọt"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-ghostbusters",
+          "tag": "Đầu Tiên Trên Thế Giới",
+          "name": "Khu Ghostbusters",
+          "description": "Ngôi nhà của Vòm Nước Đầu Tiên Trên Thế Giới! Trượt qua các vòng xoay và khúc cua trong bóng tối trên phao Ghostbusters, rồi lao xuống vòm nước khổng lồ.",
+          "highlights": [
+            {
+              "emoji": "💥",
+              "label": "Trò Chơi Cảm Giác Mạnh"
+            },
+            {
+              "emoji": "🔮",
+              "label": "Vòm Nước"
+            },
+            {
+              "emoji": "👻",
+              "label": "Bẫy Ma"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-zombieland",
+          "tag": "Cực Đoan",
+          "name": "Khu Zombieland",
+          "description": "Sở hữu \"The Beast\" &mdash; một trong những đường trượt nước cao nhất châu Á với cú rơi thẳng đứng 18 mét! Còn có đường trượt xoay 360 độ và đua thảm.",
+          "highlights": [
+            {
+              "emoji": "⚡",
+              "label": "Rơi Tự Do 18m"
+            },
+            {
+              "emoji": "🔄",
+              "label": "Xoay 360°"
+            },
+            {
+              "emoji": "🏃",
+              "label": "Đua Thảm"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-jumanji",
+          "tag": "Phiêu Lưu",
+          "name": "Khu Jumanji",
+          "description": "Bước vào rừng hoang dã! Chinh phục Núi Jaguar, né tránh đường trượt Viper, và sống sót qua Cuộc Tấn Công Rừng khi đàn khỉ đuổi bạn xuống hồ nước.",
+          "highlights": [
+            {
+              "emoji": "🌿",
+              "label": "Chủ Đề Rừng"
+            },
+            {
+              "emoji": "🏔️",
+              "label": "Núi Jaguar"
+            },
+            {
+              "emoji": "🐍",
+              "label": "Trượt Viper"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-surfs-up",
+          "tag": "Lướt Sóng Pro",
+          "name": "Khu Surf's Up",
+          "description": "Trải nghiệm máy mô phỏng lướt sóng FlowRider Double 40 feet với hướng dẫn chuyên nghiệp. Phí phụ thu áp dụng.",
+          "highlights": [
+            {
+              "emoji": "🏄",
+              "label": "FlowRider"
+            },
+            {
+              "emoji": "👨‍🏫",
+              "label": "Huấn Luyện Viên Pro"
+            },
+            {
+              "emoji": "🤙",
+              "label": "Ván Boogie"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-cloudy",
+          "tag": "Thư Giãn",
+          "name": "Cloudy with a Chance of Meatballs",
+          "description": "Trôi dọc theo cuộc phiêu lưu sông lười Swallow Falls, được bao quanh bởi các Foodimals kỳ lạ và trải nghiệm chủ đề ẩm thực từ bộ phim.",
+          "highlights": [
+            {
+              "emoji": "🛟",
+              "label": "Sông Lười"
+            },
+            {
+              "emoji": "🍔",
+              "label": "Chủ Đề Ẩm Thực"
+            },
+            {
+              "emoji": "😌",
+              "label": "Thư Giãn"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-bad-boys",
+          "tag": "Go-Kart",
+          "name": "Bad Boys Race Club",
+          "description": "Tham gia đường đua go-kart theo chủ đề Miami! Xe kart thiết kế đặc biệt và xe drift cho trải nghiệm đua xe đầy adrenaline.",
+          "highlights": [
+            {
+              "emoji": "🏎️",
+              "label": "Go-Kart"
+            },
+            {
+              "emoji": "🏁",
+              "label": "Đường Đua"
+            },
+            {
+              "emoji": "💰",
+              "label": "Phụ Thu"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-emoji",
+          "tag": "Mini Golf",
+          "name": "Khu The Emoji Movie",
+          "description": "Sân mini golf vui nhộn với các chướng ngại vật sáng tạo lấy cảm hứng từ The Emoji Movie. Thi đấu với bạn bè và gia đình để giành giải!",
+          "highlights": [
+            {
+              "emoji": "⛳",
+              "label": "Mini Golf"
+            },
+            {
+              "emoji": "🏆",
+              "label": "Giải Thưởng"
+            },
+            {
+              "emoji": "💰",
+              "label": "Phụ Thu"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-wave-pool",
+          "tag": "Rạp Chiếu + Sóng",
+          "name": "Hồ Sóng Mega Omnitheatre",
+          "description": "Điểm nhấn chính của Aquaverse! Sóng khổng lồ mỗi 20 phút, tiệc bọt, chiếu phim ngoài trời, hòa nhạc trực tiếp với âm thanh vòm Dolby DTS.",
+          "highlights": [
+            {
+              "emoji": "🌊",
+              "label": "Sóng Khổng Lồ"
+            },
+            {
+              "emoji": "🎬",
+              "label": "Màn Hình Phim"
+            },
+            {
+              "emoji": "🎸",
+              "label": "Nhạc Sống"
+            }
+          ]
+        }
+      ],
+      "viewAll": "Xem Tất Cả Trò Chơi &amp; Chi Tiết &rarr;"
+    },
+    "tickets": {
+      "sectionLabel": "Vé &amp; Giá",
+      "heading": "Nhận Ưu Đãi Vé Aquaverse Tốt Nhất",
+      "description": "Tiết kiệm đến ~27% khi đặt trực tuyến. Tất cả vé bao gồm vào cổng công viên, thuê tủ khóa, và sử dụng trò chơi nước.",
+      "cards": [
+        {
+          "heading": "Giá Tại Cổng",
+          "periodText": "~530.000 VND / ~$44 USD mỗi người",
+          "features": [
+            "Tất cả trò chơi nước bao gồm",
+            "Tủ khóa KHÔNG bao gồm (thêm THB 300)",
+            "Tùy thuộc tình trạng còn vé",
+            "Không ưu tiên xếp hàng"
+          ],
+          "ctaText": "Chỉ Mua Tại Cổng"
+        },
+        {
+          "heading": "Vé Đặt Trước Trực Tuyến",
+          "periodText": "~290.000 VND / ~$24 USD mỗi người &mdash; Tiết kiệm ~27%!",
+          "features": [
+            "Tất cả trò chơi nước bao gồm",
+            "Thuê tủ khóa ĐÃ BAO GỒM",
+            "Xác nhận vé điện tử ngay lập tức",
+            "Có thể hủy miễn phí",
+            "Bỏ qua hàng đợi mua vé"
+          ],
+          "ctaText": "Đặt Ngay &mdash; Tiết Kiệm ~27% &rarr;"
+        },
+        {
+          "heading": "Gói Trọn Gói",
+          "periodText": "~1.283.000 VND / ~$49 USD mỗi người",
+          "features": [
+            "Tất cả trò chơi nước bao gồm",
+            "Phiếu ăn uống 200 THB",
+            "1 lượt lướt sóng FlowRider",
+            "Tủ khóa miễn phí",
+            "Vé điện tử xác nhận ngay"
+          ],
+          "ctaText": "Đặt Gói Trọn Gói &rarr;"
+        }
+      ],
+      "footerNote": "Trẻ em dưới 3 tuổi vào miễn phí &bull; Go-kart và mini golf có phụ thu<br>\n          <a href=\"/vi/tickets.html\">Xem tất cả loại vé và ưu đãi combo &rarr;</a>"
+    },
+    "gettingThere": {
+      "sectionLabel": "Cách Đến",
+      "heading": "Cách Đến Aquaverse",
+      "description": "Tọa lạc tại Na Jomtien, chỉ 1,5 giờ từ Bangkok và 30 phút từ trung tâm Pattaya.",
+      "cards": [
+        {
+          "emoji": "🚗",
+          "heading": "Bằng Ô Tô Từ Bangkok",
+          "text": "<strong>1,5 &ndash; 2 giờ</strong> qua Đường Cao Tốc Tuyến 7. Bãi đậu xe miễn phí tại công viên. Đi theo lối ra Sattahip và theo biển chỉ dẫn."
+        },
+        {
+          "emoji": "🚌",
+          "heading": "Bằng Xe Buýt",
+          "text": "Xe buýt mỗi 30 phút từ <strong>Bến Xe Ekkamai</strong> (BTS Ekkamai). Sau đó bắt taxi/Grab (~THB 320-500) từ bến xe Pattaya."
+        },
+        {
+          "emoji": "🚐",
+          "heading": "Bằng Xe Van Chung",
+          "text": "Từ <strong>Victory Monument</strong> hoặc <strong>Ekkamai</strong>, ~THB 240/người. Xe van khởi hành hàng giờ đến Pattaya."
+        },
+        {
+          "emoji": "🚕",
+          "heading": "Bằng Taxi / Grab",
+          "text": "Từ Bangkok: ~THB 1.200-1.500 + phí cầu đường.<br>Từ trung tâm Pattaya: ~THB 320-500 (20-30 phút)."
+        },
+        {
+          "emoji": "🚎",
+          "heading": "Xe Đưa Đón Công Viên",
+          "text": "<strong>THB 300/người</strong> xe đưa đón hàng ngày từ Pattaya. Đặt trước trực tuyến. Điểm đón thuận tiện."
+        },
+        {
+          "emoji": "✈️",
+          "heading": "Từ Sân Bay",
+          "text": "Sân bay Suvarnabhumi: ~90 phút lái xe.<br>Sân bay U-Tapao (Pattaya): ~25 phút lái xe."
+        }
+      ],
+      "viewAll": "Hướng Dẫn Di Chuyển Đầy Đủ &rarr;"
+    },
+    "comparison": {
+      "sectionLabel": "So Sánh",
+      "heading": "Aquaverse vs Các Công Viên Nước Pattaya Khác",
+      "description": "Xem Columbia Pictures Aquaverse so sánh với các công viên nước phổ biến khác tại khu vực Pattaya như thế nào.",
+      "headers": [
+        "Đặc Điểm",
+        "Aquaverse",
+        "Ramayana Water Park"
+      ],
+      "rows": [
+        {
+          "feature": "Chủ đề",
+          "aquaverse": "Phim Hollywood (Sony/Columbia)",
+          "ramayana": "Thần thoại Thái Lan"
+        },
+        {
+          "feature": "Diện tích",
+          "aquaverse": "14+ hecta",
+          "ramayana": "170.000 m vuông (lớn hơn)"
+        },
+        {
+          "feature": "Khu vực",
+          "aquaverse": "9 khu vực chủ đề",
+          "ramayana": "Nhiều khu vực chủ đề"
+        },
+        {
+          "feature": "Vé (Trực tuyến)",
+          "aquaverse": "Từ THB 1,176",
+          "ramayana": "Từ THB 890"
+        },
+        {
+          "feature": "Đánh giá Google",
+          "aquaverse": "4.3/5 (7.840+ đánh giá)",
+          "ramayana": "4.5/5"
+        },
+        {
+          "feature": "Khu trẻ em",
+          "aquaverse": "Lớn nhất Đông Nam Á (Hotel Transylvania)",
+          "ramayana": "Khu trẻ em tốt"
+        },
+        {
+          "feature": "Hoạt động không nước",
+          "aquaverse": "Go-kart, mini golf, onsen, hòa nhạc",
+          "ramayana": "Hạn chế"
+        },
+        {
+          "feature": "Đặc điểm độc đáo",
+          "aquaverse": "Vòm Nước Đầu Tiên Thế Giới, rơi tự do 18m",
+          "ramayana": "Công viên nước lớn nhất Thái Lan"
+        },
+        {
+          "feature": "Phù hợp nhất",
+          "aquaverse": "Gia đình, fan phim, người tìm sự đa dạng",
+          "ramayana": "Fan đường trượt nước"
+        }
+      ],
+      "compareLink": "Đọc bài so sánh đầy đủ Aquaverse vs Ramayana &rarr;"
+    },
+    "reviews": {
+      "sectionLabel": "Đánh Giá",
+      "heading": "Du Khách Nói Gì",
+      "description": "Dựa trên 7.840+ đánh giá Google với điểm trung bình 4.3/5 sao.",
+      "testimonials": [
+        {
+          "stars": "5 sao",
+          "text": "Công viên nước thực sự tuyệt vời! Trò chơi Vòm Nước Ghostbusters không giống bất cứ điều gì tôi từng trải nghiệm. Các con tôi yêu thích khu Hotel Transylvania và gặp gỡ nhân vật.",
+          "initials": "JL",
+          "name": "James L.",
+          "source": "Đánh giá Google"
+        },
+        {
+          "stars": "5 sao",
+          "text": "Một ngày tuyệt vời cho cả gia đình. Hồ sóng với âm thanh vòm Dolby thật đáng kinh ngạc! Nhân viên rất thân thiện và chú trọng an toàn. Rất khuyên nên đặt vé trực tuyến để được giảm giá.",
+          "initials": "SK",
+          "name": "Sarah K.",
+          "source": "TripAdvisor"
+        },
+        {
+          "stars": "4 sao",
+          "text": "The Beast ở Zombieland thật điên rồ &mdash; rơi tự do 18 mét! Không dành cho người yếu tim. Cũng rất thích go-kart. Điểm trừ duy nhất là giá đồ ăn hơi cao, nhưng bản thân công viên thì thực sự tuyệt vời.",
+          "initials": "MT",
+          "name": "Mike T.",
+          "source": "Đánh giá Google"
+        }
+      ]
+    },
+    "blog": {
+      "sectionLabel": "Hướng Dẫn Du Lịch",
+      "heading": "Mẹo Nội Bộ Aquaverse",
+      "description": "Hướng dẫn chuyên gia giúp bạn lên kế hoạch chuyến thăm Aquaverse hoàn hảo.",
+      "cards": [
+        {
+          "tag": "So Sánh",
+          "readTime": "8 phút đọc",
+          "title": "Aquaverse vs Ramayana: Công Viên Nước Nào Ở Pattaya Tốt Hơn?",
+          "description": "So sánh trung thực giữa hai công viên nước lớn nhất Pattaya giúp bạn chọn đúng cho chuyến đi."
+        },
+        {
+          "tag": "Hướng Dẫn Gia Đình",
+          "readTime": "6 phút đọc",
+          "title": "Aquaverse Cùng Trẻ Em: Hướng Dẫn Gia Đình Đầy Đủ",
+          "description": "Tất cả những gì phụ huynh cần biết khi đến Aquaverse cùng trẻ em, từ khu vực tốt nhất cho trẻ nhỏ đến mẹo an toàn."
+        },
+        {
+          "tag": "Di Chuyển",
+          "readTime": "5 phút đọc",
+          "title": "Cách Đến Aquaverse Từ Bangkok (Hướng Dẫn 2026)",
+          "description": "Tất cả phương tiện di chuyển từ Bangkok đến Aquaverse &mdash; bằng xe buýt, xe van, taxi, và xe riêng cùng chi phí và mẹo."
+        },
+        {
+          "tag": "Vé",
+          "readTime": "8 phút đọc",
+          "title": "Giá Vé Aquaverse 2026: Cách Nhận Ưu Đãi Tốt Nhất",
+          "description": "Phân tích chi tiết giá cho mọi loại vé. Mua tại cổng vs trực tuyến, giảm giá trẻ em, gói trọn gói, và nơi tìm giá rẻ nhất hợp lệ."
+        },
+        {
+          "tag": "Đánh Giá",
+          "readTime": "9 phút đọc",
+          "title": "Đánh Giá Thực Tế Aquaverse: Có Đáng Đến Không?",
+          "description": "Đánh giá thẳng thắn với nhận xét về trò chơi, chủ đề, ẩm thực &amp; giá trị. Điều chúng tôi thích, điều có thể cải thiện, và kết luận trung thực."
+        }
+      ],
+      "viewAll": "Xem Tất Cả Hướng Dẫn &rarr;"
+    },
+    "faq": {
+      "sectionLabel": "Câu Hỏi Thường Gặp",
+      "heading": "Các Câu Hỏi Thường Gặp",
+      "description": "Giải đáp nhanh cho những câu hỏi phổ biến nhất về việc tham quan Columbia Pictures Aquaverse.",
+      "items": [
+        {
+          "question": "Giá vé Aquaverse là bao nhiêu?",
+          "answer": "<p>Giá tại cổng là <strong>THB 1.595</strong> (~530.000 VND / ~$44 USD) mỗi người. Vé đặt trước trực tuyến từ <strong>THB 1,176</strong> (~290.000 VND / ~$24 USD), tiết kiệm đến ~27%. Trẻ em dưới 3 tuổi vào miễn phí. Vé trực tuyến bao gồm thuê tủ khóa (trị giá THB 300).</p>\n                <p><a href=\"/vi/tickets.html\">Xem tất cả loại vé và ưu đãi combo &rarr;</a></p>"
+        },
+        {
+          "question": "Giờ hoạt động là gì?",
+          "answer": "<p>Aquaverse mở cửa <strong>hàng ngày từ 10:00 SA đến 6:00 CH</strong>. Công viên <strong>đóng cửa mỗi thứ Tư</strong> để bảo trì theo lịch. Trò chơi đóng lúc 5:45 CH, và lần nhập cửa cuối cùng lúc 3:30 CH. Giờ có thể thay đổi trong các sự kiện đặc biệt và ngày lễ.</p>"
+        },
+        {
+          "question": "Cách đến Aquaverse từ Bangkok như thế nào?",
+          "answer": "<p>Có nhiều lựa chọn:</p>\n                <ul>\n                  <li><strong>Bằng ô tô:</strong> 1,5-2 giờ qua Đường Cao Tốc Tuyến 7 (bãi đậu xe miễn phí tại công viên)</li>\n                  <li><strong>Bằng xe buýt:</strong> Từ Bến Xe Ekkamai, sau đó taxi từ Pattaya</li>\n                  <li><strong>Bằng xe van chung:</strong> THB 240/người từ Victory Monument hoặc Ekkamai</li>\n                  <li><strong>Bằng Grab/taxi:</strong> THB 1.200-1.500 + phí cầu đường từ Bangkok</li>\n                </ul>\n                <p><a href=\"/vi/getting-there.html\">Xem hướng dẫn di chuyển đầy đủ &rarr;</a></p>"
+        },
+        {
+          "question": "Những bộ phim nào có tại Aquaverse?",
+          "answer": "<p>Aquaverse có <strong>9 khu vực chủ đề</strong> dựa trên các bộ phim Columbia Pictures:</p>\n                <ul>\n                  <li><strong>Hotel Transylvania</strong> &mdash; Khu vui chơi nước trẻ em với nhân vật</li>\n                  <li><strong>Ghostbusters</strong> &mdash; Trò chơi cảm giác mạnh Vòm Nước Đầu Tiên Thế Giới</li>\n                  <li><strong>Jumanji</strong> &mdash; Trò chơi nước phiêu lưu rừng rậm</li>\n                  <li><strong>Zombieland</strong> &mdash; Đường trượt cực đoan với rơi tự do 18m</li>\n                  <li><strong>Cloudy with a Chance of Meatballs</strong> &mdash; Sông lười</li>\n                  <li><strong>Surf's Up</strong> &mdash; Mô phỏng lướt sóng FlowRider</li>\n                  <li><strong>Bad Boys</strong> &mdash; Đua go-kart (phụ thu)</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; Mini golf (phụ thu)</li>\n                  <li><strong>Hồ Sóng Mega</strong> &mdash; Hồ sóng + rạp chiếu ngoài trời</li>\n                </ul>"
+        },
+        {
+          "question": "Aquaverse có phù hợp cho trẻ em không?",
+          "answer": "<p>Chắc chắn rồi! <strong>Khu Hotel Transylvania</strong> là khu vui chơi nước thương hiệu lớn nhất Đông Nam Á, được xây dựng đặc biệt cho trẻ em với:</p>\n                <ul>\n                  <li>9 đường trượt nước thân thiện trẻ em</li>\n                  <li>hàng chục trò chơi nước và khu vực chơi nước</li>\n                  <li>Xô nước lớn nhất Thái Lan</li>\n                  <li>Tiệc bọt</li>\n                  <li>Gặp gỡ nhân vật (Drac, Mavis, Blobby)</li>\n                </ul>\n                <p>Trẻ em dưới 3 tuổi vào miễn phí. <a href=\"/blog/aquaverse-with-kids.html\">Đọc hướng dẫn gia đình đầy đủ &rarr;</a></p>"
+        },
+        {
+          "question": "Có được mang đồ ăn vào Aquaverse không?",
+          "answer": "<p>Không, đồ ăn và thức uống từ bên ngoài không được phép mang vào (ngoại trừ: thức ăn/sữa cho em bé). Công viên có nhiều nhà hàng theo chủ đề:</p>\n                <p>Công viên có nhiều lựa chọn ẩm thực bao gồm khu ẩm thực, quầy đồ ăn nhẹ theo chủ đề và trạm đồ uống, phục vụ burger, đồ ăn Thái, pizza và nhiều món khác.</p>\n                <p>Mẹo: Công viên sử dụng hệ thống vòng tay RFID không tiền mặt &mdash; nạp tiền và chi tiêu không cần mang theo tiền mặt.</p>"
+        },
+        {
+          "question": "Aquaverse hay Ramayana Water Park tốt hơn?",
+          "answer": "<p>Cả hai đều rất tốt, nhưng mang đến trải nghiệm khác nhau:</p>\n                <ul>\n                  <li><strong>Chọn Aquaverse nếu:</strong> Bạn muốn chủ đề phim Hollywood, đa dạng hoạt động (nước + go-kart + mini golf + onsen), và đi cùng trẻ nhỏ yêu thích nhân vật phim</li>\n                  <li><strong>Chọn Ramayana nếu:</strong> Bạn muốn công viên nước lớn nhất với nhiều đường trượt nhất, giá trị tốt hơn cho trải nghiệm công viên nước thuần túy, và một ngày thư giãn hơn</li>\n                </ul>\n                <p><a href=\"/blog/aquaverse-vs-ramayana.html\">Đọc hướng dẫn so sánh chi tiết &rarr;</a></p>"
+        },
+        {
+          "question": "Thời điểm tốt nhất để đến Aquaverse là khi nào?",
+          "answer": "<p><strong>Mùa tốt nhất:</strong> Tháng 11 đến tháng 4 (mùa khô) để có thời tiết tốt nhất.</p>\n                <p><strong>Ngày tốt nhất:</strong> Ngày thường ít đông hơn nhiều so với cuối tuần. Tránh thứ Tư (công viên đóng cửa).</p>\n                <p><strong>Thời gian tốt nhất:</strong> Đến lúc 10 SA khi công viên mở cửa để tránh đông đúc và tận dụng tối đa ngày chơi.</p>\n                <p><a href=\"/vi/tips.html\">Đọc tất cả mẹo cho du khách &rarr;</a></p>"
+        }
+      ],
+      "viewAll": "Xem Tất Cả Câu Hỏi Thường Gặp &rarr;"
+    },
+    "cta": {
+      "ctaTitle": "Sẵn Sàng Cho Cuộc Phiêu Lưu?",
+      "ctaText": "Đặt vé Aquaverse trực tuyến và tiết kiệm đến ~27%. Xác nhận ngay lập tức, hủy miễn phí, và bỏ qua hàng đợi.",
+      "ctaButton": "Đặt Vé Giảm Giá Ngay &rarr;",
+      "ctaSubtext": "Ưu đãi hôm nay kết thúc trong <strong id=\"countdown\">...</strong>"
+    },
+    "nearby": {
+      "sectionLabel": "Gần Đây",
+      "heading": "Các Hoạt Động Gần Aquaverse",
+      "description": "Tận dụng tối đa chuyến đi Pattaya với những điểm tham quan phổ biến gần Aquaverse.",
+      "cards": [
+        {
+          "emoji": "🌺",
+          "heading": "Vườn Nhiệt Đới Nong Nooch",
+          "text": "Vườn bách thảo nhiệt đới tuyệt đẹp với biểu diễn văn hóa. Chỉ 10 phút từ Aquaverse."
+        },
+        {
+          "emoji": "🗿",
+          "heading": "Núi Phật (Khao Chi Chan)",
+          "text": "Hình ảnh Phật vàng 130 mét ấn tượng được khắc laser trên vách đá. Cách 15 phút."
+        },
+        {
+          "emoji": "🏖️",
+          "heading": "Bãi Biển Jomtien",
+          "text": "Một trong những bãi biển phổ biến nhất Pattaya với thể thao dưới nước, nhà hàng, và đời sống về đêm. 20 phút về phía bắc."
+        },
+        {
+          "emoji": "🐘",
+          "heading": "Khu Bảo Tồn Voi Pattaya",
+          "text": "Khu bảo tồn voi có đạo đức nơi bạn có thể cho ăn và đi bộ cùng voi được cứu hộ. Cách 25 phút."
+        }
+      ]
+    }
   }
 }

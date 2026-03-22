@@ -386,5 +386,565 @@
     "affiliate": "Aquaverse-Park.com is an independent travel guide and affiliate website. We earn commissions from qualifying purchases made through links on this site at no extra cost to you. Tickets are sold through authorized resellers (Klook) and are official e-tickets for Columbia Pictures Aquaverse.",
     "disclaimer": "Aquaverse-Park.com is <strong>not</strong> the official website of Columbia Pictures Aquaverse. We are not affiliated with, endorsed by, or connected to Columbia Pictures, Sony Pictures Entertainment, Amazon MGM Studios, or any of their subsidiaries. All trademarks, logos, and brand names are the property of their respective owners. Prices, operating hours, and park information are subject to change without notice. Please verify all details on the official website before your visit.",
     "copyright": "&copy; 2026 Aquaverse-Park.com &mdash; Independent travel guide. Not an official website."
+  },
+  "home": {
+    "title": "Columbia Pictures Aquaverse 芭提雅 | 門票、遊樂設施及2026完整指南",
+    "metaDescription": "Columbia Pictures Aquaverse 芭提雅完整指南。9大電影主題區、20+水上遊樂設施，門票低至1,176泰銖。開放時間、交通方式、遊玩攻略及評價。",
+    "metaKeywords": "Aquaverse, Columbia Pictures Aquaverse, 芭提雅水上樂園, 泰國主題樂園, Aquaverse門票, Aquaverse遊樂設施, 捉鬼敢死隊水上樂園, 勇敢者遊戲, 精靈旅社水上樂園, 芭提雅旅遊",
+    "ogTitle": "Columbia Pictures Aquaverse 芭提雅 | 2026完整指南及門票",
+    "ogDescription": "全球首個哥倫比亞影業主題水上樂園，位於泰國芭提雅。9大電影主題區、20+遊樂設施。線上購票享優惠，附完整遊園指南。",
+    "twitterTitle": "Columbia Pictures Aquaverse 芭提雅 | 2026完整指南",
+    "twitterDescription": "9大電影主題區、20+水上遊樂設施。門票低至1,176泰銖。芭提雅完整遊園指南。",
+    "schemaDescription": "The world's first Columbia Pictures themed water and amusement park in Pattaya, Thailand, featuring 9 movie-themed zones with 20+ rides and attractions.",
+    "heroPreTitle": "Columbia Pictures",
+    "heroTitle": "Aquaverse",
+    "heroSubtitle": "泰國芭提雅",
+    "heroCta": "預訂優惠門票 &rarr;",
+    "stats": [
+      {
+        "number": "9",
+        "label": "電影主題區"
+      },
+      {
+        "number": "20+",
+        "label": "遊樂設施"
+      },
+      {
+        "number": "4.3/5",
+        "label": "Google 評分"
+      },
+      {
+        "number": "~27%",
+        "label": "線上折扣"
+      }
+    ],
+    "tldr": [
+      {
+        "bold": "簡介：",
+        "text": "全球首個哥倫比亞影業主題水上樂園，擁有9大電影主題區（捉鬼敢死隊、勇敢者遊戲、精靈旅社、喪屍樂園等）"
+      },
+      {
+        "bold": "地點：",
+        "text": "芭提雅中天海灘區 &mdash; 距曼谷約1.5小時車程"
+      },
+      {
+        "bold": "營業時間：",
+        "text": "每天上午10點至下午6點（每週三休園）"
+      },
+      {
+        "bold": "門票：",
+        "text": "線上預訂僅 THB 1,176 起（門市價 THB 1,595）&mdash; 3歲以下兒童免費"
+      },
+      {
+        "bold": "適合人群：",
+        "text": "親子家庭、刺激愛好者、電影粉絲 &mdash; 曼谷或芭提雅理想一日遊"
+      },
+      {
+        "bold": "亮點：",
+        "text": "全球首個水穹頂、亞洲最高水滑道（18米）、FlowRider衝浪模擬器、卡丁車、溫泉"
+      }
+    ],
+    "gbp": {
+      "category": "水上樂園 &middot; 主題公園 &middot; 芭提雅",
+      "ratingAriaLabel": "4.3分（滿分5分）",
+      "ratingText": "<strong>4.3</strong>（7,840+ 則評價）",
+      "details": [
+        "<strong>地址：</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+        "<strong>營業時間：</strong> 上午10:00 &ndash; 下午6:00（每週三休園）<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>查詢中...</span>",
+        "<strong>電話：</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+        "<strong>門票：</strong> THB 1,176 &ndash; 1,595 每人（約 NT$790 &ndash; NT$1,450）",
+        "<strong>停車：</strong> 所有遊客免費停車"
+      ],
+      "statusText": "查詢中...",
+      "ctaText": "取得優惠門票 &rarr;"
+    },
+    "whyVisit": {
+      "heading": "為什麼選擇 Aquaverse？",
+      "introText": "Columbia Pictures Aquaverse 是<strong>全球首個哥倫比亞影業品牌主題樂園</strong>，位於芭提雅沿海區域。樂園前身為 2014 年開業的 Cartoon Network Amazone，於 <strong>2022 年 10 月</strong>經過全面改造後以索尼影業 IP 重新開放。",
+      "cards": [
+        {
+          "heading": "9大電影主題區",
+          "text": "圍繞經典電影打造，包括捉鬼敢死隊、勇敢者遊戲、精靈旅社和喪屍樂園"
+        },
+        {
+          "heading": "20+ 遊樂設施",
+          "text": "從驚險刺激的水上滑道到巨型造浪池、漂流河和 FlowRider 衝浪模擬器"
+        },
+        {
+          "heading": "親子友善",
+          "text": "精靈旅社區擁有東南亞最大的兒童水上遊樂場，配備數十項水上設施"
+        },
+        {
+          "heading": "多元體驗",
+          "text": "卡丁車、迷你高爾夫、溫泉、現場表演和造浪池全景劇場演唱會"
+        }
+      ]
+    },
+    "zones": {
+      "sectionLabel": "探索樂園",
+      "heading": "9大電影主題區",
+      "description": "每個主題區都將經典哥倫比亞影業電影搬進現實，帶來沉浸式的主題設計、獨特的遊樂設施和難忘的體驗。",
+      "items": [
+        {
+          "cssClass": "zone-hotel-t",
+          "tag": "兒童最愛",
+          "name": "精靈旅社區",
+          "description": "東南亞最大的品牌兒童水上樂場。9條兒童水滑道、數十項水上設施，還可與德古拉、梅維斯和布洛比進行角色互動。",
+          "highlights": [
+            {
+              "emoji": "👶",
+              "label": "親子友善"
+            },
+            {
+              "emoji": "📸",
+              "label": "角色互動"
+            },
+            {
+              "emoji": "🎉",
+              "label": "泡沫派對"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-ghostbusters",
+          "tag": "全球首創",
+          "name": "捉鬼敢死隊區",
+          "description": "全球首個水穹頂所在地！乘坐捉鬼敢死隊主題浮艇在黑暗中飛速旋轉，然後衝入巨大的水穹頂。",
+          "highlights": [
+            {
+              "emoji": "💥",
+              "label": "驚險刺激"
+            },
+            {
+              "emoji": "🔮",
+              "label": "水穹頂"
+            },
+            {
+              "emoji": "👻",
+              "label": "捉鬼陷阱"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-zombieland",
+          "tag": "極限挑戰",
+          "name": "喪屍樂園區",
+          "description": "擁有亞洲最高的水滑道之一「巨獸」 &mdash; 18米垂直落差！還有360度旋轉滑道和競速滑墊。",
+          "highlights": [
+            {
+              "emoji": "⚡",
+              "label": "18米落差"
+            },
+            {
+              "emoji": "🔄",
+              "label": "360°旋轉"
+            },
+            {
+              "emoji": "🏃",
+              "label": "競速滑墊"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-jumanji",
+          "tag": "冒險探索",
+          "name": "勇敢者遊戲區",
+          "description": "進入狂野叢林！征服美洲豹山，閃避毒蛇滑道，在叢林奔襲中與狒狒一同衝入水池。",
+          "highlights": [
+            {
+              "emoji": "🌿",
+              "label": "叢林主題"
+            },
+            {
+              "emoji": "🏔️",
+              "label": "美洲豹山"
+            },
+            {
+              "emoji": "🐍",
+              "label": "毒蛇滑道"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-surfs-up",
+          "tag": "專業衝浪",
+          "name": "衝浪季節區",
+          "description": "體驗40英尺FlowRider雙人衝浪模擬器，配備專業教練指導。需另外付費。",
+          "highlights": [
+            {
+              "emoji": "🏄",
+              "label": "FlowRider"
+            },
+            {
+              "emoji": "👨‍🏫",
+              "label": "專業教練"
+            },
+            {
+              "emoji": "🤙",
+              "label": "衝浪板"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-cloudy",
+          "tag": "休閒放鬆",
+          "name": "天降美食區",
+          "description": "沿著燕子瀑布河漂流冒險，被電影中古靈精怪的美食動物和美食主題體驗所環繞。",
+          "highlights": [
+            {
+              "emoji": "🛟",
+              "label": "漂流河"
+            },
+            {
+              "emoji": "🍔",
+              "label": "美食主題"
+            },
+            {
+              "emoji": "😌",
+              "label": "休閒放鬆"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-bad-boys",
+          "tag": "卡丁車",
+          "name": "絕地戰警賽車俱樂部",
+          "description": "在邁阿密風格卡丁車賽道上馳騁！定製賽車和漂移自行車帶來腎上腺素飆升的競速體驗。",
+          "highlights": [
+            {
+              "emoji": "🏎️",
+              "label": "卡丁車"
+            },
+            {
+              "emoji": "🏁",
+              "label": "賽道"
+            },
+            {
+              "emoji": "💰",
+              "label": "額外收費"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-emoji",
+          "tag": "迷你高爾夫",
+          "name": "表情奇幻世界區",
+          "description": "以《表情奇幻冒險》為靈感的趣味迷你高爾夫球場，創意十足的障礙設計。與親朋好友一同競賽贏取獎品！",
+          "highlights": [
+            {
+              "emoji": "⛳",
+              "label": "迷你高爾夫"
+            },
+            {
+              "emoji": "🏆",
+              "label": "獎品"
+            },
+            {
+              "emoji": "💰",
+              "label": "額外收費"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-wave-pool",
+          "tag": "影院+巨浪",
+          "name": "巨型造浪池全景劇場",
+          "description": "Aquaverse 的核心地標！每20分鐘一次巨型波浪、泡沫派對、戶外電影放映和杜比 DTS 環繞音效的現場演唱會。",
+          "highlights": [
+            {
+              "emoji": "🌊",
+              "label": "巨型波浪"
+            },
+            {
+              "emoji": "🎬",
+              "label": "電影銀幕"
+            },
+            {
+              "emoji": "🎸",
+              "label": "現場音樂"
+            }
+          ]
+        }
+      ],
+      "viewAll": "查看所有遊樂設施詳情 &rarr;"
+    },
+    "tickets": {
+      "sectionLabel": "門票與價格",
+      "heading": "取得 Aquaverse 最優惠門票",
+      "description": "線上預訂最高可省~27%。所有門票包含樂園入場、置物櫃租賃和全部水上遊樂設施。",
+      "cards": [
+        {
+          "heading": "門市價",
+          "periodText": "約 NT$1,450 新台幣/人",
+          "features": [
+            "包含全部水上遊樂設施",
+            "置物櫃不含（需另付 THB 300）",
+            "視當日名額而定",
+            "無優先排隊"
+          ],
+          "ctaText": "僅限現場購票"
+        },
+        {
+          "heading": "線上預訂票",
+          "periodText": "約 NT$790 新台幣/人 &mdash; 立省~27%！",
+          "features": [
+            "包含全部水上遊樂設施",
+            "置物櫃租賃已含",
+            "即時電子票確認",
+            "支援免費取消",
+            "免排隊入園"
+          ],
+          "ctaText": "立即預訂 &mdash; 省~27% &rarr;"
+        },
+        {
+          "heading": "全包套餐",
+          "periodText": "約 NT$1,570 新台幣/人",
+          "features": [
+            "包含全部水上遊樂設施",
+            "200泰銖餐飲抵用券",
+            "FlowRider 衝浪體驗1次",
+            "置物櫃租賃已含",
+            "即時電子票確認"
+          ],
+          "ctaText": "預訂全包套餐 &rarr;"
+        }
+      ],
+      "footerNote": "3歲以下兒童免費入園 &bull; 卡丁車和迷你高爾夫需額外付費<br>\n          <a href=\"/zh-TW/tickets.html\">查看完整門票選項和套餐優惠 &rarr;</a>"
+    },
+    "gettingThere": {
+      "sectionLabel": "交通指南",
+      "heading": "如何前往 Aquaverse",
+      "description": "位於中天海灘區，距曼谷僅1.5小時，距芭提雅市中心30分鐘車程。",
+      "cards": [
+        {
+          "emoji": "🚗",
+          "heading": "從曼谷自駕",
+          "text": "經7號高速公路，車程約<strong>1.5 &ndash; 2小時</strong>。樂園提供免費停車。在沙美方向出口下高速，沿路標行駛。"
+        },
+        {
+          "emoji": "🚌",
+          "heading": "乘巴士",
+          "text": "從<strong>Ekkamai 長途客運站</strong>（BTS Ekkamai站旁）每30分鐘發車。到芭提雅車站後搭計程車/Grab前往（約 THB 320-500）。"
+        },
+        {
+          "emoji": "🚐",
+          "heading": "乘共乘小巴",
+          "text": "從<strong>勝利紀念碑</strong>或<strong>Ekkamai</strong>出發，約 THB 240/人。小巴每小時發往芭提雅。"
+        },
+        {
+          "emoji": "🚕",
+          "heading": "計程車 / Grab",
+          "text": "從曼谷出發：約 THB 1,200-1,500 + 過路費。<br>從芭提雅市中心：約 THB 320-500（20-30分鐘車程）。"
+        },
+        {
+          "emoji": "🚎",
+          "heading": "樂園接駁巴士",
+          "text": "<strong>THB 300/人</strong>，每日從芭提雅發車。建議提前線上預訂，多個便捷上車點。"
+        },
+        {
+          "emoji": "✈️",
+          "heading": "從機場出發",
+          "text": "素萬那普機場：約90分鐘車程。<br>烏塔堡機場（芭提雅）：約25分鐘車程。"
+        }
+      ],
+      "viewAll": "完整交通指南 &rarr;"
+    },
+    "comparison": {
+      "sectionLabel": "對比",
+      "heading": "Aquaverse 與芭提雅其他水上樂園對比",
+      "description": "看看 Columbia Pictures Aquaverse 與芭提雅地區其他熱門水上樂園的對比。",
+      "headers": [
+        "特色",
+        "Aquaverse",
+        "Ramayana 水上樂園"
+      ],
+      "rows": [
+        {
+          "feature": "主題",
+          "aquaverse": "好萊塢電影（索尼/哥倫比亞）",
+          "ramayana": "泰國神話"
+        },
+        {
+          "feature": "面積",
+          "aquaverse": "14+ 公頃",
+          "ramayana": "170,000 平方公尺（更大）"
+        },
+        {
+          "feature": "主題區",
+          "aquaverse": "9個主題區",
+          "ramayana": "多個主題區域"
+        },
+        {
+          "feature": "線上票價",
+          "aquaverse": "THB 1,176 起",
+          "ramayana": "THB 890 起"
+        },
+        {
+          "feature": "Google 評分",
+          "aquaverse": "4.3/5（7,840+ 評價）",
+          "ramayana": "4.5/5"
+        },
+        {
+          "feature": "兒童區",
+          "aquaverse": "東南亞最大（精靈旅社區）",
+          "ramayana": "良好的兒童區域"
+        },
+        {
+          "feature": "非水上活動",
+          "aquaverse": "卡丁車、迷你高爾夫、溫泉、演唱會",
+          "ramayana": "有限"
+        },
+        {
+          "feature": "獨特亮點",
+          "aquaverse": "全球首個水穹頂、18米垂直落差",
+          "ramayana": "泰國最大水上樂園"
+        },
+        {
+          "feature": "最適合",
+          "aquaverse": "親子家庭、電影粉絲、多元體驗者",
+          "ramayana": "水上滑道愛好者"
+        }
+      ],
+      "compareLink": "閱讀完整對比評測 &rarr;"
+    },
+    "reviews": {
+      "sectionLabel": "遊客評價",
+      "heading": "遊客怎麼說",
+      "description": "基於 7,840+ 則 Google 評價，平均評分 4.3/5 星。",
+      "testimonials": [
+        {
+          "stars": "5星",
+          "text": "非常棒的水上樂園！捉鬼敢死隊水穹頂是我從未體驗過的。孩子們超愛精靈旅社區和角色互動合影。",
+          "initials": "JL",
+          "name": "James L.",
+          "source": "Google 評價"
+        },
+        {
+          "stars": "5星",
+          "text": "全家一起度過了美好的一天。配備杜比環繞音效的造浪池太震撼了！工作人員非常友善且注重安全。強烈建議線上購票享受折扣。",
+          "initials": "SK",
+          "name": "Sarah K.",
+          "source": "TripAdvisor"
+        },
+        {
+          "stars": "4星",
+          "text": "喪屍樂園的「巨獸」太瘋狂了 &mdash; 18米垂直下墜！絕非膽小者能挑戰。卡丁車也很讚。唯一不足是餐飲價格偏高，但樂園本身一流。",
+          "initials": "MT",
+          "name": "Mike T.",
+          "source": "Google 評價"
+        }
+      ]
+    },
+    "blog": {
+      "sectionLabel": "旅行攻略",
+      "heading": "Aquaverse 內行貼士",
+      "description": "專家指南，助您規劃完美的 Aquaverse 之旅。",
+      "cards": [
+        {
+          "tag": "對比評測",
+          "readTime": "",
+          "title": "Aquaverse 對比 Ramayana：芭提雅哪個水上樂園更好？",
+          "description": "芭提雅兩大水上樂園的客觀對比分析，助您選擇最適合自己行程的樂園。"
+        },
+        {
+          "tag": "親子指南",
+          "readTime": "",
+          "title": "帶娃遊 Aquaverse：完整親子攻略",
+          "description": "家長必看！帶孩子遊玩 Aquaverse 的全面指南，從最適合幼兒的主題區到安全貼士。"
+        },
+        {
+          "tag": "交通",
+          "readTime": "",
+          "title": "從曼谷到 Aquaverse 交通全攻略（2026版）",
+          "description": "從曼谷到 Aquaverse 的所有交通方式 &mdash; 巴士、共乘小巴、計程車及包車，含費用和實用貼士。"
+        },
+        {
+          "tag": "門票",
+          "readTime": "",
+          "title": "2026年 Aquaverse 門票價格：如何買到最划算的票",
+          "description": "全面價格分析。現場購票與線上購票對比、兒童優惠、全包套餐，以及在哪裡找到最便宜的正規管道。"
+        },
+        {
+          "tag": "評測",
+          "readTime": "",
+          "title": "Aquaverse 真實評測：值得去嗎？",
+          "description": "我們對遊樂設施、主題設計、餐飲和性價比的真實評分。優點、不足和客觀結論。"
+        }
+      ],
+      "viewAll": "查看所有攻略 &rarr;"
+    },
+    "faq": {
+      "sectionLabel": "常見問題",
+      "heading": "常見問題解答",
+      "description": "關於遊玩 Columbia Pictures Aquaverse 最常見問題的快速解答。",
+      "items": [
+        {
+          "question": "Aquaverse 門票多少錢？",
+          "answer": "<p>門市價為 <strong>THB 1,595</strong>（約 NT$1,450）每人。線上預購票 <strong>THB 1,176</strong> 起（約 NT$790），最高可省~27%。3歲以下兒童免費入園。線上購票包含置物櫃租賃（價值 THB 300）。</p>\n                <p><a href=\"/zh-TW/tickets.html\">查看完整門票選項和套餐優惠 &rarr;</a></p>"
+        },
+        {
+          "question": "營業時間是什麼時候？",
+          "answer": "<p>Aquaverse <strong>每天上午10:00至下午6:00</strong>開放。<strong>每週三休園</strong>進行定期維護。遊樂設施下午5:45停止運行，最後入園時間為下午3:30。特殊活動和節假日期間時間可能調整。</p>"
+        },
+        {
+          "question": "從曼谷如何前往 Aquaverse？",
+          "answer": "<p>多種交通方式可選：</p>\n                <ul>\n                  <li><strong>自駕：</strong>經7號高速公路1.5-2小時（樂園免費停車）</li>\n                  <li><strong>巴士：</strong>從 Ekkamai 長途客運站出發，到芭提雅後搭計程車</li>\n                  <li><strong>共乘小巴：</strong>從勝利紀念碑或 Ekkamai 出發，THB 240/人</li>\n                  <li><strong>Grab/計程車：</strong>從曼谷約 THB 1,200-1,500 + 過路費</li>\n                </ul>\n                <p><a href=\"/zh-TW/getting-there.html\">查看完整交通指南 &rarr;</a></p>"
+        },
+        {
+          "question": "Aquaverse 有哪些電影主題？",
+          "answer": "<p>Aquaverse 擁有基於哥倫比亞影業電影的<strong>9個主題區</strong>：</p>\n                <ul>\n                  <li><strong>精靈旅社</strong> &mdash; 兒童水上遊樂場，可與角色互動</li>\n                  <li><strong>捉鬼敢死隊</strong> &mdash; 全球首創水穹頂驚險體驗</li>\n                  <li><strong>勇敢者遊戲</strong> &mdash; 叢林冒險水上設施</li>\n                  <li><strong>喪屍樂園</strong> &mdash; 極限滑道，18米垂直落差</li>\n                  <li><strong>天降美食</strong> &mdash; 漂流河</li>\n                  <li><strong>衝浪季節</strong> &mdash; FlowRider 衝浪模擬器</li>\n                  <li><strong>絕地戰警</strong> &mdash; 卡丁車（額外收費）</li>\n                  <li><strong>表情奇幻世界</strong> &mdash; 迷你高爾夫（額外收費）</li>\n                  <li><strong>巨型造浪池</strong> &mdash; 造浪池 + 戶外影院</li>\n                </ul>"
+        },
+        {
+          "question": "Aquaverse 適合帶小孩去嗎？",
+          "answer": "<p>非常適合！<strong>精靈旅社區</strong>是東南亞最大的品牌兒童水上遊樂場，專為兒童打造：</p>\n                <ul>\n                  <li>9條兒童專屬水滑道</li>\n                  <li>數十項水上設施和戲水區</li>\n                  <li>泰國最大的翻斗水桶</li>\n                  <li>泡沫派對</li>\n                  <li>與德古拉、梅維斯、布洛比等角色互動合影</li>\n                </ul>\n                <p>3歲以下兒童免費入園。<a href=\"/blog/aquaverse-with-kids.html\">閱讀完整親子攻略 &rarr;</a></p>"
+        },
+        {
+          "question": "可以自帶食物進 Aquaverse 嗎？",
+          "answer": "<p>不可以，禁止攜帶外部食品飲料（嬰兒食品/配方奶除外）。樂園內有多家主題餐廳：</p>\n                <p>樂園內有多種餐飲選擇，包括美食廣場、主題小吃攤和飲料站，提供漢堡、泰國菜、披薩等各類美食。</p>\n                <p>貼士：樂園使用無現金 RFID 手環系統 &mdash; 加值後無需攜帶現金消費。</p>"
+        },
+        {
+          "question": "Aquaverse 和 Ramayana 水上樂園哪個好？",
+          "answer": "<p>兩個都很棒，但各有特色：</p>\n                <ul>\n                  <li><strong>選 Aquaverse：</strong>喜歡好萊塢電影主題、多元活動（水上項目+卡丁車+迷你高爾夫+溫泉），以及帶喜歡電影角色的小朋友</li>\n                  <li><strong>選 Ramayana：</strong>想去最大的水上樂園、最多的滑道、純水上樂園體驗更具性價比、想度過輕鬆的一天</li>\n                </ul>\n                <p><a href=\"/blog/aquaverse-vs-ramayana.html\">閱讀詳細對比指南 &rarr;</a></p>"
+        },
+        {
+          "question": "什麼時候去 Aquaverse 最好？",
+          "answer": "<p><strong>最佳季節：</strong>11月至4月（旱季），天氣最好。</p>\n                <p><strong>最佳日期：</strong>平日人明顯比週末少。避免週三（休園日）。</p>\n                <p><strong>最佳時段：</strong>上午10點開園時入場，避開人流高峰，最大化遊玩時間。</p>\n                <p><a href=\"/zh-TW/tips.html\">閱讀全部遊玩貼士 &rarr;</a></p>"
+        }
+      ],
+      "viewAll": "查看所有常見問題 &rarr;"
+    },
+    "cta": {
+      "ctaTitle": "準備好開啟冒險了嗎？",
+      "ctaText": "線上預訂 Aquaverse 門票，最高可省~27%。即時確認、免費取消、免排隊入園。",
+      "ctaButton": "立即預訂優惠門票 &rarr;",
+      "ctaSubtext": "今日優惠倒數計時 <strong id=\"countdown\">...</strong>"
+    },
+    "nearby": {
+      "sectionLabel": "周邊",
+      "heading": "Aquaverse 附近景點",
+      "description": "充分利用您的芭提雅之行，探索 Aquaverse 周邊的熱門景點。",
+      "cards": [
+        {
+          "emoji": "🌺",
+          "heading": "東芭花園",
+          "text": "壯觀的熱帶植物園，配有文化表演。距 Aquaverse 僅10分鐘車程。"
+        },
+        {
+          "emoji": "🗿",
+          "heading": "佛山（七珍佛山）",
+          "text": "令人驚嘆的130米金佛雷射雕刻於懸崖之上。15分鐘車程。"
+        },
+        {
+          "emoji": "🏖️",
+          "heading": "中天海灘",
+          "text": "芭提雅最受歡迎的海灘之一，提供水上運動、美食餐廳和夜生活。往北20分鐘。"
+        },
+        {
+          "emoji": "🐘",
+          "heading": "芭提雅大象保護區",
+          "text": "合規的大象保護區，您可以餵養和近距離接觸獲救大象。25分鐘車程。"
+        }
+      ]
+    }
   }
 }

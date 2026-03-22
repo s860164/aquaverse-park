@@ -386,5 +386,565 @@
     "affiliate": "Aquaverse-Park.com is an independent travel guide and affiliate website. We earn commissions from qualifying purchases made through links on this site at no extra cost to you. Tickets are sold through authorized resellers (Klook) and are official e-tickets for Columbia Pictures Aquaverse.",
     "disclaimer": "Aquaverse-Park.com is <strong>not</strong> the official website of Columbia Pictures Aquaverse. We are not affiliated with, endorsed by, or connected to Columbia Pictures, Sony Pictures Entertainment, Amazon MGM Studios, or any of their subsidiaries. All trademarks, logos, and brand names are the property of their respective owners. Prices, operating hours, and park information are subject to change without notice. Please verify all details on the official website before your visit.",
     "copyright": "&copy; 2026 Aquaverse-Park.com &mdash; Independent travel guide. Not an official website."
+  },
+  "home": {
+    "title": "Columbia Pictures Aquaverse Pattaya | Tiket, Wahana & Panduan Lengkap 2026",
+    "metaDescription": "Panduan lengkap Columbia Pictures Aquaverse di Pattaya, Thailand. 9 zon bertema filem, 20+ tarikan air, tiket dari THB 1,176. Waktu operasi, cara ke sana, tip & ulasan.",
+    "metaKeywords": "Aquaverse, Columbia Pictures Aquaverse, Aquaverse Pattaya, taman air Pattaya, taman tema Thailand, tiket Aquaverse, wahana Aquaverse, taman air Ghostbusters, wahana Jumanji, taman air Hotel Transylvania",
+    "ogTitle": "Columbia Pictures Aquaverse Pattaya | Panduan Lengkap & Tiket 2026",
+    "ogDescription": "Taman air bertema Columbia Pictures pertama di dunia di Pattaya. 9 zon filem, 20+ tarikan. Dapatkan tiket diskaun dan panduan pelawat lengkap.",
+    "twitterTitle": "Columbia Pictures Aquaverse Pattaya | Panduan Lengkap 2026",
+    "twitterDescription": "9 zon bertema filem, 20+ tarikan air di Pattaya. Tiket dari THB 1,176. Panduan pelawat lengkap.",
+    "schemaDescription": "The world's first Columbia Pictures themed water and amusement park in Pattaya, Thailand, featuring 9 movie-themed zones with 20+ rides and attractions.",
+    "heroPreTitle": "Columbia Pictures",
+    "heroTitle": "Aquaverse",
+    "heroSubtitle": "Pattaya, Thailand",
+    "heroCta": "Tempah Tiket Diskaun &rarr;",
+    "stats": [
+      {
+        "number": "9",
+        "label": "Zon Filem"
+      },
+      {
+        "number": "20+",
+        "label": "Tarikan"
+      },
+      {
+        "number": "4.3/5",
+        "label": "Rating Google"
+      },
+      {
+        "number": "~27%",
+        "label": "Diskaun Dalam Talian"
+      }
+    ],
+    "tldr": [
+      {
+        "bold": "Apa:",
+        "text": "Taman air bertema Columbia Pictures pertama di dunia dengan 9 zon filem (Ghostbusters, Jumanji, Hotel Transylvania, Zombieland, dan lagi)"
+      },
+      {
+        "bold": "Di mana:",
+        "text": "Na Jomtien, Sattahip, Pattaya &mdash; 1.5 jam dari Bangkok"
+      },
+      {
+        "bold": "Waktu:",
+        "text": "Setiap hari 10 PG &ndash; 6 PTG (tutup hari Rabu)"
+      },
+      {
+        "bold": "Tiket:",
+        "text": "Dari THB 1,176 dalam talian (harga pintu THB 1,595) &mdash; kanak-kanak bawah 3 tahun percuma"
+      },
+      {
+        "bold": "Terbaik untuk:",
+        "text": "Keluarga, pencari keseronokan, peminat filem &mdash; lawatan sehari ideal dari Bangkok atau Pattaya"
+      },
+      {
+        "bold": "Tarikan Utama:",
+        "text": "Kubah Air Pertama di Dunia, gelongsor air tertinggi di Asia (18m), simulator luncur FlowRider, go-kart, onsen"
+      }
+    ],
+    "gbp": {
+      "category": "Taman Air &middot; Taman Tema &middot; Pattaya",
+      "ratingAriaLabel": "4.3 daripada 5 bintang",
+      "ratingText": "<strong>4.3</strong> (7,840+ ulasan)",
+      "details": [
+        "<strong>Alamat:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+        "<strong>Waktu:</strong> 10:00 PG &ndash; 6:00 PTG (Tutup hari Rabu)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>Memeriksa...</span>",
+        "<strong>Telefon:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+        "<strong>Tiket:</strong> THB 1,176 &ndash; 1,595 seorang",
+        "<strong>Tempat Letak Kereta:</strong> Percuma untuk semua tetamu"
+      ],
+      "statusText": "Memeriksa...",
+      "ctaText": "Dapatkan Tiket Diskaun &rarr;"
+    },
+    "whyVisit": {
+      "heading": "Kenapa Melawat Aquaverse?",
+      "introText": "Columbia Pictures Aquaverse ialah <strong>taman tema berjenama Columbia Pictures pertama di dunia</strong>, terletak di kawasan pantai Pattaya. Pada asalnya dibuka sebagai Cartoon Network Amazone pada 2014, taman ini direka semula sepenuhnya dan dilancarkan semula pada <strong>Oktober 2022</strong> dengan IP Sony Pictures.",
+      "cards": [
+        {
+          "heading": "9 Zon Filem",
+          "text": "Bertema filem-filem kegemaran termasuk Ghostbusters, Jumanji, Hotel Transylvania, dan Zombieland"
+        },
+        {
+          "heading": "20+ Tarikan",
+          "text": "Dari gelongsor air yang mendebarkan hingga kolam ombak mega, sungai malas, dan simulator luncur FlowRider"
+        },
+        {
+          "heading": "Mesra Keluarga",
+          "text": "Taman air kanak-kanak berjenama terbesar di Asia Tenggara di zon Hotel Transylvania dengan puluhan ciri air"
+        },
+        {
+          "heading": "Lebih Dari Air",
+          "text": "Go-kart, mini golf, onsen, persembahan langsung, dan konsert di Omnitheatre kolam ombak"
+        }
+      ]
+    },
+    "zones": {
+      "sectionLabel": "Terokai Taman",
+      "heading": "9 Zon Bertema Filem",
+      "description": "Setiap zon menghidupkan filem Columbia Pictures kegemaran dengan tema yang mendalam, wahana unik, dan pengalaman yang tidak dapat dilupakan.",
+      "items": [
+        {
+          "cssClass": "zone-hotel-t",
+          "tag": "Kegemaran Kanak-kanak",
+          "name": "Zon Hotel Transylvania",
+          "description": "Taman air berjenama terbesar di Asia Tenggara. 9 gelongsor air, puluhan ciri air, dan perjumpaan watak dengan Drac, Mavis, dan Blobby.",
+          "highlights": [
+            {
+              "emoji": "👶",
+              "label": "Mesra Keluarga"
+            },
+            {
+              "emoji": "📸",
+              "label": "Watak"
+            },
+            {
+              "emoji": "🎉",
+              "label": "Pesta Buih"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-ghostbusters",
+          "tag": "Pertama di Dunia",
+          "name": "Zon Ghostbusters",
+          "description": "Rumah Kubah Air Pertama di Dunia! Luncur melalui pusingan dan selekoh dalam kegelapan di atas pelampung Ghostbusters, kemudian terjun ke dalam kubah air besar.",
+          "highlights": [
+            {
+              "emoji": "💥",
+              "label": "Wahana Mendebarkan"
+            },
+            {
+              "emoji": "🔮",
+              "label": "Kubah Air"
+            },
+            {
+              "emoji": "👻",
+              "label": "Perangkap Hantu"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-zombieland",
+          "tag": "Ekstrem",
+          "name": "Zon Zombieland",
+          "description": "Mempunyai \"The Beast\" &mdash; salah satu gelongsor air tertinggi di Asia dengan terjunan menegak 18 meter! Juga termasuk gelongsor pusingan 360 darjah dan pelumba tikar.",
+          "highlights": [
+            {
+              "emoji": "⚡",
+              "label": "Terjunan 18m"
+            },
+            {
+              "emoji": "🔄",
+              "label": "Pusingan 360°"
+            },
+            {
+              "emoji": "🏃",
+              "label": "Pelumba Tikar"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-jumanji",
+          "tag": "Pengembaraan",
+          "name": "Zon Jumanji",
+          "description": "Masuki hutan liar! Takluki Gunung Jaguar, elak gelongsor Viper, dan bertahan dari Serangan Hutan ketika mandril mengejar anda ke kolam percikan.",
+          "highlights": [
+            {
+              "emoji": "🌿",
+              "label": "Tema Hutan"
+            },
+            {
+              "emoji": "🏔️",
+              "label": "Gunung Jaguar"
+            },
+            {
+              "emoji": "🐍",
+              "label": "Gelongsor Viper"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-surfs-up",
+          "tag": "Luncur Pro",
+          "name": "Zon Surf's Up",
+          "description": "Rasai simulator luncur FlowRider Double 40 kaki dengan arahan profesional. Bayaran tambahan diperlukan.",
+          "highlights": [
+            {
+              "emoji": "🏄",
+              "label": "FlowRider"
+            },
+            {
+              "emoji": "👨‍🏫",
+              "label": "Pengajar Pro"
+            },
+            {
+              "emoji": "🤙",
+              "label": "Papan Boogie"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-cloudy",
+          "tag": "Santai",
+          "name": "Cloudy with a Chance of Meatballs",
+          "description": "Apung di sepanjang pengembaraan sungai malas Swallow Falls, dikelilingi oleh Foodimals pelik dan pengalaman bertema makanan dari filem ini.",
+          "highlights": [
+            {
+              "emoji": "🛟",
+              "label": "Sungai Malas"
+            },
+            {
+              "emoji": "🍔",
+              "label": "Tema Makanan"
+            },
+            {
+              "emoji": "😌",
+              "label": "Santai"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-bad-boys",
+          "tag": "Go-Kart",
+          "name": "Bad Boys Race Club",
+          "description": "Sertai litar go-kart bertema Miami! Kart reka bentuk khas dan basikal drift untuk pengalaman lumba yang penuh adrenalin.",
+          "highlights": [
+            {
+              "emoji": "🏎️",
+              "label": "Go-Kart"
+            },
+            {
+              "emoji": "🏁",
+              "label": "Litar Lumba"
+            },
+            {
+              "emoji": "💰",
+              "label": "Bayaran Tambahan"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-emoji",
+          "tag": "Mini Golf",
+          "name": "Zon The Emoji Movie",
+          "description": "Padang mini golf yang menyeronokkan dengan halangan kreatif diilhamkan oleh The Emoji Movie. Bertanding dengan rakan dan keluarga untuk hadiah!",
+          "highlights": [
+            {
+              "emoji": "⛳",
+              "label": "Mini Golf"
+            },
+            {
+              "emoji": "🏆",
+              "label": "Hadiah"
+            },
+            {
+              "emoji": "💰",
+              "label": "Bayaran Tambahan"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-wave-pool",
+          "tag": "Pawagam + Ombak",
+          "name": "Kolam Ombak Mega Omnitheatre",
+          "description": "Tarikan utama Aquaverse! Ombak mega setiap 20 minit, pesta buih, tayangan filem luar, konsert langsung dengan bunyi keliling Dolby DTS.",
+          "highlights": [
+            {
+              "emoji": "🌊",
+              "label": "Ombak Mega"
+            },
+            {
+              "emoji": "🎬",
+              "label": "Skrin Filem"
+            },
+            {
+              "emoji": "🎸",
+              "label": "Muzik Langsung"
+            }
+          ]
+        }
+      ],
+      "viewAll": "Lihat Semua Tarikan &amp; Butiran &rarr;"
+    },
+    "tickets": {
+      "sectionLabel": "Tiket &amp; Harga",
+      "heading": "Dapatkan Tawaran Tiket Aquaverse Terbaik",
+      "description": "Jimat sehingga ~27% dengan tempahan dalam talian. Semua tiket termasuk kemasukan taman, sewa loker, dan akses ke tarikan air.",
+      "cards": [
+        {
+          "heading": "Harga Pintu",
+          "periodText": "~RM 200 / ~$44 USD seorang",
+          "features": [
+            "Semua tarikan air termasuk",
+            "Loker TIDAK termasuk (THB 300 tambahan)",
+            "Tertakluk kepada ketersediaan",
+            "Tiada keutamaan giliran"
+          ],
+          "ctaText": "Beli di Pintu Sahaja"
+        },
+        {
+          "heading": "Tiket Awal Dalam Talian",
+          "periodText": "~RM 109 / ~$24 USD seorang &mdash; Jimat ~27%!",
+          "features": [
+            "Semua tarikan air termasuk",
+            "Sewa loker TERMASUK",
+            "Pengesahan e-tiket segera",
+            "Pembatalan percuma tersedia",
+            "Langkau giliran tiket"
+          ],
+          "ctaText": "Tempah Sekarang &mdash; Jimat ~27% &rarr;"
+        },
+        {
+          "heading": "Pakej Semua Termasuk",
+          "periodText": "~RM 194 / ~$49 USD seorang",
+          "features": [
+            "Semua tarikan air termasuk",
+            "Kupon makanan 200 THB",
+            "1 sesi FlowRider meluncur",
+            "Loker termasuk",
+            "E-tiket pengesahan serta-merta"
+          ],
+          "ctaText": "Tempah Pakej &rarr;"
+        }
+      ],
+      "footerNote": "Kanak-kanak bawah 3 tahun masuk percuma &bull; Go-kart dan mini golf tersedia dengan bayaran tambahan<br>\n          <a href=\"/ms/tickets.html\">Lihat semua pilihan tiket dan tawaran kombo &rarr;</a>"
+    },
+    "gettingThere": {
+      "sectionLabel": "Cara Ke Sana",
+      "heading": "Cara Pergi ke Aquaverse",
+      "description": "Terletak di Na Jomtien, hanya 1.5 jam dari Bangkok dan 30 minit dari pusat Pattaya.",
+      "cards": [
+        {
+          "emoji": "🚗",
+          "heading": "Dengan Kereta dari Bangkok",
+          "text": "<strong>1.5 &ndash; 2 jam</strong> melalui Lebuh Raya Laluan 7. Tempat letak kereta percuma di taman. Ambil jalan keluar ke Sattahip dan ikut papan tanda."
+        },
+        {
+          "emoji": "🚌",
+          "heading": "Dengan Bas",
+          "text": "Bas setiap 30 minit dari <strong>Terminal Bas Ekkamai</strong> (BTS Ekkamai). Kemudian naik teksi/Grab (~THB 320-500) dari stesen bas Pattaya."
+        },
+        {
+          "emoji": "🚐",
+          "heading": "Dengan Van Kongsi",
+          "text": "Dari <strong>Victory Monument</strong> atau <strong>Ekkamai</strong>, ~THB 240/orang. Van berlepas setiap jam ke Pattaya."
+        },
+        {
+          "emoji": "🚕",
+          "heading": "Dengan Teksi / Grab",
+          "text": "Dari Bangkok: ~THB 1,200-1,500 + tol.<br>Dari pusat Pattaya: ~THB 320-500 (20-30 minit)."
+        },
+        {
+          "emoji": "🚎",
+          "heading": "Bas Ulang-Alik Taman",
+          "text": "<strong>THB 300/orang</strong> bas ulang-alik harian dari Pattaya. Tempah dalam talian lebih awal. Lokasi pengambilan yang mudah."
+        },
+        {
+          "emoji": "✈️",
+          "heading": "Dari Lapangan Terbang",
+          "text": "Lapangan Terbang Suvarnabhumi: ~90 minit pemanduan.<br>Lapangan Terbang U-Tapao (Pattaya): ~25 minit pemanduan."
+        }
+      ],
+      "viewAll": "Panduan Pengangkutan Penuh &rarr;"
+    },
+    "comparison": {
+      "sectionLabel": "Perbandingan",
+      "heading": "Aquaverse vs Taman Air Pattaya Lain",
+      "description": "Lihat bagaimana Columbia Pictures Aquaverse berbanding dengan taman air popular lain di kawasan Pattaya.",
+      "headers": [
+        "Ciri",
+        "Aquaverse",
+        "Ramayana Water Park"
+      ],
+      "rows": [
+        {
+          "feature": "Tema",
+          "aquaverse": "Filem Hollywood (Sony/Columbia)",
+          "ramayana": "Mitologi Thai"
+        },
+        {
+          "feature": "Saiz",
+          "aquaverse": "14+ hektar",
+          "ramayana": "170,000 m persegi (lebih besar)"
+        },
+        {
+          "feature": "Zon",
+          "aquaverse": "9 zon bertema",
+          "ramayana": "Pelbagai kawasan bertema"
+        },
+        {
+          "feature": "Tiket (Dalam Talian)",
+          "aquaverse": "Dari THB 1,176",
+          "ramayana": "Dari THB 890"
+        },
+        {
+          "feature": "Rating Google",
+          "aquaverse": "4.3/5 (7,840+ ulasan)",
+          "ramayana": "4.5/5"
+        },
+        {
+          "feature": "Zon Kanak-kanak",
+          "aquaverse": "Terbesar di Asia Tenggara (Hotel Transylvania)",
+          "ramayana": "Kawasan kanak-kanak yang baik"
+        },
+        {
+          "feature": "Aktiviti Bukan Air",
+          "aquaverse": "Go-kart, mini golf, onsen, konsert",
+          "ramayana": "Terhad"
+        },
+        {
+          "feature": "Ciri Unik",
+          "aquaverse": "Kubah Air Pertama di Dunia, terjunan 18m",
+          "ramayana": "Taman air terbesar di Thailand"
+        },
+        {
+          "feature": "Terbaik Untuk",
+          "aquaverse": "Keluarga, peminat filem, pencari kepelbagaian",
+          "ramayana": "Peminat gelongsor air"
+        }
+      ],
+      "compareLink": "Baca perbandingan penuh Aquaverse vs Ramayana kami &rarr;"
+    },
+    "reviews": {
+      "sectionLabel": "Ulasan",
+      "heading": "Apa Kata Pelawat",
+      "description": "Berdasarkan 7,840+ ulasan Google dengan purata rating 4.3/5 bintang.",
+      "testimonials": [
+        {
+          "stars": "5 bintang",
+          "text": "Taman air yang benar-benar hebat! Wahana Kubah Air Ghostbusters tidak seperti apa-apa yang pernah saya alami. Anak-anak menyukai zon Hotel Transylvania dan perjumpaan watak.",
+          "initials": "JL",
+          "name": "James L.",
+          "source": "Ulasan Google"
+        },
+        {
+          "stars": "5 bintang",
+          "text": "Hari yang hebat untuk seluruh keluarga. Kolam ombak dengan bunyi keliling Dolby sungguh menakjubkan! Kakitangan sangat mesra dan mengutamakan keselamatan. Sangat disyorkan tempah tiket dalam talian untuk diskaun.",
+          "initials": "SK",
+          "name": "Sarah K.",
+          "source": "TripAdvisor"
+        },
+        {
+          "stars": "4 bintang",
+          "text": "The Beast di Zombieland sungguh gila &mdash; terjunan 18 meter! Bukan untuk yang lemah semangat. Juga menyukai go-kart. Satu-satunya kekurangan ialah harga makanan boleh lebih murah, tetapi taman itu sendiri memang terbaik.",
+          "initials": "MT",
+          "name": "Mike T.",
+          "source": "Ulasan Google"
+        }
+      ]
+    },
+    "blog": {
+      "sectionLabel": "Panduan Perjalanan",
+      "heading": "Tips Dalaman Aquaverse",
+      "description": "Panduan pakar untuk membantu anda merancang lawatan Aquaverse yang sempurna.",
+      "cards": [
+        {
+          "tag": "Perbandingan",
+          "readTime": "8 min baca",
+          "title": "Aquaverse vs Ramayana: Taman Air Pattaya Mana Lebih Baik?",
+          "description": "Perbandingan jujur antara dua taman air terbesar di Pattaya untuk membantu anda memilih yang sesuai untuk perjalanan anda."
+        },
+        {
+          "tag": "Panduan Keluarga",
+          "readTime": "6 min baca",
+          "title": "Aquaverse Bersama Kanak-kanak: Panduan Keluarga Lengkap",
+          "description": "Semua yang ibu bapa perlu tahu tentang melawat Aquaverse bersama kanak-kanak, dari zon terbaik untuk kanak-kanak kecil hingga tips keselamatan."
+        },
+        {
+          "tag": "Pengangkutan",
+          "readTime": "5 min baca",
+          "title": "Cara Pergi ke Aquaverse dari Bangkok (Panduan 2026)",
+          "description": "Semua pilihan pengangkutan dari Bangkok ke Aquaverse &mdash; dengan bas, van, teksi, dan kereta peribadi berserta kos dan tips."
+        },
+        {
+          "tag": "Tiket",
+          "readTime": "8 min baca",
+          "title": "Harga Tiket Aquaverse 2026: Cara Dapatkan Tawaran Terbaik",
+          "description": "Pecahan harga lengkap untuk semua jenis tiket. Beli di pintu vs dalam talian, diskaun kanak-kanak, pakej semua termasuk, dan di mana untuk cari tawaran sah termurah."
+        },
+        {
+          "tag": "Ulasan",
+          "readTime": "9 min baca",
+          "title": "Ulasan Jujur Aquaverse: Adakah Ia Berbaloi Dilawati?",
+          "description": "Ulasan tanpa selindung kami dengan penilaian untuk wahana, tema, makanan &amp; nilai. Apa yang kami suka, apa yang boleh diperbaiki, dan keputusan jujur."
+        }
+      ],
+      "viewAll": "Lihat Semua Panduan &rarr;"
+    },
+    "faq": {
+      "sectionLabel": "Soalan Lazim",
+      "heading": "Soalan Yang Sering Ditanya",
+      "description": "Jawapan pantas untuk soalan-soalan paling lazim tentang melawat Columbia Pictures Aquaverse.",
+      "items": [
+        {
+          "question": "Berapakah harga tiket Aquaverse?",
+          "answer": "<p>Harga pintu ialah <strong>THB 1,595</strong> (~RM 200 / ~$44 USD) seorang. Tiket awal dalam talian bermula dari <strong>THB 1,176</strong> (~RM 109 / ~$24 USD), jimat sehingga ~27%. Kanak-kanak bawah 3 tahun masuk percuma. Tiket dalam talian termasuk sewa loker (bernilai THB 300).</p>\n                <p><a href=\"/ms/tickets.html\">Lihat semua pilihan tiket dan tawaran kombo &rarr;</a></p>"
+        },
+        {
+          "question": "Apakah waktu operasi?",
+          "answer": "<p>Aquaverse dibuka <strong>setiap hari dari 10:00 PG hingga 6:00 PTG</strong>. Taman <strong>ditutup setiap hari Rabu</strong> untuk penyelenggaraan berjadual. Wahana ditutup pada 5:45 PTG, dan kemasukan terakhir pada 3:30 PTG. Waktu mungkin berubah semasa acara khas dan cuti umum.</p>"
+        },
+        {
+          "question": "Bagaimana cara pergi ke Aquaverse dari Bangkok?",
+          "answer": "<p>Pelbagai pilihan tersedia:</p>\n                <ul>\n                  <li><strong>Dengan kereta:</strong> 1.5-2 jam melalui Lebuh Raya Laluan 7 (tempat letak kereta percuma di taman)</li>\n                  <li><strong>Dengan bas:</strong> Dari Terminal Bas Ekkamai, kemudian teksi dari Pattaya</li>\n                  <li><strong>Dengan van kongsi:</strong> THB 240/orang dari Victory Monument atau Ekkamai</li>\n                  <li><strong>Dengan Grab/teksi:</strong> THB 1,200-1,500 + tol dari Bangkok</li>\n                </ul>\n                <p><a href=\"/ms/getting-there.html\">Lihat panduan pengangkutan lengkap &rarr;</a></p>"
+        },
+        {
+          "question": "Filem apa yang dipaparkan di Aquaverse?",
+          "answer": "<p>Aquaverse mempunyai <strong>9 zon bertema</strong> berdasarkan filem Columbia Pictures:</p>\n                <ul>\n                  <li><strong>Hotel Transylvania</strong> &mdash; Taman air kanak-kanak dengan watak</li>\n                  <li><strong>Ghostbusters</strong> &mdash; Wahana mendebarkan Kubah Air Pertama di Dunia</li>\n                  <li><strong>Jumanji</strong> &mdash; Wahana air pengembaraan hutan</li>\n                  <li><strong>Zombieland</strong> &mdash; Gelongsor ekstrem dengan terjunan 18m</li>\n                  <li><strong>Cloudy with a Chance of Meatballs</strong> &mdash; Sungai malas</li>\n                  <li><strong>Surf's Up</strong> &mdash; Simulator luncur FlowRider</li>\n                  <li><strong>Bad Boys</strong> &mdash; Lumba go-kart (bayaran tambahan)</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; Mini golf (bayaran tambahan)</li>\n                  <li><strong>Kolam Ombak Mega</strong> &mdash; Kolam ombak + pawagam luar</li>\n                </ul>"
+        },
+        {
+          "question": "Adakah Aquaverse sesuai untuk kanak-kanak?",
+          "answer": "<p>Sudah tentu! <strong>Zon Hotel Transylvania</strong> ialah taman air berjenama terbesar di Asia Tenggara, dibina khas untuk kanak-kanak dengan:</p>\n                <ul>\n                  <li>9 gelongsor air mesra kanak-kanak</li>\n                  <li>puluhan ciri air dan kawasan percikan</li>\n                  <li>Baldi air terbesar di Thailand</li>\n                  <li>Pesta buih</li>\n                  <li>Perjumpaan watak (Drac, Mavis, Blobby)</li>\n                </ul>\n                <p>Kanak-kanak bawah 3 tahun masuk percuma. <a href=\"/blog/aquaverse-with-kids.html\">Baca panduan keluarga lengkap kami &rarr;</a></p>"
+        },
+        {
+          "question": "Bolehkah saya bawa makanan ke Aquaverse?",
+          "answer": "<p>Tidak, makanan dan minuman dari luar tidak dibenarkan (kecuali: makanan bayi/formula). Taman mempunyai pelbagai restoran bertema:</p>\n                <p>Taman mempunyai pelbagai pilihan makan termasuk kawasan makanan, gerai snek bertema, dan stesen minuman yang menyajikan burger, makanan Thai, pizza dan banyak lagi.</p>\n                <p>Tip: Taman menggunakan sistem gelang tangan RFID tanpa tunai &mdash; isi kredit dan belanja tanpa bawa wang tunai.</p>"
+        },
+        {
+          "question": "Aquaverse atau Ramayana Water Park yang lebih baik?",
+          "answer": "<p>Kedua-duanya sangat baik, tetapi menawarkan pengalaman berbeza:</p>\n                <ul>\n                  <li><strong>Pilih Aquaverse jika:</strong> Anda mahukan tema filem Hollywood, kepelbagaian aktiviti (air + go-kart + mini golf + onsen), dan melawat bersama kanak-kanak kecil yang suka watak filem</li>\n                  <li><strong>Pilih Ramayana jika:</strong> Anda mahukan taman air terbesar dengan gelongsor paling banyak, nilai lebih baik untuk keseronokan taman air tulen, dan hari yang lebih santai</li>\n                </ul>\n                <p><a href=\"/blog/aquaverse-vs-ramayana.html\">Baca panduan perbandingan terperinci kami &rarr;</a></p>"
+        },
+        {
+          "question": "Bilakah masa terbaik untuk melawat Aquaverse?",
+          "answer": "<p><strong>Musim terbaik:</strong> November hingga April (musim kering) untuk cuaca terbaik.</p>\n                <p><strong>Hari terbaik:</strong> Hari bekerja jauh kurang sesak berbanding hujung minggu. Elakkan hari Rabu (taman tutup).</p>\n                <p><strong>Masa terbaik:</strong> Tiba pada 10 PG ketika taman dibuka untuk mengelakkan kesesakan dan memaksimumkan hari anda.</p>\n                <p><a href=\"/ms/tips.html\">Baca semua tips pelawat kami &rarr;</a></p>"
+        }
+      ],
+      "viewAll": "Lihat Semua Soalan Lazim &rarr;"
+    },
+    "cta": {
+      "ctaTitle": "Sedia untuk Pengembaraan?",
+      "ctaText": "Tempah tiket Aquaverse anda dalam talian dan jimat sehingga ~27%. Pengesahan segera, pembatalan percuma, dan kemasukan langkau giliran.",
+      "ctaButton": "Tempah Tiket Diskaun Sekarang &rarr;",
+      "ctaSubtext": "Tawaran hari ini tamat dalam <strong id=\"countdown\">...</strong>"
+    },
+    "nearby": {
+      "sectionLabel": "Berdekatan",
+      "heading": "Perkara Untuk Dilakukan Dekat Aquaverse",
+      "description": "Manfaatkan perjalanan Pattaya anda sepenuhnya dengan tarikan popular berdekatan Aquaverse ini.",
+      "cards": [
+        {
+          "emoji": "🌺",
+          "heading": "Taman Tropika Nong Nooch",
+          "text": "Taman botani tropika yang menakjubkan dengan persembahan budaya. Hanya 10 minit dari Aquaverse."
+        },
+        {
+          "emoji": "🗿",
+          "heading": "Gunung Buddha (Khao Chi Chan)",
+          "text": "Imej Buddha emas 130 meter yang mengagumkan diukir laser pada tebing batu. 15 minit jauhnya."
+        },
+        {
+          "emoji": "🏖️",
+          "heading": "Pantai Jomtien",
+          "text": "Salah satu pantai paling popular di Pattaya dengan sukan air, restoran, dan kehidupan malam. 20 minit ke utara."
+        },
+        {
+          "emoji": "🐘",
+          "heading": "Pusat Perlindungan Gajah Pattaya",
+          "text": "Pusat perlindungan gajah beretika di mana anda boleh memberi makan dan berjalan bersama gajah yang diselamatkan. 25 minit jauhnya."
+        }
+      ]
+    }
   }
 }

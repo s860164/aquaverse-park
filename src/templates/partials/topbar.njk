@@ -9,7 +9,7 @@
         </button>
         <div class="selector-dropdown" role="listbox" id="langMenu">
 {%- for altLang in site.languages %}
-          <a href="/{{ altLang.prefix }}{{ page.slug }}" lang="{{ altLang.code }}" role="option">{{ altLang.label }}</a>
+          <a href="/{{ altLang.prefix }}{{ '' if page.slug == 'index.html' else page.slug }}" lang="{{ altLang.code }}" role="option">{{ altLang.label }}</a>
 {%- endfor %}
         </div>
       </div>

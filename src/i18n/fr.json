@@ -378,5 +378,565 @@
     "affiliate": "",
     "disclaimer": "",
     "copyright": "This is an independent fan guide. Not affiliated with or endorsed by Columbia Pictures or Sony Pictures. All trademarks belong to their respective owners."
+  },
+  "home": {
+    "title": "Columbia Pictures Aquaverse Pattaya | Billets, Attractions &amp; Guide Complet 2026",
+    "metaDescription": "Guide complet du Columbia Pictures Aquaverse à Pattaya, Thaïlande. 9 zones thématiques, 20+ attractions aquatiques, billets à partir de THB 1,176 (~22 EUR). Horaires, accès, conseils & avis.",
+    "metaKeywords": "Aquaverse, Columbia Pictures Aquaverse, Aquaverse Pattaya, parc aquatique Pattaya, parc d'attractions Thaïlande, billets Aquaverse, attractions Aquaverse, Ghostbusters parc aquatique, Jumanji attraction, Hotel Transylvania parc aquatique",
+    "ogTitle": "Columbia Pictures Aquaverse Pattaya | Guide Complet &amp; Billets 2026",
+    "ogDescription": "Le tout premier parc aquatique Columbia Pictures au monde à Pattaya. 9 zones thématiques, 20+ attractions. Billets à prix réduit et guide complet du visiteur.",
+    "twitterTitle": "Columbia Pictures Aquaverse Pattaya | Guide Complet 2026",
+    "twitterDescription": "9 zones thématiques, 20+ attractions aquatiques à Pattaya. Billets à partir de THB 1,176 (~22 EUR). Guide complet du visiteur.",
+    "schemaDescription": "The world's first Columbia Pictures themed water and amusement park in Pattaya, Thailand, featuring 9 movie-themed zones with 20+ rides and attractions.",
+    "heroPreTitle": "Columbia Pictures",
+    "heroTitle": "Aquaverse",
+    "heroSubtitle": "Pattaya, Thaïlande",
+    "heroCta": "Réserver des billets à prix réduit &rarr;",
+    "stats": [
+      {
+        "number": "9",
+        "label": "Zones thématiques"
+      },
+      {
+        "number": "20+",
+        "label": "Attractions"
+      },
+      {
+        "number": "4,3/5",
+        "label": "Note Google"
+      },
+      {
+        "number": "~27%",
+        "label": "Réduction en ligne"
+      }
+    ],
+    "tldr": [
+      {
+        "bold": "Quoi :",
+        "text": "Le tout premier parc aquatique Columbia Pictures au monde avec 9 zones thématiques (Ghostbusters, Jumanji, Hotel Transylvania, Zombieland et plus)"
+      },
+      {
+        "bold": "Où :",
+        "text": "Na Jomtien, Sattahip, Pattaya &mdash; à 1h30 de Bangkok"
+      },
+      {
+        "bold": "Horaires :",
+        "text": "Tous les jours 10h00 &ndash; 18h00 (fermé le mercredi)"
+      },
+      {
+        "bold": "Billets :",
+        "text": "À partir de THB 1,176 (~22 EUR) en ligne (prix au guichet THB 1 595 / ~42 EUR) &mdash; Gratuit pour les enfants de moins de 3 ans"
+      },
+      {
+        "bold": "Idéal pour :",
+        "text": "Familles, amateurs de sensations fortes, fans de cinéma &mdash; excursion parfaite depuis Bangkok ou Pattaya"
+      },
+      {
+        "bold": "Points forts :",
+        "text": "Premier Water Dome au monde, plus haut toboggan aquatique d'Asie (18 m), simulateur de surf FlowRider, karting, onsen"
+      }
+    ],
+    "gbp": {
+      "category": "Parc aquatique &middot; Parc d'attractions &middot; Pattaya",
+      "ratingAriaLabel": "4,3 sur 5 étoiles",
+      "ratingText": "<strong>4,3</strong> (7 840+ avis)",
+      "details": [
+        "<strong>Adresse :</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+        "<strong>Horaires :</strong> 10h00 &ndash; 18h00 (fermé le mercredi)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>Vérification en cours...</span>",
+        "<strong>Téléphone :</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+        "<strong>Billets :</strong> THB 1,176 &ndash; 1 595 par personne (~22 &ndash; 42 EUR)",
+        "<strong>Parking :</strong> Gratuit pour tous les visiteurs"
+      ],
+      "statusText": "Vérification en cours...",
+      "ctaText": "Obtenir des billets à prix réduit &rarr;"
+    },
+    "whyVisit": {
+      "heading": "Pourquoi visiter Aquaverse ?",
+      "introText": "Columbia Pictures Aquaverse est le <strong>tout premier parc d'attractions entièrement à la marque Columbia Pictures au monde</strong>, situé au cœur de la côte de Pattaya. Initialement ouvert en 2014 sous le nom de Cartoon Network Amazone, le parc a été entièrement transformé et rouvert en <strong>octobre 2022</strong> avec les licences Sony Pictures.",
+      "cards": [
+        {
+          "heading": "9 zones thématiques",
+          "text": "Inspirées de films populaires comme Ghostbusters, Jumanji, Hotel Transylvania et Zombieland"
+        },
+        {
+          "heading": "20+ attractions",
+          "text": "Des toboggans aquatiques palpitants à la méga piscine à vagues, en passant par la rivière tranquille et le simulateur de surf FlowRider"
+        },
+        {
+          "heading": "Pour toute la famille",
+          "text": "Le plus grand espace de jeux aquatiques pour enfants d'Asie du Sud-Est dans la zone Hotel Transylvania avec des dizaines attractions aquatiques"
+        },
+        {
+          "heading": "Bien plus que de l'eau",
+          "text": "Karting, mini-golf, onsen, spectacles en direct et concerts dans l'Omnitheatre de la piscine à vagues"
+        }
+      ]
+    },
+    "zones": {
+      "sectionLabel": "Explorer le parc",
+      "heading": "9 zones thématiques cinéma",
+      "description": "Chaque zone donne vie à un film populaire de Columbia Pictures avec une conception immersive, des attractions uniques et des expériences inoubliables.",
+      "items": [
+        {
+          "cssClass": "zone-hotel-t",
+          "tag": "Coup de cœur des enfants",
+          "name": "Zone Hotel Transylvania",
+          "description": "Le plus grand espace de jeux aquatiques à thème d'Asie du Sud-Est. 9 toboggans aquatiques, des dizaines attractions aquatiques et rencontres avec Drac, Mavis et Blobby.",
+          "highlights": [
+            {
+              "emoji": "👶",
+              "label": "Familial"
+            },
+            {
+              "emoji": "📸",
+              "label": "Personnages"
+            },
+            {
+              "emoji": "🎉",
+              "label": "Fêtes de mousse"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-ghostbusters",
+          "tag": "Première mondiale",
+          "name": "Zone Ghostbusters",
+          "description": "Découvrez le tout premier Water Dome au monde ! Foncez à travers virages et tournants dans l'obscurité sur le radeau Ghostbusters et plongez dans l'immense dôme aquatique.",
+          "highlights": [
+            {
+              "emoji": "💥",
+              "label": "Sensations fortes"
+            },
+            {
+              "emoji": "🔮",
+              "label": "Water Dome"
+            },
+            {
+              "emoji": "👻",
+              "label": "Piège à fantômes"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-zombieland",
+          "tag": "Extrême",
+          "name": "Zone Zombieland",
+          "description": "Ici se trouve « The Beast » &mdash; l'un des plus hauts toboggans aquatiques d'Asie avec une chute de 18 mètres ! Également un toboggan à rotation 360 degrés et des toboggans de course sur tapis.",
+          "highlights": [
+            {
+              "emoji": "⚡",
+              "label": "Chute de 18 m"
+            },
+            {
+              "emoji": "🔄",
+              "label": "Rotation 360°"
+            },
+            {
+              "emoji": "🏃",
+              "label": "Course sur tapis"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-jumanji",
+          "tag": "Aventure",
+          "name": "Zone Jumanji",
+          "description": "Pénétrez dans la jungle sauvage ! Domptez le Jaguar Mountain, esquivez le toboggan Viper et survivez à la Jungle Stampede jusqu'à la piscine à éclaboussures.",
+          "highlights": [
+            {
+              "emoji": "🌿",
+              "label": "Thème jungle"
+            },
+            {
+              "emoji": "🏔️",
+              "label": "Jaguar Mountain"
+            },
+            {
+              "emoji": "🐍",
+              "label": "Toboggan Viper"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-surfs-up",
+          "tag": "Surf pro",
+          "name": "Zone Surf's Up",
+          "description": "Surfez sur le simulateur FlowRider Double de 40 pieds avec instruction professionnelle. Frais supplémentaires requis.",
+          "highlights": [
+            {
+              "emoji": "🏄",
+              "label": "FlowRider"
+            },
+            {
+              "emoji": "👨‍🏫",
+              "label": "Moniteurs pro"
+            },
+            {
+              "emoji": "🤙",
+              "label": "Boogie Board"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-cloudy",
+          "tag": "Détente",
+          "name": "Tempête de boulettes géantes",
+          "description": "Laissez-vous porter sur la rivière tranquille Swallow Falls River Adventure, entouré de Foodimals fantaisistes et d'expériences culinaires inspirées du film.",
+          "highlights": [
+            {
+              "emoji": "🛟",
+              "label": "Rivière tranquille"
+            },
+            {
+              "emoji": "🍔",
+              "label": "Thème culinaire"
+            },
+            {
+              "emoji": "😌",
+              "label": "Relaxant"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-bad-boys",
+          "tag": "Karting",
+          "name": "Bad Boys Race Club",
+          "description": "En piste avec des karts sur le thème de Miami ! Karts sur mesure et drift bikes pour une expérience de course riche en adrénaline.",
+          "highlights": [
+            {
+              "emoji": "🏎️",
+              "label": "Karting"
+            },
+            {
+              "emoji": "🏁",
+              "label": "Circuit de course"
+            },
+            {
+              "emoji": "💰",
+              "label": "Supplément"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-emoji",
+          "tag": "Mini-golf",
+          "name": "Zone The Emoji Movie",
+          "description": "Un parcours de mini-golf amusant avec des obstacles créatifs inspirés du film Emoji. Affrontez vos amis et votre famille et gagnez des prix !",
+          "highlights": [
+            {
+              "emoji": "⛳",
+              "label": "Mini-golf"
+            },
+            {
+              "emoji": "🏆",
+              "label": "Prix à gagner"
+            },
+            {
+              "emoji": "💰",
+              "label": "Supplément"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-wave-pool",
+          "tag": "Cinéma + vagues",
+          "name": "Méga piscine à vagues Omnitheatre",
+          "description": "Le cœur d'Aquaverse ! Méga vagues toutes les 20 minutes, fêtes de mousse, cinéma en plein air et concerts en direct avec son surround Dolby DTS.",
+          "highlights": [
+            {
+              "emoji": "🌊",
+              "label": "Méga vagues"
+            },
+            {
+              "emoji": "🎬",
+              "label": "Écran de cinéma"
+            },
+            {
+              "emoji": "🎸",
+              "label": "Musique en direct"
+            }
+          ]
+        }
+      ],
+      "viewAll": "Voir toutes les attractions &amp; détails &rarr;"
+    },
+    "tickets": {
+      "sectionLabel": "Billets &amp; tarifs",
+      "heading": "Les meilleures offres de billets Aquaverse",
+      "description": "Économisez jusqu'à ~27% en réservant en ligne. Tous les billets incluent l'accès au parc, un casier et l'accès à toutes les attractions aquatiques.",
+      "cards": [
+        {
+          "heading": "Prix au guichet",
+          "periodText": "~42 EUR par personne",
+          "features": [
+            "Toutes les attractions aquatiques incluses",
+            "Casier NON inclus (THB 300 en supplément)",
+            "Selon disponibilité",
+            "Pas d'accès prioritaire"
+          ],
+          "ctaText": "Sur place uniquement"
+        },
+        {
+          "heading": "Billet en ligne anticipé",
+          "periodText": "~22 EUR par personne &mdash; ~27% d'économie !",
+          "features": [
+            "Toutes les attractions aquatiques incluses",
+            "Casier INCLUS",
+            "Confirmation instantanée par e-billet",
+            "Annulation gratuite possible",
+            "Accès coupe-file"
+          ],
+          "ctaText": "Réserver maintenant &mdash; ~27% d'économie &rarr;"
+        },
+        {
+          "heading": "Forfait Tout Compris",
+          "periodText": "~43 EUR par personne",
+          "features": [
+            "Toutes les attractions aquatiques incluses",
+            "Bon repas de 200 THB",
+            "1 session FlowRider surf",
+            "Casier inclus",
+            "E-billet instantané"
+          ],
+          "ctaText": "Réserver le forfait &rarr;"
+        }
+      ],
+      "footerNote": "Gratuit pour les enfants de moins de 3 ans &bull; Karting et mini-golf en supplément<br>\n          <a href=\"/fr/tickets.html\">Voir toutes les options de billets et les offres combinées &rarr;</a>"
+    },
+    "gettingThere": {
+      "sectionLabel": "Comment s'y rendre",
+      "heading": "Comment se rendre à Aquaverse",
+      "description": "Situé à Na Jomtien, à seulement 1h30 de Bangkok et 30 minutes du centre de Pattaya.",
+      "cards": [
+        {
+          "emoji": "🚗",
+          "heading": "En voiture depuis Bangkok",
+          "text": "<strong>1h30 &ndash; 2h</strong> via l'autoroute Route 7. Parking gratuit au parc. Prenez la sortie vers Sattahip et suivez les panneaux."
+        },
+        {
+          "emoji": "🚌",
+          "heading": "En bus",
+          "text": "Bus toutes les 30 min depuis le <strong>terminal de bus Ekkamai</strong> (BTS Ekkamai). Puis taxi/Grab (~THB 320-500) depuis la gare routière de Pattaya."
+        },
+        {
+          "emoji": "🚐",
+          "heading": "En minibus partagé",
+          "text": "Depuis le <strong>Victory Monument</strong> ou <strong>Ekkamai</strong>, ~THB 240/personne (~6 EUR). Les minibus partent toutes les heures pour Pattaya."
+        },
+        {
+          "emoji": "🚕",
+          "heading": "En taxi / Grab",
+          "text": "Depuis Bangkok : ~THB 1 200-1 500 + péages (~32-40 EUR).<br>Depuis le centre de Pattaya : ~THB 320-500 (20-30 min de trajet)."
+        },
+        {
+          "emoji": "🚎",
+          "heading": "Navette du parc",
+          "text": "<strong>THB 300/personne (~8 EUR)</strong> navette quotidienne depuis Pattaya. Réservation en ligne à l'avance. Points de ramassage pratiques."
+        },
+        {
+          "emoji": "✈️",
+          "heading": "Depuis les aéroports",
+          "text": "Aéroport de Suvarnabhumi : ~90 min de trajet.<br>Aéroport U-Tapao (Pattaya) : ~25 min de trajet."
+        }
+      ],
+      "viewAll": "Guide d'accès complet &rarr;"
+    },
+    "comparison": {
+      "sectionLabel": "Comparaison",
+      "heading": "Aquaverse vs. autres parcs aquatiques à Pattaya",
+      "description": "Découvrez comment Columbia Pictures Aquaverse se compare aux autres parcs aquatiques populaires de Pattaya.",
+      "headers": [
+        "Critère",
+        "Aquaverse",
+        "Ramayana Water Park"
+      ],
+      "rows": [
+        {
+          "feature": "Thème",
+          "aquaverse": "Films hollywoodiens (Sony/Columbia)",
+          "ramayana": "Mythologie thaïlandaise"
+        },
+        {
+          "feature": "Superficie",
+          "aquaverse": "14+ hectares",
+          "ramayana": "170 000 m² (plus grand)"
+        },
+        {
+          "feature": "Zones",
+          "aquaverse": "9 zones thématiques",
+          "ramayana": "Plusieurs zones à thème"
+        },
+        {
+          "feature": "Billet (en ligne)",
+          "aquaverse": "À partir de THB 1,176 (~22 EUR)",
+          "ramayana": "À partir de THB 890 (~24 EUR)"
+        },
+        {
+          "feature": "Note Google",
+          "aquaverse": "4,3/5 (7 840+ avis)",
+          "ramayana": "4,5/5"
+        },
+        {
+          "feature": "Espace enfants",
+          "aquaverse": "Le plus grand d'Asie du Sud-Est (Hotel Transylvania)",
+          "ramayana": "Bon espace enfants"
+        },
+        {
+          "feature": "Activités non aquatiques",
+          "aquaverse": "Karting, mini-golf, onsen, concerts",
+          "ramayana": "Limité"
+        },
+        {
+          "feature": "Particularité unique",
+          "aquaverse": "Premier Water Dome au monde, chute de 18 m",
+          "ramayana": "Plus grand parc aquatique de Thaïlande"
+        },
+        {
+          "feature": "Idéal pour",
+          "aquaverse": "Familles, fans de cinéma, amateurs de variété",
+          "ramayana": "Fans de toboggans aquatiques"
+        }
+      ],
+      "compareLink": "Lire notre comparaison complète Aquaverse vs. Ramayana &rarr;"
+    },
+    "reviews": {
+      "sectionLabel": "Avis",
+      "heading": "Ce que disent les visiteurs",
+      "description": "Basé sur 7 840+ avis Google avec une note moyenne de 4,3/5 étoiles.",
+      "testimonials": [
+        {
+          "stars": "5 étoiles",
+          "text": "Parc aquatique absolument génial ! L'attraction Water Dome des Ghostbusters est unique en son genre. Les enfants ont adoré la zone Hotel Transylvania et les rencontres avec les personnages des films.",
+          "initials": "JL",
+          "name": "James L.",
+          "source": "Avis Google"
+        },
+        {
+          "stars": "5 étoiles",
+          "text": "Excellente sortie en famille. La piscine à vagues avec le son surround Dolby est fantastique ! Le personnel est très aimable et attentif à la sécurité. Réservez absolument vos billets en ligne pour la réduction.",
+          "initials": "SK",
+          "name": "Sarah K.",
+          "source": "TripAdvisor"
+        },
+        {
+          "stars": "4 étoiles",
+          "text": "The Beast dans Zombieland est incroyable &mdash; 18 mètres de chute ! Pas pour les âmes sensibles. Le karting était aussi super. Seul bémol : les prix de la nourriture pourraient être plus abordables, mais le parc en lui-même est excellent.",
+          "initials": "MT",
+          "name": "Mike T.",
+          "source": "Avis Google"
+        }
+      ]
+    },
+    "blog": {
+      "sectionLabel": "Guides de voyage",
+      "heading": "Conseils d'initiés pour Aquaverse",
+      "description": "Des guides experts pour vous aider à planifier la visite parfaite d'Aquaverse.",
+      "cards": [
+        {
+          "tag": "Comparaison",
+          "readTime": "",
+          "title": "Aquaverse vs. Ramayana : Quel parc aquatique à Pattaya est le meilleur ?",
+          "description": "Une comparaison honnête côte à côte des deux plus grands parcs aquatiques de Pattaya pour vous aider à choisir."
+        },
+        {
+          "tag": "Guide famille",
+          "readTime": "",
+          "title": "Aquaverse avec des enfants : Guide complet pour les familles",
+          "description": "Tout ce que les parents doivent savoir pour visiter Aquaverse avec des enfants, des meilleures zones pour les tout-petits aux conseils de sécurité."
+        },
+        {
+          "tag": "Accès",
+          "readTime": "",
+          "title": "Comment aller de Bangkok à Aquaverse (Guide 2026)",
+          "description": "Toutes les options de transport de Bangkok à Aquaverse &mdash; en bus, minibus, taxi et voiture privée avec coûts et conseils."
+        },
+        {
+          "tag": "Billets",
+          "readTime": "",
+          "title": "Prix des billets Aquaverse 2026 : Comment obtenir la meilleure offre",
+          "description": "Aperçu complet des tarifs pour tous les types de billets. Sur place vs. en ligne, réductions enfants, forfaits tout compris et où trouver les meilleures offres fiables."
+        },
+        {
+          "tag": "Avis",
+          "readTime": "",
+          "title": "Avis honnête sur Aquaverse : Est-ce que ça vaut le coup ?",
+          "description": "Notre avis sans filtre avec des notes pour les attractions, la thématisation, la restauration et le rapport qualité-prix. Ce qui nous a plu, ce qui pourrait être amélioré et notre verdict honnête."
+        }
+      ],
+      "viewAll": "Voir tous les guides &rarr;"
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "Questions fréquemment posées",
+      "description": "Réponses rapides aux questions les plus courantes sur la visite du Columbia Pictures Aquaverse.",
+      "items": [
+        {
+          "question": "Combien coûtent les billets Aquaverse ?",
+          "answer": "<p>Le prix au guichet est de <strong>THB 1 595</strong> (~42 EUR) par personne. Les billets anticipés en ligne sont disponibles à partir de <strong>THB 1,176</strong> (~22 EUR), soit une économie de jusqu'à ~27%. Les enfants de moins de 3 ans entrent gratuitement. Les billets en ligne incluent un casier (valeur THB 300).</p>\n                <p><a href=\"/fr/tickets.html\">Voir toutes les options de billets et les offres combinées &rarr;</a></p>"
+        },
+        {
+          "question": "Quels sont les horaires d'ouverture ?",
+          "answer": "<p>Aquaverse est ouvert <strong>tous les jours de 10h00 à 18h00</strong>. Le parc est <strong>fermé tous les mercredis</strong> pour maintenance programmée. Les attractions ferment à 17h45 et la dernière admission est à 15h30. Les horaires peuvent varier lors d'événements spéciaux et de jours fériés.</p>"
+        },
+        {
+          "question": "Comment se rendre à Aquaverse depuis Bangkok ?",
+          "answer": "<p>Il existe plusieurs options :</p>\n                <ul>\n                  <li><strong>En voiture :</strong> 1h30-2h via l'autoroute Route 7 (parking gratuit au parc)</li>\n                  <li><strong>En bus :</strong> Depuis le terminal de bus Ekkamai, puis taxi depuis Pattaya</li>\n                  <li><strong>En minibus partagé :</strong> THB 240/personne (~6 EUR) depuis le Victory Monument ou Ekkamai</li>\n                  <li><strong>En Grab/taxi :</strong> THB 1 200-1 500 + péages (~32-40 EUR) depuis Bangkok</li>\n                </ul>\n                <p><a href=\"/fr/getting-there.html\">Voir le guide d'accès complet &rarr;</a></p>"
+        },
+        {
+          "question": "Quels films sont représentés à Aquaverse ?",
+          "answer": "<p>Aquaverse comporte <strong>9 zones thématiques</strong> basées sur des films Columbia Pictures :</p>\n                <ul>\n                  <li><strong>Hotel Transylvania</strong> &mdash; Espace de jeux aquatiques pour enfants avec personnages</li>\n                  <li><strong>Ghostbusters</strong> &mdash; Première mondiale : attraction à sensations Water Dome</li>\n                  <li><strong>Jumanji</strong> &mdash; Attractions aquatiques d'aventure dans la jungle</li>\n                  <li><strong>Zombieland</strong> &mdash; Toboggans extrêmes avec chute de 18 m</li>\n                  <li><strong>Tempête de boulettes géantes</strong> &mdash; Rivière tranquille</li>\n                  <li><strong>Surf's Up</strong> &mdash; Simulateur de surf FlowRider</li>\n                  <li><strong>Bad Boys</strong> &mdash; Karting (supplément)</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; Mini-golf (supplément)</li>\n                  <li><strong>Méga piscine à vagues</strong> &mdash; Piscine à vagues + cinéma en plein air</li>\n                </ul>"
+        },
+        {
+          "question": "Aquaverse est-il adapté aux enfants ?",
+          "answer": "<p>Absolument ! La <strong>zone Hotel Transylvania</strong> est le plus grand espace de jeux aquatiques à thème d'Asie du Sud-Est, spécialement conçu pour les enfants avec :</p>\n                <ul>\n                  <li>9 toboggans aquatiques adaptés aux enfants</li>\n                  <li>des dizaines attractions aquatiques et espaces d'éclaboussures</li>\n                  <li>Le plus grand seau déverseur de Thaïlande</li>\n                  <li>Fêtes de mousse</li>\n                  <li>Rencontres avec les personnages du film (Drac, Mavis, Blobby)</li>\n                </ul>\n                <p>Les enfants de moins de 3 ans entrent gratuitement. <a href=\"/blog/aquaverse-with-kids.html\">Lisez notre guide complet pour les familles &rarr;</a></p>"
+        },
+        {
+          "question": "Peut-on apporter de la nourriture à Aquaverse ?",
+          "answer": "<p>Non, la nourriture et les boissons extérieures ne sont pas autorisées (exception : alimentation pour bébés/lait en poudre). Le parc dispose de plusieurs restaurants à thème :</p>\n                <p>Le parc propose plusieurs espaces de restauration, dont des food courts, des snack-bars thématiques et des stations de boissons servant des burgers, de la cuisine thaïlandaise, des pizzas et plus encore.</p>\n                <p>Conseil : Le parc utilise un système de bracelet RFID sans espèces &mdash; chargez du crédit et payez sans argent liquide.</p>"
+        },
+        {
+          "question": "Aquaverse ou Ramayana Water Park : lequel est le meilleur ?",
+          "answer": "<p>Les deux sont excellents, mais offrent des expériences différentes :</p>\n                <ul>\n                  <li><strong>Choisissez Aquaverse si :</strong> Vous aimez la thématisation des films hollywoodiens, des activités variées (aquatiques + karting + mini-golf + onsen) et vous visitez avec de jeunes enfants qui aiment les personnages des films</li>\n                  <li><strong>Choisissez Ramayana si :</strong> Vous voulez le plus grand parc aquatique avec le plus de toboggans, un meilleur rapport qualité-prix pour du pur plaisir aquatique et une journée plus tranquille</li>\n                </ul>\n                <p><a href=\"/blog/aquaverse-vs-ramayana.html\">Lisez notre guide comparatif détaillé &rarr;</a></p>"
+        },
+        {
+          "question": "Quelle est la meilleure période pour visiter Aquaverse ?",
+          "answer": "<p><strong>Meilleure saison :</strong> Novembre à avril (saison sèche) pour le meilleur temps.</p>\n                <p><strong>Meilleur jour :</strong> Les jours de semaine sont nettement moins fréquentés que les week-ends. Évitez le mercredi (parc fermé).</p>\n                <p><strong>Meilleure heure :</strong> Arrivez à 10h à l'ouverture du parc pour éviter la foule et profiter au maximum de votre journée.</p>\n                <p><a href=\"/fr/tips.html\">Consultez tous nos conseils pour les visiteurs &rarr;</a></p>"
+        }
+      ],
+      "viewAll": "Voir toutes les FAQ &rarr;"
+    },
+    "cta": {
+      "ctaTitle": "Prêt pour l'aventure ?",
+      "ctaText": "Réservez vos billets Aquaverse en ligne et économisez jusqu'à ~27%. Confirmation instantanée, annulation gratuite et accès coupe-file.",
+      "ctaButton": "Réserver des billets à prix réduit &rarr;",
+      "ctaSubtext": "L'offre du jour expire dans <strong id=\"countdown\">...</strong>"
+    },
+    "nearby": {
+      "sectionLabel": "À proximité",
+      "heading": "Activités à proximité d'Aquaverse",
+      "description": "Profitez au maximum de votre voyage à Pattaya avec ces attractions populaires à proximité d'Aquaverse.",
+      "cards": [
+        {
+          "emoji": "🌺",
+          "heading": "Nong Nooch Tropical Garden",
+          "text": "Splendide jardin botanique tropical avec des spectacles culturels. À seulement 10 minutes d'Aquaverse."
+        },
+        {
+          "emoji": "🗿",
+          "heading": "Buddha Mountain (Khao Chi Chan)",
+          "text": "Impressionnant Bouddha doré de 130 mètres gravé au laser dans une falaise. À 15 minutes."
+        },
+        {
+          "emoji": "🏖️",
+          "heading": "Jomtien Beach",
+          "text": "L'une des plages les plus populaires de Pattaya avec sports nautiques, restaurants et vie nocturne. À 20 minutes au nord."
+        },
+        {
+          "emoji": "🐘",
+          "heading": "Pattaya Elephant Sanctuary",
+          "text": "Sanctuaire éthique pour éléphants où vous pouvez nourrir et vous promener avec des éléphants secourus. À 25 minutes."
+        }
+      ]
+    }
   }
 }

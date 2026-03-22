@@ -34,11 +34,18 @@ env.addFilter('dump', function (obj) {
 
 // Available page templates
 const PAGE_CONFIGS = {
+  home: {
+    template: 'pages/index.njk',
+    slug: 'index.html',
+  },
   faq: {
     template: 'pages/faq.njk',
     slug: 'faq.html',
   },
 };
+
+// Load home page data (non-translatable)
+const HOME_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'home.json'), 'utf8'));
 
 // Footer guide blog post slugs (same order as labels in i18n files)
 const FOOTER_GUIDES_SLUGS = [
@@ -103,6 +110,23 @@ function buildFaqSchema(categories) {
   };
 }
 
+// Build FAQPage schema from home page FAQ items (flat array)
+function buildHomeFaqSchema(items) {
+  const mainEntity = items.map(q => ({
+    '@type': 'Question',
+    name: q.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: stripHtml(q.answer),
+    },
+  }));
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity,
+  };
+}
+
 // Format number with commas
 function formatNumber(n) {
   return n.toLocaleString('en-US');
@@ -143,6 +167,11 @@ function buildPage(pageKey, pageConfig) {
       schemaFaq = buildFaqSchema(t.faq.categories);
     }
 
+    let schemaHomeFaq = null;
+    if (pageKey === 'home' && t.home && t.home.faq && t.home.faq.items) {
+      schemaHomeFaq = buildHomeFaqSchema(t.home.faq.items);
+    }
+
     const context = {
       site: SITE,
       lang,
@@ -150,6 +179,8 @@ function buildPage(pageKey, pageConfig) {
       page,
       activePage: pageKey,
       schemaFaq,
+      schemaHomeFaq,
+      homeData: HOME_DATA,
       stickyPrice,
       stickyOriginalPrice,
       stickyPriceFormatted: formatNumber(stickyPrice),

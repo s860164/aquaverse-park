@@ -9,7 +9,7 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ site.baseUrl }}/{{ lang.prefix }}{{ page.slug }}">
+  <meta property="og:url" content="{{ site.baseUrl }}/{{ lang.prefix }}{{ '' if page.slug == 'index.html' else page.slug }}">
   {% block og %}{% endblock %}
   <meta property="og:image" content="{{ site.baseUrl }}/images/{{ ogImage | default('og-home.jpg') }}">
   <meta property="og:site_name" content="Aquaverse Park Guide">
@@ -33,10 +33,10 @@
   <!-- Preconnect -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Nunito:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/style.css?v=2">
 
   {% block schema %}{% endblock %}
 </head>
