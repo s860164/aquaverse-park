@@ -431,11 +431,31 @@
     }
   }
 
-  // Language selector - mark active based on current page
+  // Language selector - mark active based on current page and rewrite links to stay on same page
   function initLanguageSelector() {
     const path = window.location.pathname;
+
+    // Extract the page portion by stripping the language prefix
+    // e.g. "/zh-CN/faq.html" → "faq.html", "/blog/foo.html" → "blog/foo.html", "/" → ""
+    let page = path.replace(/^\//, ''); // remove leading slash
+    const langPrefixes = Object.values(LANG_MAP).filter(p => p !== '/').map(p => p.replace(/^\/|\/$/g, ''));
+    for (const prefix of langPrefixes) {
+      if (page.startsWith(prefix + '/')) {
+        page = page.slice(prefix.length + 1);
+        break;
+      }
+    }
+    // Treat index.html as homepage
+    if (page === 'index.html') page = '';
+
     const langLinks = document.querySelectorAll('#langMenu a');
     langLinks.forEach(link => {
+      const lang = link.getAttribute('lang');
+      const langBase = LANG_MAP[lang];
+      if (langBase) {
+        link.setAttribute('href', langBase + page);
+      }
+
       const href = link.getAttribute('href');
       const isActive = (href === '/' && (path === '/' || path === '/index.html')) ||
                        (href !== '/' && path.startsWith(href));
@@ -451,6 +471,53 @@
       link.addEventListener('click', () => {
         localStorage.setItem('aq_lang_set', '1');
       });
+    });
+  }
+
+  // Fix internal links on non-English pages to include the language prefix
+  function fixInternalLinks() {
+    const path = window.location.pathname;
+
+    // Determine current language prefix (e.g. '/zh-CN/', '/ja/'). Empty = English.
+    let langPrefix = '';
+    for (const [lang, base] of Object.entries(LANG_MAP)) {
+      if (lang === 'en') continue;
+      if (path.startsWith(base)) {
+        langPrefix = base;
+        break;
+      }
+    }
+
+    // English pages need no fix
+    if (!langPrefix) return;
+
+    // Prefixes for non-navigable resources — skip these
+    const resourcePrefixes = ['/images/', '/css/', '/js/', '/data/', '/fonts/'];
+
+    // All known language base paths
+    const langBases = Object.values(LANG_MAP).filter(b => b !== '/');
+
+    document.querySelectorAll('a[href]').forEach(link => {
+      // Skip language selector links (they have a lang attribute and are already handled)
+      if (link.hasAttribute('lang')) return;
+
+      const href = link.getAttribute('href');
+
+      // Skip non-internal links
+      if (!href.startsWith('/')) return;
+
+      // Skip resource links
+      if (resourcePrefixes.some(p => href.startsWith(p))) return;
+
+      // Skip links that already have a language prefix
+      if (langBases.some(b => href.startsWith(b))) return;
+
+      // Rewrite: prepend language prefix (strip trailing slash from prefix for non-root hrefs)
+      if (href === '/') {
+        link.setAttribute('href', langPrefix);
+      } else {
+        link.setAttribute('href', langPrefix.slice(0, -1) + href);
+      }
     });
   }
 
@@ -530,6 +597,7 @@
     initLanguageSelector();
     initLanguageDetection();
     autoDetectCurrency();
+    fixInternalLinks();
   }
 
   // ===== Countdown timer for urgency =====
