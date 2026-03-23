@@ -1533,5 +1533,317 @@
     "schema": {
       "breadcrumbCurrent": "ປີ້ ແລະ ລາຄາ"
     }
+  },
+  "gettingThere": {
+    "title": "ວິທີໄປ Aquaverse ພັດທະຍາ | ຄູ່ມືການເດີນທາງສົມບູນ 2026",
+    "metaDescription": "ທຸກທາງເລືອກການຂົນສົ່ງໄປ Columbia Pictures Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ. ດ້ວຍລົດ, ລົດໂດຍສານ, ແທັກຊີ, Grab. ທາງໄປ, ຄ່າໃຊ້ຈ່າຍ, ເວລາເດີນທາງ ແລະ ຂໍ້ມູນທີ່ຈອດລົດ.",
+    "metaKeywords": "ວິທີໄປ Aquaverse, ທາງໄປ Aquaverse, ການຂົນສົ່ງ Aquaverse ພັດທະຍາ, ກຸງເທບ ໄປ Aquaverse, ທາງໄປສວນນ້ຳພັດທະຍາ, ທີ່ຈອດລົດ Aquaverse, Grab ແທັກຊີ Aquaverse, Ekkamai ໄປພັດທະຍາ, Suvarnabhumi ໄປ Aquaverse",
+    "ogTitle": "ວິທີໄປ Aquaverse ພັດທະຍາ | ຄູ່ມືການຂົນສົ່ງສົມບູນ 2026",
+    "ogDescription": "ທຸກທາງເລືອກການຂົນສົ່ງໄປ Columbia Pictures Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ. ທາງໄປ, ຄ່າໃຊ້ຈ່າຍ, ເວລາເດີນທາງ ແລະ ຂໍ້ມູນທີ່ຈອດລົດ.",
+    "twitterTitle": "ວິທີໄປ Aquaverse ພັດທະຍາ | ຄູ່ມືການຂົນສົ່ງ 2026",
+    "twitterDescription": "ທຸກທາງເລືອກການຂົນສົ່ງໄປ Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ. ດ້ວຍລົດ, ລົດໂດຍສານ, ແທັກຊີ, Grab. ຄ່າໃຊ້ຈ່າຍ ແລະ ເວລາເດີນທາງ.",
+    "hero": {
+      "badge": "ຄູ່ມືການຂົນສົ່ງສົມບູນ",
+      "h1": "ວິທີໄປ Aquaverse",
+      "h1Sub": "ພັດທະຍາ, ປະເທດໄທ",
+      "sub": "ທຸກສິ່ງທີ່ທ່ານຕ້ອງຮູ້ ກ່ຽວກັບການໄປ Columbia Pictures Aquaverse.\n        ຈາກກຸງເທບ, ພັດທະຍາ ຫຼື ສະໜາມບິນ &mdash; ດ້ວຍລົດ, ລົດໂດຍສານ, ແທັກຊີ ຫຼື Grab.",
+      "cta1": "ຈາກກຸງເທບ &darr;",
+      "cta2": "ຈາກພັດທະຍາ &darr;",
+      "stats": [
+        {
+          "number": "1.5h",
+          "label": "ຈາກກຸງເທບ"
+        },
+        {
+          "number": "30min",
+          "label": "ຈາກພັດທະຍາ"
+        },
+        {
+          "number": "ຟຣີ",
+          "label": "ທີ່ຈອດລົດ"
+        },
+        {
+          "number": "THB 300-500",
+          "label": "Grab ຈາກພັດທະຍາ"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "ວິທີໄປ",
+    "tldr": [
+      {
+        "bold": "ທີ່ຢູ່:",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250 (<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Google Maps</a>)"
+      },
+      {
+        "bold": "ຈາກກຸງເທບ:",
+        "text": "1.5&ndash;2 ຊົ່ວໂມງ ດ້ວຍລົດຫຼືແທັກຊີ &bull; 2&ndash;2.5 ຊົ່ວໂມງ ດ້ວຍລົດໂດຍສານ"
+      },
+      {
+        "bold": "ຈາກໃຈກາງເມືອງພັດທະຍາ:",
+        "text": "20&ndash;30 ນາທີ ດ້ວຍ Grab/ແທັກຊີ (THB 350&ndash;500)"
+      },
+      {
+        "bold": "ທີ່ຈອດລົດ:",
+        "text": "ຟຣີ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ &mdash; ກ້ວາງ, ມີແສງໄຟ ແລະ ປອດໄພ"
+      },
+      {
+        "bold": "ບໍ່ມີລົດຮັບສົ່ງທາງການ:",
+        "text": "ໃຊ້ Grab (THB 300&ndash;500 ຈາກພັດທະຍາ) ຫຼື ຈັດຜ່ານໂຮງແຮມ ຫຼື ຜູ້ດຳເນີນທ່ອງທ່ຽວ"
+      },
+      {
+        "bold": "ເຄັດລັບດີທີ່ສຸດ:",
+        "text": "ໃຊ້ <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ແອັບ Grab</strong></a> ເພື່ອໄດ້ລາຄາແທັກຊີດີທີ່ສຸດທົ່ວໄທ"
+      }
+    ],
+    "location": {
+      "sectionLabel": "ທີ່ຕັ້ງສວນ",
+      "heading": "Aquaverse ຢູ່ໃສ?",
+      "description": "Columbia Pictures Aquaverse ຕັ້ງຢູ່ ຕາມ Sukhumvit Road ຊາຍຝັ່ງທະເລ ໃນເຂດ Na Jomtien / Sattahip, ລະຫວ່າງ ພັດທະຍາ ແລະ ຖານທັບເຮືອ Sattahip.",
+      "gbp": {
+        "category": "Water Park &middot; Theme Park &middot; ພັດທະຍາ",
+        "details": [
+          "<strong>ທີ່ຢູ່:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>ເວລາເປີດ:</strong> 10:00 AM &ndash; 6:00 PM (ປິດວັນພຸດ)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>ກຳລັງກວດສອບ...</span>",
+          "<strong>ໂທລະສັບ:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>ທີ່ຈອດລົດ:</strong> ຟຣີ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ",
+          "<strong>Grab ຈາກພັດທະຍາ:</strong> THB 300&ndash;500 (ບໍ່ມີລົດຮັບສົ່ງທາງການ)"
+        ],
+        "mapBtn": "ເປີດໃນ Google Maps &rarr;"
+      },
+      "mapCaption": "ຕັ້ງຢູ່ ຕາມ Sukhumvit Road ລະຫວ່າງ ພັດທະຍາ ແລະ Sattahip. ຊອກຫາ ປ້າຍ Columbia Pictures Aquaverse ຂະໜາດໃຫຍ່ ຢູ່ດ້ານຊ້າຍ ຂອງຖະໜົນ ເມື່ອຂັບລົດລົງໄປທາງໃຕ້ຈາກພັດທະຍາ."
+    },
+    "fromBangkok": {
+      "sectionLabel": "ຈາກກຸງເທບ",
+      "heading": "ວິທີໄປ Aquaverse ຈາກກຸງເທບ",
+      "description": "ກຸງເທບ ຢູ່ຫ່າງຈາກ Aquaverse ປະມານ 150 km. ມີທາງເລືອກການຂົນສົ່ງຫຼາຍຊ່ອງທາງ ຂຶ້ນກັບງົບ ແລະ ຄວາມຕ້ອງການ.",
+      "cards": [
+        {
+          "h3": "ດ້ວຍລົດ (1.5&ndash;2 ຊົ່ວໂມງ)",
+          "content": "<p>ທາງເລືອກທີ່ຍືດຫຍຸ່ນທີ່ສຸດ ໂດຍສະເພາະ ສຳລັບຄອບຄົວ. ທີ່ຈອດລົດຟຣີ ທີ່ສວນ.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ໃຊ້ <strong>ທາງດ່ວນເສັ້ນທາງ 7</strong> ໄປທາງພັດທະຍາ/Chon Buri</li>\n              <li>ຜ່ານພັດທະຍາ ແລ້ວ ອອກທາງ <strong>Sattahip</strong></li>\n              <li>ຕິດຕາມ <strong>Sukhumvit Road</strong> ລົງໄປທາງໃຕ້</li>\n              <li>ຊອກຫາ ປ້າຍ <strong>Columbia Pictures Aquaverse</strong> ຢູ່ດ້ານຊ້າຍ</li>\n              <li>ທີ່ຈອດລົດຟຣີ ຢູ່ທາງເຂົ້າສວນ</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າທາງດ່ວນ:</strong> ~THB 155 ຕໍ່ຂາ ໃນທາງດ່ວນເສັ້ນທາງ 7<br>\n              <strong>ຄ່ານ້ຳມັນ:</strong> ~THB 400&ndash;600 ໄປ-ກັບ<br>\n              <strong>ທີ່ຈອດລົດ:</strong> ຟຣີ\n            </div>"
+        },
+        {
+          "h3": "ດ້ວຍລົດໂດຍສານ (2&ndash;2.5 ຊົ່ວໂມງ)",
+          "content": "<p>ທາງເລືອກລາຄາຖືກທີ່ສຸດ ຈາກກຸງເທບ. ລົດໂດຍສານ ອອກໄປພັດທະຍາ ຕໍ່ເນື່ອງ ຈາກ Ekkamai.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ໄປ <strong>Ekkamai Bus Terminal</strong> (Eastern Bus Terminal)</li>\n              <li>ໂດຍສານ <strong>BTS ໄປສະຖານີ Ekkamai, ທາງອອກ 2</strong> &mdash; ສະຖານີລົດໂດຍສານ ຢູ່ຕິດກັນ</li>\n              <li>ລົດໂດຍສານ ອອກໄປພັດທະຍາ <strong>ທຸກ 30 ນາທີ</strong></li>\n              <li>ລາຄາປີ້: <strong>THB 108&ndash;150</strong></li>\n              <li>ລົງທີ່ Pattaya Bus Terminal ແລ້ວ ຕໍ່ Grab/ແທັກຊີໄປສວນ</li>\n              <li>Grab/ແທັກຊີ ຈາກພັດທະຍາ ໄປ Aquaverse: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າໃຊ້ຈ່າຍລວມ:</strong> ~THB 430&ndash;630/ຄົນ<br>\n              <strong>ລົດໂດຍສານຄັນທຳອິດ:</strong> 5:00 AM &bull; <strong>ຄັນສຸດທ້າຍ:</strong> 11:00 PM\n            </div>"
+        },
+        {
+          "h3": "ດ້ວຍລົດຕູ້ຮ່ວມ (2 ຊົ່ວໂມງ)",
+          "content": "<p>ໄວກວ່າລົດໂດຍສານ ແຕ່ ລາຄາແພງກວ່ານ້ອຍ. ລົດຕູ້ 10 ທີ່ ສະດວກສະບາຍ.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ອອກເດີນທາງຈາກ <strong>BTS Victory Monument</strong> ຫຼື <strong>Ekkamai</strong></li>\n              <li>ລາຄາປີ້: <strong>THB 240/ຄົນ</strong></li>\n              <li>ລົດຕູ້ ອອກ <strong>ທຸກຊົ່ວໂມງ</strong> (ຖີ່ກວ່ານີ້ ໃນວັນທ້າຍອາທິດ)</li>\n              <li>ລົງທີ່ພັດທະຍາ ແລ້ວ ຕໍ່ແທັກຊີໄປສວນ</li>\n              <li>Grab/ແທັກຊີ ຈາກພັດທະຍາ ໄປ Aquaverse: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າໃຊ້ຈ່າຍລວມ:</strong> ~THB 560&ndash;740/ຄົນ<br>\n              <strong>ເຄັດລັບ:</strong> ຊື້ປີ້ຢູ່ຕ່ຳໜ້ານ ບໍ່ໃຊ້ຊື້ຈາກຄົນຂາຍນອກ\n            </div>"
+        },
+        {
+          "h3": "ດ້ວຍແທັກຊີ / Grab (1.5&ndash;2 ຊົ່ວໂມງ)",
+          "content": "<p>ທາງເລືອກທີ່ສະດວກທີ່ສຸດ. ບໍລິການ door-to-door ໂດຍບໍ່ຕ້ອງຕໍ່ລົດ.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ຄ່າໃຊ້ຈ່າຍ: <strong>THB 1,200&ndash;1,500</strong> + ຄ່າທາງດ່ວນ (~THB 155)</li>\n              <li>ຈອງຜ່ານ <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ແອັບ Grab</strong></a> ສຳລັບລາຄາໂປ່ງໃສ</li>\n              <li>ສາມາດຮ່ວມໂດຍສານ ໄດ້ສູງສຸດ 3 ຄົນ</li>\n              <li>ໄປຮອດ door-to-door ໂດຍບໍ່ຕ້ອງຕໍ່ລົດ</li>\n              <li>ດີສຳລັບກຸ່ມ &mdash; ຫານ 4 ຄົນ = ~THB 340/ຄົນ</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າໃຊ້ຈ່າຍລວມ:</strong> ~THB 1,355&ndash;1,655/ຄັນ<br>\n              <strong>ເຄັດລັບ:</strong> ໃຊ້ Grab ລາຄາຄົງທີ່ &mdash; ຫຼີກລ່ຽງລົດແທັກຊີ meter ສຳລັບການເດີນທາງໄກ\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "ຈາກສະໜາມບິນ",
+      "heading": "ໄປ Aquaverse ຈາກສະໜາມບິນ",
+      "description": "ສະໜາມບິນ 2 ແຫ່ງ ໃຫ້ບໍລິການ ເຂດພັດທະຍາ: Suvarnabhumi (ສະໜາມບິນຫຼັກຂອງກຸງເທບ) ແລະ U-Tapao (ສະໜາມບິນທ້ອງຖິ່ນຂອງພັດທະຍາ).",
+      "cards": [
+        {
+          "h3": "ຈາກ Suvarnabhumi Airport (BKK)",
+          "content": "<p style=\"margin-bottom: 1rem;\">ສະໜາມບິນນານາຊາດຫຼັກຂອງກຸງເທບ. ໃຊ້ເວລາປະມານ <strong>90 ນາທີ</strong> ໄປ Aquaverse ດ້ວຍລົດ.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>ແທັກຊີ:</strong> THB 1,500&ndash;2,000 (ໄປຮອດສວນໂດຍກົງ)</li>\n              <li><strong>Grab:</strong> ຈອງຜ່ານແອັບ ທີ່ຊັ້ນຮັບນັກທ່ອງທ່ຽວ &mdash; ລາຄາ ໃກ້ຄຽງກັນ ກັບແທັກຊີ</li>\n              <li><strong>ລົດໂດຍສານສະໜາມບິນ + ແທັກຊີ:</strong> ໂດຍສານລົດໂດຍສານ ສະໜາມບິນ ໄປພັດທະຍາ (~THB 200) ແລ້ວ ຕໍ່ແທັກຊີ ໄປສວນ (THB 350&ndash;500)</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ໄລຍະທາງ:</strong> ~120 km<br>\n              <strong>ເວລາເດີນທາງ:</strong> 1.5 ຊົ່ວໂມງ (ບໍ່ຕິດການຈາລະຈອນ)\n            </div>"
+        },
+        {
+          "h3": "ຈາກ U-Tapao Airport (UTP)",
+          "content": "<p style=\"margin-bottom: 1rem;\">ສະໜາມບິນທີ່ໃກ້ Aquaverse ທີ່ສຸດ. ຫ່າງພຽງ <strong>25 ນາທີ</strong> ດ້ວຍລົດ.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>ແທັກຊີ:</strong> THB 400&ndash;600 (ໄປຮອດສວນໂດຍກົງ)</li>\n              <li><strong>Grab:</strong> ອາດ ມີຈຳກັດ &mdash; ຈອງລ່ວງໜ້າ ຖ້າເປັນໄປໄດ້</li>\n              <li>U-Tapao ໃຫ້ບໍລິການ ຖ້ຽວບິນ ຈາກ Chiang Mai, Kuala Lumpur, ແລະ ບາງເມືອງໃນຈີນ</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ໄລຍະທາງ:</strong> ~25 km<br>\n              <strong>ເວລາເດີນທາງ:</strong> 25 ນາທີ\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "ຈາກພັດທະຍາ",
+      "heading": "ໄປ Aquaverse ຈາກໃຈກາງເມືອງພັດທະຍາ",
+      "description": "Aquaverse ຕັ້ງຢູ່ ທາງໃຕ້ ຂອງໃຈກາງເມືອງພັດທະຍາ, ຫ່າງ ປະມານ 20&ndash;30 ນາທີ ຕາມທາງ.",
+      "cards": [
+        {
+          "h3": "Grab / ແທັກຊີ",
+          "price": "<strong>THB 350&ndash;500</strong>",
+          "description": "20&ndash;30 ນາທີ. ໃຊ້ແອັບ Grab ສຳລັບລາຄາຄົງທີ່. ທາງເລືອກທີ່ສະດວກທີ່ສຸດ ຈາກໂຮງແຮມ."
+        },
+        {
+          "h3": "Songthaew",
+          "price": "<strong>THB 20&ndash;50</strong>",
+          "description": "Songthaew ສີຂາວ (ລົດຮ່ວມ) ໃນເສັ້ນທາງ Na Klua&ndash;Sattahip. ລາຄາຖືກ ແຕ່ ຊ້າ ແລະ ອາດ ຕ້ອງ ຍ່າງ ຈາກຈຸດລົງ."
+        },
+        {
+          "h3": "Grab / ແທັກຊີ",
+          "price": "<strong>THB 300&ndash;500 ຕໍ່ຂາ</strong>",
+          "description": "ຈອງຜ່ານແອັບ Grab ຈາກໃຈກາງ ພັດທະຍາ (20&ndash;30 ນາທີ). ບໍ່ມີລົດຮັບສົ່ງທາງການ. ໂຮງແຮມ ແລະ ຜູ້ດຳເນີນທ່ອງທ່ຽວ ບາງແຫ່ງ ຈັດລົດຮັບສົ່ງ ໂດຍ ຄິດຄ່າເພີ່ມ."
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "ເຄັດລັບການຂົນສົ່ງ",
+      "heading": "ໄປ Aquaverse ຈາກພັດທະຍາ",
+      "description": "ບໍ່ມີລົດຮັບສົ່ງທາງການ. ນີ້ ຄືວິທີທີ່ດີທີ່ສຸດ ໃນການໄປຮອດສວນ ຈາກພັດທະຍາ.",
+      "recommendedHeading": "ທາງເລືອກການຂົນສົ່ງທີ່ແນະນຳ",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab:</strong> THB 300&ndash;500 ຈາກໃຈກາງເມືອງພັດທະຍາ (20&ndash;30 ນາທີ). ທາງເລືອກທີ່ງ່າຍທີ່ສຸດ &mdash; ຈອງ ຜ່ານ ແອັບ Grab.</li>\n                <li><strong>ແທັກຊີສ່ວນຕົວ:</strong> ຕໍ່ລາຄາ ກ່ອນໄປ. ປົກກະຕິ THB 300&ndash;500 ຕໍ່ຂາ.</li>\n                <li><strong>ລົດຮັບສົ່ງຈາກໂຮງແຮມ:</strong> ໂຮງແຮມ ແລະ ຜູ້ດຳເນີນທ່ອງທ່ຽວ ບາງແຫ່ງ ຈັດລົດຮັບສົ່ງ ໂດຍ ຄິດຄ່າເພີ່ມ. ຖາມ ທີ່ ແຜນກ ຕ້ອນຮັບ ຂອງໂຮງແຮມ.</li>\n                <li><strong>Songthaew + Grab:</strong> ໂດຍສານ Songthaew ສີຂາວ ໄປ Na Jomtien (THB 20&ndash;50) ແລ້ວ Grab ຊ່ວງສຸດທ້າຍ.</li>\n                <li><strong>ຂັບລົດເອງ:</strong> ທີ່ຈອດລົດຟຣີ ທີ່ສວນ. GPS ໄປ &ldquo;Columbia Pictures Aquaverse&rdquo; ໃນ Google Maps.</li>\n              </ul>",
+      "bookingBtn": "ຈອງປີ້ອອນລາຍ &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "Grab ຈາກໃຈກາງເມືອງພັດທະຍາ",
+        "checkmarks": [
+          "&#10003; ຈອງຜ່ານ ແອັບ Grab",
+          "&#10003; 20&ndash;30 ນາທີ",
+          "&#10003; ມີ ແອ ປັດ",
+          "&#10003; ລາຄາຄົງທີ່ ບໍ່ຕ້ອງຕໍ່ລາຄາ"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "ທີ່ຈອດລົດ",
+      "heading": "ທີ່ຈອດລົດ ທີ່ Aquaverse",
+      "description": "ຂ່າວດີ ສຳລັບຜູ້ຂັບລົດ &mdash; ທີ່ຈອດລົດ ທີ່ Aquaverse ຟຣີ ທັງໝົດ ສຳລັບນັກທ່ອງທ່ຽວ.",
+      "cards": [
+        {
+          "h3": "ທີ່ຈອດລົດຟຣີ",
+          "text": "ບໍ່ຄິດຄ່າທີ່ຈອດລົດ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ. ຂັບລົດເຂົ້າ ແລະ ຈອດລົດ ໂດຍ ບໍ່ຕ້ອງກັງວົນ ກ່ຽວກັບ ຄ່ານຊົ່ວໂມງ ຫຼື ປີ້."
+        },
+        {
+          "h3": "ເຂດຈອດລົດກ້ວາງ",
+          "text": "ທີ່ຈອດລົດ ຂະໜາດໃຫຍ່ ຈຸລົດໄດ້ຫຼາຍຮ້ອຍຄັນ ລວມທັງ ລົດ, ລົດຕູ້ ແລະ ລົດໂດຍສານທ່ອງທ່ຽວ. ບໍ່ຈຳເປັນ ຕ້ອງໄປຕົ້ນ ກໍ ໄດ້ທີ່ຈອດ."
+        },
+        {
+          "h3": "ມີແສງໄຟ ແລະ ປອດໄພ",
+          "text": "ເຂດທີ່ຈອດລົດ ມີແສງໄຟ ແລະ ມີ ພະນັກງານ ຮັກສາຄວາມປອດໄພ ຢູ່ໃນສະຖານທີ່. ວາງໃຈ ໄດ້ ທີ່ ໄວ້ ລົດ ຂອງທ່ານ ໃນ ຂະນະ ທ່ຽວ ສວນ ທັງ ວັນ."
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "ປຽບທຽບທາງເລືອກ",
+      "heading": "ການປຽບທຽບການຂົນສົ່ງ ລວດລ່ຽວ",
+      "description": "ການປຽບທຽບ ທາງເລືອກການຂົນສົ່ງ ທັງໝົດ ຈາກກຸງເທບ ໄປ Aquaverse.",
+      "headers": [
+        "ການຂົນສົ່ງ",
+        "ເວລາ",
+        "ຄ່າໃຊ້ຈ່າຍ",
+        "ຄວາມສະດວກ",
+        "ດີທີ່ສຸດສຳລັບ"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 ລົດສ່ວນຕົວ",
+          "time": "1.5&ndash;2 ຊ.ວ",
+          "cost": "THB 155 (ທາງດ່ວນ)",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "ຄອບຄົວ, ກຸ່ມ"
+        },
+        {
+          "transport": "🚕 ແທັກຊີ / Grab",
+          "time": "1.5&ndash;2 ຊ.ວ",
+          "cost": "THB 1,200&ndash;1,500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "ຄູ່ຮັກ, ກຸ່ມນ້ອຍ"
+        },
+        {
+          "transport": "🚐 ລົດຕູ້ຮ່ວມ",
+          "time": "2 ຊ.ວ + ແທັກຊີ",
+          "cost": "~THB 560&ndash;740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "ນັກທ່ອງທ່ຽວຄົນດຽວ"
+        },
+        {
+          "transport": "🚌 ລົດໂດຍສານ",
+          "time": "2&ndash;2.5 ຊ.ວ + ແທັກຊີ",
+          "cost": "~THB 430&ndash;630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "ນັກທ່ອງທ່ຽວ ງົບໜ້ອຍ"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "ເຄັດລັບການເດີນທາງ",
+      "heading": "ເຄັດລັບ ສຳລັບການໄປ Aquaverse",
+      "description": "ເຮັດໃຫ້ການເດີນທາງ ຂອງທ່ານ ລຽບງ່າຍ ດ້ວຍ ເຄັດລັບ ການ ເດີນທາງ ທີ່ ໃຊ້ ໄດ້ ຈິງ ເຫຼົ່ານີ້.",
+      "cards": [
+        {
+          "h3": "ໃຊ້ແອັບ Grab",
+          "text": "ດາວໂຫຼດ <strong>ແອັບ Grab</strong> ກ່ອນທ່ຽວ. ໃຫ້ ລາຄາ ໂປ່ງໃສ ຄົງທີ່ ສຳລັບ ລົດ ທົ່ວໄທ &mdash; ບໍ່ຕ້ອງ ຕໍ່ ລາຄາ ຫຼື ຖືກ meter ຕົວະ. ໃຊ້ ຄ້າຍ Uber."
+        },
+        {
+          "h3": "ຫຼີກລ່ຽງ ຊ່ວງ ການ ຈາລະຈອນ ຫຼາຍ",
+          "text": "ຫຼີກລ່ຽງ ການ ເດີນທາງ <strong>ຄ່ຳ ວັນ ສຸກ</strong> (ກຸງເທບ &rarr; ພັດທະຍາ) ແລະ <strong>ຄ່ຳ ວັນ ອາທິດ</strong> (ພັດທະຍາ &rarr; ກຸງເທບ). ການ ຈາລະຈອນ ໃນ ທາງດ່ວນ ເສັ້ນທາງ 7 ອາດ ເພີ່ມ ເວລາ ເດີນທາງ ຂອງ ທ່ານ ເປັນ 2 ເທົ່າ ໃນ ວັນ ດັ່ງກ່າວ."
+        },
+        {
+          "h3": "ລວມ ກັບ ສະຖານທີ່ ທ່ຽວ ໃກ້ ຄຽງ",
+          "text": "Aquaverse ຢູ່ ຫ່າງ ພຽງ <strong>10 ນາທີ</strong> ຈາກ Nong Nooch Tropical Garden, ໜຶ່ງ ໃນ ສະຖານທີ່ ທ່ຽວ ອັນດັບ ຕົ້ນ ຂອງ ພັດທະຍາ. ພິຈາລະນາ ລວມ ທັງ ສອງ ໃນ ຕາຕະລາງ ທ່ຽວ ຫຼາຍ ວັນ."
+        },
+        {
+          "h3": "ໄປ ໃຫ້ ທັນ ຕອນ ເຊົ້າ",
+          "text": "ສວນ ເປີດ <strong>10:00 AM</strong>. ການ ໄປ ເຖິງ ຕອນ ສວນ ເປີດ ໃຫ້ ທ່ານ ແຖວ ສັ້ນ ແລະ ອາກາດ ເຢັນ ກວ່າ ໃນ 2 ຊົ່ວໂມງ ທຳ ອິດ. ພະຍາຍາມ ອອກ ຈາກ ກຸງ ເທບ ໃຫ້ ທັນ 7:30&ndash;8:00 AM."
+        },
+        {
+          "h3": "ກວດ ສອບ ວັນ ເປີດ",
+          "text": "Aquaverse <strong>ປິດ ທຸກ ວັນ ພຸດ</strong> ສຳລັບ ການ ບຳລຸງ ຮັກສາ. ຢ່າ ເດີນທາງ ໂດຍ ບໍ່ ກວດ ສອບ ກ່ອນ! ວັນ ທຳ ມະ ດາ (ຈັນ, ອັງຄານ, ພະຫັດ) ມີ ຄົນ ໜ້ອຍ ທີ່ ສຸດ."
+        },
+        {
+          "h3": "ຈອງ ປີ້ ອອນ ລາຍ",
+          "text": "ປະຢັດ <strong>ກວ່າ 25%</strong> ຈາກ ລາຄາ ປະຕູ ດ້ວຍ ການ ຈອງ ອອນ ລາຍ ລ່ວງ ໜ້າ. ປີ້ ອອນ ລາຍ ເລີ່ມ ຕົ້ນ ປະ ມານ THB 1,200 ທຽບ ລາຄາ ປະຕູ ປະ ມານ THB 1,600 (ກວດ ສອບ ລາຄາ ລ່າ ສຸດ). ລວມ ຄ່າ ເຊົ່າ ຕູ້ ຝາກ ຟຣີ."
+        }
+      ],
+      "ctaText": "ສຳລັບ ເຄັດລັບ ຜູ້ ທ່ຽວ ລາຍ ລະ ອຽດ ກວ່ານີ້, ເບິ່ງ ຄູ່ ມື ສົມ ບູນ ຂອງ ພວກ ເຮົາ:",
+      "cta": "ອ່ານ ເຄັດລັບ ຜູ້ ທ່ຽວ ທັງ ໝົດ &rarr;"
+    },
+    "cta": {
+      "heading": "ພ້ອມ ທ່ຽວ Aquaverse ແລ້ວ ບໍ?",
+      "text": "ຕອນ ນີ້ ທ່ານ ຮູ້ ວິທີ ໄປ ແລ້ວ, ຈອງ ປີ້ ອອນ ລາຍ ແລະ ປະ ຢັດ ກວ່າ 25% ຈາກ ລາຄາ ປະ ຕູ!",
+      "btn1": "ຈອງ ປີ້ ລາຄາ ພິ ເສດ &rarr;",
+      "btn2": "ອ່ານ ຄູ່ ມື ກຸງ ເທບ ລາຍ ລະ ອຽດ",
+      "subtext": "ປີ້ ອອນ ລາຍ ເລີ່ມ <strong>ປະ ມານ THB 1,200</strong> (ລາຄາ ປະ ຕູ ປະ ມານ THB 1,600) &bull; ເດັກ ຕ່ຳ ກວ່າ 3 ຂວບ ເຂົ້າ ຟຣີ"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "ຈະໄປ Aquaverse ຈາກກຸງເທບໄດ້ແນວໃດ?",
+          "answer": "ທ່ານສາມາດໄປ Aquaverse ຈາກກຸງເທບ ດ້ວຍລົດ (1.5-2 ຊົ່ວໂມງ ຜ່ານທາງດ່ວນເສັ້ນທາງ 7), ລົດໂດຍສານຈາກ Ekkamai Bus Terminal (2-2.5 ຊົ່ວໂມງ, THB 108-150), ລົດຕູ້ຮ່ວມຈາກ Victory Monument ຫຼື Ekkamai (2 ຊົ່ວໂມງ, THB 240/ຄົນ), ຫຼື ແທັກຊີ/Grab (1.5-2 ຊົ່ວໂມງ, THB 1,200-1,500 ບວກຄ່າທາງດ່ວນ)."
+        },
+        {
+          "question": "ຄ່າແທັກຊີຈາກກຸງເທບໄປ Aquaverse ເທົ່າໃດ?",
+          "answer": "ຄ່າແທັກຊີຫຼື Grab ຈາກກຸງເທບໄປ Aquaverse ປະມານ THB 1,200-1,500 ບວກຄ່າທາງດ່ວນປະມານ THB 155. ຈາກ Suvarnabhumi Airport ຄາດວ່າຈ່າຍ THB 1,500-2,000. ການເດີນທາງໃຊ້ເວລາ 1.5-2 ຊົ່ວໂມງ ຂຶ້ນກັບການຈາລະຈອນ."
+        },
+        {
+          "question": "Aquaverse ມີທີ່ຈອດລົດບໍ?",
+          "answer": "ມີ, Aquaverse ມີທີ່ຈອດລົດຟຣີ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ. ພື້ນທີ່ຈອດລົດກ້ວາງ, ມີແສງໄຟ ແລະ ປອດໄພ. ບໍ່ຈຳເປັນຕ້ອງຈອງທີ່ຈອດລົດລ່ວງໜ້າ."
+        },
+        {
+          "question": "Aquaverse ມີລົດຮັບສົ່ງບໍ?",
+          "answer": "ບໍ່, Aquaverse ບໍ່ໄດ້ດຳເນີນລົດຮັບສົ່ງທາງການ. ທາງເລືອກທີ່ດີທີ່ສຸດຈາກພັດທະຍາ ຄືໃຊ້ Grab (THB 300-500, 20-30 ນາທີ) ຫຼື ແທັກຊີສ່ວນຕົວ. ຜູ້ດຳເນີນທ່ອງທ່ຽວ ແລະ ໂຮງແຮມບາງແຫ່ງ ຈັດຮ່ຽມຮັບສົ່ງ ໂດຍຄິດຄ່າເພີ່ມ."
+        },
+        {
+          "question": "Aquaverse ຢູ່ຫ່າງຈາກໃຈກາງເມືອງພັດທະຍາເທົ່າໃດ?",
+          "answer": "Aquaverse ຢູ່ຫ່າງຈາກໃຈກາງເມືອງພັດທະຍາ ປະມານ 20-30 ນາທີ ດ້ວຍລົດ. Grab ຫຼື ແທັກຊີ ຄ່ານ THB 300-500. ທ່ານຍັງສາມາດໃຊ້ Songthaew ສີຂາວ (ລົດຮ່ວມ) ໃນເສັ້ນທາງ Na Klua-Sattahip ໄດ້. ບໍ່ມີລົດຮັບສົ່ງທາງການຂອງສວນ."
+        },
+        {
+          "question": "ຈະໄປ Aquaverse ຈາກ Suvarnabhumi Airport ໄດ້ແນວໃດ?",
+          "answer": "ຈາກ Suvarnabhumi Airport ການຂັບລົດໄປ Aquaverse ໃຊ້ເວລາປະມານ 90 ນາທີ. ຄ່າແທັກຊີ THB 1,500-2,000. ທາງເລືອກອື່ນ ທ່ານສາມາດໂດຍສານລົດໂດຍສານສະໜາມບິນໄປພັດທະຍາ ແລ້ວ ຕໍ່ແທັກຊີທ້ອງຖິ່ນໄປສວນ."
+        },
+        {
+          "question": "ຈະໄປ Aquaverse ຈາກ U-Tapao Airport ໄດ້ແນວໃດ?",
+          "answer": "U-Tapao Airport (ສະໜາມບິນພັດທະຍາ) ຢູ່ໃກ້ Aquaverse ທີ່ສຸດ, ຫ່າງພຽງ 25 ນາທີ ດ້ວຍລົດ. ຄ່າແທັກຊີຈາກ U-Tapao ໄປ Aquaverse THB 400-600."
+        }
+      ],
+      "howTo": {
+        "name": "ວິທີໄປ Columbia Pictures Aquaverse ຈາກກຸງເທບ",
+        "description": "ຂັ້ນຕອນການໄປ Aquaverse water park ໃນພັດທະຍາ ຈາກກຸງເທບ ດ້ວຍລົດ, ລົດໂດຍສານ, ລົດຕູ້ ຫຼື ແທັກຊີ.",
+        "steps": [
+          {
+            "name": "ເລືອກວິທີການເດີນທາງ",
+            "text": "ເລືອກຈາກ ລົດ (1.5-2 ຊົ່ວໂມງ), ລົດໂດຍສານຈາກ Ekkamai (2-2.5 ຊົ່ວໂມງ, THB 108-150), ລົດຕູ້ຮ່ວມ (2 ຊົ່ວໂມງ, THB 240) ຫຼື ແທັກຊີ/Grab (1.5-2 ຊົ່ວໂມງ, THB 1,200-1,500)."
+          },
+          {
+            "name": "ເດີນທາງໄປຍັງເຂດພັດທະຍາ",
+            "text": "ຖ້າຂັບລົດ, ໃຊ້ທາງດ່ວນເສັ້ນທາງ 7 ໄປທາງພັດທະຍາ ແລ້ວອອກທາງ Sattahip. ຖ້ານັ່ງລົດໂດຍສານຫຼືລົດຕູ້ ໃຫ້ອອກເດີນທາງຈາກ Ekkamai Bus Terminal (BTS Ekkamai, ທາງອອກ 2) ຫຼື ສະຖານີ BTS Victory Monument."
+          },
+          {
+            "name": "ໄປຍັງສວນ",
+            "text": "ຖ້າຂັບລົດ, ຕິດຕາມປ້າຍໄປ Columbia Pictures Aquaverse. ຖ້າໂດຍສານລົດໂດຍສານຫຼືລົດຕູ້ໄປຮອດພັດທະຍາ, ໃຊ້ Grab ຫຼື ແທັກຊີໄປຍັງສວນ (THB 350-500, 20-30 ນາທີ). ທີ່ຈອດລົດຟຣີ ສຳລັບຜູ້ຂັບລົດ."
+          },
+          {
+            "name": "ຮອດ Aquaverse",
+            "text": "ສວນຕັ້ງຢູ່ທີ່ 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250. ຈອດລົດໃນເຂດທີ່ຈອດລົດຟຣີ ແລ້ວ ໄປທາງທາງເຂົ້າ."
+          }
+        ]
+      }
+    }
   }
 }

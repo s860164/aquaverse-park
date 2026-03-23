@@ -1671,5 +1671,317 @@
     "schema": {
       "breadcrumbCurrent": ""
     }
+  },
+  "gettingThere": {
+    "title": "Aquaverse 파타야 오시는 길 | 교통편 완벽 가이드 2026",
+    "metaDescription": "방콕, 파타야, 공항에서 Columbia Pictures Aquaverse까지 모든 교통 수단 안내. 자동차, 버스, 택시, Grab으로 가는 법. 방향, 비용, 소요 시간 및 주차 정보.",
+    "metaKeywords": "아쿠아버스 가는 법, 아쿠아버스 방향, 아쿠아버스 파타야 교통, 방콕 아쿠아버스, 파타야 워터파크 방향, 아쿠아버스 주차, 아쿠아버스 Grab 택시, 에까마이 파타야, 수완나품 아쿠아버스",
+    "ogTitle": "Aquaverse 파타야 오시는 길 | 교통편 완벽 가이드 2026",
+    "ogDescription": "방콕, 파타야, 공항에서 Columbia Pictures Aquaverse까지 모든 교통 수단. 방향, 비용, 소요 시간 및 주차 정보.",
+    "twitterTitle": "Aquaverse 파타야 오시는 길 | 교통편 가이드 2026",
+    "twitterDescription": "방콕, 파타야, 공항에서 Aquaverse까지 모든 교통 수단. 자동차, 버스, 택시, Grab. 비용 및 소요 시간.",
+    "hero": {
+      "badge": "교통편 완벽 가이드",
+      "h1": "Aquaverse 오시는 길",
+      "h1Sub": "태국 파타야",
+      "sub": "Columbia Pictures Aquaverse에 도달하는 방법에 대한 모든 것.\n        방콕, 파타야, 공항에서 &mdash; 자동차, 버스, 택시, Grab으로.",
+      "cta1": "방콕에서 &darr;",
+      "cta2": "파타야에서 &darr;",
+      "stats": [
+        {
+          "number": "1.5시간",
+          "label": "방콕에서"
+        },
+        {
+          "number": "30분",
+          "label": "파타야에서"
+        },
+        {
+          "number": "무료",
+          "label": "주차"
+        },
+        {
+          "number": "THB 300-500",
+          "label": "파타야에서 Grab"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "오시는 길",
+    "tldr": [
+      {
+        "bold": "주소:",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250 (<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Google 지도</a>)"
+      },
+      {
+        "bold": "방콕에서:",
+        "text": "자동차 또는 택시로 1.5&ndash;2시간 &bull; 버스로 2&ndash;2.5시간"
+      },
+      {
+        "bold": "파타야 시내에서:",
+        "text": "Grab/택시로 20&ndash;30분 (THB 350&ndash;500)"
+      },
+      {
+        "bold": "주차:",
+        "text": "모든 방문객 무료 &mdash; 넓고 조명이 밝으며 안전"
+      },
+      {
+        "bold": "공식 셔틀 없음:",
+        "text": "Grab 이용(파타야에서 THB 300&ndash;500) 또는 호텔/투어 오퍼레이터를 통한 이동 서비스 이용"
+      },
+      {
+        "bold": "꿀팁:",
+        "text": "태국 전역에서 최적의 택시 요금을 위해 <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab 앱</strong></a>을 사용하세요"
+      }
+    ],
+    "location": {
+      "sectionLabel": "파크 위치",
+      "heading": "Aquaverse는 어디에 있나요?",
+      "description": "Columbia Pictures Aquaverse는 파타야와 삿따힙 해군 기지 사이의 Na Jomtien / Sattahip 지역, 해안 도로 Sukhumvit Road를 따라 위치해 있습니다.",
+      "gbp": {
+        "category": "워터파크 &middot; 테마파크 &middot; 파타야",
+        "details": [
+          "<strong>주소:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>운영 시간:</strong> 오전 10:00 &ndash; 오후 6:00 (수요일 휴무)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>확인 중...</span>",
+          "<strong>전화:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>주차:</strong> 모든 방문객 무료",
+          "<strong>파타야에서 Grab:</strong> THB 300&ndash;500 (공식 파크 셔틀 없음)"
+        ],
+        "mapBtn": "Google 지도에서 열기 &rarr;"
+      },
+      "mapCaption": "파타야와 삿따힙 사이의 Sukhumvit Road에 위치합니다. 파타야에서 남쪽으로 향할 때 도로 왼편에 있는 대형 Columbia Pictures Aquaverse 간판을 찾으세요."
+    },
+    "fromBangkok": {
+      "sectionLabel": "방콕에서",
+      "heading": "방콕에서 Aquaverse 가는 방법",
+      "description": "방콕은 Aquaverse에서 약 150km 거리입니다. 예산과 선호도에 따라 여러 교통 수단을 선택할 수 있습니다.",
+      "cards": [
+        {
+          "h3": "자가 운전 (1.5&ndash;2시간)",
+          "content": "<p>특히 가족 단위 여행에 가장 유연한 방법입니다. 파크 내 무료 주차 가능.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>고속도로 7번 국도</strong>를 타고 파타야/촌부리 방향으로 이동</li>\n              <li>파타야를 지나 <strong>삿따힙(Sattahip)</strong> 방면 출구로 나가기</li>\n              <li><strong>Sukhumvit Road</strong>를 따라 남쪽으로 이동</li>\n              <li>왼쪽에 있는 <strong>Columbia Pictures Aquaverse</strong> 표지판을 찾아가기</li>\n              <li>파크 입구에 무료 주차</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>통행료:</strong> 고속도로 7번 국도 편도 약 THB 155<br>\n              <strong>연료비:</strong> 왕복 약 THB 400&ndash;600<br>\n              <strong>주차:</strong> 무료\n            </div>"
+        },
+        {
+          "h3": "버스 (2&ndash;2.5시간)",
+          "content": "<p>방콕에서 가장 저렴한 방법입니다. 에까마이에서 버스가 자주 출발합니다.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>에까마이 버스터미널</strong> (동부 버스터미널)로 이동</li>\n              <li><strong>BTS 에까마이역 2번 출구</strong>에서 바로 터미널 이용 가능</li>\n              <li>파타야 행 버스 <strong>30분마다 출발</strong></li>\n              <li>티켓 가격: <strong>THB 108&ndash;150</strong></li>\n              <li>파타야 버스터미널 도착 후 Grab/택시로 파크 이동</li>\n              <li>파타야에서 Aquaverse까지 Grab/택시: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>총 비용:</strong> 1인당 약 THB 430&ndash;630<br>\n              <strong>첫차:</strong> 오전 5:00 &bull; <strong>막차:</strong> 오후 11:00\n            </div>"
+        },
+        {
+          "h3": "합승 밴 / 미니버스 (2시간)",
+          "content": "<p>버스보다 빠르지만 약간 비쌉니다. 편안한 10인승 미니밴입니다.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>Victory Monument BTS</strong> 또는 <strong>에까마이</strong>에서 출발</li>\n              <li>티켓 가격: <strong>1인 THB 240</strong></li>\n              <li>밴은 <strong>매시간 출발</strong> (주말에는 더 자주)</li>\n              <li>파타야에 내린 후 택시로 파크 이동</li>\n              <li>파타야에서 Aquaverse까지 Grab/택시: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>총 비용:</strong> 1인당 약 THB 560&ndash;740<br>\n              <strong>꿀팁:</strong> 호객꾼이 아닌 밴 카운터에서 직접 티켓 구매\n            </div>"
+        },
+        {
+          "h3": "택시 / Grab (1.5&ndash;2시간)",
+          "content": "<p>가장 편리한 방법입니다. 환승 없이 문 앞까지 직접 이동합니다.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>요금: <strong>THB 1,200&ndash;1,500</strong> + 통행료 (약 THB 155)</li>\n              <li>투명한 요금을 위해 <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab 앱</strong></a>으로 예약</li>\n              <li>최대 3명이 함께 탑승 가능</li>\n              <li>환승 없이 직접 문 앞까지 이동</li>\n              <li>단체 여행에 적합 &mdash; 4명이 나누면 1인당 약 THB 340</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>총 비용:</strong> 차량당 약 THB 1,355&ndash;1,655<br>\n              <strong>꿀팁:</strong> 장거리 여행은 미터 택시보다 고정 요금 Grab 추천\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "공항에서",
+      "heading": "공항에서 Aquaverse 가는 방법",
+      "description": "파타야 지역을 이용하는 공항은 두 곳입니다: 수완나품 공항 (방콕 주요 공항)과 우따파오 공항 (파타야 현지 공항).",
+      "cards": [
+        {
+          "h3": "수완나품 공항 (BKK)에서",
+          "content": "<p style=\"margin-bottom: 1rem;\">방콕의 주요 국제 공항입니다. 자동차로 Aquaverse까지 약 <strong>90분</strong> 소요됩니다.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>택시:</strong> THB 1,500&ndash;2,000 (파크까지 직행)</li>\n              <li><strong>Grab:</strong> 도착층에서 앱으로 예약 &mdash; 택시와 유사한 요금</li>\n              <li><strong>공항버스 + 택시:</strong> 파타야행 공항버스 탑승 (약 THB 200), 파크까지 택시 (THB 350&ndash;500)</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>거리:</strong> 약 120km<br>\n              <strong>소요 시간:</strong> 1.5시간 (막히지 않을 경우)\n            </div>"
+        },
+        {
+          "h3": "우따파오 공항 (UTP)에서",
+          "content": "<p style=\"margin-bottom: 1rem;\">파타야에서 가장 가까운 공항입니다. 자동차로 Aquaverse까지 약 <strong>25분</strong>이면 도착합니다.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>택시:</strong> THB 400&ndash;600 (파크까지 직행)</li>\n              <li><strong>Grab:</strong> 이용 가능 여부가 제한적일 수 있으므로 가능하면 사전 예약</li>\n              <li>우따파오 공항은 치앙마이, 쿠알라룸푸르, 일부 중국 도시 노선 운항</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>거리:</strong> 약 25km<br>\n              <strong>소요 시간:</strong> 25분\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "파타야에서",
+      "heading": "파타야 시내에서 Aquaverse 가는 방법",
+      "description": "Aquaverse는 파타야 시내 남쪽에 위치하며 도로로 약 20&ndash;30분 거리입니다.",
+      "cards": [
+        {
+          "h3": "Grab / 택시",
+          "price": "<strong>THB 350&ndash;500</strong>",
+          "description": "20&ndash;30분 소요. 고정 요금을 위해 Grab 앱을 사용하세요. 호텔에서 가장 편리한 방법입니다."
+        },
+        {
+          "h3": "쏭태우 (합승 트럭)",
+          "price": "<strong>THB 20&ndash;50</strong>",
+          "description": "Na Klua&ndash;Sattahip 노선의 흰색 쏭태우. 저렴하지만 느리고 내리는 지점에서 걸어야 할 수도 있습니다."
+        },
+        {
+          "h3": "Grab / 택시",
+          "price": "<strong>편도 THB 300&ndash;500</strong>",
+          "description": "파타야 시내에서 Grab 앱으로 예약하세요 (20&ndash;30분). 공식 파크 셔틀버스는 없습니다. 일부 호텔과 투어 오퍼레이터에서 추가 요금으로 이동 서비스를 제공합니다."
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "교통 팁",
+      "heading": "파타야에서 Aquaverse 가는 방법",
+      "description": "공식 파크 셔틀버스가 없습니다. 파타야에서 파크까지 가는 최선의 방법을 안내합니다.",
+      "recommendedHeading": "추천 교통 수단",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab:</strong> 파타야 시내에서 THB 300&ndash;500 (20&ndash;30분). Grab 앱으로 예약하는 가장 쉬운 방법입니다.</li>\n                <li><strong>개인 택시:</strong> 출발 전 요금을 협상하세요. 편도 일반적으로 THB 300&ndash;500.</li>\n                <li><strong>호텔 이동 서비스:</strong> 일부 호텔과 투어 오퍼레이터에서 추가 요금으로 이동 서비스를 제공합니다. 호텔 프런트에 문의하세요.</li>\n                <li><strong>쏭태우 + Grab:</strong> 흰색 쏭태우로 Na Jomtien까지 이동 (THB 20&ndash;50), 이후 Grab으로 마지막 구간 이동.</li>\n                <li><strong>자가 운전:</strong> 파크 내 무료 주차. Google 지도에서 &ldquo;Columbia Pictures Aquaverse&rdquo;로 검색 후 GPS 이용.</li>\n              </ul>",
+      "bookingBtn": "온라인 티켓 예약하기 &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "파타야 시내에서 Grab",
+        "checkmarks": [
+          "&#10003; Grab 앱으로 예약",
+          "&#10003; 20&ndash;30분 소요",
+          "&#10003; 에어컨 완비",
+          "&#10003; 고정 요금, 흥정 불필요"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "주차",
+      "heading": "Aquaverse 주차 안내",
+      "description": "자가 운전 방문객에게 좋은 소식 &mdash; Aquaverse 주차는 모든 방문객에게 완전히 무료입니다.",
+      "cards": [
+        {
+          "h3": "무료 주차",
+          "text": "모든 방문객에게 주차 요금이 없습니다. 시간당 요금이나 주차권 걱정 없이 자유롭게 주차하세요."
+        },
+        {
+          "h3": "넓은 주차 공간",
+          "text": "승용차, 밴, 관광 버스를 포함한 수백 대의 차량을 수용할 수 있는 넓은 주차장. 일찍 도착하지 않아도 자리를 찾을 수 있습니다."
+        },
+        {
+          "h3": "조명 완비 및 안전",
+          "text": "주차 구역에는 조명이 잘 되어 있고 보안 요원이 상주합니다. 하루 종일 파크를 즐기는 동안 안심하고 차를 맡길 수 있습니다."
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "옵션 비교",
+      "heading": "교통 수단 한눈에 비교",
+      "description": "방콕에서 Aquaverse까지 모든 교통 수단의 빠른 비교.",
+      "headers": [
+        "교통 수단",
+        "소요 시간",
+        "비용",
+        "편의성",
+        "추천 대상"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 자가 운전",
+          "time": "1.5&ndash;2시간",
+          "cost": "THB 155 (통행료)",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "가족, 단체"
+        },
+        {
+          "transport": "🚕 택시 / Grab",
+          "time": "1.5&ndash;2시간",
+          "cost": "THB 1,200&ndash;1,500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "커플, 소그룹"
+        },
+        {
+          "transport": "🚐 합승 밴",
+          "time": "2시간 + 택시",
+          "cost": "약 THB 560&ndash;740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "혼자 여행하는 분"
+        },
+        {
+          "transport": "🚌 버스",
+          "time": "2&ndash;2.5시간 + 택시",
+          "cost": "약 THB 430&ndash;630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "알뜰 여행자"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "여행 팁",
+      "heading": "Aquaverse 방문을 위한 꿀팁",
+      "description": "이 실용적인 여행 팁으로 더 편안하게 이동하세요.",
+      "cards": [
+        {
+          "h3": "Grab 앱 사용하기",
+          "text": "여행 전에 <strong>Grab 앱</strong>을 다운로드하세요. 태국 전역에서 투명하고 고정된 요금을 제공해 흥정이나 미터 사기가 없습니다. Uber처럼 사용하면 됩니다."
+        },
+        {
+          "h3": "교통 피크 타임 피하기",
+          "text": "<strong>금요일 저녁</strong> (방콕 &rarr; 파타야)과 <strong>일요일 저녁</strong> (파타야 &rarr; 방콕) 이동은 피하세요. 이 시간대에는 고속도로 7번 국도 교통 체증으로 이동 시간이 두 배가 될 수 있습니다."
+        },
+        {
+          "h3": "주변 명소와 함께 방문",
+          "text": "Aquaverse에서 <strong>10분</strong> 거리에 파타야의 대표 명소인 Nong Nooch Tropical Garden이 있습니다. 여러 날 일정에 두 곳을 함께 넣어보세요."
+        },
+        {
+          "h3": "일찍 도착하기",
+          "text": "파크는 <strong>오전 10:00</strong>에 개장합니다. 개장 시간에 맞춰 도착하면 처음 2시간 동안 대기 줄이 짧고 기온도 시원합니다. 방콕에서 오전 7:30~8:00에 출발하는 것을 목표로 하세요."
+        },
+        {
+          "h3": "방문 날짜 확인하기",
+          "text": "Aquaverse는 <strong>매주 수요일 정기 점검으로 휴무</strong>입니다. 확인하지 않고 방문하는 일이 없도록 주의하세요! 평일 (월요일, 화요일, 목요일)이 가장 한산합니다."
+        },
+        {
+          "h3": "온라인 티켓 예약하기",
+          "text": "온라인 사전 예약으로 게이트 가격 대비 <strong>25% 이상</strong> 절약하세요. 온라인 티켓은 약 THB 1,200부터 (게이트 약 THB 1,600). 무료 락커 대여 포함."
+        }
+      ],
+      "ctaText": "더 자세한 방문 팁을 확인하려면 완전 가이드를 읽어보세요:",
+      "cta": "전체 방문 꿀팁 읽기 &rarr;"
+    },
+    "cta": {
+      "heading": "Aquaverse 방문 준비 되셨나요?",
+      "text": "오시는 방법을 알았으니, 온라인으로 티켓을 예약하고 게이트 가격 대비 25% 이상 절약하세요!",
+      "btn1": "할인 티켓 예약하기 &rarr;",
+      "btn2": "방콕 출발 상세 가이드 읽기",
+      "subtext": "온라인 티켓 <strong>약 THB 1,200부터</strong> (게이트 약 THB 1,600) &bull; 3세 미만 어린이 무료 입장"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "방콕에서 Aquaverse까지 어떻게 가나요?",
+          "answer": "방콕에서 Aquaverse까지 자동차(고속도로 7번 국도 이용 1.5~2시간), 에까마이 버스터미널에서 버스(2~2.5시간, THB 108~150), Victory Monument 또는 에까마이에서 합승 밴(2시간, 1인 THB 240), 또는 택시/Grab(1.5~2시간, THB 1,200~1,500 + 통행료)으로 이동할 수 있습니다."
+        },
+        {
+          "question": "방콕에서 Aquaverse까지 택시 요금은 얼마인가요?",
+          "answer": "방콕에서 Aquaverse까지 택시 또는 Grab 요금은 약 THB 1,200~1,500 + 고속도로 통행료 약 THB 155입니다. 수완나품 공항에서는 THB 1,500~2,000을 예상하세요. 소요 시간은 교통 상황에 따라 1.5~2시간입니다."
+        },
+        {
+          "question": "Aquaverse에 주차장이 있나요?",
+          "answer": "네, Aquaverse는 모든 방문객에게 무료 주차를 제공합니다. 주차 공간은 넓고 잘 조명되어 있으며 안전합니다. 사전에 주차 공간을 예약할 필요가 없습니다."
+        },
+        {
+          "question": "Aquaverse에 셔틀버스 서비스가 있나요?",
+          "answer": "아니요, Aquaverse는 공식 셔틀버스를 운행하지 않습니다. 파타야에서 파크까지는 Grab(THB 300~500, 20~30분) 또는 개인 택시가 가장 좋은 방법입니다. 일부 투어 오퍼레이터와 호텔에서는 추가 요금으로 이동 서비스를 제공합니다."
+        },
+        {
+          "question": "파타야 시내에서 Aquaverse까지 얼마나 걸리나요?",
+          "answer": "Aquaverse는 파타야 시내에서 자동차로 약 20~30분 거리입니다. Grab 또는 택시 요금은 THB 300~500입니다. Na Klua~Sattahip 노선의 흰색 쏭태우(합승 트럭)도 이용할 수 있습니다. 공식 파크 셔틀버스는 없습니다."
+        },
+        {
+          "question": "수완나품 공항에서 Aquaverse까지 어떻게 가나요?",
+          "answer": "수완나품 공항에서 Aquaverse까지 자동차로 약 90분이 소요됩니다. 택시 요금은 THB 1,500~2,000입니다. 또는 공항 버스를 타고 파타야에 도착한 후 현지 택시로 파크로 이동할 수 있습니다."
+        },
+        {
+          "question": "우따파오 공항에서 Aquaverse까지 어떻게 가나요?",
+          "answer": "우따파오 공항(파타야 공항)은 Aquaverse와 가장 가까운 공항으로 자동차로 약 25분 거리입니다. 우따파오에서 Aquaverse까지 택시 요금은 THB 400~600입니다."
+        }
+      ],
+      "howTo": {
+        "name": "방콕에서 Columbia Pictures Aquaverse 가는 방법",
+        "description": "자동차, 버스, 밴, 또는 택시로 방콕에서 파타야 Aquaverse 워터파크까지 가는 단계별 방법.",
+        "steps": [
+          {
+            "name": "교통 수단 선택",
+            "text": "자동차(1.5~2시간), 에까마이 버스(2~2.5시간, THB 108~150), 합승 밴(2시간, THB 240), 또는 택시/Grab(1.5~2시간, THB 1,200~1,500) 중 선택하세요."
+          },
+          {
+            "name": "파타야 지역으로 이동",
+            "text": "자가 운전 시 고속도로 7번 국도를 타고 파타야/촌부리 방향으로 이동 후 삿따힙 방면으로 출구를 이용하세요. 버스 또는 밴 이용 시 에까마이 버스터미널(BTS 에까마이역 2번 출구) 또는 Victory Monument BTS 역에서 출발하세요."
+          },
+          {
+            "name": "파크 도착",
+            "text": "자가 운전 시 Columbia Pictures Aquaverse 표지판을 따라가세요. 버스 또는 밴으로 파타야에 도착한 경우 Grab 또는 택시로 파크까지 이동하세요(THB 350~500, 20~30분). 운전자는 무료 주차를 이용할 수 있습니다."
+          },
+          {
+            "name": "Aquaverse 도착",
+            "text": "파크 주소: 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250. 무료 주차장에 주차 후 입구로 향하세요."
+          }
+        ]
+      }
+    }
   }
 }

@@ -1668,5 +1668,317 @@
     "schema": {
       "breadcrumbCurrent": ""
     }
+  },
+  "gettingThere": {
+    "title": "如何前往 Aquaverse 芭提雅 | 完整交通指南 2026",
+    "metaDescription": "從曼谷、芭提雅及機場前往 Columbia Pictures Aquaverse 的所有交通方式。搭車、巴士、計程車、Grab。路線、費用、車程時間及停車資訊。",
+    "metaKeywords": "如何前往Aquaverse, Aquaverse路線, Aquaverse芭提雅交通, 曼谷到Aquaverse, 芭提雅水上樂園路線, Aquaverse停車, Aquaverse Grab計程車, Ekkamai到芭提雅, Suvarnabhumi到Aquaverse",
+    "ogTitle": "如何前往 Aquaverse 芭提雅 | 完整交通指南 2026",
+    "ogDescription": "從曼谷、芭提雅及機場前往 Columbia Pictures Aquaverse 的所有交通方式。路線、費用、車程時間及停車資訊。",
+    "twitterTitle": "如何前往 Aquaverse 芭提雅 | 交通指南 2026",
+    "twitterDescription": "從曼谷、芭提雅及機場前往 Aquaverse 的所有交通方式。搭車、巴士、計程車、Grab。費用及車程時間。",
+    "hero": {
+      "badge": "完整交通指南",
+      "h1": "如何前往 Aquaverse",
+      "h1Sub": "泰國芭提雅",
+      "sub": "關於前往 Columbia Pictures Aquaverse 的一切交通資訊。\n        從曼谷、芭提雅或機場 &mdash; 搭車、巴士、計程車或 Grab 皆可。",
+      "cta1": "從曼谷出發 &darr;",
+      "cta2": "從芭提雅出發 &darr;",
+      "stats": [
+        {
+          "number": "1.5小時",
+          "label": "從曼谷"
+        },
+        {
+          "number": "30分鐘",
+          "label": "從芭提雅"
+        },
+        {
+          "number": "免費",
+          "label": "停車"
+        },
+        {
+          "number": "THB 300-500",
+          "label": "從芭提雅搭 Grab"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "交通指南",
+    "tldr": [
+      {
+        "bold": "地址：",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250（<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Google 地圖</a>）"
+      },
+      {
+        "bold": "從曼谷：",
+        "text": "搭車或計程車約1.5&ndash;2小時 &bull; 搭巴士約2&ndash;2.5小時"
+      },
+      {
+        "bold": "從芭提雅市中心：",
+        "text": "搭 Grab/計程車約20&ndash;30分鐘（THB 350&ndash;500）"
+      },
+      {
+        "bold": "停車：",
+        "text": "所有旅客免費 &mdash; 寬敞、照明充足且安全"
+      },
+      {
+        "bold": "無官方接駁車：",
+        "text": "請使用 Grab（從芭提雅約 THB 300&ndash;500）或透過飯店或旅行社另行安排私人接送"
+      },
+      {
+        "bold": "最佳建議：",
+        "text": "使用 <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab App</strong></a> 享受泰國全境透明計費叫車服務"
+      }
+    ],
+    "location": {
+      "sectionLabel": "樂園位置",
+      "heading": "Aquaverse 在哪裡？",
+      "description": "Columbia Pictures Aquaverse 位於沿海素坤逸路（Sukhumvit Road），那仲天/沙達希普地區，介於芭提雅與沙達希普海軍基地之間。",
+      "gbp": {
+        "category": "水上樂園 &middot; 主題樂園 &middot; 芭提雅",
+        "details": [
+          "<strong>地址：</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>營業時間：</strong>上午10:00 &ndash; 下午6:00（週三休園）<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>查詢中...</span>",
+          "<strong>電話：</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>停車：</strong>所有旅客免費",
+          "<strong>從芭提雅搭 Grab：</strong>THB 300&ndash;500（無官方接駁車）"
+        ],
+        "mapBtn": "在 Google 地圖開啟 &rarr;"
+      },
+      "mapCaption": "位於芭提雅與沙達希普之間的素坤逸路沿線。從芭提雅向南行駛時，請注意道路左側的 Columbia Pictures Aquaverse 大型招牌。"
+    },
+    "fromBangkok": {
+      "sectionLabel": "從曼谷出發",
+      "heading": "如何從曼谷前往 Aquaverse",
+      "description": "曼谷距 Aquaverse 約150 km。依預算和偏好不同，有多種交通方式可供選擇。",
+      "cards": [
+        {
+          "h3": "自駕（1.5&ndash;2小時）",
+          "content": "<p>最靈活的選擇，特別適合家庭旅遊。樂園提供免費停車。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>走<strong>七號高速公路（Motorway Route 7）</strong>往芭提雅/春武里方向</li>\n              <li>過芭提雅後往<strong>沙達希普</strong>方向下交流道</li>\n              <li>沿<strong>素坤逸路（Sukhumvit Road）</strong>南行</li>\n              <li>注意左側的<strong>Columbia Pictures Aquaverse</strong>指示牌</li>\n              <li>樂園入口處設有免費停車場</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>過路費：</strong>七號高速公路單程約 THB 155<br>\n              <strong>油費：</strong>來回約 THB 400&ndash;600<br>\n              <strong>停車費：</strong>免費\n            </div>"
+        },
+        {
+          "h3": "搭巴士（2&ndash;2.5小時）",
+          "content": "<p>從曼谷出發最經濟實惠的選擇。Ekkamai 站有頻繁班次。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>前往 <strong>Ekkamai 巴士總站</strong>（東部巴士總站）</li>\n              <li>搭 <strong>BTS 至 Ekkamai 站，2號出口</strong> &mdash; 巴士總站就在旁邊</li>\n              <li>往芭提雅的巴士<strong>每30分鐘</strong>一班</li>\n              <li>票價：<strong>THB 108&ndash;150</strong></li>\n              <li>抵達芭提雅巴士總站後，再搭 Grab/計程車前往樂園</li>\n              <li>從芭提雅搭 Grab/計程車至 Aquaverse：<strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>總費用：</strong>每人約 THB 430&ndash;630<br>\n              <strong>首班車：</strong>凌晨5:00 &bull; <strong>末班車：</strong>晚上11:00\n            </div>"
+        },
+        {
+          "h3": "搭共乘小巴（2小時）",
+          "content": "<p>比巴士快但略貴。舒適的10人座小型巴士。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>從 <strong>勝利紀念碑 BTS 站</strong>或 <strong>Ekkamai</strong> 出發</li>\n              <li>票價：<strong>THB 240/人</strong></li>\n              <li>小巴<strong>每小時</strong>一班（週末班次更頻繁）</li>\n              <li>在芭提雅下車後，再搭計程車前往樂園</li>\n              <li>從芭提雅搭 Grab/計程車至 Aquaverse：<strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>總費用：</strong>每人約 THB 560&ndash;740<br>\n              <strong>小提示：</strong>請在小巴售票窗口購票，勿向路邊攤販購買\n            </div>"
+        },
+        {
+          "h3": "搭計程車/Grab（1.5&ndash;2小時）",
+          "content": "<p>最便捷的選擇。門到門直達，無需轉乘。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>費用：<strong>THB 1,200&ndash;1,500</strong> + 過路費（約 THB 155）</li>\n              <li>透過 <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab App</strong></a> 預約享受透明計費</li>\n              <li>最多可與3位乘客共乘</li>\n              <li>門到門直達，無需轉乘</li>\n              <li>適合團體 &mdash; 4人均攤每人約 THB 340</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>總費用：</strong>每車約 THB 1,355&ndash;1,655<br>\n              <strong>小提示：</strong>長途建議使用 Grab 固定計費 &mdash; 避免搭跳表計程車\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "從機場出發",
+      "heading": "從機場前往 Aquaverse",
+      "description": "服務芭提雅地區的機場有兩座：素萬那普機場（曼谷主要機場）和烏塔帕機場（芭提雅當地機場）。",
+      "cards": [
+        {
+          "h3": "從素萬那普機場（BKK）出發",
+          "content": "<p style=\"margin-bottom: 1rem;\">曼谷主要國際機場。自駕前往 Aquaverse 約需<strong>90分鐘</strong>。</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>計程車：</strong>THB 1,500&ndash;2,000（直達樂園）</li>\n              <li><strong>Grab：</strong>在入境層透過 App 預約 &mdash; 費用與計程車相近</li>\n              <li><strong>機場巴士 + 計程車：</strong>搭機場巴士至芭提雅（約 THB 200），再搭計程車至樂園（THB 350&ndash;500）</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>距離：</strong>約120 km<br>\n              <strong>車程：</strong>約1.5小時（不塞車狀況下）\n            </div>"
+        },
+        {
+          "h3": "從烏塔帕機場（UTP）出發",
+          "content": "<p style=\"margin-bottom: 1rem;\">距 Aquaverse 最近的機場。自駕僅需約<strong>25分鐘</strong>。</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>計程車：</strong>THB 400&ndash;600（直達樂園）</li>\n              <li><strong>Grab：</strong>服務可能有限 &mdash; 建議提前預約</li>\n              <li>烏塔帕機場提供飛往清邁、吉隆坡及部分中國城市的航班</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>距離：</strong>約25 km<br>\n              <strong>車程：</strong>25分鐘\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "從芭提雅出發",
+      "heading": "從芭提雅市中心前往 Aquaverse",
+      "description": "Aquaverse 位於芭提雅市中心南方，車程約20&ndash;30分鐘。",
+      "cards": [
+        {
+          "h3": "Grab / 計程車",
+          "price": "<strong>THB 350&ndash;500</strong>",
+          "description": "20&ndash;30分鐘。使用 Grab App 享受固定計費。從您的飯店出發最為便捷。"
+        },
+        {
+          "h3": "雙條車（Songthaew）",
+          "price": "<strong>THB 20&ndash;50</strong>",
+          "description": "行駛那克魯亞至沙達希普路線的白色雙條車（共乘貨車）。費用低廉但速度較慢，且可能需要從下車點步行一段路。"
+        },
+        {
+          "h3": "Grab / 計程車",
+          "price": "<strong>THB 300&ndash;500 單程</strong>",
+          "description": "從芭提雅市中心透過 Grab App 預約（約20&ndash;30分鐘）。樂園目前無官方接駁巴士。部分飯店及旅行社可提供付費接送服務。"
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "交通小提示",
+      "heading": "從芭提雅前往 Aquaverse",
+      "description": "樂園目前無官方接駁巴士。以下是從芭提雅前往樂園的最佳方式。",
+      "recommendedHeading": "推薦交通選項",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab：</strong>從芭提雅市中心 THB 300&ndash;500（約20&ndash;30分鐘）。最便捷的選擇 &mdash; 透過 Grab App 預約。</li>\n                <li><strong>私人計程車：</strong>上車前先議好車資。單程通常約 THB 300&ndash;500。</li>\n                <li><strong>飯店接送：</strong>部分飯店及旅行社可提供付費接送服務。請洽詢飯店櫃台。</li>\n                <li><strong>雙條車 + Grab：</strong>搭白色雙條車至那仲天（THB 20&ndash;50），再搭 Grab 走最後一段路。</li>\n                <li><strong>自駕：</strong>樂園提供免費停車。在 Google 地圖搜尋「Columbia Pictures Aquaverse」即可導航。</li>\n              </ul>",
+      "bookingBtn": "線上預訂門票 &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "從芭提雅市中心搭 Grab",
+        "checkmarks": [
+          "&#10003; 透過 Grab App 預約",
+          "&#10003; 車程20&ndash;30分鐘",
+          "&#10003; 冷氣舒適",
+          "&#10003; 固定計費，無需議價"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "停車",
+      "heading": "Aquaverse 停車資訊",
+      "description": "自駕旅客的好消息 &mdash; Aquaverse 所有旅客均可享受完全免費停車服務。",
+      "cards": [
+        {
+          "h3": "免費停車",
+          "text": "所有旅客停車完全免費。直接開車進入停車，無需擔心計時收費或停車券。"
+        },
+        {
+          "h3": "寬敞停車場",
+          "text": "大型停車場可容納數百輛車輛，包括轎車、廂型車及旅遊巴士。無需提早到場搶車位。"
+        },
+        {
+          "h3": "照明充足且安全",
+          "text": "停車場照明充足，並有安全人員駐守。全天暢遊樂園期間，可安心將車輛停放於此。"
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "比較選項",
+      "heading": "交通方式一覽比較",
+      "description": "從曼谷前往 Aquaverse 各交通方式的快速比較。",
+      "headers": [
+        "交通方式",
+        "時間",
+        "費用",
+        "便利性",
+        "適合對象"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 自駕",
+          "time": "1.5&ndash;2小時",
+          "cost": "THB 155（過路費）",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "家庭、團體"
+        },
+        {
+          "transport": "🚕 計程車/Grab",
+          "time": "1.5&ndash;2小時",
+          "cost": "THB 1,200&ndash;1,500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "情侶、小型團體"
+        },
+        {
+          "transport": "🚐 共乘小巴",
+          "time": "2小時 + 計程車",
+          "cost": "約 THB 560&ndash;740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "單獨旅行者"
+        },
+        {
+          "transport": "🚌 巴士",
+          "time": "2&ndash;2.5小時 + 計程車",
+          "cost": "約 THB 430&ndash;630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "預算旅行者"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "旅遊小提示",
+      "heading": "前往 Aquaverse 的實用建議",
+      "description": "善用這些實用建議，讓您的旅程更加順暢。",
+      "cards": [
+        {
+          "h3": "使用 Grab App",
+          "text": "出發前請先下載 <strong>Grab App</strong>。可享受泰國全境透明固定計費叫車服務 &mdash; 無需議價，不怕計表詐欺。操作方式類似 Uber。"
+        },
+        {
+          "h3": "避開尖峰交通",
+          "text": "請避免在<strong>週五傍晚</strong>（曼谷往芭提雅）和<strong>週日傍晚</strong>（芭提雅往曼谷）出行。這兩個時段七號高速公路可能塞車，車程時間可能翻倍。"
+        },
+        {
+          "h3": "順遊附近景點",
+          "text": "Aquaverse 距芭提雅知名景點濃諾奇熱帶花園（Nong Nooch Tropical Garden）僅<strong>10分鐘</strong>車程。不妨安排多日行程，兩處一起遊覽。"
+        },
+        {
+          "h3": "提早到達",
+          "text": "樂園<strong>上午10:00</strong>開園。開園即到可享受較短隊伍及較涼爽的前2小時。建議<strong>早上7:30&ndash;8:00</strong>從曼谷出發。"
+        },
+        {
+          "h3": "確認開放日期",
+          "text": "Aquaverse 每週<strong>週三固定休園</strong>進行維護。出發前務必確認！平日（週一、週二、週四）人潮最少。"
+        },
+        {
+          "h3": "線上預訂門票",
+          "text": "提前線上預訂可享門市價格<strong>超過25%</strong>的折扣。線上票約從 THB 1,200 起，門市票約 THB 1,600（請查看最新票價）。並附贈免費置物櫃租借。"
+        }
+      ],
+      "ctaText": "想了解更多詳細的遊客攻略，請參閱我們的完整指南：",
+      "cta": "閱讀所有遊客攻略 &rarr;"
+    },
+    "cta": {
+      "heading": "準備好前往 Aquaverse 了嗎？",
+      "text": "現在您已掌握前往方式，快線上預訂門票，享受比門市售價超過25%的折扣！",
+      "btn1": "預訂優惠門票 &rarr;",
+      "btn2": "閱讀詳細曼谷出發指南",
+      "subtext": "線上票約從 <strong>THB 1,200</strong> 起（門市票約 THB 1,600）&bull; 3歲以下兒童免費入場"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "如何從曼谷前往 Aquaverse？",
+          "answer": "從曼谷前往 Aquaverse 可搭自駕車（經七號高速公路約1.5-2小時）、從 Ekkamai 巴士總站搭乘巴士（2-2.5小時，THB 108-150）、從勝利紀念碑或 Ekkamai 搭乘共乘小巴（2小時，THB 240/人），或搭計程車/Grab（1.5-2小時，THB 1,200-1,500加過路費）。"
+        },
+        {
+          "question": "從曼谷搭計程車到 Aquaverse 要多少錢？",
+          "answer": "從曼谷搭計程車或 Grab 到 Aquaverse 約需 THB 1,200-1,500，另加約 THB 155 的高速公路過路費。從素萬那普機場出發預計需 THB 1,500-2,000。視交通狀況，車程約1.5-2小時。"
+        },
+        {
+          "question": "Aquaverse 有停車場嗎？",
+          "answer": "有的，Aquaverse 提供免費停車服務，適用所有入園旅客。停車場寬敞、照明充足且安全有保障，無需提前預約停車位。"
+        },
+        {
+          "question": "Aquaverse 有接駁車服務嗎？",
+          "answer": "沒有，Aquaverse 目前沒有官方接駁巴士。從芭提雅出發最佳選擇是 Grab（THB 300-500，約20-30分鐘）或私人計程車。部分旅行社及飯店可另行安排付費接送服務。"
+        },
+        {
+          "question": "Aquaverse 距離芭提雅市中心多遠？",
+          "answer": "從芭提雅市中心搭車約20-30分鐘可抵達 Aquaverse。搭 Grab 或計程車費用約 THB 300-500。也可搭乘行駛那克魯亞至沙達希普路線的白色雙條車（Songthaew）。樂園目前無官方接駁巴士。"
+        },
+        {
+          "question": "如何從素萬那普機場前往 Aquaverse？",
+          "answer": "從素萬那普機場自駕前往 Aquaverse 約需90分鐘。計程車費用約 THB 1,500-2,000。另可搭機場巴士至芭提雅，再搭當地計程車前往樂園。"
+        },
+        {
+          "question": "如何從烏塔帕機場前往 Aquaverse？",
+          "answer": "烏塔帕機場（芭提雅機場）是距 Aquaverse 最近的機場，自駕僅需約25分鐘。從烏塔帕機場搭計程車到 Aquaverse 費用約 THB 400-600。"
+        }
+      ],
+      "howTo": {
+        "name": "如何從曼谷前往 Columbia Pictures Aquaverse",
+        "description": "從曼谷自駕、搭巴士、小巴或計程車前往芭提雅 Aquaverse 水上樂園的逐步指南。",
+        "steps": [
+          {
+            "name": "選擇交通方式",
+            "text": "從以下選項中選擇：自駕（1.5-2小時）、從 Ekkamai 搭巴士（2-2.5小時，THB 108-150）、共乘小巴（2小時，THB 240）或計程車/Grab（1.5-2小時，THB 1,200-1,500）。"
+          },
+          {
+            "name": "前往芭提雅地區",
+            "text": "若自駕，請走七號高速公路（Motorway Route 7）往芭提雅/春武里方向，過芭提雅後往沙達希普方向下交流道。若搭乘巴士或小巴，請從 Ekkamai 巴士總站（BTS Ekkamai站2號出口）或勝利紀念碑BTS站出發。"
+          },
+          {
+            "name": "抵達樂園",
+            "text": "若自駕，請依照 Columbia Pictures Aquaverse 指示牌前進。若搭巴士或小巴抵達芭提雅，再搭 Grab 或計程車前往樂園（THB 350-500，20-30分鐘）。自駕旅客可使用免費停車場。"
+          },
+          {
+            "name": "抵達 Aquaverse",
+            "text": "樂園地址為：888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250。請將車停在免費停車場後前往入口。"
+          }
+        ]
+      }
+    }
   }
 }

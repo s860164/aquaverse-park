@@ -50,6 +50,10 @@ const PAGE_CONFIGS = {
     template: 'pages/tickets.njk',
     slug: 'tickets.html',
   },
+  'getting-there': {
+    template: 'pages/getting-there.njk',
+    slug: 'getting-there.html',
+  },
 };
 
 // Load home page data (non-translatable)
@@ -195,6 +199,11 @@ function buildPage(pageKey, pageConfig) {
       schemaTicketsFaq = buildHomeFaqSchema(t.tickets.faq.items);
     }
 
+    let schemaGettingThereFaq = null;
+    if (pageKey === 'getting-there' && t.gettingThere && t.gettingThere.schema && t.gettingThere.schema.faqItems) {
+      schemaGettingThereFaq = buildHomeFaqSchema(t.gettingThere.schema.faqItems);
+    }
+
     const context = {
       site: SITE,
       lang,
@@ -214,6 +223,7 @@ function buildPage(pageKey, pageConfig) {
       allInclusivePriceFormatted: formatNumber(allInclusivePrice),
       savingsPercent: Math.round((1 - stickyPrice / stickyOriginalPrice) * 100),
       schemaTicketsFaq,
+      schemaGettingThereFaq,
       footerGuidesSlugs: FOOTER_GUIDES_SLUGS,
     };
 

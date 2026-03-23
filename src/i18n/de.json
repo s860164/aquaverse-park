@@ -1588,5 +1588,317 @@
     "schema": {
       "breadcrumbCurrent": "Tickets &amp; Preise"
     }
+  },
+  "gettingThere": {
+    "title": "Anreise zum Aquaverse Pattaya | Vollständiger Transport-Guide 2026",
+    "metaDescription": "Alle Verkehrsmittel zum Columbia Pictures Aquaverse aus Bangkok, Pattaya und den Flughäfen. Per Auto, Bus, Taxi, Grab. Wegbeschreibungen, Kosten, Fahrzeiten und Parkinfos.",
+    "metaKeywords": "Anreise Aquaverse, Aquaverse Wegbeschreibung, Aquaverse Pattaya Transport, Bangkok nach Aquaverse, Pattaya Wasserpark Anfahrt, Aquaverse Parken, Aquaverse Grab Taxi, Ekkamai nach Pattaya, Suvarnabhumi nach Aquaverse",
+    "ogTitle": "Anreise zum Aquaverse Pattaya | Vollständiger Transport-Guide 2026",
+    "ogDescription": "Alle Verkehrsmittel zum Columbia Pictures Aquaverse aus Bangkok, Pattaya und den Flughäfen. Wegbeschreibungen, Kosten, Fahrzeiten und Parkinfos.",
+    "twitterTitle": "Anreise zum Aquaverse Pattaya | Transport-Guide 2026",
+    "twitterDescription": "Alle Verkehrsmittel zum Aquaverse aus Bangkok, Pattaya und den Flughäfen. Per Auto, Bus, Taxi, Grab. Kosten und Fahrzeiten.",
+    "hero": {
+      "badge": "Vollständiger Transport-Guide",
+      "h1": "Anreise zum Aquaverse",
+      "h1Sub": "Pattaya, Thailand",
+      "sub": "Alles, was Sie wissen müssen, um das Columbia Pictures Aquaverse zu erreichen.\n        Aus Bangkok, Pattaya oder den Flughäfen &mdash; per Auto, Bus, Taxi oder Grab.",
+      "cta1": "Aus Bangkok &darr;",
+      "cta2": "Aus Pattaya &darr;",
+      "stats": [
+        {
+          "number": "1,5 Std.",
+          "label": "Aus Bangkok"
+        },
+        {
+          "number": "30 Min.",
+          "label": "Aus Pattaya"
+        },
+        {
+          "number": "Kostenlos",
+          "label": "Parken"
+        },
+        {
+          "number": "THB 300&ndash;500",
+          "label": "Grab aus Pattaya"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "Anreise",
+    "tldr": [
+      {
+        "bold": "Adresse:",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250 (<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Google Maps</a>)"
+      },
+      {
+        "bold": "Aus Bangkok:",
+        "text": "1,5&ndash;2 Stunden mit Auto oder Taxi &bull; 2&ndash;2,5 Stunden per Bus"
+      },
+      {
+        "bold": "Aus dem Pattaya-Zentrum:",
+        "text": "20&ndash;30 Minuten per Grab/Taxi (THB 350&ndash;500)"
+      },
+      {
+        "bold": "Parken:",
+        "text": "Kostenlos für alle Gäste &mdash; großräumig, gut beleuchtet und sicher"
+      },
+      {
+        "bold": "Kein offizieller Shuttle:",
+        "text": "Nutzen Sie Grab (THB 300&ndash;500 aus Pattaya) oder arrangieren Sie einen Privattransfer über Ihr Hotel oder einen Reiseveranstalter"
+      },
+      {
+        "bold": "Bester Tipp:",
+        "text": "Nutzen Sie die <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab-App</strong></a> für die besten Taxipreise in ganz Thailand"
+      }
+    ],
+    "location": {
+      "sectionLabel": "Parkstandort",
+      "heading": "Wo ist das Aquaverse?",
+      "description": "Das Columbia Pictures Aquaverse befindet sich an der Küstenstraße Sukhumvit Road im Gebiet Na Jomtien / Sattahip, zwischen Pattaya und dem Marinestützpunkt Sattahip.",
+      "gbp": {
+        "category": "Wasserpark &middot; Freizeitpark &middot; Pattaya",
+        "details": [
+          "<strong>Adresse:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>Öffnungszeiten:</strong> 10:00 &ndash; 18:00 Uhr (Mittwochs geschlossen)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>Wird geprüft...</span>",
+          "<strong>Telefon:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>Parken:</strong> Kostenlos für alle Gäste",
+          "<strong>Grab aus Pattaya:</strong> THB 300&ndash;500 (kein offizieller Parkshuttle)"
+        ],
+        "mapBtn": "In Google Maps öffnen &rarr;"
+      },
+      "mapCaption": "Liegt an der Sukhumvit Road zwischen Pattaya und Sattahip. Achten Sie auf das große Schild des Columbia Pictures Aquaverse auf der linken Straßenseite, wenn Sie von Pattaya aus in Richtung Süden fahren."
+    },
+    "fromBangkok": {
+      "sectionLabel": "Aus Bangkok",
+      "heading": "Anreise zum Aquaverse aus Bangkok",
+      "description": "Bangkok ist etwa 150 km vom Aquaverse entfernt. Je nach Budget und Vorliebe stehen mehrere Verkehrsmittel zur Verfügung.",
+      "cards": [
+        {
+          "h3": "Mit dem Auto (1,5&ndash;2 Stunden)",
+          "content": "<p>Die flexibelste Option, besonders für Familien. Kostenloser Parkplatz am Park.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>Nehmen Sie den <strong>Motorway Route 7</strong> in Richtung Pattaya/Chon Buri</li>\n              <li>Weiter über Pattaya hinaus und Abfahrt in Richtung <strong>Sattahip</strong></li>\n              <li>Folgen Sie der <strong>Sukhumvit Road</strong> in Richtung Süden</li>\n              <li>Achten Sie auf Schilder zum <strong>Columbia Pictures Aquaverse</strong> auf der linken Seite</li>\n              <li>Kostenloser Parkplatz am Parkeingang</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>Maut:</strong> ~THB 155 pro Strecke auf dem Motorway Route 7<br>\n              <strong>Kraftstoff:</strong> ~THB 400&ndash;600 hin und zurück<br>\n              <strong>Parken:</strong> Kostenlos\n            </div>"
+        },
+        {
+          "h3": "Mit dem Bus (2&ndash;2,5 Stunden)",
+          "content": "<p>Die günstigste Option aus Bangkok. Busse fahren häufig ab Ekkamai.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>Fahren Sie zum <strong>Ekkamai Bus Terminal</strong> (Ostbus-Terminal)</li>\n              <li>Nehmen Sie die <strong>BTS zum Bahnhof Ekkamai, Ausgang 2</strong> &mdash; das Terminal ist direkt dort</li>\n              <li>Busse nach Pattaya fahren <strong>alle 30 Minuten</strong></li>\n              <li>Ticketpreis: <strong>THB 108&ndash;150</strong></li>\n              <li>Ankunft am Pattaya Bus Terminal, dann per Grab/Taxi zum Park</li>\n              <li>Grab/Taxi von Pattaya zum Aquaverse: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>Gesamtkosten:</strong> ~THB 430&ndash;630/Person<br>\n              <strong>Erster Bus:</strong> 5:00 Uhr &bull; <strong>Letzter Bus:</strong> 23:00 Uhr\n            </div>"
+        },
+        {
+          "h3": "Per Sammeltaxi / Minibus (2 Stunden)",
+          "content": "<p>Schneller als Busse, aber etwas teurer. Komfortable 10-sitzige Minibusse.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>Abfahrt vom <strong>Victory Monument BTS</strong> oder <strong>Ekkamai</strong></li>\n              <li>Ticketpreis: <strong>THB 240/Person</strong></li>\n              <li>Abfahrten <strong>stündlich</strong> (am Wochenende häufiger)</li>\n              <li>Ausstieg in Pattaya, dann Taxi zum Park</li>\n              <li>Grab/Taxi von Pattaya zum Aquaverse: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>Gesamtkosten:</strong> ~THB 560&ndash;740/Person<br>\n              <strong>Tipp:</strong> Kaufen Sie Tickets am Van-Schalter, nicht von Straßenhändlern\n            </div>"
+        },
+        {
+          "h3": "Per Taxi / Grab (1,5&ndash;2 Stunden)",
+          "content": "<p>Die komfortabelste Option. Direktservice von Tür zu Tür, ohne Umsteigen.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>Kosten: <strong>THB 1.200&ndash;1.500</strong> + Maut (~THB 155)</li>\n              <li>Buchen Sie über die <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab-App</strong></a> für transparente Preise</li>\n              <li>Bis zu 3 Mitfahrer möglich</li>\n              <li>Direktes Tür-zu-Tür, kein Umsteigen nötig</li>\n              <li>Ideal für Gruppen &mdash; Kosten auf 4 aufteilen = ~THB 340/Person</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>Gesamtkosten:</strong> ~THB 1.355&ndash;1.655/Fahrzeug<br>\n              <strong>Tipp:</strong> Nutzen Sie Grab für Festpreis &mdash; für Langstrecken keine Taxameter-Taxis\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "Von den Flughäfen",
+      "heading": "Anreise zum Aquaverse vom Flughafen",
+      "description": "Zwei Flughäfen bedienen das Gebiet Pattaya: Suvarnabhumi (Bangkoks Hauptflughafen) und U-Tapao (Pattayas lokaler Flughafen).",
+      "cards": [
+        {
+          "h3": "Vom Flughafen Suvarnabhumi (BKK)",
+          "content": "<p style=\"margin-bottom: 1rem;\">Bangkoks wichtigster internationaler Flughafen. Etwa <strong>90 Minuten</strong> Fahrt zum Aquaverse.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>Taxi:</strong> THB 1.500&ndash;2.000 (direkt zum Park)</li>\n              <li><strong>Grab:</strong> Buchen Sie über die App auf Ankünfteebene &mdash; ähnliche Preise wie beim Taxi</li>\n              <li><strong>Flughafenbus + Taxi:</strong> Nehmen Sie den Flughafenbus nach Pattaya (~THB 200), dann Taxi zum Park (THB 350&ndash;500)</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>Entfernung:</strong> ~120 km<br>\n              <strong>Fahrzeit:</strong> 1,5 Stunden (ohne Stau)\n            </div>"
+        },
+        {
+          "h3": "Vom Flughafen U-Tapao (UTP)",
+          "content": "<p style=\"margin-bottom: 1rem;\">Pattayas nächstgelegener Flughafen. Nur etwa <strong>25 Minuten</strong> Fahrt zum Aquaverse.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>Taxi:</strong> THB 400&ndash;600 (direkt zum Park)</li>\n              <li><strong>Grab:</strong> Verfügbarkeit kann eingeschränkt sein &mdash; wenn möglich im Voraus buchen</li>\n              <li>U-Tapao bedient Flüge aus Chiang Mai, Kuala Lumpur und einigen chinesischen Städten</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>Entfernung:</strong> ~25 km<br>\n              <strong>Fahrzeit:</strong> 25 Minuten\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "Aus Pattaya",
+      "heading": "Anreise zum Aquaverse aus dem Pattaya-Zentrum",
+      "description": "Das Aquaverse liegt südlich des Pattaya-Stadtzentrums, etwa 20&ndash;30 Minuten entfernt.",
+      "cards": [
+        {
+          "h3": "Grab / Taxi",
+          "price": "<strong>THB 350&ndash;500</strong>",
+          "description": "20&ndash;30 Minuten. Nutzen Sie die Grab-App für einen Festpreis. Die bequemste Option vom Hotel aus."
+        },
+        {
+          "h3": "Songthaew",
+          "price": "<strong>THB 20&ndash;50</strong>",
+          "description": "Weißer Songthaew (geteilter Pickup-Truck) auf der Strecke Na Klua&ndash;Sattahip. Günstig, aber langsam und es kann erforderlich sein, vom Ausstiegspunkt zu laufen."
+        },
+        {
+          "h3": "Grab / Taxi",
+          "price": "<strong>THB 300&ndash;500 einfache Fahrt</strong>",
+          "description": "Buchen Sie über die Grab-App aus dem Pattaya-Zentrum (20&ndash;30 Min.). Kein offizieller Parkshuttlebus vorhanden. Einige Hotels und Reiseveranstalter bieten Transfers gegen Aufpreis an."
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "Transport-Tipps",
+      "heading": "Anreise zum Aquaverse aus Pattaya",
+      "description": "Es gibt keinen offiziellen Parkshuttlebus. Hier sind die besten Wege, den Park von Pattaya aus zu erreichen.",
+      "recommendedHeading": "Empfohlene Transportoptionen",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab:</strong> THB 300&ndash;500 aus dem Pattaya-Zentrum (20&ndash;30 Min.). Die einfachste Option &mdash; über die Grab-App buchen.</li>\n                <li><strong>Privattaxi:</strong> Preis vor der Fahrt aushandeln. Typischerweise THB 300&ndash;500 einfache Fahrt.</li>\n                <li><strong>Hoteltransfer:</strong> Einige Hotels und Reiseveranstalter organisieren Transfers gegen Aufpreis. Fragen Sie an der Hotelrezeption.</li>\n                <li><strong>Songthaew + Grab:</strong> Nehmen Sie einen weißen Songthaew nach Na Jomtien (THB 20&ndash;50), dann Grab für die letzte Strecke.</li>\n                <li><strong>Selbst fahren:</strong> Kostenloser Parkplatz am Park. GPS zu &bdquo;Columbia Pictures Aquaverse&ldquo; auf Google Maps.</li>\n              </ul>",
+      "bookingBtn": "Tickets online buchen &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "Grab aus dem Pattaya-Zentrum",
+        "checkmarks": [
+          "&#10003; Per Grab-App buchen",
+          "&#10003; 20&ndash;30 Min. Fahrt",
+          "&#10003; Klimatisiert",
+          "&#10003; Festpreis, kein Feilschen"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "Parken",
+      "heading": "Parken am Aquaverse",
+      "description": "Gute Nachrichten für Autofahrer &mdash; das Parken am Aquaverse ist für alle Gäste völlig kostenlos.",
+      "cards": [
+        {
+          "h3": "Kostenloses Parken",
+          "text": "Keine Parkgebühren für alle Gäste. Einfach einfahren und parken, ohne sich um Stundengebühren oder Parktickets zu sorgen."
+        },
+        {
+          "h3": "Großer Parkplatz",
+          "text": "Geräumiger Parkplatz mit Platz für Hunderte von Fahrzeugen, darunter Autos, Vans und Reisebusse. Kein frühes Ankommen für einen Stellplatz notwendig."
+        },
+        {
+          "h3": "Gut beleuchtet &amp; sicher",
+          "text": "Der Parkplatz ist gut beleuchtet und mit Sicherheitspersonal besetzt. Sie können Ihr Fahrzeug bedenkenlos den ganzen Tag stehen lassen, während Sie den Park genießen."
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "Optionen vergleichen",
+      "heading": "Transportvergleich auf einen Blick",
+      "description": "Schneller Vergleich aller Transportoptionen von Bangkok zum Aquaverse.",
+      "headers": [
+        "Verkehrsmittel",
+        "Zeit",
+        "Kosten",
+        "Komfort",
+        "Am besten für"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 Eigenes Auto",
+          "time": "1,5&ndash;2 Std.",
+          "cost": "THB 155 (Maut)",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "Familien, Gruppen"
+        },
+        {
+          "transport": "🚕 Taxi / Grab",
+          "time": "1,5&ndash;2 Std.",
+          "cost": "THB 1.200&ndash;1.500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "Paare, kleine Gruppen"
+        },
+        {
+          "transport": "🚐 Sammeltaxi",
+          "time": "2 Std. + Taxi",
+          "cost": "~THB 560&ndash;740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "Alleinreisende"
+        },
+        {
+          "transport": "🚌 Bus",
+          "time": "2&ndash;2,5 Std. + Taxi",
+          "cost": "~THB 430&ndash;630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "Budgetreisende"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "Reisetipps",
+      "heading": "Tipps für die Anreise zum Aquaverse",
+      "description": "Mit diesen praktischen Reisetipps gestalten Sie Ihre Anreise reibungsloser.",
+      "cards": [
+        {
+          "h3": "Grab-App nutzen",
+          "text": "Laden Sie die <strong>Grab-App</strong> vor Ihrer Reise herunter. Sie bietet transparente Festpreise für Fahrten in ganz Thailand &mdash; kein Feilschen, keine Taxameterprobleme. Funktioniert wie Uber."
+        },
+        {
+          "h3": "Stoßzeiten meiden",
+          "text": "Vermeiden Sie Fahrten an <strong>Freitagabenden</strong> (Bangkok &rarr; Pattaya) und <strong>Sonntagabenden</strong> (Pattaya &rarr; Bangkok). Der Stau auf dem Motorway Route 7 kann Ihre Fahrtzeit an diesen Tagen verdoppeln."
+        },
+        {
+          "h3": "Mit nahegelegenen Attraktionen kombinieren",
+          "text": "Das Aquaverse liegt nur <strong>10 Minuten</strong> vom Nong Nooch Tropical Garden entfernt, einer der beliebtesten Attraktionen Pattayas. Kombinieren Sie beide in einem mehrtägigen Reiseplan."
+        },
+        {
+          "h3": "Früh ankommen",
+          "text": "Der Park öffnet um <strong>10:00 Uhr</strong>. Wenn Sie zur Öffnungszeit ankommen, profitieren Sie von kürzeren Warteschlangen und kühleren Temperaturen in den ersten 2 Stunden. Planen Sie die Abfahrt aus Bangkok um 7:30&ndash;8:00 Uhr."
+        },
+        {
+          "h3": "Wochentag prüfen",
+          "text": "Das Aquaverse ist <strong>jeden Mittwoch</strong> für Wartungsarbeiten geschlossen. Nicht ohne Nachprüfen anreisen! Wochentags (Montag, Dienstag, Donnerstag) sind die geringsten Besucherzahlen zu erwarten."
+        },
+        {
+          "h3": "Tickets online buchen",
+          "text": "Sparen Sie <strong>über 25%</strong> gegenüber dem Kassenpreis durch Online-Buchung im Voraus. Online-Tickets starten ab rund THB 1.200 gegenüber rund THB 1.600 an der Kasse (aktuelle Preise prüfen). Inklusive kostenloser Schließfachmiete."
+        }
+      ],
+      "ctaText": "Für ausführlichere Besuchertipps, lesen Sie unseren vollständigen Guide:",
+      "cta": "Alle Besuchertipps lesen &rarr;"
+    },
+    "cta": {
+      "heading": "Bereit, das Aquaverse zu besuchen?",
+      "text": "Jetzt, da Sie wissen, wie Sie hinkommen, buchen Sie Ihre Tickets online und sparen Sie über 25% gegenüber dem Kassenpreis!",
+      "btn1": "Vergünstigte Tickets buchen &rarr;",
+      "btn2": "Detaillierten Bangkok-Guide lesen",
+      "subtext": "Online-Tickets ab <strong>rund THB 1.200</strong> (Kassenpreis rund THB 1.600) &bull; Kinder unter 3 Jahren haben freien Eintritt"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "Wie komme ich von Bangkok zum Aquaverse?",
+          "answer": "Sie können das Aquaverse von Bangkok aus mit dem Auto (1,5–2 Stunden über den Motorway Route 7), per Bus vom Ekkamai Bus Terminal (2–2,5 Stunden, THB 108–150), per Sammeltaxi vom Victory Monument oder Ekkamai (2 Stunden, THB 240/Person) oder per Taxi/Grab (1,5–2 Stunden, THB 1.200–1.500 plus Maut) erreichen."
+        },
+        {
+          "question": "Was kostet ein Taxi von Bangkok zum Aquaverse?",
+          "answer": "Eine Taxi- oder Grab-Fahrt von Bangkok zum Aquaverse kostet etwa THB 1.200–1.500 plus Autobahnmaut von rund THB 155. Vom Flughafen Suvarnabhumi sollten Sie mit THB 1.500–2.000 rechnen. Die Fahrt dauert je nach Verkehrslage 1,5–2 Stunden."
+        },
+        {
+          "question": "Gibt es einen Parkplatz am Aquaverse?",
+          "answer": "Ja, das Aquaverse bietet allen Gästen kostenloses Parken. Der Parkplatz ist großräumig, gut beleuchtet und sicher. Eine Vorabreservierung eines Parkplatzes ist nicht erforderlich."
+        },
+        {
+          "question": "Gibt es einen Shuttlebus zum Aquaverse?",
+          "answer": "Nein, das Aquaverse betreibt keinen offiziellen Shuttlebus. Die besten Optionen aus Pattaya sind Grab (THB 300–500, 20–30 Minuten) oder ein Privattaxi. Einige Reiseveranstalter und Hotels bieten Transfers gegen Aufpreis an."
+        },
+        {
+          "question": "Wie weit ist das Aquaverse vom Pattaya-Zentrum entfernt?",
+          "answer": "Das Aquaverse ist etwa 20–30 Minuten vom Pattaya-Stadtzentrum mit dem Auto entfernt. Eine Grab- oder Taxifahrt kostet THB 300–500. Sie können auch den weißen Songthaew (geteilter Pickup-Truck) auf der Strecke Na Klua–Sattahip nehmen. Es gibt keinen offiziellen Parkshuttlebus."
+        },
+        {
+          "question": "Wie komme ich vom Flughafen Suvarnabhumi zum Aquaverse?",
+          "answer": "Vom Flughafen Suvarnabhumi dauert die Fahrt zum Aquaverse etwa 90 Minuten. Ein Taxi kostet THB 1.500–2.000. Alternativ können Sie den Flughafenbus nach Pattaya nehmen und dann ein lokales Taxi zum Park."
+        },
+        {
+          "question": "Wie komme ich vom Flughafen U-Tapao zum Aquaverse?",
+          "answer": "Der Flughafen U-Tapao (Pattaya Airport) ist der dem Aquaverse nächstgelegene Flughafen, nur etwa 25 Minuten entfernt. Ein Taxi von U-Tapao zum Aquaverse kostet THB 400–600."
+        }
+      ],
+      "howTo": {
+        "name": "Anreise zum Columbia Pictures Aquaverse aus Bangkok",
+        "description": "Schritt-für-Schritt-Anleitung zur Anreise zum Aquaverse Wasserpark in Pattaya aus Bangkok mit Auto, Bus, Minivan oder Taxi.",
+        "steps": [
+          {
+            "name": "Verkehrsmittel wählen",
+            "text": "Wählen Sie zwischen Auto (1,5–2 Stunden), Bus ab Ekkamai (2–2,5 Stunden, THB 108–150), Sammeltaxi (2 Stunden, THB 240) oder Taxi/Grab (1,5–2 Stunden, THB 1.200–1.500)."
+          },
+          {
+            "name": "In Richtung Pattaya fahren",
+            "text": "Mit dem Auto: Nehmen Sie den Motorway Route 7 in Richtung Pattaya und fahren Sie Richtung Sattahip ab. Mit Bus oder Van: Starten Sie am Ekkamai Bus Terminal (BTS Ekkamai, Ausgang 2) oder an der BTS-Station Victory Monument."
+          },
+          {
+            "name": "Zum Park gelangen",
+            "text": "Mit dem Auto: Folgen Sie den Schildern zum Columbia Pictures Aquaverse. Bei Ankunft per Bus oder Van in Pattaya: Nehmen Sie ein Grab oder Taxi zum Park (THB 350–500, 20–30 Minuten). Für Fahrer steht kostenloser Parkplatz zur Verfügung."
+          },
+          {
+            "name": "Am Aquaverse ankommen",
+            "text": "Der Park befindet sich in der 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250. Parken Sie auf dem kostenlosen Parkplatz und gehen Sie zum Eingang."
+          }
+        ]
+      }
+    }
   }
 }

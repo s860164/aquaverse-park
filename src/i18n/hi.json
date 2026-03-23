@@ -1660,5 +1660,317 @@
     "schema": {
       "breadcrumbCurrent": ""
     }
+  },
+  "gettingThere": {
+    "title": "Aquaverse पटाया कैसे पहुँचें | संपूर्ण परिवहन गाइड 2026",
+    "metaDescription": "बैंकॉक, पटाया और हवाई अड्डों से Columbia Pictures Aquaverse तक सभी परिवहन विकल्प। कार, बस, टैक्सी, Grab से। दिशाएँ, लागत, यात्रा समय और पार्किंग जानकारी।",
+    "metaKeywords": "Aquaverse कैसे पहुँचें, Aquaverse दिशाएँ, Aquaverse पटाया परिवहन, बैंकॉक से Aquaverse, पटाया वॉटर पार्क दिशाएँ, Aquaverse पार्किंग, Aquaverse Grab टैक्सी, Ekkamai से पटाया, Suvarnabhumi से Aquaverse",
+    "ogTitle": "Aquaverse पटाया कैसे पहुँचें | संपूर्ण परिवहन गाइड 2026",
+    "ogDescription": "बैंकॉक, पटाया और हवाई अड्डों से Columbia Pictures Aquaverse तक हर परिवहन विकल्प। दिशाएँ, लागत, यात्रा समय और पार्किंग जानकारी।",
+    "twitterTitle": "Aquaverse पटाया कैसे पहुँचें | परिवहन गाइड 2026",
+    "twitterDescription": "बैंकॉक, पटाया और हवाई अड्डों से Aquaverse तक सभी परिवहन विकल्प। कार, बस, टैक्सी, Grab से। लागत और यात्रा समय।",
+    "hero": {
+      "badge": "संपूर्ण परिवहन गाइड",
+      "h1": "Aquaverse कैसे पहुँचें",
+      "h1Sub": "पटाया, थाईलैंड",
+      "sub": "Columbia Pictures Aquaverse पहुँचने के बारे में आपको जो कुछ जानना चाहिए वह सब यहाँ है।\n        बैंकॉक, पटाया या हवाई अड्डों से &mdash; कार, बस, टैक्सी या Grab से।",
+      "cta1": "बैंकॉक से &darr;",
+      "cta2": "पटाया से &darr;",
+      "stats": [
+        {
+          "number": "1.5 घं",
+          "label": "बैंकॉक से"
+        },
+        {
+          "number": "30 मिनट",
+          "label": "पटाया से"
+        },
+        {
+          "number": "मुफ़्त",
+          "label": "पार्किंग"
+        },
+        {
+          "number": "THB 300-500",
+          "label": "पटाया से Grab"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "कैसे पहुँचें",
+    "tldr": [
+      {
+        "bold": "पता:",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250 (<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Google Maps</a>)"
+      },
+      {
+        "bold": "बैंकॉक से:",
+        "text": "कार या टैक्सी से 1.5&ndash;2 घंटे &bull; बस से 2&ndash;2.5 घंटे"
+      },
+      {
+        "bold": "पटाया सेंटर से:",
+        "text": "Grab/टैक्सी से 20&ndash;30 मिनट (THB 350&ndash;500)"
+      },
+      {
+        "bold": "पार्किंग:",
+        "text": "सभी मेहमानों के लिए मुफ़्त &mdash; बड़ी, अच्छी रोशनी वाली और सुरक्षित"
+      },
+      {
+        "bold": "कोई आधिकारिक शटल नहीं:",
+        "text": "Grab (पटाया से THB 300&ndash;500) का उपयोग करें या अपने होटल या टूर ऑपरेटर के माध्यम से प्राइवेट ट्रांसफर की व्यवस्था करें"
+      },
+      {
+        "bold": "सबसे अच्छी टिप:",
+        "text": "थाईलैंड भर में सर्वोत्तम टैक्सी कीमतों के लिए <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab ऐप</strong></a> का उपयोग करें"
+      }
+    ],
+    "location": {
+      "sectionLabel": "पार्क स्थान",
+      "heading": "Aquaverse कहाँ है?",
+      "description": "Columbia Pictures Aquaverse Na Jomtien / Sattahip क्षेत्र में तटीय Sukhumvit Road के किनारे स्थित है, पटाया और Sattahip नौसेना अड्डे के बीच।",
+      "gbp": {
+        "category": "वॉटर पार्क &middot; थीम पार्क &middot; पटाया",
+        "details": [
+          "<strong>पता:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>समय:</strong> 10:00 AM &ndash; 6:00 PM (बुधवार को बंद)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>जाँच हो रही है...</span>",
+          "<strong>फोन:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>पार्किंग:</strong> सभी मेहमानों के लिए मुफ़्त",
+          "<strong>पटाया से Grab:</strong> THB 300&ndash;500 (कोई आधिकारिक पार्क शटल नहीं)"
+        ],
+        "mapBtn": "Google Maps में खोलें &rarr;"
+      },
+      "mapCaption": "पटाया और Sattahip के बीच Sukhumvit Road पर स्थित है। पटाया से दक्षिण की ओर जाने पर सड़क के बाईं ओर बड़े Columbia Pictures Aquaverse के बोर्ड को देखें।"
+    },
+    "fromBangkok": {
+      "sectionLabel": "बैंकॉक से",
+      "heading": "बैंकॉक से Aquaverse कैसे पहुँचें",
+      "description": "बैंकॉक Aquaverse से लगभग 150 km दूर है। आपके बजट और पसंद के आधार पर कई परिवहन विकल्प उपलब्ध हैं।",
+      "cards": [
+        {
+          "h3": "कार से (1.5&ndash;2 घंटे)",
+          "content": "<p>सबसे लचीला विकल्प, खासकर परिवारों के लिए। पार्क में मुफ़्त पार्किंग।</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>पटाया/Chon Buri की ओर <strong>Motorway Route 7</strong> लें</li>\n              <li>पटाया से आगे जाकर <strong>Sattahip</strong> की ओर निकलें</li>\n              <li><strong>Sukhumvit Road</strong> पर दक्षिण की ओर जाएँ</li>\n              <li>बाईं ओर <strong>Columbia Pictures Aquaverse</strong> के संकेत देखें</li>\n              <li>पार्क प्रवेश द्वार पर मुफ़्त पार्किंग</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>टोल:</strong> Motorway Route 7 पर प्रत्येक तरफ ~THB 155<br>\n              <strong>ईंधन:</strong> आने-जाने में ~THB 400&ndash;600<br>\n              <strong>पार्किंग:</strong> मुफ़्त\n            </div>"
+        },
+        {
+          "h3": "बस से (2&ndash;2.5 घंटे)",
+          "content": "<p>बैंकॉक से सबसे किफ़ायती विकल्प। Ekkamai से बसें अक्सर चलती हैं।</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>Ekkamai Bus Terminal</strong> (Eastern Bus Terminal) जाएँ</li>\n              <li><strong>BTS से Ekkamai स्टेशन, Exit 2</strong> लें &mdash; टर्मिनल वहीं है</li>\n              <li>पटाया के लिए बसें <strong>हर 30 मिनट</strong> में चलती हैं</li>\n              <li>टिकट मूल्य: <strong>THB 108&ndash;150</strong></li>\n              <li>Pattaya Bus Terminal पहुँचें, फिर पार्क तक Grab/टैक्सी लें</li>\n              <li>पटाया से Aquaverse तक Grab/टैक्सी: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>कुल खर्च:</strong> ~THB 430&ndash;630/व्यक्ति<br>\n              <strong>पहली बस:</strong> 5:00 AM &bull; <strong>आखिरी बस:</strong> 11:00 PM\n            </div>"
+        },
+        {
+          "h3": "शेयर्ड वैन / मिनीबस से (2 घंटे)",
+          "content": "<p>बसों से तेज़ लेकिन थोड़ा महंगा। आरामदायक 10-सीटर मिनीवैन।</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>Victory Monument BTS</strong> या <strong>Ekkamai</strong> से रवाना</li>\n              <li>टिकट मूल्य: <strong>THB 240/व्यक्ति</strong></li>\n              <li>वैन <strong>हर घंटे</strong> चलती हैं (सप्ताहांत पर अधिक बार)</li>\n              <li>पटाया में उतरें, फिर पार्क तक टैक्सी लें</li>\n              <li>पटाया से Aquaverse तक Grab/टैक्सी: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>कुल खर्च:</strong> ~THB 560&ndash;740/व्यक्ति<br>\n              <strong>टिप:</strong> वैन काउंटर से टिकट खरीदें, दलालों से नहीं\n            </div>"
+        },
+        {
+          "h3": "टैक्सी / Grab से (1.5&ndash;2 घंटे)",
+          "content": "<p>सबसे सुविधाजनक विकल्प। बिना किसी ट्रांसफर के डोर-टू-डोर सेवा।</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>खर्च: <strong>THB 1,200&ndash;1,500</strong> + टोल (~THB 155)</li>\n              <li>पारदर्शी मूल्य निर्धारण के लिए <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grab ऐप</strong></a> से बुक करें</li>\n              <li>3 यात्रियों तक साझा किया जा सकता है</li>\n              <li>डायरेक्ट डोर-टू-डोर, कोई ट्रांसफर नहीं</li>\n              <li>समूहों के लिए बढ़िया &mdash; 4 में बँटाएँ = ~THB 340/व्यक्ति</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>कुल खर्च:</strong> ~THB 1,355&ndash;1,655/कार<br>\n              <strong>टिप:</strong> निश्चित मूल्य के लिए Grab का उपयोग करें &mdash; लंबी यात्राओं के लिए मीटर टैक्सी से बचें\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "हवाई अड्डों से",
+      "heading": "हवाई अड्डे से Aquaverse कैसे पहुँचें",
+      "description": "पटाया क्षेत्र की सेवा दो हवाई अड्डे करते हैं: Suvarnabhumi (बैंकॉक का मुख्य हवाई अड्डा) और U-Tapao (पटाया का स्थानीय हवाई अड्डा)।",
+      "cards": [
+        {
+          "h3": "Suvarnabhumi हवाई अड्डे से (BKK)",
+          "content": "<p style=\"margin-bottom: 1rem;\">बैंकॉक का मुख्य अंतर्राष्ट्रीय हवाई अड्डा। कार से Aquaverse तक लगभग <strong>90 मिनट</strong>।</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>टैक्सी:</strong> THB 1,500&ndash;2,000 (पार्क तक सीधे)</li>\n              <li><strong>Grab:</strong> आगमन स्तर पर ऐप से बुक करें &mdash; टैक्सी के समान मूल्य</li>\n              <li><strong>एयरपोर्ट बस + टैक्सी:</strong> पटाया तक एयरपोर्ट बस लें (~THB 200), फिर पार्क तक टैक्सी (THB 350&ndash;500)</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>दूरी:</strong> ~120 km<br>\n              <strong>यात्रा समय:</strong> 1.5 घंटे (बिना ट्रैफिक के)\n            </div>"
+        },
+        {
+          "h3": "U-Tapao हवाई अड्डे से (UTP)",
+          "content": "<p style=\"margin-bottom: 1rem;\">पटाया का सबसे नज़दीकी हवाई अड्डा। कार से Aquaverse तक केवल लगभग <strong>25 मिनट</strong>।</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>टैक्सी:</strong> THB 400&ndash;600 (पार्क तक सीधे)</li>\n              <li><strong>Grab:</strong> उपलब्धता सीमित हो सकती है &mdash; यदि संभव हो तो पहले से बुक करें</li>\n              <li>U-Tapao Chiang Mai, Kuala Lumpur और कुछ चीनी शहरों से उड़ानें लेता है</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>दूरी:</strong> ~25 km<br>\n              <strong>यात्रा समय:</strong> 25 मिनट\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "पटाया से",
+      "heading": "पटाया सेंटर से Aquaverse कैसे पहुँचें",
+      "description": "Aquaverse पटाया शहर के केंद्र के दक्षिण में स्थित है, सड़क से लगभग 20&ndash;30 मिनट की दूरी पर।",
+      "cards": [
+        {
+          "h3": "Grab / टैक्सी",
+          "price": "<strong>THB 350&ndash;500</strong>",
+          "description": "20&ndash;30 मिनट। निश्चित मूल्य के लिए Grab ऐप का उपयोग करें। अपने होटल से सबसे सुविधाजनक विकल्प।"
+        },
+        {
+          "h3": "Songthaew",
+          "price": "<strong>THB 20&ndash;50</strong>",
+          "description": "Na Klua&ndash;Sattahip मार्ग पर सफेद Songthaew (शेयर्ड ट्रक)। सस्ता लेकिन धीमा और उतरने के बिंदु से पैदल चलना पड़ सकता है।"
+        },
+        {
+          "h3": "Grab / टैक्सी",
+          "price": "<strong>THB 300&ndash;500 एक तरफ</strong>",
+          "description": "पटाया सेंटर से Grab ऐप से बुक करें (20&ndash;30 मिनट)। कोई आधिकारिक पार्क शटल बस उपलब्ध नहीं। कुछ होटल और टूर ऑपरेटर अतिरिक्त शुल्क पर ट्रांसफर प्रदान करते हैं।"
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "परिवहन टिप्स",
+      "heading": "पटाया से Aquaverse कैसे पहुँचें",
+      "description": "कोई आधिकारिक पार्क शटल बस नहीं है। यहाँ पटाया से पार्क पहुँचने के सबसे अच्छे तरीके हैं।",
+      "recommendedHeading": "अनुशंसित परिवहन विकल्प",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab:</strong> पटाया सेंटर से THB 300&ndash;500 (20&ndash;30 मिनट)। सबसे आसान विकल्प &mdash; Grab ऐप से बुक करें।</li>\n                <li><strong>प्राइवेट टैक्सी:</strong> जाने से पहले किराया तय करें। आमतौर पर एक तरफ THB 300&ndash;500।</li>\n                <li><strong>होटल ट्रांसफर:</strong> कुछ होटल और टूर ऑपरेटर अतिरिक्त शुल्क पर ट्रांसफर की व्यवस्था करते हैं। अपने होटल रिसेप्शन से पूछें।</li>\n                <li><strong>Songthaew + Grab:</strong> Na Jomtien तक सफेद Songthaew लें (THB 20&ndash;50), फिर आखिरी हिस्से के लिए Grab लें।</li>\n                <li><strong>स्व-चालित:</strong> पार्क में मुफ़्त पार्किंग। Google Maps पर &ldquo;Columbia Pictures Aquaverse&rdquo; GPS करें।</li>\n              </ul>",
+      "bookingBtn": "ऑनलाइन टिकट बुक करें &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "पटाया सेंटर से Grab",
+        "checkmarks": [
+          "&#10003; Grab ऐप से बुक करें",
+          "&#10003; 20&ndash;30 मिनट की सवारी",
+          "&#10003; एयर-कंडीशन",
+          "&#10003; निश्चित मूल्य, कोई मोल-भाव नहीं"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "पार्किंग",
+      "heading": "Aquaverse में पार्किंग",
+      "description": "ड्राइवरों के लिए खुशखबरी &mdash; Aquaverse में पार्किंग सभी मेहमानों के लिए पूरी तरह मुफ़्त है।",
+      "cards": [
+        {
+          "h3": "मुफ़्त पार्किंग",
+          "text": "किसी भी मेहमान के लिए कोई पार्किंग शुल्क नहीं। प्रति घंटे के शुल्क या टिकट की चिंता किए बिना अंदर आएँ और पार्क करें।"
+        },
+        {
+          "h3": "बड़ा पार्किंग क्षेत्र",
+          "text": "कारों, वैन और टूर बसों सहित सैकड़ों वाहनों के लिए जगह वाला विशाल पार्किंग स्थल। जगह के लिए जल्दी आने की ज़रूरत नहीं।"
+        },
+        {
+          "h3": "अच्छी रोशनी और सुरक्षित",
+          "text": "पार्किंग क्षेत्र में सुरक्षाकर्मियों के साथ अच्छी रोशनी है। पूरे दिन पार्क का आनंद लेते हुए अपना वाहन सुरक्षित छोड़ सकते हैं।"
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "विकल्पों की तुलना करें",
+      "heading": "एक नज़र में परिवहन तुलना",
+      "description": "बैंकॉक से Aquaverse तक सभी परिवहन विकल्पों की त्वरित तुलना।",
+      "headers": [
+        "परिवहन",
+        "समय",
+        "खर्च",
+        "सुविधा",
+        "सबसे अच्छा किसके लिए"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 खुद की कार",
+          "time": "1.5&ndash;2 घं",
+          "cost": "THB 155 (टोल)",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "परिवार, समूह"
+        },
+        {
+          "transport": "🚕 टैक्सी / Grab",
+          "time": "1.5&ndash;2 घं",
+          "cost": "THB 1,200&ndash;1,500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "जोड़े, छोटे समूह"
+        },
+        {
+          "transport": "🚐 शेयर्ड वैन",
+          "time": "2 घं + टैक्सी",
+          "cost": "~THB 560&ndash;740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "अकेले यात्री"
+        },
+        {
+          "transport": "🚌 बस",
+          "time": "2&ndash;2.5 घं + टैक्सी",
+          "cost": "~THB 430&ndash;630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "बजट यात्री"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "यात्रा टिप्स",
+      "heading": "Aquaverse पहुँचने के लिए टिप्स",
+      "description": "इन व्यावहारिक यात्रा टिप्स से अपनी यात्रा को आसान बनाएँ।",
+      "cards": [
+        {
+          "h3": "Grab ऐप का उपयोग करें",
+          "text": "अपनी यात्रा से पहले <strong>Grab ऐप</strong> डाउनलोड करें। यह पूरे थाईलैंड में सवारी के लिए पारदर्शी, निश्चित मूल्य देता है &mdash; कोई मोल-भाव या मीटर धोखाधड़ी नहीं। Uber की तरह काम करता है।"
+        },
+        {
+          "h3": "पीक ट्रैफिक से बचें",
+          "text": "<strong>शुक्रवार की शाम</strong> (बैंकॉक &rarr; पटाया) और <strong>रविवार की शाम</strong> (पटाया &rarr; बैंकॉक) यात्रा से बचें। इन दिनों Motorway Route 7 पर ट्रैफिक आपकी यात्रा का समय दोगुना कर सकता है।"
+        },
+        {
+          "h3": "नज़दीकी आकर्षणों के साथ मिलाएँ",
+          "text": "Aquaverse Nong Nooch Tropical Garden से केवल <strong>10 मिनट</strong> की दूरी पर है, जो पटाया के शीर्ष आकर्षणों में से एक है। बहु-दिवसीय यात्रा कार्यक्रम में दोनों को मिलाने पर विचार करें।"
+        },
+        {
+          "h3": "जल्दी पहुँचें",
+          "text": "पार्क <strong>सुबह 10:00 बजे</strong> खुलता है। खुलने के समय पहुँचने से पहले 2 घंटों में छोटी कतारें और ठंडा तापमान मिलता है। बैंकॉक से सुबह 7:30&ndash;8:00 बजे निकलने का लक्ष्य रखें।"
+        },
+        {
+          "h3": "दिन जाँचें",
+          "text": "Aquaverse रखरखाव के लिए <strong>हर बुधवार बंद</strong> रहता है। बिना जाँचे यात्रा न करें! सप्ताह के दिन (सोमवार, मंगलवार, गुरुवार) में सबसे कम भीड़ होती है।"
+        },
+        {
+          "h3": "ऑनलाइन टिकट बुक करें",
+          "text": "एडवांस में ऑनलाइन बुकिंग से गेट मूल्य पर <strong>25% से अधिक</strong> बचाएँ। ऑनलाइन टिकट लगभग THB 1,200 से शुरू होते हैं बनाम गेट पर लगभग THB 1,600 (नवीनतम मूल्य जाँचें)। मुफ़्त लॉकर किराया शामिल।"
+        }
+      ],
+      "ctaText": "अधिक विस्तृत आगंतुक टिप्स के लिए हमारी संपूर्ण गाइड देखें:",
+      "cta": "सभी आगंतुक टिप्स पढ़ें &rarr;"
+    },
+    "cta": {
+      "heading": "Aquaverse जाने के लिए तैयार हैं?",
+      "text": "अब जब आप जानते हैं कि वहाँ कैसे पहुँचना है, ऑनलाइन टिकट बुक करें और गेट मूल्य पर 25% से अधिक बचाएँ!",
+      "btn1": "छूट पर टिकट बुक करें &rarr;",
+      "btn2": "विस्तृत बैंकॉक गाइड पढ़ें",
+      "subtext": "ऑनलाइन टिकट <strong>लगभग THB 1,200</strong> से (गेट मूल्य लगभग THB 1,600) &bull; 3 वर्ष से कम बच्चे मुफ़्त प्रवेश"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "बैंकॉक से Aquaverse कैसे पहुँचें?",
+          "answer": "आप बैंकॉक से Aquaverse कार (Motorway Route 7 से 1.5-2 घंटे), Ekkamai Bus Terminal से बस (2-2.5 घंटे, THB 108-150), Victory Monument या Ekkamai से शेयर्ड वैन (2 घंटे, THB 240/व्यक्ति), या टैक्सी/Grab (1.5-2 घंटे, THB 1,200-1,500 + टोल) से पहुँच सकते हैं।"
+        },
+        {
+          "question": "बैंकॉक से Aquaverse तक टैक्सी का खर्च कितना है?",
+          "answer": "बैंकॉक से Aquaverse तक टैक्सी या Grab की सवारी लगभग THB 1,200-1,500 प्लस लगभग THB 155 के मोटरवे टोल में पड़ती है। Suvarnabhumi हवाई अड्डे से THB 1,500-2,000 की उम्मीद करें। यात्रा में ट्रैफिक के आधार पर 1.5-2 घंटे लगते हैं।"
+        },
+        {
+          "question": "क्या Aquaverse में पार्किंग है?",
+          "answer": "हाँ, Aquaverse सभी मेहमानों के लिए मुफ़्त पार्किंग प्रदान करता है। पार्किंग क्षेत्र बड़ा, अच्छी रोशनी वाला और सुरक्षित है। पार्किंग स्थान पहले से बुक करने की ज़रूरत नहीं।"
+        },
+        {
+          "question": "क्या Aquaverse में शटल बस सेवा है?",
+          "answer": "नहीं, Aquaverse कोई आधिकारिक शटल बस नहीं चलाता। पटाया से सबसे अच्छे विकल्प Grab (THB 300-500, 20-30 मिनट) या प्राइवेट टैक्सी हैं। कुछ टूर ऑपरेटर और होटल अतिरिक्त शुल्क पर ट्रांसफर की व्यवस्था करते हैं।"
+        },
+        {
+          "question": "Aquaverse पटाया सेंटर से कितनी दूर है?",
+          "answer": "Aquaverse कार से पटाया शहर के केंद्र से लगभग 20-30 मिनट की दूरी पर है। Grab या टैक्सी का किराया THB 300-500 है। आप Na Klua-Sattahip मार्ग पर सफेद Songthaew (शेयर्ड ट्रक) भी ले सकते हैं। कोई आधिकारिक पार्क शटल बस नहीं है।"
+        },
+        {
+          "question": "Suvarnabhumi हवाई अड्डे से Aquaverse कैसे पहुँचें?",
+          "answer": "Suvarnabhumi हवाई अड्डे से Aquaverse तक ड्राइव में लगभग 90 मिनट लगते हैं। टैक्सी का खर्च THB 1,500-2,000 है। वैकल्पिक रूप से, पटाया के लिए एयरपोर्ट बस लें और फिर पार्क तक स्थानीय टैक्सी लें।"
+        },
+        {
+          "question": "U-Tapao हवाई अड्डे से Aquaverse कैसे पहुँचें?",
+          "answer": "U-Tapao हवाई अड्डा (पटाया हवाई अड्डा) Aquaverse के सबसे नज़दीक है, कार से केवल लगभग 25 मिनट की दूरी पर। U-Tapao से Aquaverse तक टैक्सी का खर्च THB 400-600 है।"
+        }
+      ],
+      "howTo": {
+        "name": "बैंकॉक से Columbia Pictures Aquaverse कैसे पहुँचें",
+        "description": "बैंकॉक से पटाया में Aquaverse वॉटर पार्क पहुँचने के लिए कार, बस, वैन या टैक्सी से चरण-दर-चरण निर्देश।",
+        "steps": [
+          {
+            "name": "अपना परिवहन चुनें",
+            "text": "कार (1.5-2 घंटे), Ekkamai से बस (2-2.5 घंटे, THB 108-150), शेयर्ड वैन (2 घंटे, THB 240), या टैक्सी/Grab (1.5-2 घंटे, THB 1,200-1,500) में से चुनें।"
+          },
+          {
+            "name": "पटाया क्षेत्र तक यात्रा करें",
+            "text": "यदि गाड़ी चला रहे हैं, तो पटाया/Chon Buri की ओर Motorway Route 7 लें और Sattahip की ओर निकलें। यदि बस या वैन ले रहे हैं, तो Ekkamai Bus Terminal (BTS Ekkamai, Exit 2) या Victory Monument BTS स्टेशन से रवाना हों।"
+          },
+          {
+            "name": "पार्क तक पहुँचें",
+            "text": "यदि गाड़ी चला रहे हैं, तो Columbia Pictures Aquaverse के संकेतों का पालन करें। यदि पटाया में बस या वैन से आ रहे हैं, तो पार्क तक Grab या टैक्सी लें (THB 350-500, 20-30 मिनट)। ड्राइवरों के लिए मुफ़्त पार्किंग उपलब्ध है।"
+          },
+          {
+            "name": "Aquaverse पहुँचें",
+            "text": "पार्क 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250 पर स्थित है। मुफ़्त पार्किंग क्षेत्र में पार्क करें और प्रवेश द्वार की ओर जाएँ।"
+          }
+        ]
+      }
+    }
   }
 }

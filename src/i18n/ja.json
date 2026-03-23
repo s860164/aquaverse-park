@@ -1663,5 +1663,317 @@
     "schema": {
       "breadcrumbCurrent": ""
     }
+  },
+  "gettingThere": {
+    "title": "Aquaverseパタヤへのアクセス方法 | 完全交通ガイド 2026",
+    "metaDescription": "バンコク、パタヤ、空港からColumbia Pictures Aquaverseへの全交通手段。車、バス、タクシー、Grab別。道順、料金、所要時間、駐車場情報。",
+    "metaKeywords": "Aquaverse アクセス方法, アクアバース 道順, アクアバース パタヤ 交通, バンコク アクアバース, パタヤ ウォーターパーク 行き方, アクアバース 駐車場, アクアバース Grab タクシー, エカマイ パタヤ, スワンナプーム アクアバース",
+    "ogTitle": "Aquaverseパタヤへのアクセス方法 | 完全交通ガイド 2026",
+    "ogDescription": "バンコク、パタヤ、空港からColumbia Pictures Aquaverseへの全交通手段。道順、料金、所要時間、駐車場情報。",
+    "twitterTitle": "Aquaverseパタヤへのアクセス方法 | 交通ガイド 2026",
+    "twitterDescription": "バンコク、パタヤ、空港からAquaverseへの全交通手段。車、バス、タクシー、Grab別。料金と所要時間。",
+    "hero": {
+      "badge": "完全交通ガイド",
+      "h1": "Aquaverseへのアクセス方法",
+      "h1Sub": "タイ・パタヤ",
+      "sub": "Columbia Pictures Aquaverseへのアクセスに必要な情報をすべてご紹介します。\n        バンコク、パタヤ、空港から &mdash; 車、バス、タクシー、Grabまで。",
+      "cta1": "バンコクから &darr;",
+      "cta2": "パタヤから &darr;",
+      "stats": [
+        {
+          "number": "1.5時間",
+          "label": "バンコクから"
+        },
+        {
+          "number": "30分",
+          "label": "パタヤから"
+        },
+        {
+          "number": "無料",
+          "label": "駐車場"
+        },
+        {
+          "number": "THB 300-500",
+          "label": "パタヤからGrab"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "アクセス",
+    "tldr": [
+      {
+        "bold": "住所：",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250 (<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Googleマップ</a>)"
+      },
+      {
+        "bold": "バンコクから：",
+        "text": "車またはタクシーで1.5〜2時間 &bull; バスで2〜2.5時間"
+      },
+      {
+        "bold": "パタヤ中心部から：",
+        "text": "Grab/タクシーで20〜30分（THB 350〜500）"
+      },
+      {
+        "bold": "駐車場：",
+        "text": "全ゲスト無料 &mdash; 広く、明るく、安全"
+      },
+      {
+        "bold": "公式シャトルなし：",
+        "text": "Grab（パタヤからTHB 300〜500）か、ホテルまたはツアーオペレーターを通じてプライベート送迎を手配"
+      },
+      {
+        "bold": "おすすめのヒント：",
+        "text": "タイ全土で最安値のタクシー料金が透明な <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grabアプリ</strong></a> を利用してください"
+      }
+    ],
+    "location": {
+      "sectionLabel": "パークの場所",
+      "heading": "Aquaverseはどこにありますか？",
+      "description": "Columbia Pictures Aquaverseは、パタヤとサッタヒップ海軍基地の間にあるナジョムティエン/サッタヒップエリアの沿岸スクムウィット道路沿いに位置しています。",
+      "gbp": {
+        "category": "ウォーターパーク &middot; テーマパーク &middot; パタヤ",
+        "details": [
+          "<strong>住所：</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>営業時間：</strong> 午前10時 &ndash; 午後6時（水曜定休）<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>確認中...</span>",
+          "<strong>電話：</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>駐車場：</strong> 全ゲスト無料",
+          "<strong>パタヤからGrab：</strong> THB 300&ndash;500（公式パークシャトルなし）"
+        ],
+        "mapBtn": "Googleマップで開く &rarr;"
+      },
+      "mapCaption": "パタヤとサッタヒップ間のスクムウィット道路沿いに位置しています。パタヤから南下すると、道路左側に大きなColumbia Pictures Aquaverseの看板が見えます。"
+    },
+    "fromBangkok": {
+      "sectionLabel": "バンコクから",
+      "heading": "バンコクからAquaverseへのアクセス方法",
+      "description": "バンコクからAquaverseまでは約150 kmです。予算と好みに応じて、いくつかの交通手段があります。",
+      "cards": [
+        {
+          "h3": "車で（1.5〜2時間）",
+          "content": "<p>特にファミリーに最も柔軟な選択肢。パークに無料駐車場あり。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>高速7号線</strong>でパタヤ/チョンブリ方面へ</li>\n              <li>パタヤを過ぎて<strong>サッタヒップ</strong>方面の出口を降りる</li>\n              <li><strong>スクムウィット道路</strong>を南へ進む</li>\n              <li>左手に<strong>Columbia Pictures Aquaverse</strong>の看板を探す</li>\n              <li>パーク入口に無料駐車場あり</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>通行料：</strong> 高速7号線片道約THB 155<br>\n              <strong>燃料費：</strong> 往復約THB 400〜600<br>\n              <strong>駐車場：</strong> 無料\n            </div>"
+        },
+        {
+          "h3": "バスで（2〜2.5時間）",
+          "content": "<p>バンコクから最も経済的な選択肢。エカマイから頻繁に出発。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>エカマイバスターミナル</strong>（東部バスターミナル）へ</li>\n              <li><strong>BTSエカマイ駅、2番出口</strong> &mdash; ターミナルはすぐそこ</li>\n              <li>パタヤ行きバスは<strong>30分ごと</strong>に出発</li>\n              <li>チケット代：<strong>THB 108〜150</strong></li>\n              <li>パタヤバスターミナルに到着後、GrabまたはタクシーでパークへGrab/taxi from Pattaya to Aquaverse: <strong>THB 350〜500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>合計料金：</strong> 約THB 430〜630/人<br>\n              <strong>始発：</strong> 午前5時 &bull; <strong>終発：</strong> 午後11時\n            </div>"
+        },
+        {
+          "h3": "乗り合いバン/ミニバスで（2時間）",
+          "content": "<p>バスより速いが少し高め。快適な10人乗りミニバン。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li><strong>ビクトリーモニュメントBTS</strong>または<strong>エカマイ</strong>から出発</li>\n              <li>チケット代：<strong>THB 240/人</strong></li>\n              <li>バンは<strong>1時間ごと</strong>に出発（週末はより頻繁）</li>\n              <li>パタヤで降りてタクシーでパークへ</li>\n              <li>パタヤからAquaverseへのGrab/タクシー：<strong>THB 350〜500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>合計料金：</strong> 約THB 560〜740/人<br>\n              <strong>ヒント：</strong> 客引きからではなく、バンカウンターでチケットを購入してください\n            </div>"
+        },
+        {
+          "h3": "タクシー/Grabで（1.5〜2時間）",
+          "content": "<p>最も便利な選択肢。乗り換えなしのドアツードアサービス。</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>料金：<strong>THB 1,200〜1,500</strong>＋通行料（約THB 155）</li>\n              <li>透明な料金設定の <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Grabアプリ</strong></a> で予約</li>\n              <li>最大3人まで相乗り可能</li>\n              <li>直接ドアツードア、乗り換え不要</li>\n              <li>グループに最適 &mdash; 4人で割ると約THB 340/人</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>合計料金：</strong> 約THB 1,355〜1,655/台<br>\n              <strong>ヒント：</strong> 長距離はメータータクシーを避け、Grabで固定料金を利用してください\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "空港から",
+      "heading": "空港からAquaverseへのアクセス",
+      "description": "パタヤエリアには2つの空港があります：スワンナプーム（バンコクの主要空港）とウタパオ（パタヤの地方空港）。",
+      "cards": [
+        {
+          "h3": "スワンナプーム空港（BKK）から",
+          "content": "<p style=\"margin-bottom: 1rem;\">バンコクの主要国際空港。Aquaverseまで車で約<strong>90分</strong>。</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>タクシー：</strong> THB 1,500〜2,000（パーク直行）</li>\n              <li><strong>Grab：</strong> 到着ロビーでアプリ予約 &mdash; タクシーと同程度の料金</li>\n              <li><strong>空港バス＋タクシー：</strong> 空港バスでパタヤへ（約THB 200）、その後タクシーでパーク（THB 350〜500）</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>距離：</strong> 約120 km<br>\n              <strong>所要時間：</strong> 1.5時間（渋滞なし）\n            </div>"
+        },
+        {
+          "h3": "ウタパオ空港（UTP）から",
+          "content": "<p style=\"margin-bottom: 1rem;\">パタヤに最も近い空港。Aquaverseまで車で約<strong>25分</strong>。</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>タクシー：</strong> THB 400〜600（パーク直行）</li>\n              <li><strong>Grab：</strong> 利用可能台数が限られる場合あり &mdash; 可能であれば事前予約を</li>\n              <li>ウタパオはチェンマイ、クアラルンプール、一部の中国都市からの便あり</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>距離：</strong> 約25 km<br>\n              <strong>所要時間：</strong> 25分\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "パタヤから",
+      "heading": "パタヤ中心部からAquaverseへのアクセス",
+      "description": "Aquaverseはパタヤ市内中心部の南側に位置し、道路で約20〜30分です。",
+      "cards": [
+        {
+          "h3": "Grab / タクシー",
+          "price": "<strong>THB 350〜500</strong>",
+          "description": "20〜30分。Grabアプリで固定料金を利用。ホテルからの最も便利な選択肢。"
+        },
+        {
+          "h3": "ソンテウ",
+          "price": "<strong>THB 20〜50</strong>",
+          "description": "ナクルア〜サッタヒップ路線の白いソンテウ（乗り合いトラック）。安いが時間がかかり、降車地点から歩く場合があります。"
+        },
+        {
+          "h3": "Grab / タクシー",
+          "price": "<strong>THB 300〜500 片道</strong>",
+          "description": "パタヤ中心部からGrabアプリで予約（20〜30分）。公式パークシャトルバスなし。一部のホテルやツアーオペレーターが追加料金で送迎を提供しています。"
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "交通のヒント",
+      "heading": "パタヤからAquaverseへのアクセス",
+      "description": "公式パークシャトルバスはありません。パタヤからパークへの最善のアクセス方法をご紹介します。",
+      "recommendedHeading": "おすすめの交通手段",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab：</strong> パタヤ中心部からTHB 300〜500（20〜30分）。最も簡単な選択肢 &mdash; Grabアプリで予約。</li>\n                <li><strong>プライベートタクシー：</strong> 乗車前に料金を交渉してください。片道通常THB 300〜500。</li>\n                <li><strong>ホテル送迎：</strong> 一部のホテルやツアーオペレーターが追加料金で送迎を手配。ホテルフロントにお問い合わせください。</li>\n                <li><strong>ソンテウ＋Grab：</strong> 白いソンテウでナジョムティエンへ（THB 20〜50）、その後Grabで残りの区間へ。</li>\n                <li><strong>自家用車：</strong> パークに無料駐車場あり。GoogleマップでGPSを「Columbia Pictures Aquaverse」に設定。</li>\n              </ul>",
+      "bookingBtn": "オンラインでチケット予約 &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "パタヤ中心部からGrab",
+        "checkmarks": [
+          "&#10003; Grabアプリで予約",
+          "&#10003; 20〜30分の乗車",
+          "&#10003; エアコン付き",
+          "&#10003; 固定料金、値段交渉不要"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "駐車場",
+      "heading": "Aquaverseの駐車場",
+      "description": "ドライバーの方に朗報 &mdash; Aquaverseの駐車場は全ゲスト完全無料です。",
+      "cards": [
+        {
+          "h3": "無料駐車場",
+          "text": "全ゲストに駐車料金なし。時間料金や駐車券を気にせず、安心して駐車できます。"
+        },
+        {
+          "h3": "広い駐車エリア",
+          "text": "車、バン、観光バスを含む数百台が駐車できる広大な駐車場。スペース確保のために早めに到着する必要はありません。"
+        },
+        {
+          "h3": "明るく安全",
+          "text": "駐車エリアは照明が完備され、警備員が常駐しています。1日中パークを楽しんでいる間も安心して車を駐車できます。"
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "オプション比較",
+      "heading": "交通手段一覧比較",
+      "description": "バンコクからAquaverseへの全交通手段の比較。",
+      "headers": [
+        "交通手段",
+        "所要時間",
+        "料金",
+        "利便性",
+        "おすすめ"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 自家用車",
+          "time": "1.5〜2時間",
+          "cost": "THB 155（通行料）",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "ファミリー、グループ"
+        },
+        {
+          "transport": "🚕 タクシー / Grab",
+          "time": "1.5〜2時間",
+          "cost": "THB 1,200〜1,500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "カップル、少人数グループ"
+        },
+        {
+          "transport": "🚐 乗り合いバン",
+          "time": "2時間＋タクシー",
+          "cost": "約THB 560〜740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "ひとり旅"
+        },
+        {
+          "transport": "🚌 バス",
+          "time": "2〜2.5時間＋タクシー",
+          "cost": "約THB 430〜630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "節約旅行者"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "旅行のヒント",
+      "heading": "Aquaverseへのアクセスのヒント",
+      "description": "これらの実用的な旅行ヒントで移動をよりスムーズにしましょう。",
+      "cards": [
+        {
+          "h3": "Grabアプリを使う",
+          "text": "旅行前に<strong>Grabアプリ</strong>をダウンロードしてください。タイ全土での乗車料金が透明で固定 &mdash; 値段交渉やメータースキャムなし。Uberのように使えます。"
+        },
+        {
+          "h3": "ピーク時間帯を避ける",
+          "text": "<strong>金曜夜</strong>（バンコク→パタヤ）と<strong>日曜夜</strong>（パタヤ→バンコク）の移動を避けてください。これらの日は高速7号線の渋滞で所要時間が倍になることがあります。"
+        },
+        {
+          "h3": "近くのアトラクションと組み合わせる",
+          "text": "AquaverseはパタヤのトップアトラクションであるNong Nooch Tropical Gardenからわずか<strong>10分</strong>。複数日の旅程で両方を組み合わせることを検討してください。"
+        },
+        {
+          "h3": "早めに到着する",
+          "text": "パークは<strong>午前10時</strong>に開園します。開園時刻に到着すれば、最初の2時間は行列が短く、温度も涼しいです。バンコクを午前7時30分〜8時に出発することを目標にしてください。"
+        },
+        {
+          "h3": "曜日を確認する",
+          "text": "Aquaverseはメンテナンスのため<strong>毎週水曜定休</strong>です。確認せずに行かないように！平日（月曜、火曜、木曜）は混雑が最も少ないです。"
+        },
+        {
+          "h3": "オンラインでチケットを予約する",
+          "text": "事前にオンライン予約してゲート価格より<strong>25%以上</strong>節約。オンラインチケットは約THB 1,200から（ゲートは約THB 1,600）（最新料金をご確認ください）。ロッカーレンタル無料付き。"
+        }
+      ],
+      "ctaText": "より詳細な訪問者向けヒントは、完全ガイドをご覧ください：",
+      "cta": "全攻略法を読む &rarr;"
+    },
+    "cta": {
+      "heading": "Aquaverse訪問の準備はできましたか？",
+      "text": "アクセス方法がわかったら、オンラインでチケットを予約してゲート価格より25%以上節約しましょう！",
+      "btn1": "割引チケットを予約する &rarr;",
+      "btn2": "バンコク詳細ガイドを読む",
+      "subtext": "オンラインチケットは<strong>約THB 1,200から</strong>（ゲート価格約THB 1,600） &bull; 3歳未満無料"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "バンコクからAquaverseへはどうやって行きますか？",
+          "answer": "バンコクからAquaverseへは、車（高速7号線経由で1.5〜2時間）、エカマイバスターミナルからのバス（2〜2.5時間、THB 108〜150）、ビクトリーモニュメントまたはエカマイからの乗り合いバン（2時間、THB 240/人）、またはタクシー/Grab（1.5〜2時間、THB 1,200〜1,500＋通行料）でアクセスできます。"
+        },
+        {
+          "question": "バンコクからAquaverseへのタクシー料金はいくらですか？",
+          "answer": "バンコクからAquaverseへのタクシーまたはGrabの料金は約THB 1,200〜1,500＋高速通行料約THB 155です。スワンナプーム空港からはTHB 1,500〜2,000が目安です。所要時間は交通状況により1.5〜2時間です。"
+        },
+        {
+          "question": "Aquaverseに駐車場はありますか？",
+          "answer": "はい、Aquaverseは全ゲストに無料駐車場を提供しています。駐車場は広く、明るく、安全です。事前に駐車スペースを予約する必要はありません。"
+        },
+        {
+          "question": "Aquaverseにシャトルバスはありますか？",
+          "answer": "いいえ、Aquaverseは公式シャトルバスを運行していません。パタヤからの最善の選択肢はGrab（THB 300〜500、20〜30分）またはプライベートタクシーです。一部のツアーオペレーターやホテルが追加料金で送迎を手配しています。"
+        },
+        {
+          "question": "Aquaverseからパタヤセンターまではどのくらいですか？",
+          "answer": "Aquaverseはパタヤ市内中心部から車で約20〜30分です。GrabまたはタクシーはTHB 300〜500です。ナクルア〜サッタヒップ路線の白いソンテウ（乗り合いトラック）も利用できます。公式パークシャトルバスはありません。"
+        },
+        {
+          "question": "スワンナプーム空港からAquaverseへはどうやって行きますか？",
+          "answer": "スワンナプーム空港からAquaverseまで車で約90分です。タクシーはTHB 1,500〜2,000です。または、空港バスでパタヤへ行き（約THB 200）、そこからタクシーでパークへ向かうこともできます。"
+        },
+        {
+          "question": "ウタパオ空港からAquaverseへはどうやって行きますか？",
+          "answer": "ウタパオ空港（パタヤ空港）はAquaverseに最も近い空港で、車で約25分です。ウタパオからAquaverseへのタクシーはTHB 400〜600です。"
+        }
+      ],
+      "howTo": {
+        "name": "バンコクからColumbia Pictures Aquaverseへのアクセス方法",
+        "description": "車、バス、バン、タクシーでバンコクからパタヤのAquaverseウォーターパークへの道順。",
+        "steps": [
+          {
+            "name": "交通手段を選ぶ",
+            "text": "車（1.5〜2時間）、エカマイからのバス（2〜2.5時間、THB 108〜150）、乗り合いバン（2時間、THB 240）、またはタクシー/Grab（1.5〜2時間、THB 1,200〜1,500）からお選びください。"
+          },
+          {
+            "name": "パタヤエリアへ移動",
+            "text": "車の場合、高速7号線でパタヤ/チョンブリ方面に向かい、サッタヒップ方面へ出口を降ります。バスやバンの場合、エカマイバスターミナル（BTSエカマイ駅2番出口）またはビクトリーモニュメントBTS駅から出発します。"
+          },
+          {
+            "name": "パークへ向かう",
+            "text": "車の場合、Columbia Pictures Aquaverseへの案内標識に従います。バスやバンでパタヤに到着した場合、Grabまたはタクシーでパークへ向かいます（THB 350〜500、20〜30分）。ドライバー向けの無料駐車場があります。"
+          },
+          {
+            "name": "Aquaverseに到着",
+            "text": "パークは888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250にあります。無料駐車場に駐車し、入口へ向かってください。"
+          }
+        ]
+      }
+    }
   }
 }
