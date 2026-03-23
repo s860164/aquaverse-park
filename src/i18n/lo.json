@@ -306,5 +306,2153 @@
     "affiliate": "Aquaverse-Park.com is an independent travel guide and affiliate website. We earn commissions from qualifying purchases made through links on this site at no extra cost to you. Tickets are sold through authorized resellers (Klook) and are official e-tickets for Columbia Pictures Aquaverse.",
     "disclaimer": "Aquaverse-Park.com is <strong>not</strong> the official website of Columbia Pictures Aquaverse. We are not affiliated with, endorsed by, or connected to Columbia Pictures, Sony Pictures Entertainment, Amazon MGM Studios, or any of their subsidiaries. All trademarks, logos, and brand names are the property of their respective owners. Prices, operating hours, and park information are subject to change without notice. Please verify all details on the official website before your visit.",
     "copyright": "&copy; 2026 Aquaverse-Park.com &mdash; Independent travel guide. Not an official website."
+  },
+  "home": {
+    "title": "Columbia Pictures Aquaverse ພັດທະຍາ | ປີ້, ເຄື່ອງຫຼິ້ນ ແລະ ຄູ່ມືທ່ອງທ່ຽວ 2026",
+    "metaDescription": "ຄູ່ມືສົມບູນ Columbia Pictures Aquaverse ໃນພັດທະຍາ, ປະເທດໄທ. 9 ໂຊນຮູບເງົາ, 20+ ເຄື່ອງຫຼິ້ນນ້ຳ, ປີ້ເລີ່ມຈາກ THB 1,176. ເວລາເປີດ, ວິທີໄປ, ເຄັດລັບ ແລະ ລີວິວ.",
+    "metaKeywords": "Aquaverse, Columbia Pictures Aquaverse, Aquaverse ພັດທະຍາ, ສວນນ້ຳພັດທະຍາ, ສວນສະໜຸກປະເທດໄທ, ປີ້ Aquaverse, ເຄື່ອງຫຼິ້ນ Aquaverse, ສວນນ້ຳ Ghostbusters, ເຄື່ອງຫຼິ້ນ Jumanji, ສວນນ້ຳ Hotel Transylvania",
+    "ogTitle": "Columbia Pictures Aquaverse ພັດທະຍາ | ຄູ່ມືສົມບູນ ແລະ ປີ້ 2026",
+    "ogDescription": "ສວນນ້ຳທຳອິດຂອງໂລກທີ່ມີແນວຄິດ Columbia Pictures ຢູ່ພັດທະຍາ. 9 ໂຊນຮູບເງົາ, 20+ ເຄື່ອງຫຼິ້ນ. ຮັບປີ້ລາຄາພິເສດ ແລະ ຄູ່ມືນັກທ່ອງທ່ຽວສົມບູນ.",
+    "twitterTitle": "Columbia Pictures Aquaverse ພັດທະຍາ | ຄູ່ມືສົມບູນ 2026",
+    "twitterDescription": "9 ໂຊນຮູບເງົາ, 20+ ເຄື່ອງຫຼິ້ນນ້ຳ ຢູ່ພັດທະຍາ. ປີ້ເລີ່ມຈາກ THB 1,176. ຄູ່ມືນັກທ່ອງທ່ຽວສົມບູນ.",
+    "schemaDescription": "The world's first Columbia Pictures themed water and amusement park in Pattaya, Thailand, featuring 9 movie-themed zones with 20+ rides and attractions.",
+    "heroPreTitle": "Columbia Pictures",
+    "heroTitle": "Aquaverse",
+    "heroSubtitle": "ພັດທະຍາ, ປະເທດໄທ",
+    "heroCta": "ຈອງປີ້ລາຄາພິເສດ &rarr;",
+    "stats": [
+      {
+        "number": "9",
+        "label": "ໂຊນຮູບເງົາ"
+      },
+      {
+        "number": "20+",
+        "label": "ເຄື່ອງຫຼິ້ນ"
+      },
+      {
+        "number": "4.3/5",
+        "label": "ຄະແນນ Google"
+      },
+      {
+        "number": "~27%",
+        "label": "ສ່ວນຫຼຸດອອນລາຍ"
+      }
+    ],
+    "tldr": [
+      {
+        "bold": "ແມ່ນຫຍັງ:",
+        "text": "ສວນນ້ຳແນວຄິດ Columbia Pictures ແຫ່ງທຳອິດຂອງໂລກ ມີ 9 ໂຊນຮູບເງົາ (Ghostbusters, Jumanji, Hotel Transylvania, Zombieland, ແລະ ອື່ນໆ)"
+      },
+      {
+        "bold": "ຢູ່ໃສ:",
+        "text": "ນາຈອມທຽນ, ສັດຕະຫີບ, ພັດທະຍາ &mdash; 1.5 ຊົ່ວໂມງຈາກກຸງເທບ"
+      },
+      {
+        "bold": "ເວລາ:",
+        "text": "ທຸກມື້ 10:00 &ndash; 18:00 (ປິດວັນພຸດ)"
+      },
+      {
+        "bold": "ປີ້:",
+        "text": "ເລີ່ມຈາກ THB 1,176 ອອນລາຍ (ລາຄາໜ້າປະຕູ THB 1,595) &mdash; ເດັກອາຍຸຕ່ຳກວ່າ 3 ປີເຂົ້າຟຣີ"
+      },
+      {
+        "bold": "ເໝາະສຳລັບ:",
+        "text": "ຄອບຄົວ, ຜູ້ຊອກຫາຄວາມຕື່ນເຕັ້ນ, ຄົນຮັກຮູບເງົາ &mdash; ທ່ຽວແບບມື້ດຽວຈາກກຸງເທບ ຫຼື ພັດທະຍາ"
+      },
+      {
+        "bold": "ເຄື່ອງຫຼິ້ນເດັ່ນ:",
+        "text": "ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ, ສະໄລນ້ຳສູງທີ່ສຸດໃນອາຊີ (18 ແມັດ), ເຄື່ອງຈຳລອງ FlowRider, ລົດໂກ-ກາດ, ອົງເຊັນ"
+      }
+    ],
+    "gbp": {
+      "category": "ສວນນ້ຳ &middot; ສວນສະໜຸກ &middot; ພັດທະຍາ",
+      "ratingAriaLabel": "4.3 ຈາກ 5 ດາວ",
+      "ratingText": "<strong>4.3</strong> (7,840+ ລີວິວ)",
+      "details": [
+        "<strong>ທີ່ຢູ່:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+        "<strong>ເວລາ:</strong> 10:00 &ndash; 18:00 (ປິດວັນພຸດ)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>ກຳລັງກວດສອບ...</span>",
+        "<strong>ໂທລະສັບ:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+        "<strong>ປີ້:</strong> THB 1,176 &ndash; 1,595 ຕໍ່ຄົນ",
+        "<strong>ບ່ອນຈອດລົດ:</strong> ຟຣີສຳລັບແຂກທຸກຄົນ"
+      ],
+      "statusText": "ກຳລັງກວດສອບ...",
+      "ctaText": "ຮັບປີ້ລາຄາພິເສດ &rarr;"
+    },
+    "whyVisit": {
+      "heading": "ເປັນຫຍັງຕ້ອງມາ Aquaverse?",
+      "introText": "Columbia Pictures Aquaverse ເປັນ<strong>ສວນສະໜຸກແບຣນ Columbia Pictures ແຫ່ງທຳອິດຂອງໂລກ</strong>, ຕັ້ງຢູ່ບໍລິເວນຊາຍຫາດພັດທະຍາ. ເດີມເປີດໃຫ້ບໍລິການໃນຊື່ Cartoon Network Amazone ໃນປີ 2014, ສວນສະໜຸກນີ້ໄດ້ຖືກອອກແບບໃໝ່ທັງໝົດ ແລະ ເປີດຕົວໃໝ່ໃນ<strong>ເດືອນຕຸລາ 2022</strong> ພ້ອມລິຂະສິດ Sony Pictures.",
+      "cards": [
+        {
+          "heading": "9 ໂຊນຮູບເງົາ",
+          "text": "ແນວຄິດຈາກຮູບເງົາຍອດນິຍົມ ລວມທັງ Ghostbusters, Jumanji, Hotel Transylvania, ແລະ Zombieland"
+        },
+        {
+          "heading": "20+ ເຄື່ອງຫຼິ້ນ",
+          "text": "ຈາກສະໄລນ້ຳທີ່ໜ້າຕື່ນເຕັ້ນ ເຖິງສະລອຍນ້ຳຄື້ນຍັກ, ແມ່ນ້ຳຊ້າ, ແລະ ເຄື່ອງຈຳລອງ FlowRider"
+        },
+        {
+          "heading": "ເໝາະກັບຄອບຄົວ",
+          "text": "ສວນນ້ຳເດັກນ້ອຍແບຣນໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້ ຢູ່ໂຊນ Hotel Transylvania ມີ ຫຼາຍສິບຈຸດນ້ຳ"
+        },
+        {
+          "heading": "ຫຼາຍກວ່ານ້ຳ",
+          "text": "ລົດໂກ-ກາດ, ມິນິກ໋ອຟ, ອົງເຊັນ, ການສະແດງສົດ, ແລະ ຄອນເສີດຢູ່ Omnitheatre ສະລອຍນ້ຳຄື້ນ"
+        }
+      ]
+    },
+    "zones": {
+      "sectionLabel": "ສຳຫຼວດສວນສະໜຸກ",
+      "heading": "9 ໂຊນແນວຄິດຮູບເງົາ",
+      "description": "ແຕ່ລະໂຊນເຮັດໃຫ້ຮູບເງົາ Columbia Pictures ທີ່ທ່ານມັກມີຊີວິດຂຶ້ນດ້ວຍແນວຄິດທີ່ເລິກເຊິ່ງ, ເຄື່ອງຫຼິ້ນເປັນເອກະລັກ, ແລະ ປະສົບການທີ່ບໍ່ມີວັນລືມ.",
+      "items": [
+        {
+          "cssClass": "zone-hotel-t",
+          "tag": "ເດັກນ້ອຍມັກທີ່ສຸດ",
+          "name": "ໂຊນ Hotel Transylvania",
+          "description": "ສວນນ້ຳແບຣນໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້. 9 ສະໄລນ້ຳ, ຫຼາຍສິບຈຸດນ້ຳ, ແລະ ພົບກັບຕົວລະຄອນ Drac, Mavis, ແລະ Blobby.",
+          "highlights": [
+            {
+              "emoji": "👶",
+              "label": "ເໝາະກັບຄອບຄົວ"
+            },
+            {
+              "emoji": "📸",
+              "label": "ຕົວລະຄອນ"
+            },
+            {
+              "emoji": "🎉",
+              "label": "ປາຕີ້ຟອງ"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-ghostbusters",
+          "tag": "ທຳອິດຂອງໂລກ",
+          "name": "ໂຊນ Ghostbusters",
+          "description": "ບ້ານຂອງໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ! ລື່ນຜ່ານຕາແສງ ແລະ ໂຄ້ງໃນຄວາມມືດເທິງແພຂອງ Ghostbusters, ແລ້ວຕົກລົງໃສ່ໂດມນ້ຳໃຫຍ່.",
+          "highlights": [
+            {
+              "emoji": "💥",
+              "label": "ເຄື່ອງຫຼິ້ນທ້າທາຍ"
+            },
+            {
+              "emoji": "🔮",
+              "label": "ໂດມນ້ຳ"
+            },
+            {
+              "emoji": "👻",
+              "label": "ກັບດັກຜີ"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-zombieland",
+          "tag": "ສຸດຂີດ",
+          "name": "ໂຊນ Zombieland",
+          "description": "ມີ \"The Beast\" &mdash; ໜຶ່ງໃນສະໄລນ້ຳທີ່ສູງທີ່ສຸດໃນອາຊີ ດ້ວຍຈຸດຕົກແນວຕັ້ງ 18 ແມັດ! ລວມທັງສະໄລໝຸນ 360 ອົງສາ ແລະ ແຂ່ງເສື່ອ.",
+          "highlights": [
+            {
+              "emoji": "⚡",
+              "label": "ຕົກ 18 ແມັດ"
+            },
+            {
+              "emoji": "🔄",
+              "label": "ໝຸນ 360°"
+            },
+            {
+              "emoji": "🏃",
+              "label": "ແຂ່ງເສື່ອ"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-jumanji",
+          "tag": "ການຜະຈົນໄພ",
+          "name": "ໂຊນ Jumanji",
+          "description": "ເຂົ້າສູ່ປ່າດົງດິບ! ພິຊິດພູ Jaguar, ຫຼີກລ່ຽງສະໄລ Viper, ແລະ ລອດຈາກການໂຈมຕີຂອງປ່າ ເມື່ອໝູ່ລິງໄລ່ທ່ານລົງສະລອຍນ້ຳ.",
+          "highlights": [
+            {
+              "emoji": "🌿",
+              "label": "ແນວຄິດປ່າ"
+            },
+            {
+              "emoji": "🏔️",
+              "label": "ພູ Jaguar"
+            },
+            {
+              "emoji": "🐍",
+              "label": "ສະໄລ Viper"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-surfs-up",
+          "tag": "ໂຕ້ຄື້ນມືອາຊີບ",
+          "name": "ໂຊນ Surf's Up",
+          "description": "ໂຕ້ຄື້ນໃນເຄື່ອງຈຳລອງ FlowRider ພ້ອມຄຳແນະນຳຈາກມືອາຊີບ! ເໝາະສຳລັບຜູ້ເລີ່ມຕົ້ນ ແລະ ນັກໂຕ້ຄື້ນທີ່ມີປະສົບການ.",
+          "highlights": [
+            {
+              "emoji": "🏄",
+              "label": "FlowRider"
+            },
+            {
+              "emoji": "👨‍🏫",
+              "label": "ຄູສອນມືອາຊີບ"
+            },
+            {
+              "emoji": "🤙",
+              "label": "ກະດານ Boogie"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-cloudy",
+          "tag": "ພັກຜ່ອນ",
+          "name": "Cloudy with a Chance of Meatballs",
+          "description": "ລອຍໄປຕາມແມ່ນ້ຳຊ້າ Swallow Falls, ອ້ອມຮອບດ້ວຍ Foodimals ແປກໆ ແລະ ປະສົບການແນວຄິດອາຫານຈາກຮູບເງົາ.",
+          "highlights": [
+            {
+              "emoji": "🛟",
+              "label": "ແມ່ນ້ຳຊ້າ"
+            },
+            {
+              "emoji": "🍔",
+              "label": "ແນວຄິດອາຫານ"
+            },
+            {
+              "emoji": "😌",
+              "label": "ພັກຜ່ອນ"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-bad-boys",
+          "tag": "ໂກ-ກາດ",
+          "name": "Bad Boys Race Club",
+          "description": "ເຂົ້າຮ່ວມສະໜາມແຂ່ງໂກ-ກາດແນວຄິດ Miami! ລົດແຂ່ງອອກແບບພິເສດ ແລະ ລົດຖີບ drift ສຳລັບປະສົບການແຂ່ງເຕັມໄປດ້ວຍອາດຣີນາລິນ.",
+          "highlights": [
+            {
+              "emoji": "🏎️",
+              "label": "ໂກ-ກາດ"
+            },
+            {
+              "emoji": "🏁",
+              "label": "ສະໜາມແຂ່ງ"
+            },
+            {
+              "emoji": "💰",
+              "label": "ຈ່າຍເພີ່ມ"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-emoji",
+          "tag": "ມິນິກ໋ອຟ",
+          "name": "ໂຊນ The Emoji Movie",
+          "description": "ສະໜາມມິນິກ໋ອຟທີ່ມ່ວນ ມີອຸປະສັກສ້າງສັນໄດ້ຮັບແຮງບັນດານໃຈຈາກ The Emoji Movie. ແຂ່ງກັບໝູ່ ແລະ ຄອບຄົວເພື່ອລາງວັນ!",
+          "highlights": [
+            {
+              "emoji": "⛳",
+              "label": "ມິນິກ໋ອຟ"
+            },
+            {
+              "emoji": "🏆",
+              "label": "ລາງວັນ"
+            },
+            {
+              "emoji": "💰",
+              "label": "ຈ່າຍເພີ່ມ"
+            }
+          ]
+        },
+        {
+          "cssClass": "zone-wave-pool",
+          "tag": "ໂຮງໜັງ + ຄື້ນ",
+          "name": "ສະລອຍນ້ຳຄື້ນຍັກ Mega Omnitheatre",
+          "description": "ຈຸດເດັ່ນຂອງ Aquaverse! ຄື້ນຍັກທຸກ 20 ນາທີ, ປາຕີ້ຟອງ, ສາຍຮູບເງົາກາງແຈ້ງ, ຄອນເສີດສົດ ພ້ອມລະບົບສຽງ Dolby DTS.",
+          "highlights": [
+            {
+              "emoji": "🌊",
+              "label": "ຄື້ນຍັກ"
+            },
+            {
+              "emoji": "🎬",
+              "label": "ຈໍໜັງ"
+            },
+            {
+              "emoji": "🎸",
+              "label": "ດົນຕຣີສົດ"
+            }
+          ]
+        }
+      ],
+      "viewAll": "ເບິ່ງເຄື່ອງຫຼິ້ນ ແລະ ລາຍລະອຽດທັງໝົດ &rarr;"
+    },
+    "tickets": {
+      "sectionLabel": "ປີ້ ແລະ ລາຄາ",
+      "heading": "ຮັບຂໍ້ສະເໜີປີ້ Aquaverse ທີ່ດີທີ່ສຸດ",
+      "description": "ປະຢັດສູງສຸດ ~27% ດ້ວຍການຈອງອອນລາຍ. ປີ້ທັງໝົດລວມການເຂົ້າສວນສະໜຸກ, ເຊົ່າຕູ້ເກັບຂອງ, ແລະ ເຂົ້າເຖິງເຄື່ອງຫຼິ້ນນ້ຳ.",
+      "cards": [
+        {
+          "heading": "ລາຄາໜ້າປະຕູ",
+          "periodText": "~$44 USD ຕໍ່ຄົນ",
+          "features": [
+            "ເຄື່ອງຫຼິ້ນນ້ຳທັງໝົດລວມ",
+            "ຕູ້ເກັບຂອງບໍ່ລວມ (THB 300 ເພີ່ມ)",
+            "ຂຶ້ນກັບຈຳນວນບ່ອນ",
+            "ບໍ່ມີສິດທິແຖວດ່ວນ"
+          ],
+          "ctaText": "ຊື້ໜ້າປະຕູເທົ່ານັ້ນ"
+        },
+        {
+          "heading": "ປີ້ຈອງລ່ວງໜ້າອອນລາຍ",
+          "periodText": "~$24 USD ຕໍ່ຄົນ &mdash; ປະຢັດ ~27%!",
+          "features": [
+            "ເຄື່ອງຫຼິ້ນນ້ຳທັງໝົດລວມ",
+            "ຕູ້ເກັບຂອງລວມ",
+            "ຢືນຢັນ e-ticket ທັນທີ",
+            "ຍົກເລີກຟຣີ",
+            "ຂ້າມແຖວ"
+          ],
+          "ctaText": "ຈອງດຽວນີ້ &mdash; ປະຢັດ ~27% &rarr;"
+        },
+        {
+          "heading": "ແພັກເກດລວມທັງໝົດ",
+          "periodText": "~$49 USD ຕໍ່ຄົນ",
+          "features": [
+            "ເຄື່ອງຫຼິ້ນນ້ຳທັງໝົດລວມ",
+            "ຄູປອງອາຫານ 200 ບາດ",
+            "FlowRider ໂຕ້ຄື່ນ 1 ຮອບ",
+            "ຕູ້ເກັບຂອງລວມ",
+            "ຢືນຢັນ e-ticket ທັນທີ"
+          ],
+          "ctaText": "ຈອງແພັກເກດ &rarr;"
+        }
+      ],
+      "footerNote": "ເດັກອາຍຸຕ່ຳກວ່າ 3 ປີເຂົ້າຟຣີ &bull; ໂກ-ກາດ ແລະ ມິນິກ໋ອຟ ມີຄ່າບໍລິການເພີ່ມ<br>\n          <a href=\"/lo/tickets.html\">ເບິ່ງຕົວເລືອກປີ້ ແລະ ແພັກເກດລວມທັງໝົດ &rarr;</a>"
+    },
+    "gettingThere": {
+      "sectionLabel": "ວິທີໄປ",
+      "heading": "ວິທີໄປ Aquaverse",
+      "description": "ຕັ້ງຢູ່ນາຈອມທຽນ, ພຽງ 1.5 ຊົ່ວໂມງຈາກກຸງເທບ ແລະ 30 ນາທີຈາກໃຈກາງພັດທະຍາ.",
+      "cards": [
+        {
+          "emoji": "🚗",
+          "heading": "ໂດຍລົດຈາກກຸງເທບ",
+          "text": "<strong>1.5 &ndash; 2 ຊົ່ວໂມງ</strong> ຜ່ານທາງດ່ວນເສັ້ນທາງ 7. ບ່ອນຈອດລົດຟຣີຢູ່ສວນສະໜຸກ. ໃຊ້ທາງອອກ Sattahip ແລະ ຕິດຕາມປ້າຍ."
+        },
+        {
+          "emoji": "🚌",
+          "heading": "ໂດຍລົດເມ",
+          "text": "ລົດເມທຸກ 30 ນາທີ ຈາກ<strong>ສະຖານີຂົນສົ່ງ Ekkamai</strong> (BTS Ekkamai). ຈາກນັ້ນນັ່ງແທັກຊີ/Grab (~THB 320-500) ຈາກສະຖານີລົດເມພັດທະຍາ."
+        },
+        {
+          "emoji": "🚐",
+          "heading": "ໂດຍລົດຕູ້ຮ່ວມ",
+          "text": "ຈາກ<strong>Victory Monument</strong> ຫຼື <strong>Ekkamai</strong>, ~THB 240/ຄົນ. ລົດຕູ້ອອກທຸກຊົ່ວໂມງໄປພັດທະຍາ."
+        },
+        {
+          "emoji": "🚕",
+          "heading": "ໂດຍແທັກຊີ / Grab",
+          "text": "ຈາກກຸງເທບ: ~THB 1,200-1,500 + ຄ່າທາງດ່ວນ.<br>ຈາກໃຈກາງພັດທະຍາ: ~THB 320-500 (20-30 ນາທີ)."
+        },
+        {
+          "emoji": "🚎",
+          "heading": "ລົດຮັບສົ່ງສວນສະໜຸກ",
+          "text": "<strong>THB 300/ຄົນ</strong> ລົດຮັບສົ່ງປະຈຳວັນຈາກພັດທະຍາ. ຈອງລ່ວງໜ້າອອນລາຍ. ຈຸດຮັບສະດວກ."
+        },
+        {
+          "emoji": "✈️",
+          "heading": "ຈາກສະໜາມບິນ",
+          "text": "ສະໜາມບິນ Suvarnabhumi: ~90 ນາທີຂັບລົດ.<br>ສະໜາມບິນ U-Tapao (ພັດທະຍາ): ~25 ນາທີຂັບລົດ."
+        }
+      ],
+      "viewAll": "ຄູ່ມືການເດີນທາງສົມບູນ &rarr;"
+    },
+    "comparison": {
+      "sectionLabel": "ປຽບທຽບ",
+      "heading": "Aquaverse ທຽບກັບ ສວນນ້ຳອື່ນໃນພັດທະຍາ",
+      "description": "ເບິ່ງວ່າ Columbia Pictures Aquaverse ປຽບທຽບກັບສວນນ້ຳຍອດນິຍົມອື່ນໃນພັດທະຍາແນວໃດ.",
+      "headers": [
+        "ຄຸນສົມບັດ",
+        "Aquaverse",
+        "Ramayana Water Park"
+      ],
+      "rows": [
+        {
+          "feature": "ແນວຄິດ",
+          "aquaverse": "ຮູບເງົາ Hollywood (Sony/Columbia)",
+          "ramayana": "ນິທານໄທ"
+        },
+        {
+          "feature": "ຂະໜາດ",
+          "aquaverse": "14+ ເຮັກຕາ",
+          "ramayana": "170,000 ຕາແມັດ (ໃຫຍ່ກວ່າ)"
+        },
+        {
+          "feature": "ໂຊນ",
+          "aquaverse": "9 ໂຊນແນວຄິດ",
+          "ramayana": "ຫຼາຍພື້ນທີ່ແນວຄິດ"
+        },
+        {
+          "feature": "ປີ້ (ອອນລາຍ)",
+          "aquaverse": "ເລີ່ມຈາກ THB 1,176",
+          "ramayana": "ເລີ່ມຈາກ THB 890"
+        },
+        {
+          "feature": "ຄະແນນ Google",
+          "aquaverse": "4.3/5 (7,840+ ລີວິວ)",
+          "ramayana": "4.5/5"
+        },
+        {
+          "feature": "ໂຊນເດັກນ້ອຍ",
+          "aquaverse": "ໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້ (Hotel Transylvania)",
+          "ramayana": "ພື້ນທີ່ເດັກນ້ອຍດີ"
+        },
+        {
+          "feature": "ກິດຈະກຳນອກນ້ຳ",
+          "aquaverse": "ໂກ-ກາດ, ມິນິກ໋ອຟ, ອົງເຊັນ, ຄອນເສີດ",
+          "ramayana": "ຈຳກັດ"
+        },
+        {
+          "feature": "ຈຸດເດັ່ນ",
+          "aquaverse": "ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ, ຕົກ 18 ແມັດ",
+          "ramayana": "ສວນນ້ຳໃຫຍ່ທີ່ສຸດໃນໄທ"
+        },
+        {
+          "feature": "ເໝາະສຳລັບ",
+          "aquaverse": "ຄອບຄົວ, ຄົນຮັກຮູບເງົາ, ຜູ້ຊອກຫາຄວາມຫຼາກຫຼາຍ",
+          "ramayana": "ຄົນຮັກສະໄລນ້ຳ"
+        }
+      ],
+      "compareLink": "ອ່ານການປຽບທຽບ Aquaverse ກັບ Ramayana ແບບສົມບູນ &rarr;"
+    },
+    "reviews": {
+      "sectionLabel": "ລີວິວ",
+      "heading": "ນັກທ່ອງທ່ຽວເວົ້າແນວໃດ",
+      "description": "ອີງຈາກ 7,840+ ລີວິວ Google ມີຄະແນນສະເລ່ຍ 4.3/5 ດາວ.",
+      "testimonials": [
+        {
+          "stars": "5 ດາວ",
+          "text": "ສວນນ້ຳທີ່ດີເລີດແທ້ໆ! ເຄື່ອງຫຼິ້ນໂດມນ້ຳ Ghostbusters ບໍ່ຄືກັບສິ່ງທີ່ຂ້ອຍເຄີຍສຳຜັດ. ລູກໆມັກໂຊນ Hotel Transylvania ແລະ ການພົບຕົວລະຄອນ.",
+          "initials": "JL",
+          "name": "James L.",
+          "source": "ລີວິວ Google"
+        },
+        {
+          "stars": "5 ດາວ",
+          "text": "ມື້ທີ່ດີເລີດສຳລັບທັງຄອບຄົວ. ສະລອຍນ້ຳຄື້ນພ້ອมລະບົບສຽງ Dolby ໜ້າປະທັບໃຈຫຼາຍ! ພະນັກງານເປັນມິດ ແລະ ເອົາໃຈໃສ່ຄວາມປອດໄພ. ແນະນຳຈອງປີ້ອອນລາຍເພື່ອສ່ວນຫຼຸດ.",
+          "initials": "SK",
+          "name": "Sarah K.",
+          "source": "TripAdvisor"
+        },
+        {
+          "stars": "4 ດາວ",
+          "text": "The Beast ໃນ Zombieland ບ້າຫຼາຍ &mdash; ຕົກ 18 ແມັດ! ບໍ່ເໝາະກັບຄົນຢ້ານຄວາມສູງ. ຍັງມັກໂກ-ກາດ. ຂໍ້ເສຍດຽວຄືລາຄາອາຫານອາດຈະຖືກກວ່ານີ້ໄດ້, ແຕ່ຕົວສວນສະໜຸກດີເລີດ.",
+          "initials": "MT",
+          "name": "Mike T.",
+          "source": "ລີວິວ Google"
+        }
+      ]
+    },
+    "blog": {
+      "sectionLabel": "ຄູ່ມືທ່ອງທ່ຽວ",
+      "heading": "ເຄັດລັບ Aquaverse ຈາກຄົນໃນ",
+      "description": "ຄູ່ມືຈາກຜູ້ຊ່ຽວຊານເພື່ອຊ່ວຍທ່ານວາງແຜນການທ່ຽວ Aquaverse ທີ່ສົມບູນແບບ.",
+      "cards": [
+        {
+          "tag": "ປຽບທຽບ",
+          "readTime": "",
+          "title": "Aquaverse ທຽບ Ramayana: ສວນນ້ຳໃດໃນພັດທະຍາດີກວ່າ?",
+          "description": "ການປຽບທຽບທີ່ຊື່ສັດລະຫວ່າງສອງສວນນ້ຳທີ່ໃຫຍ່ທີ່ສຸດໃນພັດທະຍາ ເພື່ອຊ່ວຍທ່ານເລືອກທີ່ເໝາະກັບການເດີນທາງ."
+        },
+        {
+          "tag": "ຄູ່ມືຄອບຄົວ",
+          "readTime": "",
+          "title": "Aquaverse ກັບເດັກນ້ອຍ: ຄູ່ມືຄອບຄົວສົມບູນ",
+          "description": "ທຸກຢ່າງທີ່ພໍ່ແມ່ຄວນຮູ້ກ່ຽວກັບການມາ Aquaverse ກັບເດັກນ້ອຍ, ຈາກໂຊນທີ່ດີທີ່ສຸດສຳລັບເດັກນ້ອຍ ເຖິງເຄັດລັບຄວາມປອດໄພ."
+        },
+        {
+          "tag": "ການເດີນທາງ",
+          "readTime": "",
+          "title": "ວິທີໄປ Aquaverse ຈາກກຸງເທບ (ຄູ່ມື 2026)",
+          "description": "ທຸກຕົວເລືອກການເດີນທາງຈາກກຸງເທບໄປ Aquaverse &mdash; ລົດເມ, ລົດຕູ້, ແທັກຊີ, ແລະ ລົດສ່ວນຕົວ ພ້ອມຄ່າໃຊ້ຈ່າຍ ແລະ ເຄັດລັບ."
+        },
+        {
+          "tag": "ປີ້",
+          "readTime": "",
+          "title": "ລາຄາປີ້ Aquaverse 2026: ວິທີຮັບຂໍ້ສະເໜີທີ່ດີທີ່ສຸດ",
+          "description": "ລາຍລະອຽດລາຄາສົมບູນສຳລັບປີ້ທຸກປະເພດ. ຊື້ໜ້າປະຕູ ທຽບ ອອນລາຍ, ສ່ວນຫຼຸດເດັກນ້ອຍ, ແພັກເກດລວມທັງໝົດ, ແລະ ບ່ອນຊອກຫາລາຄາຖືກທີ່ສຸດ."
+        },
+        {
+          "tag": "ລີວິວ",
+          "readTime": "",
+          "title": "ລີວິວ Aquaverse ຊື່ສັດ: ມັນຄຸ້ມຄ່າບໍ?",
+          "description": "ລີວິວຊື່ສັດຂອງພວກເຮົາ ພ້ອມຄະແນນສຳລັບເຄື່ອງຫຼິ້ນ, ແນວຄິດ, ອາຫານ ແລະ ຄຸນຄ່າ. ສິ່ງທີ່ພວກເຮົາມັກ, ສິ່ງທີ່ອາດປັບປຸງ, ແລະ ຄຳຕັດສິນຊື່ສັດ."
+        }
+      ],
+      "viewAll": "ເບິ່ງຄູ່ມືທັງໝົດ &rarr;"
+    },
+    "faq": {
+      "sectionLabel": "ຄຳຖາມທີ່ພົບເລື້ອຍ",
+      "heading": "ຄຳຖາມທີ່ຖາມເລື້ອຍໆ",
+      "description": "ຄຳຕອບໄວສຳລັບຄຳຖາມທີ່ຖາມເລື້ອຍທີ່ສຸດກ່ຽວກັບການມາ Columbia Pictures Aquaverse.",
+      "items": [
+        {
+          "question": "ປີ້ Aquaverse ລາຄາເທົ່າໃດ?",
+          "answer": "<p>ລາຄາໜ້າປະຕູແມ່ນ <strong>THB 1,595</strong> (~$44 USD) ຕໍ່ຄົນ. ປີ້ຈອງລ່ວງໜ້າອອນລາຍເລີ່ມຈາກ <strong>THB 1,176</strong> (~$24 USD), ປະຢັດສູງສຸດ ~27%. ເດັກອາຍຸຕ່ຳກວ່າ 3 ປີເຂົ້າຟຣີ. ປີ້ອອນລາຍລວມເຊົ່າຕູ້ເກັບຂອງ (ມູນຄ່າ THB 300).</p>\n                <p><a href=\"/lo/tickets.html\">ເບິ່ງຕົວເລືອກປີ້ ແລະ ແພັກເກດລວມທັງໝົດ &rarr;</a></p>"
+        },
+        {
+          "question": "ເວລາເປີດໃຫ້ບໍລິການເປັນແນວໃດ?",
+          "answer": "<p>Aquaverse ເປີດ<strong>ທຸກມື້ ເວລາ 10:00 ເຖິງ 18:00</strong>. ສວນສະໜຸກ<strong>ປິດທຸກວັນພຸດ</strong>ເພື່ອບຳລຸງຮັກສາ. ເຄື່ອງຫຼິ້ນປິດ 17:45, ແລະ ເຂົ້າຊົມຄັ້ງສຸດທ້າຍ 15:30. ເວລາອາດປ່ຽນແປງໃນຊ່ວງງານພິເສດ ແລະ ວັນພັກ.</p>"
+        },
+        {
+          "question": "ໄປ Aquaverse ຈາກກຸງເທບແນວໃດ?",
+          "answer": "<p>ມີຫຼາຍຕົວເລືອກ:</p>\n                <ul>\n                  <li><strong>ໂດຍລົດ:</strong> 1.5-2 ຊົ່ວໂມງ ຜ່ານທາງດ່ວນເສັ້ນ 7 (ບ່ອນຈອດລົດຟຣີ)</li>\n                  <li><strong>ໂດຍລົດເມ:</strong> ຈາກສະຖານີຂົນສົ່ງ Ekkamai, ແລ້ວນັ່ງແທັກຊີຈາກພັດທະຍາ</li>\n                  <li><strong>ໂດຍລົດຕູ້ຮ່ວມ:</strong> THB 240/ຄົນ ຈາກ Victory Monument ຫຼື Ekkamai</li>\n                  <li><strong>ໂດຍ Grab/ແທັກຊີ:</strong> THB 1,200-1,500 + ຄ່າທາງດ່ວນ ຈາກກຸງເທບ</li>\n                </ul>\n                <p><a href=\"/lo/getting-there.html\">ເບິ່ງຄູ່ມືການເດີນທາງສົມບູນ &rarr;</a></p>"
+        },
+        {
+          "question": "ຮູບເງົາຫຍັງທີ່ນຳສະເໜີຢູ່ Aquaverse?",
+          "answer": "<p>Aquaverse ມີ <strong>9 ໂຊນແນວຄິດ</strong> ອີງຈາກຮູບເງົາ Columbia Pictures:</p>\n                <ul>\n                  <li><strong>Hotel Transylvania</strong> &mdash; ສວນນ້ຳເດັກນ້ອຍ ມີຕົວລະຄອນ</li>\n                  <li><strong>Ghostbusters</strong> &mdash; ເຄື່ອງຫຼິ້ນທ້າທາຍ ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ</li>\n                  <li><strong>Jumanji</strong> &mdash; ເຄື່ອງຫຼິ້ນນ້ຳຜະຈົນໄພປ່າ</li>\n                  <li><strong>Zombieland</strong> &mdash; ສະໄລສຸດຂີດ ຕົກ 18 ແມັດ</li>\n                  <li><strong>Cloudy with a Chance of Meatballs</strong> &mdash; ແມ່ນ້ຳຊ້າ</li>\n                  <li><strong>Surf's Up</strong> &mdash; ເຄື່ອງຈຳລອງໂຕ້ຄື້ນ FlowRider</li>\n                  <li><strong>Bad Boys</strong> &mdash; ແຂ່ງໂກ-ກາດ (ຈ່າຍເພີ່ມ)</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; ມິນິກ໋ອຟ (ຈ່າຍເພີ່ມ)</li>\n                  <li><strong>ສະລອຍນ້ຳຄື້ນຍັກ</strong> &mdash; ສະລອຍນ້ຳຄື້ນ + ໂຮງໜັງກາງແຈ້ງ</li>\n                </ul>"
+        },
+        {
+          "question": "Aquaverse ເໝາະສຳລັບເດັກນ້ອຍບໍ?",
+          "answer": "<p>ແນ່ນອນ! <strong>ໂຊນ Hotel Transylvania</strong> ເປັນສວນນ້ຳແບຣນໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້, ສ້າງຂຶ້ນສະເພາະສຳລັບເດັກນ້ອຍ ມີ:</p>\n                <ul>\n                  <li>9 ສະໄລນ້ຳເໝາະກັບເດັກນ້ອຍ</li>\n                  <li>ຫຼາຍສິບຈຸດນ້ຳ ແລະ ພື້ນທີ່ນ້ຳກະເດັນ</li>\n                  <li>ຖັງນ້ຳໃຫຍ່ທີ່ສຸດໃນໄທ</li>\n                  <li>ປາຕີ້ຟອງ</li>\n                  <li>ພົບຕົວລະຄອນ (Drac, Mavis, Blobby)</li>\n                </ul>\n                <p>ເດັກອາຍຸຕ່ຳກວ່າ 3 ປີເຂົ້າຟຣີ. <a href=\"/blog/aquaverse-with-kids.html\">ອ່ານຄູ່ມືຄອບຄົວສົມບູນ &rarr;</a></p>"
+        },
+        {
+          "question": "ນຳອາຫານເຂົ້າ Aquaverse ໄດ້ບໍ?",
+          "answer": "<p>ບໍ່ໄດ້, ອາຫານ ແລະ ເຄື່ອງດື່ມຈາກນອກບໍ່ອະນຸຍາດ (ຍົກເວັ້ນ: ອາຫານເດັກ/ນົມ). ສວນສະໜຸກມີຫຼາຍຮ້ານອາຫານແນວຄິດ:</p>\n                <p>ສວນສະໜຸກມີຫຼາຍທາງເລືອກອາຫານ ລວມທັງສູນອາຫານ, ຮ້ານອາຫານຫວ່າງແນວຄິດ ແລະ ຈຸດເຄື່ອງດື່ມ ທີ່ມີເບີເກີ, ອາຫານໄທ, pizza ແລະ ອື່ນໆ.</p>\n                <p>ເຄັດລັບ: ສວນສະໜຸກໃຊ້ລະບົບສາຍແຂນ RFID ບໍ່ໃຊ້ເງິນສົດ &mdash; ເຕີມເຄຣດິດ ແລະ ໃຊ້ຈ່າຍໂດຍບໍ່ຕ້ອງຖືເງິນສົດ.</p>"
+        },
+        {
+          "question": "Aquaverse ຫຼື Ramayana Water Park ອັນໃດດີກວ່າ?",
+          "answer": "<p>ທັງສອງດີເລີດ, ແຕ່ໃຫ້ປະສົບການທີ່ແຕກຕ່າງ:</p>\n                <ul>\n                  <li><strong>ເລືອກ Aquaverse ຖ້າ:</strong> ທ່ານຕ້ອງການແນວຄິດຮູບເງົາ Hollywood, ກິດຈະກຳຫຼາກຫຼາຍ (ນ້ຳ + ໂກ-ກາດ + ມິນິກ໋ອຟ + ອົງເຊັນ), ແລະ ມາກັບເດັກນ້ອຍທີ່ມັກຕົວລະຄອນ</li>\n                  <li><strong>ເລືອກ Ramayana ຖ້າ:</strong> ທ່ານຕ້ອງການສວນນ້ຳໃຫຍ່ທີ່ສຸດ ມີສະໄລຫຼາຍທີ່ສຸດ, ຄຸ້ມຄ່າກວ່າສຳລັບຄວາມມ່ວນສວນນ້ຳ, ແລະ ມື້ທີ່ຜ່ອນຄາຍກວ່າ</li>\n                </ul>\n                <p><a href=\"/blog/aquaverse-vs-ramayana.html\">ອ່ານຄູ່ມືປຽບທຽບລະອຽດ &rarr;</a></p>"
+        },
+        {
+          "question": "ເວລາໃດດີທີ່ສຸດໃນການມາ Aquaverse?",
+          "answer": "<p><strong>ລະດູທີ່ດີທີ່ສຸດ:</strong> ພະຈິກ ເຖິງ ເມສາ (ລະດູແລ້ງ) ສຳລັບສະພາບອາກາດທີ່ດີທີ່ສຸດ.</p>\n                <p><strong>ມື້ທີ່ດີທີ່ສຸດ:</strong> ມື້ເຮັດວຽກແອອັດໜ້ອຍກວ່າທ້າຍອາທິດ. ຫຼີກລ່ຽງວັນພຸດ (ສວນສະໜຸກປິດ).</p>\n                <p><strong>ເວລາທີ່ດີທີ່ສຸດ:</strong> ມາເຖິງ 10:00 ເມື່ອສວນສະໜຸກເປີດ ເພື່ອຫຼີກລ່ຽງຄວາມແອອັດ ແລະ ໃຊ້ເວລາເຕັມທີ່.</p>\n                <p><a href=\"/lo/tips.html\">ອ່ານເຄັດລັບນັກທ່ອງທ່ຽວທັງໝົດ &rarr;</a></p>"
+        }
+      ],
+      "viewAll": "ເບິ່ງຄຳຖາມທີ່ພົບເລື້ອຍທັງໝົດ &rarr;"
+    },
+    "cta": {
+      "ctaTitle": "ພ້ອມສຳລັບການຜະຈົນໄພບໍ?",
+      "ctaText": "ຈອງປີ້ Aquaverse ຂອງທ່ານອອນລາຍ ແລະ ປະຢັດສູງສຸດ ~27%. ຢືນຢັນທັນທີ, ຍົກເລີກຟຣີ, ແລະ ເຂົ້າແບບຂ້າມແຖວ.",
+      "ctaButton": "ຈອງປີ້ລາຄາພິເສດດຽວນີ້ &rarr;",
+      "ctaSubtext": "ຂໍ້ສະເໜີມື້ນີ້ໝົດອາຍຸໃນ <strong id=\"countdown\">...</strong>"
+    },
+    "nearby": {
+      "sectionLabel": "ໃກ້ຄຽງ",
+      "heading": "ສິ່ງທີ່ຄວນເຮັດໃກ້ Aquaverse",
+      "description": "ໃຊ້ການເດີນທາງພັດທະຍາຂອງທ່ານໃຫ້ຄຸ້ມຄ່າ ດ້ວຍສະຖານທີ່ທ່ອງທ່ຽວຍອດນິຍົມໃກ້ Aquaverse ເຫຼົ່ານີ້.",
+      "cards": [
+        {
+          "emoji": "🌺",
+          "heading": "ສວນເຂດຮ້ອນ Nong Nooch",
+          "text": "ສວນພືດເຂດຮ້ອນທີ່ງົດງາມ ພ້ອມການສະແດງວັດທະນະທຳ. ພຽງ 10 ນາທີຈາກ Aquaverse."
+        },
+        {
+          "emoji": "🗿",
+          "heading": "ພູພະພຸດ (Khao Chi Chan)",
+          "text": "ຮູບພະພຸດທອງ 130 ແມັດ ທີ່ໜ້າເກງຂາມ ແກະສະລັກດ້ວຍເລເຊີເທິງໜ້າຜາ. 15 ນາທີຈາກນີ້."
+        },
+        {
+          "emoji": "🏖️",
+          "heading": "ຫາດຈອມທຽນ",
+          "text": "ໜຶ່ງໃນຫາດທີ່ນິຍົມທີ່ສຸດໃນພັດທະຍາ ມີກິລາທາງນ້ຳ, ຮ້ານອາຫານ, ແລະ ສະຖານທີ່ກາງຄືນ. 20 ນາທີຂຶ້ນເໜືອ."
+        },
+        {
+          "emoji": "🐘",
+          "heading": "ສະຖານທີ່ປົກປ້ອງຊ້າງພັດທະຍາ",
+          "text": "ສະຖານທີ່ປົກປ້ອງຊ້າງທີ່ມີຈັນຍາບັນ ບ່ອນທ່ານສາມາດໃຫ້ອາຫານ ແລະ ຍ່າງຮ່ວມກັບຊ້າງທີ່ຖືກກູ້ໄພ. 25 ນາທີຈາກນີ້."
+        }
+      ]
+    }
+  },
+  "attractions": {
+    "title": "ເຄື່ອງຫຼິ້ນ Aquaverse ທັງໝົດ | ຄູ່ມື 9 ໂຊນຮູບເງົາ 2026",
+    "metaDescription": "ຄູ່ມືສົມບູນ 9 ໂຊນຮູບເງົາ Columbia Pictures Aquaverse ພັດທະຍາ. ໂຊນ Hotel Transylvania ສຳລັບເດັກນ້ອຍ, ໂດມນ້ຳ Ghostbusters, ຕົກ 18 ແມັດ Zombieland, ຜະຈົນໄພ Jumanji, ສະລອຍນ້ຳຄື້ນ, ໂກ-ກາດ, ອົງເຊັນ ແລະ ອື່ນໆ.",
+    "metaKeywords": "ເຄື່ອງຫຼິ້ນ Aquaverse, ໂຊນ Aquaverse, ໂດມນ້ຳ Ghostbusters, ສະໄລ Zombieland, ສວນນ້ຳ Hotel Transylvania, ເຄື່ອງຫຼິ້ນ Jumanji, ສະລອຍນ້ຳຄື້ນ Aquaverse, FlowRider Aquaverse, ໂກ-ກາດ Aquaverse, ສວນນ້ຳພັດທະຍາ",
+    "ogTitle": "ເຄື່ອງຫຼິ້ນ Aquaverse ທັງໝົດ | ຄູ່ມື 9 ໂຊນຮູບເງົາ 2026",
+    "ogDescription": "ສຳຫຼວດ 9 ໂຊນຮູບເງົາ Columbia Pictures Aquaverse. ຈາກໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ ເຖິງສະໄລສູງທີ່ສຸດໃນອາຊີ. ຄູ່ມືເຄື່ອງຫຼິ້ນສົມບູນ ພ້ອມເຄັດລັບ.",
+    "twitterTitle": "ເຄື່ອງຫຼິ້ນ Aquaverse ທັງໝົດ | ຄູ່ມື 9 ໂຊນຮູບເງົາ 2026",
+    "twitterDescription": "ຄູ່ມືສົມບູນ 9 ໂຊນ Aquaverse ພັດທະຍາ. ສະໄລນ້ຳ, ສະລອຍນ້ຳຄື້ນ, ໂກ-ກາດ, ອົງເຊັນ ແລະ ອື່ນໆ.",
+    "breadcrumbCurrent": "ເຄື່ອງຫຼິ້ນ ແລະ ໂຊນ",
+    "pageHeader": {
+      "h1": "ເຄື່ອງຫຼິ້ນ ແລະ ໂຊນ Aquaverse ທັງໝົດ",
+      "description": "ສຳຫຼວດ 9 ໂຊນຮູບເງົາ, 20+ ເຄື່ອງຫຼິ້ນ ລວມທັງໂກ-ກາດ, ມິນິກ໋ອຟ, ອົງເຊັນ ແລະ VIP Cabana ຢູ່ Columbia Pictures Aquaverse ພັດທະຍາ."
+    },
+    "tldr": [
+      {
+        "bold": "ໂຊນທັງໝົດ:",
+        "text": "9 ໂຊນຮູບເງົາ &mdash; 7 ໂຊນນ້ຳ + ໂກ-ກາດ + ມິນິກ໋ອຟ"
+      },
+      {
+        "bold": "ເຄື່ອງຫຼິ້ນເດັ່ນ:",
+        "text": "ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ (Ghostbusters), ຕົກ 18 ແມັດ The Beast (Zombieland), FlowRider (Surf's Up)"
+      },
+      {
+        "bold": "ດີທີ່ສຸດສຳລັບເດັກນ້ອຍ:",
+        "text": "<a href=\"#hotel-transylvania\">ໂຊນ Hotel Transylvania</a> &mdash; ສວນນ້ຳແບຣນໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້"
+      },
+      {
+        "bold": "ດີທີ່ສຸດສຳລັບຄວາມຕື່ນເຕັ້ນ:",
+        "text": "ໂຊນ <a href=\"#zombieland\">Zombieland</a> ແລະ <a href=\"#ghostbusters\">Ghostbusters</a>"
+      },
+      {
+        "bold": "ຈ່າຍເພີ່ມ:",
+        "text": "ໂກ-ກາດ (Bad Boys) ແລະ ມິນິກ໋ອຟ (Emoji Movie) ຕ້ອງຈ່າຍເພີ່ມ; ທີ່ເຫຼືອລວມໃນ <a href=\"/lo/tickets.html\">ປີ້ທົ່ວໄປ</a>"
+      },
+      {
+        "bold": "ອື່ນໆ:",
+        "text": "ອົງເຊັນ ແລະ ຫ້ອງໄອນ້ຳ, VIP Cabanas (ເລີ່ມຈາກ THB 2,500), ລະບົບຮູບ-ວິດີໂອ RFID"
+      }
+    ],
+    "zoneNav": {
+      "sectionLabel": "ໄປຫາໂຊນ",
+      "heading": "9 ໂຊນຮູບເງົາ",
+      "description": "ກົດໂຊນໃດກໍໄດ້ ເພື່ອໄປຫາລາຍລະອຽດ, ເຄື່ອງຫຼິ້ນ ແລະ ເຄັດລັບ.",
+      "zones": [
+        {
+          "tag": "ເດັກນ້ອຍມັກທີ່ສຸດ",
+          "name": "Hotel Transylvania",
+          "subtitle": "ສວນນ້ຳສຳລັບເດັກນ້ອຍ"
+        },
+        {
+          "tag": "ທຳອິດຂອງໂລກ",
+          "name": "Ghostbusters",
+          "subtitle": "ໂດມນ້ຳ ເຄື່ອງຫຼິ້ນທ້າທາຍ"
+        },
+        {
+          "tag": "ສຸດຂີດ",
+          "name": "Zombieland",
+          "subtitle": "ຕົກ 18 ແມັດ ສະໄລສຸດຂີດ"
+        },
+        {
+          "tag": "ການຜະຈົນໄພ",
+          "name": "Jumanji",
+          "subtitle": "ເຄື່ອງຫຼິ້ນຜະຈົນໄພປ່າ"
+        },
+        {
+          "tag": "ໂຕ້ຄື້ນມືອາຊີບ",
+          "name": "Surf's Up",
+          "subtitle": "ເຄື່ອງຈຳລອງ FlowRider"
+        },
+        {
+          "tag": "ພັກຜ່ອນ",
+          "name": "Cloudy with a Chance of Meatballs",
+          "subtitle": "ແມ່ນ້ຳຊ້າຜະຈົນໄພ"
+        },
+        {
+          "tag": "ໂກ-ກາດ",
+          "name": "Bad Boys Race Club",
+          "subtitle": "ສະໜາມໂກ-ກາດ Miami"
+        },
+        {
+          "tag": "ມິນິກ໋ອຟ",
+          "name": "The Emoji Movie",
+          "subtitle": "ມິນິກ໋ອຟ ພ້ອມລາງວັນ"
+        },
+        {
+          "tag": "ໂຮງໜັງ + ຄື້ນ",
+          "name": "ສະລອຍນ້ຳຄື້ນຍັກ Mega",
+          "subtitle": "Omnitheatre ແລະ ຄອນເສີດ"
+        }
+      ]
+    },
+    "zones": [
+      {
+        "tag": "ເດັກນ້ອຍມັກທີ່ສຸດ",
+        "h2": "ໂຊນ Hotel Transylvania",
+        "subtitle": "ສວນນ້ຳແບຣນໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້",
+        "intro": "ໂຊນ Hotel Transylvania ແມ່ນສວຣດັດສຳລັບນັກທ່ອງທ່ຽວໜຸ່ມ ແລະ ຄອບຄົວ. ມັນເປັນ<strong>ສວນນ້ຳແບຣນໃຫຍ່ທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້</strong>, ມີຄວາມມ່ວນນ້ຳໝົດທຸກຢ່າງທີ່ອອກແບບສຳລັບເດັກນ້ອຍທຸກໄວ. ໂຊນໄດ້ຮັບແນວຄິດຈາກ Hotel Transylvania ຮູບເງົາທີ່ຮັກ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "9 ສະໄລນ້ຳເໝາະກັບເດັກນ້ອຍ",
+            "desc": "ສະໄລໃຈດີ ອອກແບບສຳລັບເດັກນ້ອຍທຸກໄວ"
+          },
+          {
+            "name": "ຫຼາຍສິບຈຸດນ້ຳ",
+            "desc": "ພື້ນທີ່ນ້ຳກະເດັນ, ປືນນ້ຳ, ຝົນ, ຖັງຖ່ຽວ ແລະ ຊ່ວງເຫຼັ້ນໂຕ້ຕອບ"
+          },
+          {
+            "name": "2 ຖັງນ້ຳທີ່ໃຫຍ່ທີ່ສຸດໃນໄທ",
+            "desc": "ຖັງຂະໜາດໃຫຍ່ທີ່ເຕີມ ແລ້ວໃຫ້ນ້ຳໄຫຼລົງໃສ່ຜູ້ລໍຖ້ານ"
+          },
+          {
+            "name": "ປາຕີ້ຟອງ",
+            "desc": "ປາຕີ້ຟອງຕາມໂຕາລາງ ທີ່ເດັກນ້ອຍໄດ້ຫຼິ້ນໃນຟອງ"
+          },
+          {
+            "name": "ພົບຕົວລະຄອນ",
+            "desc": "ພົບ Drac, Mavis, Blobby ແລະ ຕົວລະຄອນ Hotel Transylvania ອື່ນໆ ເພື່ອຖ່າຍຮູບ"
+          },
+          {
+            "name": "ຈຸດໂດນ້ຳ",
+            "desc": "ຍິງໂດນ້ຳຂຶ້ນໄປໃນທ້ອງຟ້າ ແລ້ວເບິ່ງມັນຕົກລົງ"
+          }
+        ],
+        "highlights": [
+          "👶 ທຸກໄວຍິນດີຕ້ອນຮັບ",
+          "📸 ຖ່າຍຮູບຕົວລະຄອນ",
+          "🎉 ປາຕີ້ຟອງ",
+          "🚀 ໂດນ້ຳ",
+          "✅ ລວມໃນປີ້"
+        ],
+        "tipContent": "<p><strong>ເຄັດລັບສຳລັບພໍ່ແມ່:</strong> ໂຊນນີ້ມີບ່ອນນັ່ງຮົ່ມອ້ອມຮອບສະໜາມ ທີ່ພໍ່ແມ່ສາມາດຜ່ອນຄາຍ ຂະນະເດັກນ້ອຍຫຼິ້ນ. ມາໃຫ້ທັນ ເພື່ອຈອງທີ່ດີ. ອ່ານ <a href=\"/lo/blog/aquaverse-with-kids.html\">ຄູ່ມືຄອບຄົວ Aquaverse</a> ຂອງພວກເຮົາ.</p>"
+      },
+      {
+        "tag": "ທຳອິດຂອງໂລກ",
+        "h2": "ໂຊນ Ghostbusters",
+        "subtitle": "ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ",
+        "intro": "ໂຊນ Ghostbusters ແມ່ນບ່ອນທີ່ Aquaverse ໂດດເດັ່ນກວ່າສວນນ້ຳອື່ນໃນໂລກ. ໂຊນນີ້ເປັນທີ່ຕັ້ງຂອງ<strong>ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ</strong> ທີ່ຮຽກວ່າ \"Proton Stream\" &mdash; ແນວຄິດເຄື່ອງຫຼິ້ນນ້ຳທີ່ເປັນເອກະລັກ ທ່ານບໍ່ສາມາດສຳຜັດໄດ້ທີ່ໃດອື່ນໃນໂລກ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "Proton Stream (ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ)",
+            "desc": "ເຄື່ອງຫຼິ້ນລາຍເຊັນ ທີ່ນັກທ່ອງຂີ່ຢາງ Ghostbusters ລື່ນຜ່ານໂຄ້ງໃນຄວາມມືດ ກ່ອນຕົກສູ່ໂດມນ້ຳຂະໜາດໃຫຍ່. ປະສົບການທີ່ຫາທຽບບໍ່ໄດ້"
+          },
+          {
+            "name": "Ghost Trap Adventure",
+            "desc": "ປະສົບການຂີ່ຄວາມມືດໂຕ້ຕອບ ທີ່ມີແນວຄິດກ່ຽວກັບການດັກຈັບຜີ"
+          },
+          {
+            "name": "Slimer Speed Racer Slides",
+            "desc": "ສະໄລນ້ຳຄວາມໄວສູງ ທີ່ມີແນວຄິດຜີຂຽວ Slimer ທີ່ໂດດເດັ່ນ"
+          },
+          {
+            "name": "ສະໄລ Ghostbusters Supernatural ທຳອິດຂອງອາຊີ",
+            "desc": "ສະໄລທ່ອງໂລກວິຍານ ທີ່ເປັນເອກະສິດຂອງສວນນ້ຳນີ້"
+          },
+          {
+            "name": "ຢາງ Ghostbusters ໃນຄວາມມືດ",
+            "desc": "ຂີ່ຢາງແນວຄິດ Ghostbusters ພິເສດຜ່ານໂຄ້ງໃນຄວາມມືດ ມີເອັດເຟັກແສງ"
+          },
+          {
+            "name": "ທາງເຂົ້າ Firehouse ທີ່ໂດດເດັ່ນ",
+            "desc": "ເດີນຜ່ານການສ້າງໃໝ່ຂອງສຳນັກງານໃຫຍ່ Ghostbusters Firehouse"
+          }
+        ],
+        "highlights": [
+          "💥 ລະດັບທ້າທາຍ: ສູງ",
+          "🔮 ໂດມນ້ຳທຳອິດຂອງໂລກ",
+          "👻 Ghost Trap Ride",
+          "🌙 ຂີ່ຄວາມມືດ",
+          "✅ ລວມໃນປີ້"
+        ],
+        "tipContent": "<p><strong>ຕ້ອງຫຼິ້ນ:</strong> ໂດມນ້ຳ Proton Stream ແມ່ນເຄື່ອງຫຼິ້ນທີ່ເປັນເອກະລັກທີ່ສຸດໃນ Aquaverse ແລະ ໂດດເດັ່ນທີ່ສຸດໃນອາຊີຕາເວັນອອກສ່ຽງໃຕ້. ຂີ່ໃຫ້ທຳອິດໃນຕອນເຊົ້າ ເພື່ອຫຼີກລ່ຽງແຖວຍາວ. ອ່ານ <a href=\"/lo/tips.html\">ເຄັດລັບນັກທ່ອງທ່ຽວ</a> ສຳລັບຍຸດທະສາດລຳດັບການຂີ່ທີ່ດີທີ່ສຸດ.</p>"
+      },
+      {
+        "tag": "ສຸດຂີດ",
+        "h2": "ໂຊນ Zombieland",
+        "subtitle": "ສວຣດັດຂອງສະໄລນ້ຳສຸດຂີດທີ່ສຸດໃນອາຊີ",
+        "intro": "ໂຊນ Zombieland ແມ່ນບ່ອນທີ່ຜູ້ຊອກຫາຄວາມຕື່ນເຕັ້ນ ຈະພົບສວຣດັດ. ໂຊນນີ້ເປັນທີ່ຕັ້ງຂອງ<strong>\"The Beast\"</strong> &mdash; ໜຶ່ງໃນສະໄລນ້ຳທີ່ສູງທີ່ສຸດໃນອາຊີ ມີຈຸດຕົກແນວຕັ້ງ 18 ແມັດ ທີ່ໜ້າຢ້ານ. ມີບັນຍາກາດ Zombieland ທີ່ເຂັ້ມຂຸ້ນ ອອກແບບໃຫ້ຫົວໃຈເຕັ້ນໄວ ກ່ອນທ່ານຈະຂຶ້ນສະໄລ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "\"The Beast\" (ຕົກ 18 ແມັດ)",
+            "desc": "ໜຶ່ງໃນສະໄລນ້ຳທີ່ສູງທີ່ສຸດໃນອາຊີ. ຢືນເທິງພື້ນດັກ, ພື້ນຈະຖ່ວງລົງ ແລ້ວທ່ານຕົກລົງໄປໃກ້ຄື້ກັບແນວຕັ້ງ. ບໍ່ສຳລັບຄົນທ້ຳໃຈ"
+          },
+          {
+            "name": "ສະໄລຕົກ 12 ແມັດ",
+            "desc": "ສະໄລຮ່າງກາຍ ທີ່ໃຫ້ຄວາມຮູ້ສຶກຕົກໃນອາກາດ"
+          },
+          {
+            "name": "ສະໄລໝຸນ 360 ອົງສາ",
+            "desc": "ທໍ່ທີ່ໝູນຜ່ານ 360 ອົງສາ"
+          },
+          {
+            "name": "ສະໄລຮ່າງກາຍ",
+            "desc": "ສະໄລຄວາມໄວສູງ ທີ່ມີການຕົກ ແລະ ໂຄ້ງ"
+          },
+          {
+            "name": "ແຂ່ງເສື່ອ",
+            "desc": "ແຂ່ງກັບໝູ່ ແລະ ຄອບຄົວ ຢູ່ສະໄລຫຼາຍເສັ້ນ"
+          },
+          {
+            "name": "Zombie Chase",
+            "desc": "ປະສົບການແນວຄິດ ທີ່ທ່ານລອດຜ່ານສະໜາມ Zombie"
+          }
+        ],
+        "highlights": [
+          "⚡ ຕື່ນເຕັ້ນສຸດຂີດ",
+          "📏 ຕົກ 18 ແມັດ",
+          "🔄 ສະໄລໝຸນ 360°",
+          "🏃 ແຂ່ງເສື່ອ",
+          "✅ ລວມໃນປີ້"
+        ],
+        "tipContent": "<p><strong>ຂໍ້ຈຳກັດຄວາມສູງ:</strong> ສະໄລສ່ວນໃຫຍ່ໃນໂຊນ Zombieland ຕ້ອງການຄວາມສູງຢ່າງໜ້ອຍ <strong>120 ຊມ</strong>. The Beast ອາດມີຂໍ້ຈຳກັດເພີ່ມ. ຄວາມສູງຈະຖືກກວດສອບທີ່ທາງເຂົ້າໂຕ້ລົດ.</p>"
+      },
+      {
+        "tag": "ການຜະຈົນໄພ",
+        "h2": "ໂຊນ Jumanji",
+        "subtitle": "ເຂົ້າສູ່ການຜະຈົນໄພປ່າໃຫ່",
+        "intro": "ກ້າວເຂົ້າສູ່ໂລກ Jumanji ທີ່ດຸດ່ານ, ບ່ອນທີ່ປ່າຢາກໃຫຍ່ ມີຊີວິດດ້ວຍເຄື່ອງຫຼິ້ນນ້ຳ ແລະ ບັນຍາກາດທີ່ລຶ້ງດູດ. ໂຊນ Jumanji ສ້ອງສະຫວ່າງໃຫ້ Jumanji ຮູບເງົາຜະຈົນໄພ ດ້ວຍທິວທັດປ່າ, ຄວາມໝາຍຂອງນ້ຳ ແລະ ສະໄລ. ໂຊນນີ້ສົມດຸນຄວາມຕື່ນເຕັ້ນ ແລະ ການເຂົ້າຫາ ເໝາະສຳລັບໄວໜຸ່ມ, ຜູ້ໃຫຍ່ ແລະ ເດັກໂຕຜ່ານ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "ພູ Jaguar",
+            "desc": "ເຄື່ອງຫຼິ້ນໝຸດກາງຂອງໂຊນ. ຂຶ້ນເທິງພູປ່າ ແລ້ວລົງຜ່ານສະໄລ ອ້ອມຮອບດ້ວຍນ້ຳຕົກ"
+          },
+          {
+            "name": "ສະໄລ Viper",
+            "desc": "ທໍ່ໝຸນໂຄ້ງ ທີ່ຈຳລອງການເຄື່ອນໄຫວຂອງງູໃນປ່າ"
+          },
+          {
+            "name": "Jungle Stampede",
+            "desc": "ເຄື່ອງຫຼິ້ນແພຫຼາຍຄົນ ທີ່ພາໝູ່ລົງ rapids ດ້ວຍກັນ"
+          },
+          {
+            "name": "ສະລອຍນ້ຳກະເດັນ Mandrill Chase",
+            "desc": "ສະລອຍນ້ຳ ທີ່ລິງ Mandrill ຮູ້ສຶກ \"ໄຊ\" ນັກທ່ອງລົງໄປໃນນ້ຳ"
+          }
+        ],
+        "highlights": [
+          "🌿 ແນວຄິດປ່າ",
+          "🏔️ ພູ Jaguar",
+          "🐍 ສະໄລ Viper",
+          "👨‍👩‍👧‍👦 ດີສຳລັບໝູ່",
+          "✅ ລວມໃນປີ້"
+        ],
+        "tipContent": "<p><strong>ເຄັດລັບ:</strong> ເຄື່ອງຫຼິ້ນແພ Jungle Stampede ມ່ວນທີ່ສຸດເມື່ອໄປເຕັມໝູ່. ຖ້ານ່ານໄປຄູ່ ຫຼື ຄົນດຽວ, ທ່ານຈະຖືກຈັດໃຫ້ຢູ່ກັບແຂກທ່ານອື່ນ ຊຶ່ງກໍ່ສ່ວນໜຶ່ງຂອງຄວາມມ່ວນ!</p>"
+      },
+      {
+        "tag": "ໂຕ້ຄື້ນມືອາຊີບ",
+        "h2": "ໂຊນ Surf's Up",
+        "subtitle": "ເຄື່ອງຈຳລອງ FlowRider ພ້ອມຄຳສອນມືອາຊີບ",
+        "intro": "ໂຕ້ຄື້ນໃນເຄື່ອງຈຳລອງ FlowRider ໃນໂຊນ Surf's Up! ທ່ານສາມາດສຳຜັດການໂຕ້ຄື້ນຕົວຈິງໃນສະພາບແວດລ້ອມທີ່ປອດໄພ. ບໍ່ວ່າຈະເປັນຜູ້ເລີ່ມຕົ້ນ ຫຼື ນັກໂຕ້ຄື້ນທີ່ມີປະສົບການ, <strong>ຄູສອນມືອາຊີບ</strong> ພ້ອມຊ່ວຍ. ຫມາຍເຫດ: ໂຊນນີ້ຕ້ອງຈ່າຍຄ່າເພີ່ມ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "ເຄື່ອງ FlowRider Double Surf 40 ຟຸດ",
+            "desc": "ເຄື່ອງຈຳລອງຄູ່ ທີ່ສ້າງຄື້ນຕໍ່ເນື່ອງ ສຳລັບໂຕ້ຄື້ນຍືນ ແລະ ຖືກະດານ"
+          },
+          {
+            "name": "ຄຳສອນໂຕ້ຄື້ນມືອາຊີບ",
+            "desc": "ຄູສອນທີ່ໄດ້ຮັບໃບຢັ້ງຢືນ ສອນທ່ານວ່ານ້ຳໜັກ, ຈັບຄື້ນ ແລະ ຂີ່ໄດ້ຄືກັບມືອາຊີບ"
+          },
+          {
+            "name": "ຖືກະດານ",
+            "desc": "ທາງເລືອກດີສຳລັບຜູ້ເລີ່ມ ທີ່ຕ້ອງການຂີ່ຄື້ນ ຂະນະນອນ ຫຼື ຄຸກເຂົ່າ"
+          }
+        ],
+        "highlights": [
+          "🏄 FlowRider",
+          "👨‍🏫 ຄູສອນມືອາຊີບຟຣີ",
+          "🤙 ຖືກະດານ",
+          "📷 ຈຸດຖ່າຍຮູບດີ",
+          "💰 ຕ້ອງຈ່າຍເພີ່ມ"
+        ],
+        "tipContent": "<p><strong>ຄ່າເພີ່ມ:</strong> ເຄື່ອງຈຳລອງ FlowRider ຕ້ອງ<strong>ຈ່າຍຄ່າເພີ່ມ</strong> ນອກຈາກປີ້ທົ່ວໄປ. ຈ່າຍໂດຍໃຊ້ RFID ສາຍແຂນ. ລອງໄປທັນທີທີ່ສວນສະໜຸກເປີດ ເພື່ອຫຼີກລ່ຽງແຖວຍາວ.</p>"
+      },
+      {
+        "tag": "ພັກຜ່ອນ",
+        "h2": "ໂຊນ Cloudy with a Chance of Meatballs",
+        "subtitle": "Swallow Falls River Adventure ແລະ ແມ່ນ້ຳຊ້າ",
+        "intro": "ພັກຈາກຄວາມຕື່ນເຕັ້ນ ແລະ ລອຍໄປຕາມ<strong>Swallow Falls River Adventure</strong>, ແມ່ນ້ຳຊ້າທີ່ໄດ້ຮັບແນວຄິດຂອງ Aquaverse. ທາງນ້ຳໃຈດີ ພາທ່ານຜ່ານສີນ້ຳ ທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກຮູບເງົາ ອ້ອມຮອບດ້ວຍ Foodimals ຕົວຕະລົກ. ເໝາະສຳລັບຜ່ອນຄາຍ ລະຫວ່າງເຄື່ອງຫຼິ້ນ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "Swallow Falls River Adventure (335 ແມັດ)",
+            "desc": "ແມ່ນ້ຳຊ້າ 335 ແມັດ ທີ່ໄຫຼຜ່ານສີນ້ຳໂດຍຮັບ ຈາກຮູບເງົາ. ຈັບຢາງ ແລ້ວລອຍຕາມຈັງຫວະ"
+          },
+          {
+            "name": "Foodimals ຕົວຕະລົກ",
+            "desc": "ລິງຈາກຮູບເງົາ ວາງໄວ້ຕາມເສັ້ນທາງ ສຳລັບຖ່າຍຮູບ"
+          },
+          {
+            "name": "ປະສົບການແນວຄິດອາຫານ",
+            "desc": "ຈຸດນ້ຳໂຕ້ຕອບ ທີ່ຄ້າຍຄືສ່ວນປະກອບອາຫານ ທີ່ສ່ຽງ ແລະ ກະເດັນ"
+          }
+        ],
+        "highlights": [
+          "🛟 ແມ່ນ້ຳຊ້າ",
+          "🍔 ສີນ້ຳ",
+          "😌 ລອຍຜ່ອນຄາຍ",
+          "👶 ທຸກໄວ",
+          "✅ ລວມໃນປີ້"
+        ],
+        "tipContent": "<p><strong>ເຄັດລັບ:</strong> ແມ່ນ້ຳຊ້າ ເໝາະດີສຳລັບການຜ່ອນຄາຍກາງວັນ. ຢາງ ມີໃຫ້ຢູ່ຈຸດເຂົ້າ &mdash; ຈັບໜຶ່ງ ແລ້ວລົງ. ໜຶ່ງຮອບໃຊ້ເວລາ 15-20 ນາທີ ແລະ ສາມາດໄປໄດ້ຫຼາຍຮອບ.</p>"
+      },
+      {
+        "tag": "ໂກ-ກາດ &middot; ຈ່າຍເພີ່ມ",
+        "h2": "Bad Boys Race Club",
+        "subtitle": "ສະໜາມໂກ-ກາດ Miami",
+        "intro": "ລົງຈາກສະໄລນ້ຳ ມາສູ່ສະໜາມແຂ່ງ ທີ່ <strong>Bad Boys Race Club</strong>. ໂຊນນີ້ ທີ່ໄດ້ຮັບແນວຄິດຈາກ Bad Boys franchise ໃຫ້ການແຂ່ງໂກ-ກາດຄວາມໄວສູງ ໃນສະໜາມ Miami. ນີ້ແມ່ນໜຶ່ງໃນກິດຈະກຳທີ່ຢູ່ນອກນ້ຳ ທີ່ ເຮັດໃຫ້ Aquaverse ເປັນຫຼາຍກວ່າສວນນ້ຳ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "ສະໜາມໂກ-ກາດ Miami 500 ແມັດ",
+            "desc": "ສະໜາມອອກແບບພິເສດ 500 ແມັດ ມີໂຄ້ງ, ເລ້ຍ ແລະ ທາງຕົ້ງ"
+          },
+          {
+            "name": "ໂກ-ກາດ ພິເສດ (ສູງສຸດ 80 ກມ/ຊ)",
+            "desc": "ໂກ-ກາດ ທີ່ສ້າງຂຶ້ນພິເສດ ຄວາມໄວສູງສຸດ 80 ກມ/ຊ"
+          },
+          {
+            "name": "ລົດຖີບ Drift",
+            "desc": "ລົດຖີບ ທີ່ອອກແບບສຳລັບດຣິຟ"
+          }
+        ],
+        "highlights": [
+          "🏎️ ໂກ-ກາດ",
+          "🏁 ແນວຄິດ Miami",
+          "🛞 ລົດຖີບ Drift",
+          "💰 ຕ້ອງຈ່າຍເພີ່ມ"
+        ],
+        "tipContent": "<p><strong>ຄ່າເພີ່ມ:</strong> Bad Boys Race Club <strong>ບໍ່ລວມ</strong>ຢູ່ໃນປີ້ທົ່ວໄປ. ໂກ-ກາດ ແລະ ລົດຖີບ Drift ຄິດຄ່າໃຊ້ຈ່າຍແຍກ. ຈ່າຍໂດຍໃຊ້ RFID ສາຍແຂນ.</p>"
+      },
+      {
+        "tag": "ມິນິກ໋ອຟ &middot; ຈ່າຍເພີ່ມ",
+        "h2": "ໂຊນ The Emoji Movie",
+        "subtitle": "ມິນິກ໋ອຟສ້າງສັນ ພ້ອມລາງວັນ",
+        "intro": "ພັກຈາກນ້ຳ ດ້ວຍການຫຼິ້ນມິນິກ໋ອຟ ໃນ<strong>ໂຊນ The Emoji Movie</strong>. ສະໜາມມິນິກ໋ອຟ emoji ມີສີ ສ້າງສັນ ມີອຸປະສັກ ທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກໂລກໃນໂທລະສັບ. ແຂ່ງກັບໝູ່ ແລະ ຄອບຄົວ ໃຜທຳຄະແນນດີ ຮັບລາງວັນ!",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "ສະໜາມມິນິກ໋ອຟ 9 ຂຸມ Emoji",
+            "desc": "ສະໜາມ 9 ຂຸມ ທີ່ມີອຸປະສັກ Emoji ທີ່ເປັນເອກະລັກ"
+          },
+          {
+            "name": "ອຸປະສັກສ້າງສັນ",
+            "desc": "ແຕ່ລະຂຸມ ມີສິ່ງທ້າທາຍ ທີ່ທົດສອບທັກສະການຕີ"
+          },
+          {
+            "name": "ລະບົບລາງວັນ",
+            "desc": "ຄະແນນດີພໍ ຮັບລາງວັນ"
+          }
+        ],
+        "highlights": [
+          "⛳ ມິນິກ໋ອຟ",
+          "🏆 ຮັບລາງວັນ",
+          "👨‍👩‍👧‍👦 ທຸກໄວ",
+          "💰 ຕ້ອງຈ່າຍເພີ່ມ"
+        ],
+        "tipContent": "<p><strong>ຄ່າເພີ່ມ:</strong> ມິນິກ໋ອຟ ໃນໂຊນ The Emoji Movie <strong>ບໍ່ລວມ</strong>ຢູ່ໃນປີ້ທົ່ວໄປ ຕ້ອງຈ່າຍເພີ່ມ. ດີສຳລັບຜ່ອນຄາຍ ເມື່ອຕ້ອງການໄດ້ຂຶ້ນຈາກນ້ຳ.</p>"
+      },
+      {
+        "tag": "ໂຮງໜັງ + ຄື້ນ",
+        "h2": "ສະລອຍນ້ຳຄື້ນຍັກ Mega Omnitheatre",
+        "subtitle": "ຄື້ນ, ຮູບເງົາ, ຄອນເສີດ ແລະ ປາຕີ້ຟອງ",
+        "intro": "<strong>ສະລອຍນ້ຳຄື້ນຍັກ Mega Omnitheatre</strong> ແມ່ນຈຸດຫົວໃຈຂອງ Aquaverse. ສະລອຍນ້ຳຂະໜາດໃຫຍ່ ສ້າງ<strong>ຄື້ນຍັກທຸກ 20 ນາທີ</strong>, ແລະ ໃຊ້ເປັນສະຖານທີ່ຄອນເສີດ ພ້ອມຈໍ LED ຂະໜາດໃຫຍ່ ແລະ ລະບົບສຽງ Dolby DTS Surround Sound. ຕະຫຼອດວັນ, Omnitheatre ຈັດສາຍຮູບເງົາ, ຄອນເສີດສົດ ແລະ ປາຕີ້ຟອງ.",
+        "keyAttractionsLabel": "ເຄື່ອງຫຼິ້ນຫຼັກ",
+        "attractions": [
+          {
+            "name": "ສະລອຍນ້ຳຄື້ນຍັກ",
+            "desc": "ສະລອຍນ້ຳຂະໜາດໃຫຍ່ ທີ່ສ້າງຄື້ນໃຫຍ່ທຸກ 20 ນາທີ ສຳລັບໂຕ້ຄື້ນ, ລອຍ ແລະ ສ່ຽງ"
+          },
+          {
+            "name": "ປາຕີ້ຟອງ",
+            "desc": "ຟອງເປົ່າຕາມໂຕາລາງ ເຮັດໃຫ້ບໍລິເວນ ກາຍເປັນປາຕີ້ຟອງໃຫຍ່"
+          },
+          {
+            "name": "ສາຍຮູບເງົາກາງແຈ້ງ",
+            "desc": "ເບິ່ງຮູບເງົາໃສ່ຈໍ LED ໃຫຍ່ ຂະນະລອຍໃນສະລອຍນ້ຳ"
+          },
+          {
+            "name": "ຄອນເສີດສົດ ແລະ DJ",
+            "desc": "ດົນຕຣີສົດ ໂດຍສະເພາະທ້າຍອາທິດ ແລະ ວັນພັກ"
+          },
+          {
+            "name": "ລະບົບສຽງ Dolby DTS Surround Sound",
+            "desc": "ລະບົບສຽງລະດັບໂຮງໜັງ"
+          },
+          {
+            "name": "ຈໍ LED ຂະໜາດໃຫຍ່",
+            "desc": "ຈໍ LED ຄວາມລະເອຽດສູງ ທີ່ເຫັນໄດ້ຈາກທຸກທີ່ໃນສະລອຍນ້ຳ"
+          }
+        ],
+        "highlights": [
+          "🌊 ຄື້ນຍັກທຸກ 20 ນາທີ",
+          "🎬 ໂຮງໜັງກາງແຈ້ງ",
+          "🎸 ຄອນເສີດສົດ",
+          "🎉 ປາຕີ້ຟອງ",
+          "✅ ລວມໃນປີ້"
+        ],
+        "tipContent": "<p><strong>ເຄັດລັບ:</strong> ສະລອຍນ້ຳຄື້ນ ແມ່ນບໍລິເວນທີ່ຄົນຫຼາຍທີ່ສຸດ ໂດຍສະເພາະຕອນບ່າຍ. ຈັບຢາງໃຫ້ທັນ ແລະ ຈອງທີ່ທີ່ດີ. ກວດສອບໂຕາລາງ ໃນຕອນເຊົ້າ. ງານທ້າຍອາທິດ ສ່ຽງໄດ້ຫຼາຍ.</p>"
+      }
+    ],
+    "extras": {
+      "sectionLabel": "ນອກຈາກໂຊນ",
+      "heading": "ສິ່ງດຶງດູດ ແລະ ບໍລິການເພີ່ມ",
+      "description": "Aquaverse ມີຫຼາຍກວ່າເຄື່ອງຫຼິ້ນນ້ຳ. ຜ່ອນຄາຍໃນອົງເຊັນ, ຈອງ VIP Cabana ແລະ ບັນທຶກທຸກຄວາມທ້ຽວຍ.",
+      "items": [
+        {
+          "h3": "ອົງເຊັນ ແລະ ຫ້ອງໄອນ້ຳ",
+          "content": "<p>ຜ່ອນຄາຍໃນ<strong>ອົງເຊັນ (ອ່າງນ້ຳຮ້ອນຍີ່ປຸ່ນ) ແລະ ຫ້ອງໄອນ້ຳ</strong>. ຫຼັງຈາກຂີ່ສະໄລ ແລະ ໂຊນຄື້ນ ມາຜ່ອນຄາຍກ້າມ ແລະ ສິ້ນສຸດການທ່ຽວ. ບໍລິເວນອົງເຊັນ ແຍກຈາກໂຊນໂຄ່ ແລະ ໃຫ້ບັນຍາກາດສະຫງົບ.</p>\n            <p>ນີ້ແມ່ນຄຸນສົມບັດທີ່ຫາຍາກ ທີ່ ຈຳແນກ Aquaverse ຈາກສວນນ້ຳອື່ນໃນພາກ.</p>",
+          "highlights": [
+            "♨️ ອ່າງນ້ຳຮ້ອນ",
+            "💨 ຫ້ອງໄອນ້ຳ",
+            "✅ ລວມໃນປີ້"
+          ]
+        },
+        {
+          "h3": "VIP Cabanas",
+          "content": "<p>ອັບເກຣດປະສົບການ Aquaverse ດ້ວຍ<strong>VIP Cabana ສ່ວນຕົວ</strong>. ມີ 3 ລະດັບ:</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Deluxe Cabana</strong> &mdash; THB 2,500/ວັນ &mdash; ຮົ່ມ, ທີ່ນັ່ງ, ຕູ້ ແລະ ຜ້າເຊັດຕົວ</li>\n              <li><strong>Super Deluxe Cabana</strong> &mdash; THB 3,000/ວັນ &mdash; ພື້ນທີ່ກວ້າງ, ທີ່ນັ່ງ Premium ແລະ ເຄື່ອງດື່ມ</li>\n              <li><strong>VIP Cabana</strong> &mdash; THB 3,500/ວັນ &mdash; ສູງສຸດ ສຳລັບທຳເລດີ, ເຄຣດິດ ແລະ ບໍລິການ Priority</li>\n            </ul>",
+          "highlights": [
+            "🏖️ ຮົ່ມສ່ວນຕົວ",
+            "🍹 ບໍລິການເຄື່ອງດື່ມ",
+            "💰 ເລີ່ມ THB 2,500"
+          ]
+        },
+        {
+          "h3": "ລະບົບຮູບ-ວິດີໂອ RFID",
+          "content": "<p>ແຂກທຸກຄົນຈະໄດ້ຮັບ<strong>ສາຍແຂນ RFID</strong> ທີ່ໃຫ້ຫຼາຍກວ່າການເຂົ້າສວນ. ສາຍແຂນ ໃຊ້ເປັນ<strong>ລະບົບຊຳລະທີ່ບໍ່ໃຊ້ເງິນສົດ</strong> (ເຕີມເຄຣດິດ ຊື້ອາຫານ, ເຄື່ອງດື່ມ ໂດຍບໍ່ຕ້ອງຖືເງິນ) ແລະ ເຊື່ອມຕໍ່ກັບ<strong>ລະບົບຖ່າຍຮູບ-ວິດີໂອ</strong>.</p>\n            <p>ກ້ອງທີ່ຈຸດໄດ ຈະຈັບຮູບ ແລະ ວິດີໂອ ທ່ານໂດຍອັດຕະໂນມັດ. ທ້າຍວັນ ທ່ານສາມາດເບິ່ງ ແລະ ຊື້ ຮູບ-ວິດີໂອ ທີ່ເຊື່ອມກັບສາຍແຂນ.</p>",
+          "highlights": [
+            "📸 ຮູບຖ່ານ ອັດຕະໂນມັດ",
+            "🎥 ວິດີໂອ",
+            "💳 ຊຳລະບໍ່ໃຊ້ເງິນສົດ"
+          ]
+        },
+        {
+          "h3": "ຂໍ້ຈຳກັດຄວາມສູງ",
+          "content": "<p>ເພື່ອຄວາມປອດໄພ, ສະໄລ ແລະ ເຄື່ອງຫຼິ້ນບາງໂຕ ມີ<strong>ກຳນົດຄວາມສູງຂັ້ນຕ່ຳ</strong>. ຄວາມສູງຈະຖືກວັດ ແລະ ກວດ ທີ່ທາງເຂົ້າໂຕ້ລົດ. ຄຳແນະນຳ:</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>ຕ່ຳກວ່າ 100 ຊມ:</strong> ໂຊນ Hotel Transylvania, ແມ່ນ້ຳຊ້າ, ສະລອຍນ້ຳ (ພ້ອມ life jacket)</li>\n              <li><strong>100-120 ຊມ:</strong> ເຄື່ອງຫຼິ້ນ Jumanji ສ່ວນໃຫຍ່, ສະໄລ Ghostbusters ບາງ, Surf's Up (ພ້ອມຄູ)</li>\n              <li><strong>120 ຊມ+:</strong> ຕ້ອງການ ສຳລັບສະໄລ Zombieland ສຸດຂີດ (The Beast, ໝຸນ 360, ຕົກ)</li>\n              <li><strong>ທຸກໄວ:</strong> ແມ່ນ້ຳຊ້າ, ສະລອຍນ້ຳ, ອົງເຊັນ, ມິນິກ໋ອຟ, ພົບຕົວລະຄອນ</li>\n            </ul>\n            <p style=\"margin-top: 0.5rem;\">Life jackets ໄດ້ຟຣີ ສຳລັບແຂກໜຸ່ມ ແລະ ຜູ້ທີ່ລ່ອຍນ້ຳບໍ່ໄດ້. ອ່ານ <a href=\"/lo/blog/aquaverse-with-kids.html\">ຄູ່ມືຄອບຄົວ</a> ສຳລັບຄຳແນະນຳໂດຍໄວ.</p>",
+          "highlights": [
+            "📏 ກວດສອບທີ່ໂຕ້ລົດ",
+            "🦺 Life Jackets ຟຣີ",
+            "👶 ໂຊນເດັກນ້ອຍ"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "ຄຳຖາມກ່ຽວກັບເຄື່ອງຫຼິ້ນ",
+      "description": "ຄຳຖາມທົ່ວໄປ ກ່ຽວກັບເຄື່ອງຫຼິ້ນ, ໂຊນ ແລະ ສິ່ງດຶງດູດ ໃນ Aquaverse.",
+      "items": [
+        {
+          "question": "Aquaverse ມີຈັກໂຊນ?",
+          "answer": "<p>Aquaverse ມີ<strong>9 ໂຊນຮູບເງົາ</strong>: Hotel Transylvania (ເດັກນ້ອຍ), Ghostbusters (ທ້າທາຍ), Zombieland (ສຸດຂີດ), Jumanji (ຜະຈົນໄພ), Surf's Up (ໂຕ້ຄື້ນ), Cloudy with a Chance of Meatballs (ແມ່ນ້ຳຊ້າ), Bad Boys Race Club (ໂກ-ກາດ), The Emoji Movie (ມິນິກ໋ອຟ) ແລະ ສະລອຍນ້ຳຄື້ນຍັກ Mega Omnitheatre. 7 ໂຊນເປັນນ້ຳ ລວມໃນປີ້. 2 ໂຊນ (ໂກ-ກາດ ແລະ ມິນິກ໋ອຟ) ຈ່າຍເພີ່ມ.</p>"
+        },
+        {
+          "question": "ເຄື່ອງຫຼິ້ນໃດໜ້າຢ້ານທີ່ສຸດໃນ Aquaverse?",
+          "answer": "<p><strong>The Beast</strong> ໃນໂຊນ Zombieland ແມ່ນສຸດຂີດທີ່ສຸດ ມີຈຸດຕົກ 18 ແມັດ ທີ່ພື້ນຈະຖ່ວງລົງ. ໂຊນຍັງມີສະໄລຕົກ 12 ແມັດ ແລະ ໝຸນ 360 ອົງສາ. ຕ້ອງການຄວາມສູງ 120 ຊມ.</p>"
+        },
+        {
+          "question": "Aquaverse ມີກຳນົດຄວາມສູງບໍ?",
+          "answer": "<p>ມີ. ເຄື່ອງຫຼິ້ນທ້າທາຍສ່ວນໃຫຍ່ໃນໂຊນ Zombieland ແລະ Ghostbusters ຕ້ອງການ<strong>ຄວາມສູງ 120 ຊມ</strong>. ໂຊນ Hotel Transylvania ເໝາະທຸກໄວ ບໍ່ມີຂໍ້ຈຳກັດຄວາມສູງ. ກວດສອບທີ່ທາງເຂົ້າໂຕ້ລົດ.\n                </p>\n                <p><a href=\"/lo/blog/aquaverse-with-kids.html\">ອ່ານຄູ່ມືຄອບຄົວສົມບູນ &rarr;</a></p>"
+        },
+        {
+          "question": "ເຄື່ອງຫຼິ້ນໃດ Aquaverse ຕ້ອງຈ່າຍເພີ່ມ?",
+          "answer": "<p>ເຄື່ອງຫຼິ້ນສ່ວນໃຫຍ່ ລວມໃນປີ້ທົ່ວໄປ. ໂຊນທີ່ຕ້ອງຈ່າຍເພີ່ມ:</p>\n                <ul>\n                  <li><strong>Bad Boys Race Club</strong> &mdash; ໂກ-ກາດ ແລະ ລົດຖີບ Drift</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; ມິນິກ໋ອຟ</li>\n                </ul>\n                <p>VIP Cabanas ຍັງຈ່າຍເພີ່ມ: Deluxe (THB 2,500), Super Deluxe (THB 3,000), VIP (THB 3,500). ແພັກ ຮູບ-ວິດີໂອ RFID ຊື້ໄດ້ທ້າຍວັນ.</p>\n                <p><a href=\"/lo/tickets.html\">ເບິ່ງຕົວເລືອກປີ້ທັງໝົດ &rarr;</a></p>"
+        },
+        {
+          "question": "ໂດມນ້ຳແຫ່ງທຳອິດຂອງໂລກ ແມ່ນຫຍັງ?",
+          "answer": "<p><strong>ໂດມນ້ຳ Proton Stream</strong> ໃນໂຊນ Ghostbusters ແມ່ນເຄື່ອງຫຼິ້ນ ທີ່ເປັນເອກະສິດ ຂອງ Aquaverse. ນັກທ່ອງຂີ່ຢາງ Ghostbusters ລື່ນໂຄ້ງຄວາມມືດ ກ່ອນຕົກໃສ່ໂດມນ້ຳ. ບໍ່ມີທີ່ໃດໃນໂລກ ມີຄືກັນ.</p>"
+        },
+        {
+          "question": "Aquaverse ມີແມ່ນ້ຳຊ້າບໍ?",
+          "answer": "<p>ມີ! ໂຊນ<strong>Cloudy with a Chance of Meatballs</strong> ມີ Swallow Falls River Adventure ແມ່ນ້ຳຊ້າ 335 ແມັດ ທີ່ທ່ານລອຍຜ່ານ Foodimals ຕົວຕະລົກ ແລະ ສີນ້ຳຮູບເງົາ. ຢາງ ມີໃຫ້ທີ່ຈຸດເຂົ້າ. ຮອດໜຶ່ງຮອບ 15-20 ນາທີ ໄປໄດ້ຫຼາຍຮອບ.</p>"
+        }
+      ],
+      "viewAll": "ເບິ່ງຄຳຖາມທີ່ພົບເລື້ອຍທັງໝົດ &rarr;"
+    },
+    "cta": {
+      "heading": "ພ້ອມຂີ່ 9 ໂຊນແລ້ວບໍ?",
+      "text": "ຈອງປີ້ Aquaverse ອອນລາຍ ແລະ ປະຢັດສູງສຸດ ~27%. ໂຊນນ້ຳທັງໝົດ, ສະລອຍນ້ຳຄື້ນ, ແມ່ນ້ຳຊ້າ, ອົງເຊັນ &mdash; ລວມໃນໜຶ່ງປີ້ ເລີ່ມຈາກ THB 1,176.",
+      "button": "ຈອງປີ້ລາຄາພິເສດດຽວນີ້ &rarr;",
+      "link": "ເບິ່ງຕົວເລືອກປີ້ ແລະ ແພັກເກດລວມທັງໝົດ &rarr;"
+    },
+    "schema": {
+      "name": "",
+      "alternateName": [],
+      "description": "",
+      "touristType": [],
+      "containsPlace": []
+    }
+  },
+  "tickets": {
+    "title": "ຊື້ປີ້ Aquaverse ອອນລາຍ | ປະຢັດ ~26% ກ່ວາລາຄາປະຕູ | ຈອງດຽວນີ້ 2026",
+    "metaDescription": "ຈອງປີ້ Aquaverse ພັດທະຍາ ອອນລາຍ ເລີ່ມຕົ້ນ THB 1,176 (ລາຄາປະຕູ THB 1,595). ຢືນຢັນທັນທີ, ຍົກເລີກໄດ້ຟຣີ, ລວມຕູ້ຝາກ. ປຽບທຽບແພັກເກດ Standard, Combo ແລະ All-Inclusive. ເດັກ 0-2 ຂວບ ຟຣີ.",
+    "metaKeywords": "ປີ້ Aquaverse, ລາຄາປີ້ Aquaverse, ປີ້ Aquaverse ພັດທະຍາ, ປີ້ Columbia Pictures Aquaverse, ຈອງ Aquaverse ອອນລາຍ, ສ່ວນລົດ Aquaverse, Aquaverse all-inclusive, ຕູ້ຝາກ Aquaverse, ລາຄາເດັກ Aquaverse",
+    "ogTitle": "ລາຄາປີ້ Aquaverse 2026 | ປະຢັດ ~26% ອອນລາຍ",
+    "ogDescription": "ປີ້ Aquaverse ເລີ່ມ THB 1,176 ອອນລາຍ (ລາຄາປະຕູ THB 1,595). ປະຢັດ ~26%, ຍົກເລີກໄດ້ຟຣີ, ລວມຕູ້ຝາກ. ເດັກອາຍຸຕ່ຳກວ່າ 3 ຂວບ ຟຣີ.",
+    "twitterTitle": "ລາຄາປີ້ Aquaverse 2026 | ປະຢັດ ~26% ອອນລາຍ",
+    "twitterDescription": "ປີ້ Aquaverse ເລີ່ມ THB 1,176 ອອນລາຍ (ລາຄາປະຕູ THB 1,595). ປະຢັດ ~26%, ຍົກເລີກໄດ້ຟຣີ, ລວມຕູ້ຝາກ.",
+    "hero": {
+      "badge": "ປີ້ ແລະ ລາຄາ",
+      "h1": "ລາຄາປີ້ Aquaverse 2026",
+      "h1Sub": "ປະຢັດ ~27% ເມື່ອຈອງອອນລາຍ",
+      "sub": "ຂ້າມແຖວ ແລະ ປະຢັດຫຼາຍ. ປີ້ອອນລາຍ ເລີ່ມຕົ້ນພຽງ THB 1,176 ຕໍ່ຄົນ\n        ລວມຄ່າເຊົ່າຕູ້ຝາກທັງວັນຟຣີ. ເດັກອາຍຸຕ່ຳກວ່າ 3 ຂວບ ເຂົ້າຟຣີ.",
+      "cta1": "ຈອງປີ້ລາຄາພິເສດ &rarr;",
+      "cta2": "ເບິ່ງທຸກຕົວເລືອກ",
+      "stats": [
+        {
+          "number": "THB 1,176",
+          "label": "ລາຄາອອນລາຍ"
+        },
+        {
+          "number": "26%",
+          "label": "ປະຢັດສູງສຸດ"
+        },
+        {
+          "number": "ຟຣີ",
+          "label": "ຕ່ຳກວ່າ 3 ຂວບ"
+        },
+        {
+          "number": "ທັນທີ",
+          "label": "E-Ticket"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "ປີ້ ແລະ ລາຄາ",
+    "tldr": [
+      {
+        "bold": "ລາຄາປະຕູ:",
+        "text": "THB 1,595 ຕໍ່ຄົນ (~$49 USD)"
+      },
+      {
+        "bold": "ລາຄາອອນລາຍ:",
+        "text": "ເລີ່ມ THB 1,176 ຕໍ່ຄົນ (~$36 USD) &mdash; ປະຢັດສູງສຸດ 27%"
+      },
+      {
+        "bold": "ເດັກອາຍຸຕ່ຳກວ່າ 3 ຂວບ:",
+        "text": "ເຂົ້າຟຣີ"
+      },
+      {
+        "bold": "ປີ້ອອນລາຍລວມ:",
+        "text": "ຄ່າເຊົ່າຕູ້ຝາກທັງວັນ (ມູນຄ່າ THB 300)"
+      },
+      {
+        "bold": "ໂກ-ກາດ ແລະ ມິນິກ໋ອຟ:",
+        "text": "ຕ້ອງຈ່າຍເພີ່ມພາຍໃນສວນ"
+      },
+      {
+        "bold": "ການຍົກເລີກ:",
+        "text": "ຍົກເລີກຟຣີ ສຳລັບການຈອງອອນລາຍສ່ວນໃຫຍ່"
+      }
+    ],
+    "ticketOptions": {
+      "sectionLabel": "ປຽບທຽບຕົວເລືອກ",
+      "heading": "ປະເພດປີ້ Aquaverse ທັງໝົດ",
+      "description": "ເລືອກປີ້ທີ່ເໝາະກັບງົບ ແລະ ລະດັບປະສົບການຂອງທ່ານ. ທຸກຕົວເລືອກ ລວມການເຂົ້າສວນເຕັມ ຊຶ່ງລວມເຄື່ອງຫຼິ້ນນ້ຳ.",
+      "tableHeaders": [
+        "ປະເພດປີ້",
+        "ລາຄາປະຕູ",
+        "ລາຄາອອນລາຍ",
+        "ສິ່ງທີ່ລວມ"
+      ],
+      "tableRows": [
+        {
+          "name": "ປີ້ທົ່ວໄປ",
+          "included": "ສະໄລນ້ຳທັງໝົດ, ສະລອຍນ້ຳຄື້ນ, ແມ່ນ້ຳຊ້າ, ຕູ້ຝາກ"
+        },
+        {
+          "name": "ແພັກເກດ All-Inclusive",
+          "included": "ສະໄລນ້ຳທັງໝົດ + ຄູປອງອາຫານ 200 THB + 1 ຮອບ surf"
+        }
+      ],
+      "tableFootnote": "ເດັກ 0-2 ຂວບ ເຂົ້າຟຣີ ທຸກປະເພດປີ້ &bull; ລາຄາຕໍ່ຄົນ",
+      "cta": "ຈອງອອນລາຍ ປະຢັດ 27% &rarr;"
+    },
+    "pricingCards": {
+      "sectionLabel": "ຄຸ້ມຄ່າທີ່ສຸດ",
+      "heading": "ຕົວເລືອກປີ້ທີ່ນິຍົມທີ່ສຸດ",
+      "description": "ປີ້ທີ່ຂາຍດີທີ່ສຸດ ສຳລັບຜູ້ທ່ຽວ Aquaverse. ທຸກລາຍການ ລວມການຢືນຢັນ e-ticket ທັນທີ.",
+      "cards": [
+        {
+          "h3": "ລາຄາປະຕູ",
+          "period": "~$49 USD ຕໍ່ຄົນ",
+          "features": [
+            "ເຄື່ອງຫຼິ້ນນ້ຳທັງໝົດ ລວມຢູ່",
+            "ຕູ້ຝາກ ບໍ່ລວມ (ຈ່າຍເພີ່ມ THB 1,595)",
+            "ຂຶ້ນກັບຄວາມພ້ອມ",
+            "ບໍ່ມີສິດທິ ຂ້າມແຖວ"
+          ],
+          "cta": "ຊື້ທີ່ປະຕູເທົ່ານັ້ນ"
+        },
+        {
+          "h3": "ປີ້ລ່ວງໜ້າອອນລາຍ",
+          "period": "~$36 USD ຕໍ່ຄົນ &mdash; ປະຢັດ 27%!",
+          "features": [
+            "ເຄື່ອງຫຼິ້ນນ້ຳທັງໝົດ ລວມຢູ່",
+            "ຄ່າເຊົ່າຕູ້ຝາກ ລວມຢູ່",
+            "ຢືນຢັນ e-ticket ທັນທີ",
+            "ຍົກເລີກໄດ້ຟຣີ",
+            "ຂ້າມແຖວ ຊື້ປີ້"
+          ],
+          "cta": "ຈອງດຽວນີ້ &mdash; ປະຢັດ 27% &rarr;"
+        },
+        {
+          "h3": "ແພັກເກດ All-Inclusive",
+          "period": "~$48 USD ຕໍ່ຄົນ",
+          "features": [
+            "ເຄື່ອງຫຼິ້ນນ້ຳທັງໝົດ ລວມຢູ່",
+            "ຄູປອງອາຫານ &amp; ເຄື່ອງດື່ມ 200 THB",
+            "1 ຮອບ FlowRider surf",
+            "ຄ່າເຊົ່າຕູ້ຝາກ ລວມຢູ່",
+            "ຢືນຢັນ e-ticket ທັນທີ"
+          ],
+          "cta": "ຈອງ All-Inclusive &rarr;"
+        }
+      ]
+    },
+    "addons": {},
+    "howToBook": {},
+    "cancellation": {},
+    "savingsTips": {},
+    "cta1": {
+      "heading": "ພ້ອມທ່ຽວ Aquaverse ແລ້ວບໍ?",
+      "text": "ຈອງປີ້ອອນລາຍ ປະຢັດສູງສຸດ 27%. ຢືນຢັນທັນທີ, ຍົກເລີກໄດ້ຟຣີ ສ່ວນໃຫຍ່ ແລະ ຂ້າມແຖວ.",
+      "button": "ຈອງປີ້ລາຄາພິເສດດຽວນີ້ &rarr;",
+      "subtextPrefix": "ດີລວັນນີ້ ໝົດອາຍຸໃນ"
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "ຄຳຖາມກ່ຽວກັບປີ້ ແລະ ລາຄາ",
+      "description": "ຄຳຖາມທົ່ວໄປ ກ່ຽວກັບປີ້ Aquaverse, ລາຄາ ແລະ ສິ່ງທີ່ລວມ.",
+      "items": [
+        {
+          "question": "ປີ້ Aquaverse ລວມຕູ້ຝາກບໍ?",
+          "answer": "<p><strong>ມີ, ປີ້ລ່ວງໜ້າອອນລາຍ ລວມຄ່າເຊົ່າຕູ້ຝາກທັງວັນ ໂດຍບໍ່ຄິດຄ່າເພີ່ມ.</strong> ຖ້າຊື້ປີ້ທີ່ປະຕູ, ຄ່າເຊົ່າຕູ້ຝາກ ຈ່າຍເພີ່ມ <strong>THB 300</strong> ຕໍ່ວັນ.</p>\n                <p>ການຈອງອອນລາຍ ປະຢັດ ~26% ຈາກລາຄາປະຕູ ແລະ ລວມຕູ້ຝາກ &mdash; ຄຸ້ມຄ່າ ທີ່ຈອງລ່ວງໜ້າ.</p>"
+        },
+        {
+          "question": "Aquaverse ມີຜ້າເຊັດຕົວໃຫ້ບໍ?",
+          "answer": "<p>ຜ້າເຊັດຕົວ <strong>ບໍ່ລວມ</strong>ໃນປີ້ທົ່ວໄປ. ທ່ານສາມາດເຊົ່າຜ້າເຊັດຕົວ ທີ່ສວນ ໃນລາຄາ <strong>THB 107</strong> ບວກ <strong>THB 300 ຄ່າມັດຈຳ</strong> (ຄືນເມື່ອສົ່ງຄືນ).</p>\n                <p><strong>ເຄັດລັບ:</strong> ຜ້າເຊັດຕົວ ບໍ່ລວມໃນທຸກປີ້. ນຳຜ້າເຊັດຕົວຂອງຕົນເອງ ເພື່ອປະຢັດ, ຫຼື ເຊົ່າ THB 107 ທີ່ສວນ.</p>"
+        },
+        {
+          "question": "Aquaverse ມີຂາຍຊຸດລອຍນ້ຳບໍ?",
+          "answer": "<p><strong>ມີ.</strong> Aquaverse ມີຮ້ານຂາຍເຄື່ອງ ພາຍໃນສວນ ທີ່ທ່ານສາມາດ ຊື້ຊຸດລອຍນ້ຳ, ແວ່ນຕາລອຍນ້ຳ, ຢາກັນແດດ, ຝາໂທລະສັບ ກັນນ້ຳ ແລະ ອຸປະກອນລອຍນ້ຳອື່ນໆ.</p>\n                <p>ຢ່າງໃດກໍຕາມ ລາຄາ ສູງກວ່າຮ້ານຄ້ານອກ ດັ່ງນັ້ນ ພວກເຮົາ ແນະນຳໃຫ້ ນຳຊຸດລອຍນ້ຳ ຂອງຕົນເອງ ເພື່ອປະຢັດ.</p>"
+        },
+        {
+          "question": "ສາມາດຂໍຄືນເງິນປີ້ Aquaverse ໄດ້ບໍ?",
+          "answer": "<p><strong>ສາມາດ, ການຍົກເລີກຟຣີ</strong> ສຳລັບການຈອງປີ້ອອນລາຍສ່ວນໃຫຍ່. ກວດສອບນະໂຍບາຍການຍົກເລີກ ສະເພາະ ໃນຂະນະຈອງ ສຳລັບເງື່ອນໄຂ ແລະ ກຳນົດເວລາທີ່ຊັດເຈນ.</p>\n                <p>ການຄືນເງິນ ໂດຍທົ່ວໄປ ຈະດຳເນີນການ ພາຍໃນ 5&ndash;10 ວັນທຳການ ໄປຍັງ ວິທີຊຳລະ ທີ່ໃຊ້ຕົ້ນສະບັບ.</p>"
+        },
+        {
+          "question": "Aquaverse ມີລາຄາປີ້ເດັກບໍ?",
+          "answer": "<p>ເດັກອາຍຸຕ່ຳກວ່າ <strong>3 ຂວບ ເຂົ້າຟຣີ</strong>. ສຳລັບເດັກ 3&ndash;12 ຂວບ ແລະ ຜູ້ສູງອາຍຸ 65+ ບາງແຫຼ່ງ ຊີ້ໃຫ້ເຫັນ ລາຄາປະຕູ ທີ່ລົດລົງ <strong>THB 1,290</strong> (ທຽບ THB 1,590 ສຳລັບຜູ້ໃຫຍ່). ການຈອງອອນລາຍ ໂດຍທົ່ວໄປ ໃຊ້ລາຄາດຽວ ສຳລັບທຸກໄວ (3 ຂວບຂຶ້ນໄປ).</p>\n                <p><strong>ເຄັດລັບ:</strong> ຈອງອອນລາຍ ເພື່ອໄດ້ລາຄາດີທີ່ສຸດ ໂດຍບໍ່ຂຶ້ນກັບອາຍຸ. ປີ້ລ່ວງໜ້າອອນລາຍ ເລີ່ມ THB 1,176 ຕໍ່ຄົນ.</p>"
+        },
+        {
+          "question": "ຮັບຊຳລະດ້ວຍວິທີໃດ ສຳລັບການຈອງອອນລາຍ?",
+          "answer": "<p>ການຈອງອອນລາຍ ໂດຍທົ່ວໄປ ຮັບ <strong>ບັດສິນເຊື່ອ</strong> (Visa, Mastercard, AMEX), <strong>PayPal</strong> ແລະ <strong>ວິທີຊຳລະທ້ອງຖິ່ນ</strong> ຂຶ້ນກັບ ແພລດຟອມຈອງ.</p>\n                <p>ທີ່ປະຕູສວນ ຮັບ ເງິນສົດ (ບາດໄທ) ແລະ ບັດສິນເຊື່ອ. ສວນ ຍັງໃຊ້ ລະບົບ RFID ສາຍແຂນ ໄຮ້ເງິນສົດ ສຳລັບ ການຊື້ສິ່ງຂອງ ພາຍໃນ.</p>"
+        }
+      ],
+      "viewAll": "ເບິ່ງຄຳຖາມທີ່ພົບເລື້ອຍທັງໝົດ &rarr;"
+    },
+    "priceGuide": {},
+    "cta2": {},
+    "schema": {
+      "breadcrumbCurrent": "ປີ້ ແລະ ລາຄາ"
+    }
+  },
+  "gettingThere": {
+    "title": "ວິທີໄປ Aquaverse ພັດທະຍາ | ຄູ່ມືການເດີນທາງສົມບູນ 2026",
+    "metaDescription": "ທຸກທາງເລືອກການຂົນສົ່ງໄປ Columbia Pictures Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ. ດ້ວຍລົດ, ລົດໂດຍສານ, ແທັກຊີ, Grab. ທາງໄປ, ຄ່າໃຊ້ຈ່າຍ, ເວລາເດີນທາງ ແລະ ຂໍ້ມູນທີ່ຈອດລົດ.",
+    "metaKeywords": "ວິທີໄປ Aquaverse, ທາງໄປ Aquaverse, ການຂົນສົ່ງ Aquaverse ພັດທະຍາ, ກຸງເທບ ໄປ Aquaverse, ທາງໄປສວນນ້ຳພັດທະຍາ, ທີ່ຈອດລົດ Aquaverse, Grab ແທັກຊີ Aquaverse, Ekkamai ໄປພັດທະຍາ, Suvarnabhumi ໄປ Aquaverse",
+    "ogTitle": "ວິທີໄປ Aquaverse ພັດທະຍາ | ຄູ່ມືການຂົນສົ່ງສົມບູນ 2026",
+    "ogDescription": "ທຸກທາງເລືອກການຂົນສົ່ງໄປ Columbia Pictures Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ. ທາງໄປ, ຄ່າໃຊ້ຈ່າຍ, ເວລາເດີນທາງ ແລະ ຂໍ້ມູນທີ່ຈອດລົດ.",
+    "twitterTitle": "ວິທີໄປ Aquaverse ພັດທະຍາ | ຄູ່ມືການຂົນສົ່ງ 2026",
+    "twitterDescription": "ທຸກທາງເລືອກການຂົນສົ່ງໄປ Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ. ດ້ວຍລົດ, ລົດໂດຍສານ, ແທັກຊີ, Grab. ຄ່າໃຊ້ຈ່າຍ ແລະ ເວລາເດີນທາງ.",
+    "hero": {
+      "badge": "ຄູ່ມືການຂົນສົ່ງສົມບູນ",
+      "h1": "ວິທີໄປ Aquaverse",
+      "h1Sub": "ພັດທະຍາ, ປະເທດໄທ",
+      "sub": "ທຸກສິ່ງທີ່ທ່ານຕ້ອງຮູ້ ກ່ຽວກັບການໄປ Columbia Pictures Aquaverse.\n        ຈາກກຸງເທບ, ພັດທະຍາ ຫຼື ສະໜາມບິນ &mdash; ດ້ວຍລົດ, ລົດໂດຍສານ, ແທັກຊີ ຫຼື Grab.",
+      "cta1": "ຈາກກຸງເທບ &darr;",
+      "cta2": "ຈາກພັດທະຍາ &darr;",
+      "stats": [
+        {
+          "number": "1.5h",
+          "label": "ຈາກກຸງເທບ"
+        },
+        {
+          "number": "30min",
+          "label": "ຈາກພັດທະຍາ"
+        },
+        {
+          "number": "ຟຣີ",
+          "label": "ທີ່ຈອດລົດ"
+        },
+        {
+          "number": "THB 300-500",
+          "label": "Grab ຈາກພັດທະຍາ"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "ວິທີໄປ",
+    "tldr": [
+      {
+        "bold": "ທີ່ຢູ່:",
+        "text": "888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250 (<a href=\"https://maps.google.com/?q=Columbia+Pictures+Aquaverse+Pattaya\" rel=\"noopener noreferrer\" target=\"_blank\">Google Maps</a>)"
+      },
+      {
+        "bold": "ຈາກກຸງເທບ:",
+        "text": "1.5&ndash;2 ຊົ່ວໂມງ ດ້ວຍລົດຫຼືແທັກຊີ &bull; 2&ndash;2.5 ຊົ່ວໂມງ ດ້ວຍລົດໂດຍສານ"
+      },
+      {
+        "bold": "ຈາກໃຈກາງເມືອງພັດທະຍາ:",
+        "text": "20&ndash;30 ນາທີ ດ້ວຍ Grab/ແທັກຊີ (THB 350&ndash;500)"
+      },
+      {
+        "bold": "ທີ່ຈອດລົດ:",
+        "text": "ຟຣີ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ &mdash; ກ້ວາງ, ມີແສງໄຟ ແລະ ປອດໄພ"
+      },
+      {
+        "bold": "ບໍ່ມີລົດຮັບສົ່ງທາງການ:",
+        "text": "ໃຊ້ Grab (THB 300&ndash;500 ຈາກພັດທະຍາ) ຫຼື ຈັດຜ່ານໂຮງແຮມ ຫຼື ຜູ້ດຳເນີນທ່ອງທ່ຽວ"
+      },
+      {
+        "bold": "ເຄັດລັບດີທີ່ສຸດ:",
+        "text": "ໃຊ້ <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ແອັບ Grab</strong></a> ເພື່ອໄດ້ລາຄາແທັກຊີດີທີ່ສຸດທົ່ວໄທ"
+      }
+    ],
+    "location": {
+      "sectionLabel": "ທີ່ຕັ້ງສວນ",
+      "heading": "Aquaverse ຢູ່ໃສ?",
+      "description": "Columbia Pictures Aquaverse ຕັ້ງຢູ່ ຕາມ Sukhumvit Road ຊາຍຝັ່ງທະເລ ໃນເຂດ Na Jomtien / Sattahip, ລະຫວ່າງ ພັດທະຍາ ແລະ ຖານທັບເຮືອ Sattahip.",
+      "gbp": {
+        "category": "Water Park &middot; Theme Park &middot; ພັດທະຍາ",
+        "details": [
+          "<strong>ທີ່ຢູ່:</strong><br>\n                  888 Moo 8, Sukhumvit Rd, Na Jomtien, Sattahip, Chon Buri 20250",
+          "<strong>ເວລາເປີດ:</strong> 10:00 AM &ndash; 6:00 PM (ປິດວັນພຸດ)<br>\n                  <span data-park-status class=\"gbp-status closed\"><span class=\"gbp-status-dot\"></span>ກຳລັງກວດສອບ...</span>",
+          "<strong>ໂທລະສັບ:</strong> <a href=\"tel:+66330049999\">+66 (0) 33 004 999</a>",
+          "<strong>ທີ່ຈອດລົດ:</strong> ຟຣີ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ",
+          "<strong>Grab ຈາກພັດທະຍາ:</strong> THB 300&ndash;500 (ບໍ່ມີລົດຮັບສົ່ງທາງການ)"
+        ],
+        "mapBtn": "ເປີດໃນ Google Maps &rarr;"
+      },
+      "mapCaption": "ຕັ້ງຢູ່ ຕາມ Sukhumvit Road ລະຫວ່າງ ພັດທະຍາ ແລະ Sattahip. ຊອກຫາ ປ້າຍ Columbia Pictures Aquaverse ຂະໜາດໃຫຍ່ ຢູ່ດ້ານຊ້າຍ ຂອງຖະໜົນ ເມື່ອຂັບລົດລົງໄປທາງໃຕ້ຈາກພັດທະຍາ."
+    },
+    "fromBangkok": {
+      "sectionLabel": "ຈາກກຸງເທບ",
+      "heading": "ວິທີໄປ Aquaverse ຈາກກຸງເທບ",
+      "description": "ກຸງເທບ ຢູ່ຫ່າງຈາກ Aquaverse ປະມານ 150 km. ມີທາງເລືອກການຂົນສົ່ງຫຼາຍຊ່ອງທາງ ຂຶ້ນກັບງົບ ແລະ ຄວາມຕ້ອງການ.",
+      "cards": [
+        {
+          "h3": "ດ້ວຍລົດ (1.5&ndash;2 ຊົ່ວໂມງ)",
+          "content": "<p>ທາງເລືອກທີ່ຍືດຫຍຸ່ນທີ່ສຸດ ໂດຍສະເພາະ ສຳລັບຄອບຄົວ. ທີ່ຈອດລົດຟຣີ ທີ່ສວນ.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ໃຊ້ <strong>ທາງດ່ວນເສັ້ນທາງ 7</strong> ໄປທາງພັດທະຍາ/Chon Buri</li>\n              <li>ຜ່ານພັດທະຍາ ແລ້ວ ອອກທາງ <strong>Sattahip</strong></li>\n              <li>ຕິດຕາມ <strong>Sukhumvit Road</strong> ລົງໄປທາງໃຕ້</li>\n              <li>ຊອກຫາ ປ້າຍ <strong>Columbia Pictures Aquaverse</strong> ຢູ່ດ້ານຊ້າຍ</li>\n              <li>ທີ່ຈອດລົດຟຣີ ຢູ່ທາງເຂົ້າສວນ</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າທາງດ່ວນ:</strong> ~THB 155 ຕໍ່ຂາ ໃນທາງດ່ວນເສັ້ນທາງ 7<br>\n              <strong>ຄ່ານ້ຳມັນ:</strong> ~THB 400&ndash;600 ໄປ-ກັບ<br>\n              <strong>ທີ່ຈອດລົດ:</strong> ຟຣີ\n            </div>"
+        },
+        {
+          "h3": "ດ້ວຍລົດໂດຍສານ (2&ndash;2.5 ຊົ່ວໂມງ)",
+          "content": "<p>ທາງເລືອກລາຄາຖືກທີ່ສຸດ ຈາກກຸງເທບ. ລົດໂດຍສານ ອອກໄປພັດທະຍາ ຕໍ່ເນື່ອງ ຈາກ Ekkamai.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ໄປ <strong>Ekkamai Bus Terminal</strong> (Eastern Bus Terminal)</li>\n              <li>ໂດຍສານ <strong>BTS ໄປສະຖານີ Ekkamai, ທາງອອກ 2</strong> &mdash; ສະຖານີລົດໂດຍສານ ຢູ່ຕິດກັນ</li>\n              <li>ລົດໂດຍສານ ອອກໄປພັດທະຍາ <strong>ທຸກ 30 ນາທີ</strong></li>\n              <li>ລາຄາປີ້: <strong>THB 108&ndash;150</strong></li>\n              <li>ລົງທີ່ Pattaya Bus Terminal ແລ້ວ ຕໍ່ Grab/ແທັກຊີໄປສວນ</li>\n              <li>Grab/ແທັກຊີ ຈາກພັດທະຍາ ໄປ Aquaverse: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າໃຊ້ຈ່າຍລວມ:</strong> ~THB 430&ndash;630/ຄົນ<br>\n              <strong>ລົດໂດຍສານຄັນທຳອິດ:</strong> 5:00 AM &bull; <strong>ຄັນສຸດທ້າຍ:</strong> 11:00 PM\n            </div>"
+        },
+        {
+          "h3": "ດ້ວຍລົດຕູ້ຮ່ວມ (2 ຊົ່ວໂມງ)",
+          "content": "<p>ໄວກວ່າລົດໂດຍສານ ແຕ່ ລາຄາແພງກວ່ານ້ອຍ. ລົດຕູ້ 10 ທີ່ ສະດວກສະບາຍ.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ອອກເດີນທາງຈາກ <strong>BTS Victory Monument</strong> ຫຼື <strong>Ekkamai</strong></li>\n              <li>ລາຄາປີ້: <strong>THB 240/ຄົນ</strong></li>\n              <li>ລົດຕູ້ ອອກ <strong>ທຸກຊົ່ວໂມງ</strong> (ຖີ່ກວ່ານີ້ ໃນວັນທ້າຍອາທິດ)</li>\n              <li>ລົງທີ່ພັດທະຍາ ແລ້ວ ຕໍ່ແທັກຊີໄປສວນ</li>\n              <li>Grab/ແທັກຊີ ຈາກພັດທະຍາ ໄປ Aquaverse: <strong>THB 350&ndash;500</strong></li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າໃຊ້ຈ່າຍລວມ:</strong> ~THB 560&ndash;740/ຄົນ<br>\n              <strong>ເຄັດລັບ:</strong> ຊື້ປີ້ຢູ່ຕ່ຳໜ້ານ ບໍ່ໃຊ້ຊື້ຈາກຄົນຂາຍນອກ\n            </div>"
+        },
+        {
+          "h3": "ດ້ວຍແທັກຊີ / Grab (1.5&ndash;2 ຊົ່ວໂມງ)",
+          "content": "<p>ທາງເລືອກທີ່ສະດວກທີ່ສຸດ. ບໍລິການ door-to-door ໂດຍບໍ່ຕ້ອງຕໍ່ລົດ.</p>\n            <ul style=\"text-align: left; margin-top: 1rem; font-size: 0.9375rem;\">\n              <li>ຄ່າໃຊ້ຈ່າຍ: <strong>THB 1,200&ndash;1,500</strong> + ຄ່າທາງດ່ວນ (~THB 155)</li>\n              <li>ຈອງຜ່ານ <a href=\"https://www.grab.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ແອັບ Grab</strong></a> ສຳລັບລາຄາໂປ່ງໃສ</li>\n              <li>ສາມາດຮ່ວມໂດຍສານ ໄດ້ສູງສຸດ 3 ຄົນ</li>\n              <li>ໄປຮອດ door-to-door ໂດຍບໍ່ຕ້ອງຕໍ່ລົດ</li>\n              <li>ດີສຳລັບກຸ່ມ &mdash; ຫານ 4 ຄົນ = ~THB 340/ຄົນ</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ຄ່າໃຊ້ຈ່າຍລວມ:</strong> ~THB 1,355&ndash;1,655/ຄັນ<br>\n              <strong>ເຄັດລັບ:</strong> ໃຊ້ Grab ລາຄາຄົງທີ່ &mdash; ຫຼີກລ່ຽງລົດແທັກຊີ meter ສຳລັບການເດີນທາງໄກ\n            </div>"
+        }
+      ]
+    },
+    "fromAirports": {
+      "sectionLabel": "ຈາກສະໜາມບິນ",
+      "heading": "ໄປ Aquaverse ຈາກສະໜາມບິນ",
+      "description": "ສະໜາມບິນ 2 ແຫ່ງ ໃຫ້ບໍລິການ ເຂດພັດທະຍາ: Suvarnabhumi (ສະໜາມບິນຫຼັກຂອງກຸງເທບ) ແລະ U-Tapao (ສະໜາມບິນທ້ອງຖິ່ນຂອງພັດທະຍາ).",
+      "cards": [
+        {
+          "h3": "ຈາກ Suvarnabhumi Airport (BKK)",
+          "content": "<p style=\"margin-bottom: 1rem;\">ສະໜາມບິນນານາຊາດຫຼັກຂອງກຸງເທບ. ໃຊ້ເວລາປະມານ <strong>90 ນາທີ</strong> ໄປ Aquaverse ດ້ວຍລົດ.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>ແທັກຊີ:</strong> THB 1,500&ndash;2,000 (ໄປຮອດສວນໂດຍກົງ)</li>\n              <li><strong>Grab:</strong> ຈອງຜ່ານແອັບ ທີ່ຊັ້ນຮັບນັກທ່ອງທ່ຽວ &mdash; ລາຄາ ໃກ້ຄຽງກັນ ກັບແທັກຊີ</li>\n              <li><strong>ລົດໂດຍສານສະໜາມບິນ + ແທັກຊີ:</strong> ໂດຍສານລົດໂດຍສານ ສະໜາມບິນ ໄປພັດທະຍາ (~THB 200) ແລ້ວ ຕໍ່ແທັກຊີ ໄປສວນ (THB 350&ndash;500)</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ໄລຍະທາງ:</strong> ~120 km<br>\n              <strong>ເວລາເດີນທາງ:</strong> 1.5 ຊົ່ວໂມງ (ບໍ່ຕິດການຈາລະຈອນ)\n            </div>"
+        },
+        {
+          "h3": "ຈາກ U-Tapao Airport (UTP)",
+          "content": "<p style=\"margin-bottom: 1rem;\">ສະໜາມບິນທີ່ໃກ້ Aquaverse ທີ່ສຸດ. ຫ່າງພຽງ <strong>25 ນາທີ</strong> ດ້ວຍລົດ.</p>\n            <ul style=\"text-align: left; font-size: 0.9375rem;\">\n              <li><strong>ແທັກຊີ:</strong> THB 400&ndash;600 (ໄປຮອດສວນໂດຍກົງ)</li>\n              <li><strong>Grab:</strong> ອາດ ມີຈຳກັດ &mdash; ຈອງລ່ວງໜ້າ ຖ້າເປັນໄປໄດ້</li>\n              <li>U-Tapao ໃຫ້ບໍລິການ ຖ້ຽວບິນ ຈາກ Chiang Mai, Kuala Lumpur, ແລະ ບາງເມືອງໃນຈີນ</li>\n            </ul>\n            <div style=\"margin-top: 1rem; padding: 0.75rem; background: var(--gray-100); border-radius: 8px; font-size: 0.875rem;\">\n              <strong>ໄລຍະທາງ:</strong> ~25 km<br>\n              <strong>ເວລາເດີນທາງ:</strong> 25 ນາທີ\n            </div>"
+        }
+      ]
+    },
+    "fromPattaya": {
+      "sectionLabel": "ຈາກພັດທະຍາ",
+      "heading": "ໄປ Aquaverse ຈາກໃຈກາງເມືອງພັດທະຍາ",
+      "description": "Aquaverse ຕັ້ງຢູ່ ທາງໃຕ້ ຂອງໃຈກາງເມືອງພັດທະຍາ, ຫ່າງ ປະມານ 20&ndash;30 ນາທີ ຕາມທາງ.",
+      "cards": [
+        {
+          "h3": "Grab / ແທັກຊີ",
+          "price": "<strong>THB 350&ndash;500</strong>",
+          "description": "20&ndash;30 ນາທີ. ໃຊ້ແອັບ Grab ສຳລັບລາຄາຄົງທີ່. ທາງເລືອກທີ່ສະດວກທີ່ສຸດ ຈາກໂຮງແຮມ."
+        },
+        {
+          "h3": "Songthaew",
+          "price": "<strong>THB 20&ndash;50</strong>",
+          "description": "Songthaew ສີຂາວ (ລົດຮ່ວມ) ໃນເສັ້ນທາງ Na Klua&ndash;Sattahip. ລາຄາຖືກ ແຕ່ ຊ້າ ແລະ ອາດ ຕ້ອງ ຍ່າງ ຈາກຈຸດລົງ."
+        },
+        {
+          "h3": "Grab / ແທັກຊີ",
+          "price": "<strong>THB 300&ndash;500 ຕໍ່ຂາ</strong>",
+          "description": "ຈອງຜ່ານແອັບ Grab ຈາກໃຈກາງ ພັດທະຍາ (20&ndash;30 ນາທີ). ບໍ່ມີລົດຮັບສົ່ງທາງການ. ໂຮງແຮມ ແລະ ຜູ້ດຳເນີນທ່ອງທ່ຽວ ບາງແຫ່ງ ຈັດລົດຮັບສົ່ງ ໂດຍ ຄິດຄ່າເພີ່ມ."
+        }
+      ]
+    },
+    "transportTips": {
+      "sectionLabel": "ເຄັດລັບການຂົນສົ່ງ",
+      "heading": "ໄປ Aquaverse ຈາກພັດທະຍາ",
+      "description": "ບໍ່ມີລົດຮັບສົ່ງທາງການ. ນີ້ ຄືວິທີທີ່ດີທີ່ສຸດ ໃນການໄປຮອດສວນ ຈາກພັດທະຍາ.",
+      "recommendedHeading": "ທາງເລືອກການຂົນສົ່ງທີ່ແນະນຳ",
+      "recommendedList": "<ul style=\"font-size: 0.9375rem; line-height: 1.8;\">\n                <li><strong>Grab:</strong> THB 300&ndash;500 ຈາກໃຈກາງເມືອງພັດທະຍາ (20&ndash;30 ນາທີ). ທາງເລືອກທີ່ງ່າຍທີ່ສຸດ &mdash; ຈອງ ຜ່ານ ແອັບ Grab.</li>\n                <li><strong>ແທັກຊີສ່ວນຕົວ:</strong> ຕໍ່ລາຄາ ກ່ອນໄປ. ປົກກະຕິ THB 300&ndash;500 ຕໍ່ຂາ.</li>\n                <li><strong>ລົດຮັບສົ່ງຈາກໂຮງແຮມ:</strong> ໂຮງແຮມ ແລະ ຜູ້ດຳເນີນທ່ອງທ່ຽວ ບາງແຫ່ງ ຈັດລົດຮັບສົ່ງ ໂດຍ ຄິດຄ່າເພີ່ມ. ຖາມ ທີ່ ແຜນກ ຕ້ອນຮັບ ຂອງໂຮງແຮມ.</li>\n                <li><strong>Songthaew + Grab:</strong> ໂດຍສານ Songthaew ສີຂາວ ໄປ Na Jomtien (THB 20&ndash;50) ແລ້ວ Grab ຊ່ວງສຸດທ້າຍ.</li>\n                <li><strong>ຂັບລົດເອງ:</strong> ທີ່ຈອດລົດຟຣີ ທີ່ສວນ. GPS ໄປ &ldquo;Columbia Pictures Aquaverse&rdquo; ໃນ Google Maps.</li>\n              </ul>",
+      "bookingBtn": "ຈອງປີ້ອອນລາຍ &rarr;",
+      "priceHighlight": {
+        "price": "THB 300&ndash;500",
+        "label": "Grab ຈາກໃຈກາງເມືອງພັດທະຍາ",
+        "checkmarks": [
+          "&#10003; ຈອງຜ່ານ ແອັບ Grab",
+          "&#10003; 20&ndash;30 ນາທີ",
+          "&#10003; ມີ ແອ ປັດ",
+          "&#10003; ລາຄາຄົງທີ່ ບໍ່ຕ້ອງຕໍ່ລາຄາ"
+        ]
+      }
+    },
+    "parking": {
+      "sectionLabel": "ທີ່ຈອດລົດ",
+      "heading": "ທີ່ຈອດລົດ ທີ່ Aquaverse",
+      "description": "ຂ່າວດີ ສຳລັບຜູ້ຂັບລົດ &mdash; ທີ່ຈອດລົດ ທີ່ Aquaverse ຟຣີ ທັງໝົດ ສຳລັບນັກທ່ອງທ່ຽວ.",
+      "cards": [
+        {
+          "h3": "ທີ່ຈອດລົດຟຣີ",
+          "text": "ບໍ່ຄິດຄ່າທີ່ຈອດລົດ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ. ຂັບລົດເຂົ້າ ແລະ ຈອດລົດ ໂດຍ ບໍ່ຕ້ອງກັງວົນ ກ່ຽວກັບ ຄ່ານຊົ່ວໂມງ ຫຼື ປີ້."
+        },
+        {
+          "h3": "ເຂດຈອດລົດກ້ວາງ",
+          "text": "ທີ່ຈອດລົດ ຂະໜາດໃຫຍ່ ຈຸລົດໄດ້ຫຼາຍຮ້ອຍຄັນ ລວມທັງ ລົດ, ລົດຕູ້ ແລະ ລົດໂດຍສານທ່ອງທ່ຽວ. ບໍ່ຈຳເປັນ ຕ້ອງໄປຕົ້ນ ກໍ ໄດ້ທີ່ຈອດ."
+        },
+        {
+          "h3": "ມີແສງໄຟ ແລະ ປອດໄພ",
+          "text": "ເຂດທີ່ຈອດລົດ ມີແສງໄຟ ແລະ ມີ ພະນັກງານ ຮັກສາຄວາມປອດໄພ ຢູ່ໃນສະຖານທີ່. ວາງໃຈ ໄດ້ ທີ່ ໄວ້ ລົດ ຂອງທ່ານ ໃນ ຂະນະ ທ່ຽວ ສວນ ທັງ ວັນ."
+        }
+      ]
+    },
+    "comparison": {
+      "sectionLabel": "ປຽບທຽບທາງເລືອກ",
+      "heading": "ການປຽບທຽບການຂົນສົ່ງ ລວດລ່ຽວ",
+      "description": "ການປຽບທຽບ ທາງເລືອກການຂົນສົ່ງ ທັງໝົດ ຈາກກຸງເທບ ໄປ Aquaverse.",
+      "headers": [
+        "ການຂົນສົ່ງ",
+        "ເວລາ",
+        "ຄ່າໃຊ້ຈ່າຍ",
+        "ຄວາມສະດວກ",
+        "ດີທີ່ສຸດສຳລັບ"
+      ],
+      "rows": [
+        {
+          "transport": "🚗 ລົດສ່ວນຕົວ",
+          "time": "1.5&ndash;2 ຊ.ວ",
+          "cost": "THB 155 (ທາງດ່ວນ)",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "ຄອບຄົວ, ກຸ່ມ"
+        },
+        {
+          "transport": "🚕 ແທັກຊີ / Grab",
+          "time": "1.5&ndash;2 ຊ.ວ",
+          "cost": "THB 1,200&ndash;1,500",
+          "convenience": "⭐⭐⭐⭐⭐",
+          "bestFor": "ຄູ່ຮັກ, ກຸ່ມນ້ອຍ"
+        },
+        {
+          "transport": "🚐 ລົດຕູ້ຮ່ວມ",
+          "time": "2 ຊ.ວ + ແທັກຊີ",
+          "cost": "~THB 560&ndash;740",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "ນັກທ່ອງທ່ຽວຄົນດຽວ"
+        },
+        {
+          "transport": "🚌 ລົດໂດຍສານ",
+          "time": "2&ndash;2.5 ຊ.ວ + ແທັກຊີ",
+          "cost": "~THB 430&ndash;630",
+          "convenience": "⭐⭐⭐",
+          "bestFor": "ນັກທ່ອງທ່ຽວ ງົບໜ້ອຍ"
+        }
+      ]
+    },
+    "tips": {
+      "sectionLabel": "ເຄັດລັບການເດີນທາງ",
+      "heading": "ເຄັດລັບ ສຳລັບການໄປ Aquaverse",
+      "description": "ເຮັດໃຫ້ການເດີນທາງ ຂອງທ່ານ ລຽບງ່າຍ ດ້ວຍ ເຄັດລັບ ການ ເດີນທາງ ທີ່ ໃຊ້ ໄດ້ ຈິງ ເຫຼົ່ານີ້.",
+      "cards": [
+        {
+          "h3": "ໃຊ້ແອັບ Grab",
+          "text": "ດາວໂຫຼດ <strong>ແອັບ Grab</strong> ກ່ອນທ່ຽວ. ໃຫ້ ລາຄາ ໂປ່ງໃສ ຄົງທີ່ ສຳລັບ ລົດ ທົ່ວໄທ &mdash; ບໍ່ຕ້ອງ ຕໍ່ ລາຄາ ຫຼື ຖືກ meter ຕົວະ. ໃຊ້ ຄ້າຍ Uber."
+        },
+        {
+          "h3": "ຫຼີກລ່ຽງ ຊ່ວງ ການ ຈາລະຈອນ ຫຼາຍ",
+          "text": "ຫຼີກລ່ຽງ ການ ເດີນທາງ <strong>ຄ່ຳ ວັນ ສຸກ</strong> (ກຸງເທບ &rarr; ພັດທະຍາ) ແລະ <strong>ຄ່ຳ ວັນ ອາທິດ</strong> (ພັດທະຍາ &rarr; ກຸງເທບ). ການ ຈາລະຈອນ ໃນ ທາງດ່ວນ ເສັ້ນທາງ 7 ອາດ ເພີ່ມ ເວລາ ເດີນທາງ ຂອງ ທ່ານ ເປັນ 2 ເທົ່າ ໃນ ວັນ ດັ່ງກ່າວ."
+        },
+        {
+          "h3": "ລວມ ກັບ ສະຖານທີ່ ທ່ຽວ ໃກ້ ຄຽງ",
+          "text": "Aquaverse ຢູ່ ຫ່າງ ພຽງ <strong>10 ນາທີ</strong> ຈາກ Nong Nooch Tropical Garden, ໜຶ່ງ ໃນ ສະຖານທີ່ ທ່ຽວ ອັນດັບ ຕົ້ນ ຂອງ ພັດທະຍາ. ພິຈາລະນາ ລວມ ທັງ ສອງ ໃນ ຕາຕະລາງ ທ່ຽວ ຫຼາຍ ວັນ."
+        },
+        {
+          "h3": "ໄປ ໃຫ້ ທັນ ຕອນ ເຊົ້າ",
+          "text": "ສວນ ເປີດ <strong>10:00 AM</strong>. ການ ໄປ ເຖິງ ຕອນ ສວນ ເປີດ ໃຫ້ ທ່ານ ແຖວ ສັ້ນ ແລະ ອາກາດ ເຢັນ ກວ່າ ໃນ 2 ຊົ່ວໂມງ ທຳ ອິດ. ພະຍາຍາມ ອອກ ຈາກ ກຸງ ເທບ ໃຫ້ ທັນ 7:30&ndash;8:00 AM."
+        },
+        {
+          "h3": "ກວດ ສອບ ວັນ ເປີດ",
+          "text": "Aquaverse <strong>ປິດ ທຸກ ວັນ ພຸດ</strong> ສຳລັບ ການ ບຳລຸງ ຮັກສາ. ຢ່າ ເດີນທາງ ໂດຍ ບໍ່ ກວດ ສອບ ກ່ອນ! ວັນ ທຳ ມະ ດາ (ຈັນ, ອັງຄານ, ພະຫັດ) ມີ ຄົນ ໜ້ອຍ ທີ່ ສຸດ."
+        },
+        {
+          "h3": "ຈອງ ປີ້ ອອນ ລາຍ",
+          "text": "ປະຢັດ <strong>ກວ່າ 25%</strong> ຈາກ ລາຄາ ປະຕູ ດ້ວຍ ການ ຈອງ ອອນ ລາຍ ລ່ວງ ໜ້າ. ປີ້ ອອນ ລາຍ ເລີ່ມ ຕົ້ນ ປະ ມານ THB 1,200 ທຽບ ລາຄາ ປະຕູ ປະ ມານ THB 1,600 (ກວດ ສອບ ລາຄາ ລ່າ ສຸດ). ລວມ ຄ່າ ເຊົ່າ ຕູ້ ຝາກ ຟຣີ."
+        }
+      ],
+      "ctaText": "ສຳລັບ ເຄັດລັບ ຜູ້ ທ່ຽວ ລາຍ ລະ ອຽດ ກວ່ານີ້, ເບິ່ງ ຄູ່ ມື ສົມ ບູນ ຂອງ ພວກ ເຮົາ:",
+      "cta": "ອ່ານ ເຄັດລັບ ຜູ້ ທ່ຽວ ທັງ ໝົດ &rarr;"
+    },
+    "cta": {
+      "heading": "ພ້ອມ ທ່ຽວ Aquaverse ແລ້ວ ບໍ?",
+      "text": "ຕອນ ນີ້ ທ່ານ ຮູ້ ວິທີ ໄປ ແລ້ວ, ຈອງ ປີ້ ອອນ ລາຍ ແລະ ປະ ຢັດ ກວ່າ 25% ຈາກ ລາຄາ ປະ ຕູ!",
+      "btn1": "ຈອງ ປີ້ ລາຄາ ພິ ເສດ &rarr;",
+      "btn2": "ອ່ານ ຄູ່ ມື ກຸງ ເທບ ລາຍ ລະ ອຽດ",
+      "subtext": "ປີ້ ອອນ ລາຍ ເລີ່ມ <strong>ປະ ມານ THB 1,200</strong> (ລາຄາ ປະ ຕູ ປະ ມານ THB 1,600) &bull; ເດັກ ຕ່ຳ ກວ່າ 3 ຂວບ ເຂົ້າ ຟຣີ"
+    },
+    "schema": {
+      "faqItems": [
+        {
+          "question": "ຈະໄປ Aquaverse ຈາກກຸງເທບໄດ້ແນວໃດ?",
+          "answer": "ທ່ານສາມາດໄປ Aquaverse ຈາກກຸງເທບ ດ້ວຍລົດ (1.5-2 ຊົ່ວໂມງ ຜ່ານທາງດ່ວນເສັ້ນທາງ 7), ລົດໂດຍສານຈາກ Ekkamai Bus Terminal (2-2.5 ຊົ່ວໂມງ, THB 108-150), ລົດຕູ້ຮ່ວມຈາກ Victory Monument ຫຼື Ekkamai (2 ຊົ່ວໂມງ, THB 240/ຄົນ), ຫຼື ແທັກຊີ/Grab (1.5-2 ຊົ່ວໂມງ, THB 1,200-1,500 ບວກຄ່າທາງດ່ວນ)."
+        },
+        {
+          "question": "ຄ່າແທັກຊີຈາກກຸງເທບໄປ Aquaverse ເທົ່າໃດ?",
+          "answer": "ຄ່າແທັກຊີຫຼື Grab ຈາກກຸງເທບໄປ Aquaverse ປະມານ THB 1,200-1,500 ບວກຄ່າທາງດ່ວນປະມານ THB 155. ຈາກ Suvarnabhumi Airport ຄາດວ່າຈ່າຍ THB 1,500-2,000. ການເດີນທາງໃຊ້ເວລາ 1.5-2 ຊົ່ວໂມງ ຂຶ້ນກັບການຈາລະຈອນ."
+        },
+        {
+          "question": "Aquaverse ມີທີ່ຈອດລົດບໍ?",
+          "answer": "ມີ, Aquaverse ມີທີ່ຈອດລົດຟຣີ ສຳລັບນັກທ່ອງທ່ຽວທຸກຄົນ. ພື້ນທີ່ຈອດລົດກ້ວາງ, ມີແສງໄຟ ແລະ ປອດໄພ. ບໍ່ຈຳເປັນຕ້ອງຈອງທີ່ຈອດລົດລ່ວງໜ້າ."
+        },
+        {
+          "question": "Aquaverse ມີລົດຮັບສົ່ງບໍ?",
+          "answer": "ບໍ່, Aquaverse ບໍ່ໄດ້ດຳເນີນລົດຮັບສົ່ງທາງການ. ທາງເລືອກທີ່ດີທີ່ສຸດຈາກພັດທະຍາ ຄືໃຊ້ Grab (THB 300-500, 20-30 ນາທີ) ຫຼື ແທັກຊີສ່ວນຕົວ. ຜູ້ດຳເນີນທ່ອງທ່ຽວ ແລະ ໂຮງແຮມບາງແຫ່ງ ຈັດຮ່ຽມຮັບສົ່ງ ໂດຍຄິດຄ່າເພີ່ມ."
+        },
+        {
+          "question": "Aquaverse ຢູ່ຫ່າງຈາກໃຈກາງເມືອງພັດທະຍາເທົ່າໃດ?",
+          "answer": "Aquaverse ຢູ່ຫ່າງຈາກໃຈກາງເມືອງພັດທະຍາ ປະມານ 20-30 ນາທີ ດ້ວຍລົດ. Grab ຫຼື ແທັກຊີ ຄ່ານ THB 300-500. ທ່ານຍັງສາມາດໃຊ້ Songthaew ສີຂາວ (ລົດຮ່ວມ) ໃນເສັ້ນທາງ Na Klua-Sattahip ໄດ້. ບໍ່ມີລົດຮັບສົ່ງທາງການຂອງສວນ."
+        },
+        {
+          "question": "ຈະໄປ Aquaverse ຈາກ Suvarnabhumi Airport ໄດ້ແນວໃດ?",
+          "answer": "ຈາກ Suvarnabhumi Airport ການຂັບລົດໄປ Aquaverse ໃຊ້ເວລາປະມານ 90 ນາທີ. ຄ່າແທັກຊີ THB 1,500-2,000. ທາງເລືອກອື່ນ ທ່ານສາມາດໂດຍສານລົດໂດຍສານສະໜາມບິນໄປພັດທະຍາ ແລ້ວ ຕໍ່ແທັກຊີທ້ອງຖິ່ນໄປສວນ."
+        },
+        {
+          "question": "ຈະໄປ Aquaverse ຈາກ U-Tapao Airport ໄດ້ແນວໃດ?",
+          "answer": "U-Tapao Airport (ສະໜາມບິນພັດທະຍາ) ຢູ່ໃກ້ Aquaverse ທີ່ສຸດ, ຫ່າງພຽງ 25 ນາທີ ດ້ວຍລົດ. ຄ່າແທັກຊີຈາກ U-Tapao ໄປ Aquaverse THB 400-600."
+        }
+      ],
+      "howTo": {
+        "name": "ວິທີໄປ Columbia Pictures Aquaverse ຈາກກຸງເທບ",
+        "description": "ຂັ້ນຕອນການໄປ Aquaverse water park ໃນພັດທະຍາ ຈາກກຸງເທບ ດ້ວຍລົດ, ລົດໂດຍສານ, ລົດຕູ້ ຫຼື ແທັກຊີ.",
+        "steps": [
+          {
+            "name": "ເລືອກວິທີການເດີນທາງ",
+            "text": "ເລືອກຈາກ ລົດ (1.5-2 ຊົ່ວໂມງ), ລົດໂດຍສານຈາກ Ekkamai (2-2.5 ຊົ່ວໂມງ, THB 108-150), ລົດຕູ້ຮ່ວມ (2 ຊົ່ວໂມງ, THB 240) ຫຼື ແທັກຊີ/Grab (1.5-2 ຊົ່ວໂມງ, THB 1,200-1,500)."
+          },
+          {
+            "name": "ເດີນທາງໄປຍັງເຂດພັດທະຍາ",
+            "text": "ຖ້າຂັບລົດ, ໃຊ້ທາງດ່ວນເສັ້ນທາງ 7 ໄປທາງພັດທະຍາ ແລ້ວອອກທາງ Sattahip. ຖ້ານັ່ງລົດໂດຍສານຫຼືລົດຕູ້ ໃຫ້ອອກເດີນທາງຈາກ Ekkamai Bus Terminal (BTS Ekkamai, ທາງອອກ 2) ຫຼື ສະຖານີ BTS Victory Monument."
+          },
+          {
+            "name": "ໄປຍັງສວນ",
+            "text": "ຖ້າຂັບລົດ, ຕິດຕາມປ້າຍໄປ Columbia Pictures Aquaverse. ຖ້າໂດຍສານລົດໂດຍສານຫຼືລົດຕູ້ໄປຮອດພັດທະຍາ, ໃຊ້ Grab ຫຼື ແທັກຊີໄປຍັງສວນ (THB 350-500, 20-30 ນາທີ). ທີ່ຈອດລົດຟຣີ ສຳລັບຜູ້ຂັບລົດ."
+          },
+          {
+            "name": "ຮອດ Aquaverse",
+            "text": "ສວນຕັ້ງຢູ່ທີ່ 888 Moo 8, Sukhumvit Road, Na Jomtien, Sattahip, Chon Buri 20250. ຈອດລົດໃນເຂດທີ່ຈອດລົດຟຣີ ແລ້ວ ໄປທາງທາງເຂົ້າ."
+          }
+        ]
+      }
+    }
+  },
+  "tips": {
+    "title": "15 ເຄັດລັບທ່ຽວ Aquaverse ພັດທະຍາ | ຄູ່ມືນັກທ່ຽວ 2026",
+    "metaDescription": "ເຄັດລັບທ່ຽວ Columbia Pictures Aquaverse. ສິ່ງທີ່ຄວນເອົາໄປ, ເວລາທີ່ດີທີ່ສຸດ, ວິທີປະຢັດເງິນ, ຄູ່ມືອາຫານ, ລຳດັບການຫຼິ້ນ, ເຄັດລັບຄອບຄົວ ແລະ ອື່ນໆ. ອັບເດດ 2026.",
+    "metaKeywords": "ເຄັດລັບ Aquaverse, ເຄັດລັບ Aquaverse ພັດທະຍາ, ສິ່ງທີ່ຄວນເອົາ Aquaverse, ເວລາດີທີ່ສຸດ Aquaverse, ອາຫານ Aquaverse, ກົດລະບຽບເຄື່ອງນຸ່ງ Aquaverse, ຄາບານາ Aquaverse, ຄູ່ມືນັກທ່ຽວ Aquaverse",
+    "ogTitle": "15 ເຄັດລັບທ່ຽວ Aquaverse ພັດທະຍາ | ຄູ່ມືນັກທ່ຽວ 2026",
+    "ogDescription": "ທຸກສິ່ງທີ່ທ່ານຕ້ອງຮູ້ກ່ອນໄປ Aquaverse. 15 ເຄັດລັບ: ສິ່ງທີ່ຄວນເອົາໄປ, ເວລາດີທີ່ສຸດ, ວິທີປະຢັດເງິນ, ຄູ່ມືອາຫານ ແລະ ອື່ນໆ.",
+    "twitterTitle": "15 ເຄັດລັບທ່ຽວ Aquaverse ພັດທະຍາ | ຄູ່ມືນັກທ່ຽວ 2026",
+    "twitterDescription": "15 ເຄັດລັບທ່ຽວ Aquaverse: ສິ່ງທີ່ຄວນເອົາ, ເວລາດີທີ່ສຸດ, ວິທີປະຢັດເງິນ, ຄູ່ມືອາຫານ, ລຳດັບການຫຼິ້ນ ແລະ ອື່ນໆ.",
+    "breadcrumbCurrent": "ເຄັດລັບນັກທ່ຽວ",
+    "h1": "15 ເຄັດລັບທ່ຽວ Aquaverse",
+    "h1Span": "ຄູ່ມືນັກທ່ຽວ 2026",
+    "heroSub": "ທຸກສິ່ງທີ່ທ່ານຕ້ອງຮູ້ກ່ອນໄປ Columbia Pictures Aquaverse ທີ່ພັດທະຍາ.\n        ຕັ້ງແຕ່ສິ່ງທີ່ຄວນເອົາໄປ ຈົນເຖິງລຳດັບການຫຼິ້ນທີ່ດີທີ່ສຸດ &mdash; ເຄັດລັບຈາກຜູ້ຮູ້ຈະຊ່ວຍໃຫ້ທ່ານໃຊ້ເວລາໄດ້ຄຸ້ມທີ່ສຸດ.",
+    "tldr": [
+      {
+        "strong": "ເຄັດລັບ #1:",
+        "text": "ຈອງປີ້ອອນລາຍເພື່ອປະຢັດກວ່າ 25% &mdash; ລາຄາທີ່ປະຕູ ~THB 1,600, ລາຄາອອນລາຍເລີ່ມຕົ້ນ ~THB 1,200 (ກວດລາຄາລ່າສຸດ)"
+      },
+      {
+        "strong": "ເຄັດລັບ #2:",
+        "text": "ຫຼີກເວັ້ນວັນພຸດ &mdash; ສວນປິດທຸກວັນພຸດເພື່ອບຳລຸງຮັກສາ"
+      },
+      {
+        "strong": "ເຄັດລັບ #3:",
+        "text": "ມາຕອນ 10 ໂມງເຊົ້າເວລາເປີດ ເພື່ອຫຼິ້ນເຄື່ອງຫຼິ້ນໃຫຍ່ກ່ອນທີ່ຄົນຈະຫຼາຍ"
+      },
+      {
+        "strong": "ເຄັດລັບ #4:",
+        "text": "ເອົາຄຣີມກັນແດດທີ່ປອດໄພຕໍ່ປ່າໄມ້ຊາຍຝັ່ງ, ກ່ອງໂທລະສັບກັນນ້ຳ ແລະ ເຄື່ອງນຸ່ງຜລັດ"
+      },
+      {
+        "strong": "ເຄັດລັບ #5:",
+        "text": "ເລີ່ມທີ່ໂຊນ Zombieland ແລະ Ghostbusters ກ່ອນ, ຈາກນັ້ນຄ່ອຍໄປຫ້ວຍໄຫຼຕອນບ່າຍ"
+      }
+    ],
+    "toc": {
+      "heading": "ທາງນຳທາງດ່ວນ",
+      "items": [
+        "ກ່ອນໄປ",
+        "ສິ່ງທີ່ຄວນເອົາໄປ",
+        "ສິ່ງທີ່ບໍ່ຄວນເອົາໄປ",
+        "ກົດລະບຽບການນຸ່ງ",
+        "ເວລາດີທີ່ສຸດໃນການໄປ",
+        "ເຄັດລັບປະຢັດເງິນ",
+        "ຄູ່ມືອາຫານ",
+        "ລຳດັບການຫຼິ້ນທີ່ດີທີ່ສຸດ",
+        "ສຳລັບຄອບຄົວທີ່ມີລູກ",
+        "ເຄັດລັບວັນຝົນຕົກ",
+        "ເຄັດລັບຖ່າຍຮູບ",
+        "ຄາບານາ &mdash; ຄຸ້ມໄໝ?",
+        "ເຄັດລັບຄວາມປອດໄພ",
+        "ຫຼັງຈາກທ່ຽວ"
+      ]
+    },
+    "tip1": {
+      "sectionLabel": "ເຄັດລັບ #1",
+      "h2": "ກ່ອນໄປ",
+      "description": "ການກະກຽມໜ້ອຍໜຶ່ງຈະຊ່ວຍໄດ້ຫຼາຍ. ນີ້ຄືສິ່ງທີ່ຕ້ອງຈັດການກ່ອນໄປທ່ຽວ.",
+      "cards": [
+        {
+          "h3": "ຈອງປີ້ອອນລາຍ",
+          "p": "ຊື້ປີ້ອອນລາຍລ່ວງໜ້າສະເໝີ. ລາຄາທີ່ປະຕູ <strong>~THB 1,600</strong>, ແຕ່ປີ້ອອນລາຍເລີ່ມຕົ້ນ <strong>~THB 1,200</strong> (ກວດລາຄາລ່າສຸດ) &mdash; ປະຢັດໄດ້ກວ່າ 25%. ປີ້ອອນລາຍຍັງລວມເຊົ່າຕູ້ເດ (ມູນຄ່າ THB 300) ຟຣີ. ສ່ວນໃຫຍ່ສາມາດຍົກເລີກໄດ້ຟຣີກ່ອນ 24 ຊົ່ວໂມງ."
+        },
+        {
+          "h3": "ກວດເວລາທຳການ",
+          "p": "Aquaverse <strong>ປິດທຸກວັນພຸດ</strong> ເພື່ອບຳລຸງຮັກສາ. ຢ່າວາງແຜນໄປໃນວັນພຸດ! ສວນເປີດ 10 ໂມງເຊົ້າ &ndash; 6 ໂມງແລງ ໃນທຸກວັນທີ່ເຫຼືອ. ກວດໜ້າ Facebook ທາງການເພື່ອຮູ້ການປິດພິເສດ ຫຼື ເວລາວັນນັກຂັດ."
+        },
+        {
+          "h3": "ລະດູທີ່ດີທີ່ສຸດ: ພ.ຈ. &ndash; ເມ.ສ.",
+          "p": "ລະດູແລ້ງ <strong>ພະຈິກ ຫາ ເມສາ</strong> ໃຫ້ສະພາບອາກາດດີທີ່ສຸດ. ແດດດີ ອາກາດຮ້ອນ ໂດຍບໍ່ມີຝົນໜັກ. ລະດູຝົນ (ພຶດສະພາ&ndash;ຕຸລາ) ອາດມີຝົນຕອນບ່າຍ, ແຕ່ຍັງສາມາດຫຼິ້ນໄດ້ &mdash; ແລະ ມັກຈະມີຄົນໜ້ອຍກວ່າ."
+        }
+      ]
+    },
+    "tip2": {
+      "sectionLabel": "ເຄັດລັບ #2",
+      "h2": "ສິ່ງທີ່ຄວນເອົາໄປ",
+      "description": "ຫີ້ວຂອງໃຫ້ສະຫຼາດ ເພື່ອສຸຂໃຈໃຊ້ເວລາໄດ້ເຕັມທີ່.",
+      "cards": [
+        {
+          "h3": "ເຄື່ອງລອຍນ້ຳ",
+          "p": "ຕ້ອງໃສ່ເຄື່ອງລອຍນ້ຳທີ່ຖືກຕ້ອງສຳລັບທຸກເຄື່ອງຫຼິ້ນນ້ຳ. ຫຼີກເວັ້ນເຄື່ອງນຸ່ງທີ່ມີກະດຸມ, ຊິບ ຫຼື ຫ່ວງໂລຫະທີ່ອາດທຳໃຫ້ຊ່ອງໄດ້ຮັບຄວາມເສຍຫາຍ ຫຼື ຂີດຂ່ວນທ່ານ."
+        },
+        {
+          "h3": "ຄຣີມກັນແດດ",
+          "p": "ຄຣີມກັນແດດທີ່ປອດໄພຕໍ່ທ່ຽວທໍາມະຊາດ ແລະ ກັນນ້ຳແມ່ນຈຳເປັນ. ແດດພັດທະຍາຮ້ອນຫຼາຍ ແລະ ທ່ານຈະຢູ່ກາງແຈ້ງທັງວັນ. ທາຄືນທຸກ 2 ຊົ່ວໂມງ ໂດຍສະເພາະຫຼັງຫຼິ້ນນ້ຳ."
+        },
+        {
+          "h3": "ຖົງກັນນ້ຳ",
+          "p": "ຖົງດຣາຍ ຫຼື ຖົງກັນນ້ຳຂະໜາດນ້ອຍ ຊ່ວຍປ້ອງກັນໂທລະສັບ, ກະເປົ໋າ ແລະ ຫ້ອງ key. ສາມາດເຊົ່າຕູ້ເດທີ່ສວນ (ຟຣີຕາມປີ້ອອນລາຍ)."
+        },
+        {
+          "h3": "ຜ້າເຊັດຕົວ",
+          "p": "ເອົາຜ້າເຊັດຕົວຂອງທ່ານໄປເພື່ອປະຢັດເງິນ. ສວນມີໃຫ້ເຊົ່າ ແຕ່ຕ້ອງເສຍເງິນ. ຜ້າ microfiber ແຫ້ງໄວເໝາະທີ່ສຸດ."
+        },
+        {
+          "h3": "ເຄື່ອງນຸ່ງຜລັດ",
+          "p": "ທ່ານຈະຕ້ອງການເຄື່ອງນຸ່ງແຫ້ງສຳລັບລົດກັບ ຫຼື ກິນຂ້າວຫຼັງທ່ຽວ. ຫ້ອງນ້ຳ ແລະ ຫ້ອງອາບນ້ຳມີໃຫ້ໃກ້ທາງອອກ."
+        },
+        {
+          "h3": "ເງິນສົດ (THB)",
+          "p": "ເຖິງວ່າສວນໃຊ້ສາຍຂໍ້ມື RFID ສຳລັບສ່ວນໃຫຍ່ຂອງການຊື້, ການມີ Thai Baht ເປັນເງິນສົດໜ້ອຍໜຶ່ງຈະສະດວກສຳລັບການໃຫ້ທິບ, ຮ້ານອາຫານໃກ້ຄຽງ ຫຼື ທີ່ຈອດລົດ. ຕູ້ ATM ມີໃຫ້ໃນສວນ."
+        }
+      ]
+    },
+    "tip3": {
+      "sectionLabel": "ເຄັດລັບ #3",
+      "h2": "ສິ່ງທີ່ບໍ່ຄວນເອົາໄປ",
+      "description": "ຝາກໄວ້ທີ່ເຮືອນ ຫຼື ໃນລົດ &mdash; ສິ່ງເຫຼົ່ານີ້ບໍ່ອະນຸຍາດໃຫ້ເຂົ້າສວນ.",
+      "cards": [
+        {
+          "h3": "ອາຫານ &amp; ເຄື່ອງດື່ມຈາກພາຍນອກ",
+          "p": "ບໍ່ອະນຸຍາດນຳອາຫານ ຫຼື ເຄື່ອງດື່ມຈາກພາຍນອກເຂົ້າໃນສວນ. ຂໍ້ຍົກເວັ້ນມີແຕ່ອາຫານ/ນົມສຳລັບເດັກນ້ອຍ ແລະ ສິ່ງຈຳເປັນທາງການແພດ. ຂວດນ້ຳທີ່ປິດສະນິດອະນຸຍາດໃຫ້ນຳໄດ້."
+        },
+        {
+          "h3": "ລູກບານ &amp; ອຸປະກອນກິລາ",
+          "p": "ຂອງເຕ໋ີມ, ລູກບານ, ລູກຟຸດບານ ແລະ ອຸປະກອນກິລາອື່ນໆ ບໍ່ອະນຸຍາດ. ສວນສະໜອງຫ່ວງ ແລະ ລ່ອງໄດ້ທີ່ຈຳເປັນສຳລັບເຄື່ອງຫຼິ້ນ ແລະ ສະລອຍນ້ຳຄື້ນ."
+        },
+        {
+          "h3": "ສະເກັດ &amp; ລົດຈັກເດັກ",
+          "p": "ສະເກັດ, ສະເກັດລ້ອ, ລົດຈັກເດັກ ແລະ ຮ໊ອເວີບອດ ບໍ່ອະນຸຍາດ ເນື່ອງຈາກພື້ນລື່ນ ແລະ ຄວາມປອດໄພໃນທົ່ວສວນ."
+        },
+        {
+          "h3": "ເກົ້າອີ້ພັບ &amp; ເຕັ້ນ",
+          "p": "ເກົ້າອີ້ພັບ, ເຕັ້ນ ແລະ ຮົ່ມຂະໜາດໃຫຍ່ ຫ້າມນຳໃສ່. ສວນມີບ່ອນນັ່ງຮົ່ມ, ໂຊຟຊອນ ແລະ ຄາບານາ ໃຫ້ເຊົ່າຢ່າງພຽງພໍ."
+        }
+      ]
+    },
+    "tip4": {
+      "sectionLabel": "ເຄັດລັບ #4",
+      "h2": "ກົດລະບຽບການນຸ່ງ",
+      "description": "ສິ່ງທີ່ຄວນໃສ່ (ແລະ ຫຼີກເວັ້ນ) ເພື່ອໃຊ້ວັນໃຫ້ສະດວກສະບາຍໃນສວນ.",
+      "content": "<div class=\"info-card\" style=\"margin-bottom: 1.5rem;\">\n            <h3 style=\"color: var(--success); margin-bottom: 1rem;\">ອະນຸຍາດ</h3>\n            <ul style=\"list-style: none; padding: 0; line-height: 2;\">\n              <li>&#10003; ຊຸດລອຍນ້ຳ, ບິກິນີ, ສ໊ອດຂ່ານ, ເສື້ອກັນແດດ</li>\n              <li>&#10003; ຮອງເທົ້ານ້ຳ ຫຼື ຮອງເທົ້າສາຍກິລາ (ແນະນຳໃຫ້ໃສ່ຍ່າງລະຫວ່າງໂຊນ)</li>\n              <li>&#10003; ເຄື່ອງນຸ່ງ lycra/spandex</li>\n              <li>&#10003; ເສື້ອຄຸມສຳລັບບ່ອນຮ້ານອາຫານ</li>\n              <li>&#10003; ເຄື່ອງລອຍນ້ຳທີ່ສຸພາບ (ທາງເລືອກຄຸ້ມຄ່ອງ)</li>\n            </ul>\n          </div>\n\n          <div class=\"info-card\" style=\"margin-bottom: 1.5rem;\">\n            <h3 style=\"color: var(--danger); margin-bottom: 1rem;\">ບໍ່ອະນຸຍາດໃສ່ສະໄລ</h3>\n            <ul style=\"list-style: none; padding: 0; line-height: 2;\">\n              <li>&#10007; ເຄື່ອງນຸ່ງທີ່ມີກະດຸມ, ຊິບ, ໝູດ ຫຼື ຫ່ວງໂລຫະ</li>\n              <li>&#10007; ຜ້າຢີນ ຫຼື ສ໊ອດຢີນໃສ່ສະໄລນ້ຳ</li>\n              <li>&#10007; ເຄື່ອງປະດັບໂຫຼ, ສ້ອຍ ຫຼື ຕ່າງຫູຫ້ອຍ</li>\n              <li>&#10007; ທີ່ຕິດ GoPro ຫຼື ໄມ້ selfie ໃສ່ເຄື່ອງຫຼິ້ນ</li>\n            </ul>\n          </div>\n\n          <div class=\"info-card\">\n            <h3 style=\"margin-bottom: 1rem;\">ກົດລະບຽບສຳຄັນ</h3>\n            <ul style=\"list-style: none; padding: 0; line-height: 2;\">\n              <li><strong>ອ່າງອາບນ້ຳບັງຄັບ:</strong> ຜູ້ມາທ່ຽວທຸກຄົນຕ້ອງອາບນ້ຳກ່ອນເຂົ້າສຳຜັດນ້ຳ</li>\n              <li><strong>ເສື້ອຊູຊີບ:</strong> ສະໜອງຟຣີສຳລັບເດັກນ້ອຍ ແລະ ຜູ້ທີ່ລອຍນ້ຳບໍ່ໄດ້ ໃນໂຊນທີ່ກຳນົດ</li>\n              <li><strong>ຜ້າອ້ອມຊູດ:</strong> ບັງຄັບສຳລັບເດັກທີ່ຍັງບໍ່ໄດ້ຝຶກໃຊ້ຫ້ອງນ້ຳ</li>\n            </ul>\n          </div>"
+    },
+    "tip5": {
+      "sectionLabel": "ເຄັດລັບ #5",
+      "h2": "ເວລາດີທີ່ສຸດໃນການໄປທ່ຽວ",
+      "description": "ໄປເວລາໃດດີເພື່ອລໍຖ້ານ້ອຍ, ອາກາດດີ ແລະ ສະຫຼາຍກວ່າ.",
+      "cards": [
+        {
+          "h3": "ວັນຈັນ&ndash;ສຸກ ດີທີ່ສຸດ",
+          "p": "ໄປ <strong>ວັນຈັນ, ອັງຄານ, ພະຫັດ ຫຼື ສຸກ</strong> ເພື່ອຫຼີກຄົນຫຼາຍ. ວັນເສົາ-ອາທິດ ແລະ ວັນນັກຂັດໄທ ມີຜູ້ໄປທ່ຽວຫຼາຍກວ່າ ແລະ ຕ້ອງຕໍ່ແຖວດົນຢູ່ສະໄລທີ່ດັງ ເຊັ່ນ Ghostbusters Water Dome ແລະ Zombieland."
+        },
+        {
+          "h3": "ມາຕອນ 10 ໂມງ",
+          "p": "ຢູ່ທີ່ປະຕູຕອນເປີດ <strong>10:00 ໂມງ</strong>. 1&ndash;2 ຊົ່ວໂມງທຳອິດ ຕໍ່ແຖວສັ້ນທີ່ສຸດ. ຕີໄປຍັງເຄື່ອງຫຼິ້ນທີ່ຕື່ນເຕັ້ນກ່ອນທີ່ຄົນຈະຫຼາຍຫຼັງສາຍ. ຊ່ວງ 1&ndash;3 ໂມງແລງ ຄົນຫຼາຍທີ່ສຸດ."
+        },
+        {
+          "h3": "ຫຼີກເວັ້ນວັນພຸດ",
+          "p": "ນີ້ແມ່ນຄວາມຜິດພາດທີ່ພົບເລື້ອຍທີ່ສຸດຂອງນັກທ່ຽວ. <strong>Aquaverse ປິດທຸກວັນພຸດ</strong> ເພື່ອບຳລຸງຮັກສາ. ຢ່ານ ໄປໃນວັນພຸດ &mdash; ກວດປະຕິທິນກ່ອນຈອງການເດີນທາງ!"
+        }
+      ]
+    },
+    "tip6": {
+      "sectionLabel": "ເຄັດລັບ #6",
+      "h2": "ເຄັດລັບປະຢັດເງິນ",
+      "description": "ໃຊ້ປະໂຫຍດຈາກ Aquaverse ໃຫ້ຄຸ້ມຄ່າ ໂດຍບໍ່ເສຍຫຼາຍ.",
+      "cards": [
+        {
+          "h3": "ຈອງອອນລາຍ (ປະຢັດກວ່າ 25%)",
+          "p": "ການປະຢັດໃຫຍ່ທີ່ສຸດແມ່ນຊື້ປີ້ອອນລາຍ. ລາຄາທີ່ປະຕູ ~THB 1,600, ແຕ່ຊ່ອງທາງອອນລາຍ ເຊັ່ນ Klook ສະໜອງປີ້ <strong>~THB 1,200</strong> (ກວດລາຄາລ່າສຸດ). ປະຢັດໄດ້ <strong>THB 400+ ຕໍ່ຄົນ</strong>. ປີ້ອອນລາຍຍັງລວມຕູ້ເດຟຣີ (ມູນຄ່າ THB 300)."
+        },
+        {
+          "h3": "ຂ້າມຄາບານາ",
+          "p": "ຄາບານາເລີ່ມຕົ້ນ <strong>THB 2,500/ວັນ</strong> ແລ້ວ ເຖິງຈະສະດວກສະບາຍ ກໍຍັງບໍ່ຈຳເປັນ. ສວນມີບ່ອນຮົ່ມ ແລະ ໂຊຟຊອນຟຣີຢ່າງພຽງພໍ. ເອົາຜ້າເຊັດຕົວຂອງຕົວເອງ ແລະ ໄປເຫັງບ່ອນໄວໆ."
+        },
+        {
+          "h3": "ໃຊ້ສາຍຂໍ້ມື RFID",
+          "p": "ເຕີມເງິນໃສ່ <strong>ສາຍຂໍ້ມື RFID</strong> ທີ່ທາງເຂົ້າ ເພື່ອບໍ່ຕ້ອງໂອ້ເງິນສົດໃນສວນ. ໃຊ້ໄດ້ທຸກຮ້ານ ແລະ ຮ້ານຂາຍ. ເງິນທີ່ເຫຼືອສາມາດຄືນໄດ້ຕອນໃກ້ຈາກ &mdash; ບໍ່ສູນເສຍ!"
+        },
+        {
+          "h3": "ກິນເຊົ້າດາຍ",
+          "p": "ກິນເຂົ້າເຊົ້າໜັກທີ່ໂຮງແຮມກ່ອນໄປ. ອາຫານໃນສວນລາຄາສົມເຫດສົມຜົນ ແຕ່ກໍຈ່ານຳ. ກິນເຊົ້າດາຍ ໝາຍຄວາມວ່າທ່ານສາມາດຂ້າມຊ່ວງເວລາທ່ຽງ, ກິນສາຍໆ ~2 ໂມງ ຊ່ວງຮ້ານໜ້ອຍ ແລະ ປະຢັດເງິນ."
+        }
+      ],
+      "ticketsLink": "ເບິ່ງທຸກດີລປີ້ &rarr;"
+    },
+    "tip7": {
+      "sectionLabel": "ເຄັດລັບ #7",
+      "h2": "ຄູ່ມືອາຫານ &amp; ຮ້ານ",
+      "description": "ບ່ອນກິນຂ້າວໃນ Aquaverse &mdash; ໃຫ້ຮູ້ວ່າຫ້າມນຳອາຫານຈາກພາຍນອກ.",
+      "cards": [
+        {
+          "h3": "ສານອາຫານ &amp; ຮ້ານໄທ",
+          "p": "ເຂດຮ້ານອາຫານຫຼັກຂາຍເບີເກີ, ຊີ້ນຍ່າງ, ອາຫານໄທ ແລະ ອາຫານເດັກ. ສວນໃຊ້ລະບົບ credit band ທີ່ເອີ້ນວ່າ Foodville. <strong>ລາຄາ: THB 80&ndash;350</strong> ຕໍ່ຈານ. ມີທີ່ນັ່ງແອ."
+        },
+        {
+          "h3": "ຮ້ານໂຊ",
+          "p": "ຮ້ານໂຊຕາມໂຊນຕ່າງໆ ສະໜອງໄກ່ທອດ, ປີກ, ໂຈ, ຂ້າວ ແລະ ໂຊໄທ. ທີ່ນັ່ງກາງແຈ້ງໃກ້ເຄື່ອງຫຼິ້ນ. <strong>ລາຄາ: THB 80&ndash;350</strong>. ດີສຳລັບກິນດ່ວນລະຫວ່າງຫຼິ້ນ."
+        },
+        {
+          "h3": "ບາ",
+          "p": "ບາຕິດສະລອຍນ້ຳຄື້ນ. ຊ໊ຊີ, ນ້ຳໝາກໄມ້ສົດ, ຄ໊ອກເທວ (ສຳລັບຜູ້ໃຫຍ່) ແລະ ໂຊ. ຈຸດພັກຜ່ອນທີ່ດີຕອນບ່າຍ. <strong>ເຄື່ອງດື່ມ: THB 80&ndash;200</strong>."
+        }
+      ],
+      "reminder": "<strong>ຈືຈຳ:</strong> ອາຫານ ແລະ ເຄື່ອງດື່ມຈາກພາຍນອກຫ້າມນຳໃສ່ໂດຍເດັດຂາດ. ຂໍ້ຍົກເວັ້ນມີແຕ່ອາຫານເດັກ, ນົມຂວດ ແລະ ສິ່ງຈຳເປັນທາງການແພດ. ອະນຸຍາດຂວດນ້ຳທີ່ປິດ."
+    },
+    "tip8": {
+      "sectionLabel": "ເຄັດລັບ #8",
+      "h2": "ລຳດັບທີ່ດີທີ່ສຸດໃນການທ່ຽວໂຊນ",
+      "description": "ເສັ້ນທາງແນະນຳຂອງພວກເຮົາ ເພື່ອໃຊ້ເວລາຄຸ້ມ ແລະ ຕໍ່ແຖວໜ້ອຍ.",
+      "content": "<div class=\"info-card\" style=\"margin-bottom: 1.5rem;\">\n            <h3>ຕອນເຊົ້າ (10:00 &ndash; 12:30) &mdash; ເລີ່ມດ້ວຍຄວາມຕື່ນເຕັ້ນ</h3>\n            <ol style=\"padding-left: 1.25rem; line-height: 2;\">\n              <li><strong>Zombieland</strong> &mdash; ໄປທີ່ນີ້ກ່ອນ ສຳລັບສະໄລຕົກສູງ 18 ແມັດ. ແຖວຈະຍາວຫຼັງ 11 ໂມງ.</li>\n              <li><strong>Ghostbusters</strong> &mdash; ໂດມນ້ຳ ແລະ ສະໄລຕື່ນເຕັ້ນ ດີທີ່ສຸດກ່ອນຄົນຫຼາຍ.</li>\n              <li><strong>Jumanji</strong> &mdash; ສວນຜຈົນໄພ ແລະ ສະໄລຈາກ. ລໍຖ້ານ້ອຍໃນຕອນເຊົ້າ.</li>\n            </ol>\n          </div>\n\n          <div class=\"info-card\" style=\"margin-bottom: 1.5rem;\">\n            <h3>ກາງວັນ (12:30 &ndash; 14:30) &mdash; ກິນ &amp; ສຳຫຼວດ</h3>\n            <ol start=\"4\" style=\"padding-left: 1.25rem; line-height: 2;\">\n              <li><strong>ກິນເຂົ້າທ່ຽງ</strong> &mdash; ກິນທີ່ສານອາຫານ ຫຼື ຮ້ານໂຊ. ຫຼີກເວັ້ນຊ່ວງ 12 ໂມງ ໂດຍກິນ 12:30&ndash;13:00.</li>\n              <li><strong>Bad Boys</strong> &mdash; ໂກ-ກາດ ແລະ ກິດຈະກຳແຫ້ງ. ດີສຳລັບຍ່ອຍອາຫານ.</li>\n              <li><strong>The Emoji Movie</strong> &mdash; ມິນິກ໋ອຟ ແລະ ຖ່າຍຮູບ. ສຳລັບຕອນຕ້ອນຮັບ.</li>\n            </ol>\n          </div>\n\n          <div class=\"info-card\">\n            <h3>ຕອນບ່າຍ (14:30 &ndash; 18:00) &mdash; ຜ່ອນຄາຍ &amp; ເພີດເພີນ</h3>\n            <ol start=\"7\" style=\"padding-left: 1.25rem; line-height: 2;\">\n              <li><strong>Surf's Up</strong> &mdash; ລອງ FlowRider surf simulator. ແຖວຕອນບ່າຍສັ້ນກວ່າ.</li>\n              <li><strong>Cloudy with a Chance of Meatballs</strong> &mdash; ຫ້ວຍໄຫຼ. ເໝາະສຳລັບຜ່ອນຄາຍຕອນຮ້ອນ.</li>\n              <li><strong>Mega Wave Pool</strong> &mdash; ປິດທ້າຍວັນດ້ວຍຄື້ນ ແລະ ການສະແດງ Omnitheatre.</li>\n            </ol>\n          </div>"
+    },
+    "tip9": {
+      "sectionLabel": "ເຄັດລັບ #9",
+      "h2": "ສຳລັບຄອບຄົວທີ່ມີລູກ",
+      "description": "ເຄັດລັບສຳຄັນສຳລັບການໄປ Aquaverse ກັບລູກນ້ອຍ.",
+      "cards": [
+        {
+          "h3": "ເລີ່ມທີ່ Hotel Transylvania",
+          "p": "ໂຊນນີ້ອອກແບບສຳລັບຄອບຄົວ ແລະ ເດັກນ້ອຍ. ມີສວນນ້ຳເດັກໃຫຍ່ທີ່ສຸດໃນ SE Asia ດ້ວຍ <strong>9 ສະໄລໃຈດີ</strong>, ພື້ນທີ່ສາດນ້ຳ, ສິ່ງດຶງດູດນ້ຳຫຼາຍສິບ ແລະ ພົບກັບ Drac, Mavis ແລະ Blobby. ໄປທີ່ນີ້ກ່ອນໃນຂະນະທີ່ລູກຍັງມີພະລັງງານ."
+        },
+        {
+          "h3": "ກວດຂໍ້ກຳນົດຄວາມສູງ",
+          "p": "ເຄື່ອງຫຼິ້ນທີ່ຕື່ນເຕັ້ນ ມີຂໍ້ກຳນົດຄວາມສູງຂັ້ນຕ່ຳ (ໂຊນ Zombieland ຕ້ອງ <strong>120 cm ຂຶ້ນໄປ</strong>). ກວດປ້າຍຄວາມສູງທີ່ທາງເຂົ້າເຄື່ອງຫຼິ້ນແຕ່ລະອັນ ກ່ອນຕໍ່ແຖວ. Hotel Transylvania ແລະ ສະລອຍນ້ຳຄື້ນ ບໍ່ມີຂໍ້ກຳນົດ."
+        },
+        {
+          "h3": "ຕາຕະລາງ Foam Party",
+          "p": "ສວນຈັດ <strong>Foam Party</strong> ປົກກະຕິຢູ່ໂຊນ Hotel Transylvania (ໂດຍທົ່ວໄປ 13:00 ແລະ 15:00 ວັນທ້າຍອາທິດ). ເດັກໆຮັກ! ກວດຕາຕະລາງປະຈຳວັນທີ່ທາງເຂົ້າ ສຳລັບເວລາທີ່ຊັດເຈນ ແລະ ການປາກົດຕົວຂອງຕົວລະຄອນ."
+        },
+        {
+          "h3": "ສຳລັບເດັກທ່ານ",
+          "p": "ຫ້ອງເຫຼື້ອໄຂຜ້າອ້ອມມີໃຫ້ໃນທຸກຫ້ອງນ້ຳ. ຜ້າອ້ອມຊູດ ບັງຄັບສຳລັບເດັກທີ່ຍັງໃຊ້ຜ້າອ້ອມ. ສາມາດນຳອາຫານ ແລະ ນົມຂວດເດັກໄດ້ &mdash; ຂໍ້ຍົກເວັ້ນດຽວໃນນະໂຍບາຍຫ້າມນຳອາຫານ. ສະໜອງເສື້ອຊູຊີບຟຣີ."
+        }
+      ],
+      "blogLink": "ອ່ານ: ຄູ່ມືຄົບຖ້ວນ Aquaverse ກັບລູກ &rarr;"
+    },
+    "tip10": {
+      "sectionLabel": "ເຄັດລັບ #10",
+      "h2": "ເຄັດລັບວັນຝົນຕົກ",
+      "description": "ຢ່າໃຫ້ຝົນທຳລາຍແຜນ &mdash; ສວນນ້ຳໃນຝົນສາມາດເປັນປະສົບການທີ່ດີ.",
+      "cards": [
+        {
+          "h3": "ຝົນໜ້ອຍ = ຍັງສຸຂ",
+          "p": "ທ່ານໄດ້ຕົກນ້ຳຢູ່ແລ້ວ! ຝົນໜ້ອຍ ຫຼື ປານກາງ ໝາຍຄວາມວ່າ <strong>ຕໍ່ແຖວສັ້ນ</strong> ເພາະຜູ້ທ່ຽວຫຼາຍຄົນໄປ. ສະໄລ ແລະ ສະລອຍ ຍັງເຮັດວຽກໃນຝົນໜ້ອຍ. ມີແຕ່ຟ້າຜ່າ ຫຼື ພາຍຸຮຸນແຮງ ທີ່ເຮັດໃຫ້ຕ້ອງປິດຊົ່ວຄາວ."
+        },
+        {
+          "h3": "ກວດສະພາບອາກາດ",
+          "p": "ລະດູຝົນພັດທະຍາ (ພຶດສະພາ&ndash;ຕຸລາ) ໂດຍທົ່ວໄປ ຝົນຕົກ 1&ndash;2 ຊົ່ວໂມງ ໃນຕອນບ່າຍ, ບໍ່ຕ້ຽວທັງວັນ. ກວດສະພາບອາກາດຕອນເຊົ້າຂອງວັນທ່ຽວ. ຖ້າຄາດວ່າຈະຝົນ, ມັກຈะໝົດໃນຕອນກາງ-ຕ້ຽວ."
+        },
+        {
+          "h3": "ມີບ່ອນຮົ່ມ",
+          "p": "ສວນມີຫຼາຍບ່ອນຮົ່ມ ລວມທັງ <strong>ເຂດສານອາຫານ</strong>, ພາຍໃນໂຊນ Hotel Transylvania, Omnitheatre ແລະ ທາງຍ່າງຮົ່ມ. ສະໜາມໂກ-ກາດ ແລະ ມິນິກ໋ອຟ ຍັງດຳເນີນການໃນຝົນໜ້ອຍ."
+        }
+      ]
+    },
+    "tip11": {
+      "sectionLabel": "ເຄັດລັບ #11",
+      "h2": "ເຄັດລັບຖ່າຍຮູບ",
+      "description": "ວິທີບັນທຶກຄວາມຊົງຈຳທີ່ດີທີ່ສຸດ ໂດຍບໍ່ຕ້ອງເປັນຫ່ວງອຸປະກອນ.",
+      "content": "<div class=\"info-card\">\n            <div class=\"info-icon\" aria-hidden=\"true\">📸</div>\n            <h3>ຖ່າຍຮູບອັດຕະໂນມັດ RFID</h3>\n            <p>ສາຍຂໍ້ມື RFID ເຊື່ອມໂຍງກັບ <strong>ລະບົບຖ່າຍຮູບອັດຕະໂນມັດ</strong> ຂອງສວນ. ກ້ອງຖ່າຍຮູບທີ່ທາງອອກເຄື່ອງຫຼິ້ນ ແລະ ໂຊນນ້ຳ ຈະຖ່າຍຮູບທ່ານໂດຍອັດຕະໂນມັດ. ທ່ານສາມາດຄາດໂຕ ແລະ ຊື້ຊຸດຮູບດິຈິຕອລໄດ້ທີ່ kiosk ທົ່ວສວນ ຫຼື ທາງອອກ. ບໍ່ຈຳເປັນຕ້ອງເອົາກ້ອງໃສ່ເຄື່ອງຫຼິ້ນ!</p>\n          </div>\n          <div class=\"info-card\">\n            <div class=\"info-icon\" aria-hidden=\"true\">📱</div>\n            <h3>ກ່ອງໂທລະສັບກັນນ້ຳ</h3>\n            <p><strong>ກ່ອງໂທລະສັບກັນນ້ຳ</strong> (ລະດັບ IPX8, ມີຂາຍທີ່ 7-Eleven ລາຄາ THB 100&ndash;200) ໃຫ້ທ່ານຖ່າຍຮູບ ແລະ ວິດີໂອໃສ່ເຄື່ອງຫຼິ້ນ ໂດຍບໍ່ເສຍຫາຍຈາກນ້ຳ. ທົດສອບໃນອ່າງກ່ອນໄປ. ຫຼື ຝາກໂທລະສັບໃນຕູ້ ແລ້ວໃຊ້ລະບົບ RFID ຂອງສວນ.</p>\n          </div>",
+      "proTip": "<strong>ເຄັດລັບ Pro:</strong> ຈຸດຖ່າຍຮູບທີ່ດີທີ່ສຸດແມ່ນທາງເຂົ້າ Ghostbusters Water Dome, ຂົວ Jumanji, ພົບກັບຕົວລະຄອນໃນ Hotel Transylvania ແລະ ມຸມອາທິດຕົກທີ່ Wave Pool. GoPro ແລະ ໄມ້ selfie ບໍ່ອະນຸຍາດໃສ່ເຄື່ອງຫຼິ້ນ ແຕ່ໃຊ້ໄດ້ໃນບ່ອນຍ່າງ."
+    },
+    "tip12": {
+      "sectionLabel": "ເຄັດລັບ #12",
+      "h2": "ຄາບານາ &mdash; ຄຸ້ມໄໝ?",
+      "description": "ການວິເຄາະວ່າການເຊົ່າຄາບານາສ່ວນຕົວ ຄຸ້ມຄ່ານຳລາຄາໄໝ.",
+      "content": "<div class=\"info-card\">\n            <h3 style=\"color: var(--success); margin-bottom: 1rem;\">ຂໍ້ດີ</h3>\n            <ul style=\"list-style: none; padding: 0; line-height: 2;\">\n              <li>&#10003; ບ່ອນຮົ່ມສ່ວນຕົວ ພ້ອມທີ່ນັ່ງສະດວກ</li>\n              <li>&#10003; ລວມຜ້າເຊັດຕົວ ແລະ ສິ່ງຂອງໃຊ້</li>\n              <li>&#10003; ຮູ້ຈັກຮັກສາຂອງ ຄວາມມີຄ່າ (ແຍກຈາກຕູ້)</li>\n              <li>&#10003; ພະນັກງານຮັບໃຊ້ສ່ວນຕົວ</li>\n              <li>&#10003; ສິດສັ່ງອາຫານ ແລະ ເຄື່ອງດື່ມກ່ອນ</li>\n              <li>&#10003; ດີສຳລັບ 4&ndash;6 ຄົນ ແຊກຄ່າໃຊ້ຈ່າຍ</li>\n            </ul>\n          </div>\n          <div class=\"info-card\">\n            <h3 style=\"color: var(--danger); margin-bottom: 1rem;\">ຂໍ້ເສຍ</h3>\n            <ul style=\"list-style: none; padding: 0; line-height: 2;\">\n              <li>&#10007; ລາຄາສູງ: ເລີ່ມ <strong>THB 2,500/ວັນ</strong></li>\n              <li>&#10007; ທຳເລດີ (ດ້ານ Wave Pool) ຄ່າ THB 3,500+</li>\n              <li>&#10007; ມີບ່ອນຮົ່ມຟຣີຢ່າງພຽງພໍ</li>\n              <li>&#10007; ທ່ານໃຊ້ເວລາສ່ວນໃຫຍ່ໃສ່ເຄື່ອງຫຼິ້ນ ບໍ່ໃຊ່ຄາບານາ</li>\n              <li>&#10007; ຕູ້ (ຟຣີຕາມປີ້ອອນລາຍ) ເພພຽງພໍ</li>\n            </ul>\n          </div>",
+      "verdict": "<strong>ຄຳຕັດສິນຂອງພວກເຮົາ:</strong> ຂ້າມຄາບານາ ຍົກເວັ້ນວ່າທ່ານໄປກັບຜູ້ສູງອາຍຸ, ເດັກນ້ອຍຫຼາຍ ຫຼື ກຸ່ມ 4 ຄົນຂຶ້ນໄປທີ່ຍຶນດີເສຍຮ່ວມ. ສຳລັບຜູ້ທ່ຽວສ່ວນໃຫຍ່ ຕູ້ເດ ແລະ ບ່ອນນັ່ງຮົ່ມຟຣີ ເພພຽງພໍ."
+    },
+    "tip13": {
+      "sectionLabel": "ເຄັດລັບ #13",
+      "h2": "ເຄັດລັບຄວາມປອດໄພ",
+      "description": "ຄວາມປອດໄພໃນຂະນະທ່ຽວ Aquaverse.",
+      "cards": [
+        {
+          "h3": "ດູແລລູກ",
+          "p": "ເຝົ້າລູກໃຫ້ຢູ່ໃນໄລຍະໄມ້ສຳພັດ ໃນທຸກຈຸດນ້ຳ, ເຖິງແມ່ນໃນບ່ອນຕື້ນ. ມີຜູ້ກວດຄວາມປອດໄພຢູ່ທົ່ວສວນ, ແຕ່ການເຝົ້າລູກໂດຍພໍ່ແມ່ ຍັງສຳຄັນທີ່ສຸດ. ເສື້ອຊູຊີບຟຣີ ສຳລັບເດັກ ແລະ ຜູ້ລອຍນ້ຳບໍ່ໄດ້."
+        },
+        {
+          "h3": "ປະຕິບັດຕາມກົດ",
+          "p": "ຟັງຄຳສັ່ງຂອງພະນັກງານ ແລະ ປະຕິບັດຕາມປ້າຍຄວາມປອດໄພທຸກໂຕ. ຂໍ້ກຳນົດຄວາມສູງ ແລະ ນ້ຳໜັກ ມີຢູ່ ເພື່ອຄວາມປອດໄພ. ຢ່າລອງລົງສະໄລດ້ວຍຫົວ ຫຼື ຢືນໃສ່ ຍົກເວັ້ນໄດ້ຮັບຄຳສັ່ງ."
+        },
+        {
+          "h3": "ດື່ມນ້ຳໃຫ້ພຽງພໍ",
+          "p": "ອາກາດໄທຮ້ອນຫຼາຍ. <strong>ດື່ມນ້ຳສະໝ່ຳສ (ຳ)</strong> ເຖິງວ່າຈະບໍ່ຮູ້ສຶກຫິວ &mdash; ທ່ານຈະບໍ່ສັງເກດການຂາດນ້ຳ ໃນຂະນະຢູ່ໃກ້ນ້ຳ. ຈຸດຕື່ມນ້ຳ ມີຢູ່ທົ່ວສວນ. ພັກຜ່ອນໃນບ່ອນຮົ່ມ."
+        },
+        {
+          "h3": "ຫ້ອງການແພດ",
+          "p": "<strong>ຫ້ອງການແພດ</strong> ຢູ່ໃກ້ທາງເຂົ້າຫຼັກ. ພະນັກງານຊ່ວຍໄດ້ໃນກໍລະນີ ບາດແຜໜ້ອຍ, ໄໝ້ແດດ, ຖືກແມງ ແລະ ຄວາມຕ້ອງການທາງການແພດ. ສຳລັບກໍລະນີຮີບດ່ວນ, ສວນ ຕິດຕໍ່ກັບໂຮງໝໍທ້ອງຖິ່ນໂດຍກົງ."
+        }
+      ]
+    },
+    "tip14": {
+      "sectionLabel": "ເຄັດລັບ #14",
+      "h2": "ຫຼັງຈາກທ່ຽວ",
+      "description": "ສິ່ງທີ່ຄວນເຮັດຫຼັງຈາກ Aquaverse &mdash; ທາງເລືອກດີໆໃກ້ຄຽງ.",
+      "cards": [
+        {
+          "h3": "ຮ້ານອາຫານໃກ້ຄຽງ",
+          "p": "ຮ້ານອາຫານທະເລຫຼາຍແຫ່ງ ຢູ່ຫ່າງ 5&ndash;10 ນາທີ ຕາມຖະໜົນຊາຍຝັ່ງ Na Jomtien. <strong>Rim Talay Seafood</strong> ແລະ <strong>Glass House</strong> ເປັນທາງເລືອກດັງ ສຳລັບຄ່ຳລິມທະເລ ຊົມ sunset. ຄາດ THB 200&ndash;500 ຕໍ່ຄົນ."
+        },
+        {
+          "h3": "ສວນ Nong Nooch",
+          "p": "<strong>ສວນດອກໄມ້ຮ້ອນ Nong Nooch</strong> ຢູ່ຫ່າງ 10 ນາທີຈາກ Aquaverse. ສວນພຶກສາທີ່ມີຊື່ສຽງໄປທົ່ວໂລກ ດ້ວຍທຳມະຊາດ, ການສະແດງ ແລະ ຜະຈົນໄພຊ້າງ. ເປີດຮັບ 18:00, ສາມາດໄປໃນວັນດຽວ."
+        },
+        {
+          "h3": "Sunset ທີ່ Jomtien",
+          "p": "<strong>ຫາດ Jomtien</strong> ຢູ່ 20 ນາທີ ທາງເໜືອຂອງ Aquaverse. ໄປຮອດ 17:30 ເພື່ອຊົມ sunset ງາມ. ຍ່າງລິມຝັ່ງ, ດື່ມນ້ຳໝາກຫ້ຽງ ແລະ ເພີດເພີນອາກາດຕອນແລງ."
+        }
+      ]
+    },
+    "tip15": {
+      "sectionLabel": "ເຄັດລັບ #15",
+      "h2": "ເຄັດລັບດ່ວນໂບນັດ",
+      "description": "ເຄັດລັບເພີ່ມເຕີມ ເພື່ອການທ່ຽວທີ່ສົມບູນ.",
+      "content": "<div class=\"info-card\">\n            <ul style=\"list-style: none; padding: 0; line-height: 2.2;\">\n              <li><strong>WiFi:</strong> WiFi ຟຣີທົ່ວສວນ, ແຕ່ອາດຊ້າໃນຊ່ວງ peak. ດາວໂຫຼດແຜນທີ່ ແລະ ຂໍ້ມູນລ່ວງໜ້າ.</li>\n              <li><strong>ຕູ້ເດ:</strong> ຟຣີຕາມປີ້ອອນລາຍ. ຢູ່ໃກ້ທາງເຂົ້າ. ໃຫຍ່ພໍໃຫ້ backpack. ເຂົ້າໄດ້ໂດຍບໍ່ຈຳກັດຄັ້ງ.</li>\n              <li><strong>ທີ່ຈອດລົດ:</strong> ຟຣີສຳລັບທຸກຜູ້ທ່ຽວ. ທີ່ຈອດລົດໃຫຍ່ ແລະ ແທບຈະບໍ່ເຕັມ. ທີ່ຈອດລົດຈັກ ກໍ ມີ.</li>\n              <li><strong>ເວລາປິດ:</strong> ເຄື່ອງຫຼິ້ນ ປິດ 17:45, ແຕ່ສວນ ຍັງເປີດຮອດ 18:00 ສຳລັບ ຊື້ຂອງ, ຖ່າຍຮູບ ແລະ ອອກ.</li>\n              <li><strong>ເຂົ້າ-ອອກ:</strong> ໂດຍທົ່ວໄປ ບໍ່ອະນຸຍາດໃຫ້ກັບເຂົ້າ ຫຼັງຈາກອອກ. ຕ້ອງເອົາທຸກສິ່ງທີ່ຕ້ອງການ ເຂົ້າໄວ້.</li>\n              <li><strong>ຂອງຫາຍ:</strong> ກວດໂຕ໊ະ lost and found ໃກ້ທາງເຂົ້າຫຼັກ. ສວນ ມີເບີໂທ ສຳລັບສອບຖາມ ຫຼັງທ່ຽວ.</li>\n            </ul>\n          </div>"
+    },
+    "internalLinks": {
+      "sectionLabel": "ວາງແຜນການທ່ຽວ",
+      "heading": "ຄູ່ມືເພີ່ມເຕີມ",
+      "cards": [
+        {
+          "h3": "ເຄື່ອງຫຼິ້ນທັງໝົດ",
+          "p": "ຄູ່ມືຄົບ ທຸກສະໄລ, ຊ່ອງ ແລະ ເຄື່ອງຫຼິ້ນ ໃນ 9 ໂຊນຮູບເງົາ."
+        },
+        {
+          "h3": "ປີ້ &amp; ລາຄາ",
+          "p": "ສຽບທາງເລືອກປີ້, ດີລ combo ແລະ ຊອກລາຄາດີທີ່ສຸດ."
+        },
+        {
+          "h3": "ວິທີໄປ",
+          "p": "ວິທີໄປ Aquaverse ຈາກກຸງເທບ, ພັດທະຍາ ແລະ ສະໜາມບິນ ດ້ວຍລົດ, ລົດເມ ຫຼື ແທັກຊີ."
+        },
+        {
+          "h3": "ຄຳຖາມທີ່ພົບເລື້ອຍ",
+          "p": "ຄຳຕອບຄຳຖາມ 40+ ທີ່ພົບເລື້ອຍ ກ່ຽວກັບ Aquaverse."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "ພ້ອມທ່ຽວ Aquaverse ແລ້ວໄໝ?",
+      "text": "ຈອງປີ້ອອນລາຍ ປະຢັດກວ່າ 25%. ຢືນຢັນທັນທີ, ຍົກເລີກໄດ້ຟຣີ ແລະ ໄດ້ສິດຂ້າມແຖວ.",
+      "button": "ຈອງປີ້ລາຄາພິເສດ &rarr;",
+      "subtext": "ປີ້ເລີ່ມຕົ້ນ ~THB 1,200 ຕໍ່ຄົນ &bull; ເດັກອາຍຸ 0-2 ຂວບ ຟຣີ"
+    }
+  },
+  "blog": {
+    "posts": {
+      "aquaverse-food-guide": {
+        "title": "ຄູ່ມືອາຫານ Aquaverse: ກິນບ່ອນໃດ ແລະ ລາຄາ (2026)",
+        "metaDescription": "ຄູ່ມືອາຫານ Aquaverse ສົມບູນ. ທຸກຮ້ານອາຫານ, ລາຄາ, ເຄັດລັບສາຍແຂນ RFID, ເມນູແນະນຳ, ອາຫານເດັກ ແລະ ວິທີປະຢັດ. ແພັກເກດ All-Inclusive THB 1,580.",
+        "metaKeywords": "ອາຫານ aquaverse, ຮ້ານອາຫານ aquaverse, ລາຄາອາຫານ aquaverse, aquaverse all-inclusive, aquaverse food court",
+        "ogTitle": "ຄູ່ມືອາຫານ Aquaverse: ກິນບ່ອນໃດ ແລະ ລາຄາ (2026)",
+        "ogDescription": "ທຸກຮ້ານອາຫານ, ລາຄາ ແລະ ເຄັດລັບທີ່ Aquaverse. ແພັກເກດ All-Inclusive THB 1,580.",
+        "twitterTitle": "ຄູ່ມືອາຫານ Aquaverse 2026",
+        "twitterDescription": "ທຸກຮ້ານອາຫານ, ລາຄາ ແລະ ວິທີປະຢັດ.",
+        "breadcrumbName": "ຄູ່ມືອາຫານ Aquaverse"
+      },
+      "aquaverse-review": {
+        "title": "ລີວິວຈິງ Aquaverse 2026: ຄຸ້ມຄ່າບໍທີ່ຈະໄປ? (ຄະແນນ 4.3/5)",
+        "metaDescription": "ລີວິວຈິງ Aquaverse ຫຼັງຈາກໄປ 4 ຄັ້ງ. ຄະແນນສຳລັບເຄື່ອງຫຼິ້ນ, ທີມ, ອາຫານ, ຄ່າຄຸ້ມ ແລະ ຄວາມສະອາດ. Columbia Pictures Aquaverse ພັດທະຍາ 4.3/5 — ນີ້ຄືເຫດຜົນ.",
+        "metaKeywords": "ລີວິວ aquaverse, aquaverse ພັດທະຍາ ລີວິວ, aquaverse ຄຸ້ມຄ່າບໍ, ລີວິວຈິງ aquaverse, ຄະແນນ aquaverse",
+        "ogTitle": "ລີວິວຈິງ Aquaverse 2026: ຄຸ້ມຄ່າບໍທີ່ຈະໄປ?",
+        "ogDescription": "ລີວິວຊື່ສັດຂອງ Columbia Pictures Aquaverse ພັດທະຍາ. ຄະແນນລະອຽດສຳລັບເຄື່ອງຫຼິ້ນ, ທີມ, ອາຫານ ແລະ ອື່ນໆ. 4.3/5 ໂດຍລວມ.",
+        "twitterTitle": "ລີວິວຈິງ Aquaverse 2026: ຄຸ້ມຄ່າບໍ?",
+        "twitterDescription": "ລີວິວຊື່ສັດ Aquaverse ພັດທະຍາ. ຄະແນນລະອຽດສຳລັບເຄື່ອງຫຼິ້ນ, ທີມ, ອາຫານ ແລະ ຄ່າຄຸ້ມ.",
+        "breadcrumbName": "ລີວິວຈິງ Aquaverse 2026"
+      },
+      "aquaverse-ticket-prices": {
+        "title": "ລາຄາປີ້ Aquaverse 2026: ປະຢັດ 27% ກັບການຈອງອອນລາຍ (ເລີ່ມ THB 1,176)",
+        "metaDescription": "ຄູ່ມືລາຄາປີ້ Aquaverse ສົມບູນສຳລັບ 2026. ລາຄາໜ້າປະຕູ THB 1,595 vs ອອນລາຍ THB 1,176 — ປະຢັດ 27%. ປຽບທຽບປີ້ທຳມະດາ, ແພັກເກດ All-Inclusive THB 1,580 ແລະ ສ່ວນຫຼຸດກຸ່ມ.",
+        "metaKeywords": "ລາຄາປີ້ aquaverse, ປີ້ aquaverse, ສ່ວນຫຼຸດ aquaverse, ປີ້ aquaverse ລາຄາຖືກ, ຈອງອອນລາຍ aquaverse, ແພັກເກດ all-inclusive aquaverse",
+        "ogTitle": "ລາຄາປີ້ Aquaverse 2026: ປະຢັດ 27% ກັບການຈອງອອນລາຍ",
+        "ogDescription": "ລາຍລະອຽດລາຄາປີ້ Aquaverse ສົມບູນ. ໜ້າປະຕູ THB 1,595 vs ອອນລາຍ THB 1,176. ປີ້ທຳມະດາ, ແພັກເກດ All-Inclusive ແລະ ວິທີປະຢັດ.",
+        "twitterTitle": "ລາຄາປີ້ Aquaverse 2026: ປະຢັດ 27% — ເລີ່ມ THB 1,176",
+        "twitterDescription": "ລາຍລະອຽດລາຄາປີ້ Aquaverse ສົມບູນ. ໜ້າປະຕູ vs ອອນລາຍ, ປີ້ຊຸດ ແລະ ວິທີປະຢັດ.",
+        "breadcrumbName": "ລາຄາປີ້ Aquaverse 2026"
+      },
+      "aquaverse-vs-ramayana": {
+        "title": "Aquaverse vs Ramayana 2026: ສວນນ້ຳໃດທີ່ພັດທະຍາທີ່ທ່ານຄວນໄປ?",
+        "metaDescription": "ປຽບທຽບລະອຽດ Aquaverse ແລະ Ramayana Water Park ພັດທະຍາ. ລາຄາປີ້, ເຄື່ອງຫຼິ້ນ, ໂຊນ, ອາຫານ, ພື້ນທີ່ເດັກ ແລະ ຄຳຕັດສິນຊື່ສັດ ສຳລັບ 2026.",
+        "metaKeywords": "aquaverse vs ramayana, ສວນນ້ຳ ພັດທະຍາ, ສວນນ້ຳທີ່ດີທີ່ສຸດ ພັດທະຍາ, aquaverse ຫຼື ramayana, ປຽບທຽບສວນນ້ຳ",
+        "ogTitle": "Aquaverse vs Ramayana 2026: ສວນນ້ຳໃດທີ່ຄວນໄປ?",
+        "ogDescription": "ປຽບທຽບສວນນ້ຳ 2 ແຫ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ. ລາຄາ, ເຄື່ອງຫຼິ້ນ, ອາຫານ, ເດັກ ແລະ ຄຳຕັດສິນ.",
+        "twitterTitle": "Aquaverse vs Ramayana 2026: ສວນນ້ຳໃດທີ່ຄວນໄປ?",
+        "twitterDescription": "ປຽບທຽບສວນນ້ຳ 2 ແຫ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ. ລາຄາ, ເຄື່ອງຫຼິ້ນ ແລະ ຄຳຕັດສິນ.",
+        "breadcrumbName": "Aquaverse vs Ramayana 2026"
+      },
+      "aquaverse-with-kids": {
+        "title": "Aquaverse ໄປກັບເດັກນ້ອຍ: ຄູ່ມືຄອບຄົວສົມບູນ (2026)",
+        "metaDescription": "ທຸກຢ່າງທີ່ພໍ່ແມ່ຕ້ອງຮູ້ກ່ຽວກັບ Aquaverse ກັບເດັກ. ໂຊນທີ່ເໝາະອາຍຸ, ຂໍ້ຈຳກັດຄວາມສູງ, ສິ່ງທີ່ຄວນນຳ, ອາຫານ, ຄວາມປອດໄພ ແລະ ກົນລະຍຸດ.",
+        "metaKeywords": "aquaverse ກັບເດັກ, aquaverse ຄອບຄົວ, aquaverse ເດັກນ້ອຍ, hotel transylvania ສວນນ້ຳ, aquaverse ພື້ນທີ່ເດັກ",
+        "ogTitle": "Aquaverse ໄປກັບເດັກນ້ອຍ: ຄູ່ມືຄອບຄົວສົມບູນ (2026)",
+        "ogDescription": "ຄູ່ມືສົມບູນສຳລັບພໍ່ແມ່. ໂຊນທີ່ເໝາະອາຍຸ, ຂໍ້ຈຳກັດຄວາມສູງ, ສິ່ງທີ່ຄວນນຳ ແລະ ກົນລະຍຸດ.",
+        "twitterTitle": "Aquaverse ໄປກັບເດັກນ້ອຍ: ຄູ່ມືຄອບຄົວ 2026",
+        "twitterDescription": "ຄູ່ມືສົມບູນສຳລັບພໍ່ແມ່. ໂຊນເດັກ, ຄວາມສູງ, ສິ່ງທີ່ຄວນນຳ ແລະ ກົນລະຍຸດ.",
+        "breadcrumbName": "Aquaverse ໄປກັບເດັກນ້ອຍ"
+      },
+      "best-hotels-near-aquaverse": {
+        "title": "8 ໂຮງແຮມທີ່ດີທີ່ສຸດໃກ້ Aquaverse ພັດທະຍາ (2026)",
+        "metaDescription": "ໂຮງແຮມ 8 ແຫ່ງທີ່ຄະແນນດີທີ່ສຸດພາຍໃນ 15 ນາທີຈາກ Aquaverse. ລີສອດລະດັບຫຼູ, ລະດັບກາງເໝາະຄອບຄົວ ແລະ ລາຄາປະຢັດ ກັບສະລອຍນ້ຳ. ລາຄາ ແລະ ການຈອງ 2026.",
+        "metaKeywords": "ໂຮງແຮມ ໃກ້ aquaverse, ໂຮງແຮມ na jomtien, ໂຮງແຮມ ພັດທະຍາ, ທີ່ພັກ aquaverse, ລີສອດ ພັດທະຍາ",
+        "ogTitle": "8 ໂຮງແຮມທີ່ດີທີ່ສຸດໃກ້ Aquaverse ພັດທະຍາ (2026)",
+        "ogDescription": "ໂຮງແຮມ 8 ແຫ່ງໃກ້ Aquaverse ທຸກງົບ. ຫຼູ, ກາງ ແລະ ປະຢັດ.",
+        "twitterTitle": "8 ໂຮງແຮມໃກ້ Aquaverse 2026",
+        "twitterDescription": "ໂຮງແຮມ 8 ແຫ່ງໃກ້ Aquaverse ທຸກງົບ.",
+        "breadcrumbName": "8 ໂຮງແຮມໃກ້ Aquaverse"
+      },
+      "best-things-to-do-pattaya": {
+        "title": "15 ສິ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ (ຄູ່ມື 2026)",
+        "metaDescription": "ຄູ່ມືສົມບູນ 15 ສິ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ 2026. ສວນນ້ຳ, ຫາດ, ວັດ, ທຳມະຊາດ ແລະ ອື່ນໆ.",
+        "metaKeywords": "ສິ່ງທີ່ດີທີ່ສຸດ ພັດທະຍາ, ກິດຈະກຳ ພັດທະຍາ 2026",
+        "ogTitle": "15 ສິ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ (ຄູ່ມື 2026)",
+        "ogDescription": "ຄູ່ມືສົມບູນ 15 ສິ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ 2026. ສວນນ້ຳ, ຫາດ, ວັດ, ທຳມະຊາດ ແລະ ອື່ນໆ.",
+        "twitterTitle": "15 ສິ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ (ຄູ່ມື 2026)",
+        "twitterDescription": "",
+        "breadcrumbName": "15 ສິ່ງທີ່ດີທີ່ສຸດໃນພັດທະຍາ"
+      },
+      "best-time-to-visit-aquaverse": {
+        "title": "ເວລາທີ່ດີທີ່ສຸດໃນການໄປ Aquaverse 2026: ຄູ່ມືສະພາບອາກາດ &amp; ຄົນຫຼາຍລາຍເດືອນ",
+        "metaDescription": "ຊອກຫາເວລາທີ່ດີທີ່ສຸດໃນການໄປ Aquaverse ພັດທະຍາ ປີ 2026. ຄູ່ມືສະພາບອາກາດ, ລະດັບຄົນຫຼາຍ ແລະ ລາຄາລາຍເດືອນ. ພະຈິກ–ກຸມພາ ເປັນຊ່ວງທີ່ດີທີ່ສຸດ ແຕ່ທຸກລະດູກໍ່ມີຂໍ້ດີ.",
+        "metaKeywords": "ເວລາທີ່ດີໄປ aquaverse, ສະພາບອາກາດ aquaverse, ປະຕິທິນ aquaverse, ເດືອນທີ່ດີ aquaverse ພັດທະຍາ, aquaverse ລະດູຝົນ, aquaverse ສົງກາ",
+        "ogTitle": "ເວລາທີ່ດີທີ່ສຸດໃນການໄປ Aquaverse 2026: ຄູ່ມືລາຍເດືອນ",
+        "ogDescription": "ຄູ່ມືລາຍເດືອນໃນການໄປ Aquaverse ພັດທະຍາ. ສະພາບອາກາດ, ລະດັບຄົນຫຼາຍ, ເຄັດລັບລາຄາ ແລະ ເດືອນທີ່ດີທີ່ສຸດສຳລັບທຸກປະເພດນັກທ່ອງທ່ຽວ.",
+        "twitterTitle": "ເວລາທີ່ດີທີ່ສຸດໃນການໄປ Aquaverse 2026: ຄູ່ມືລາຍເດືອນ",
+        "twitterDescription": "ຄູ່ມືລາຍເດືອນໃນການໄປ Aquaverse ພັດທະຍາ. ສະພາບອາກາດ, ລະດັບຄົນຫຼາຍ ແລະ ເຄັດລັບລາຄາ.",
+        "breadcrumbName": "ເວລາທີ່ດີທີ່ສຸດໃນການໄປ Aquaverse"
+      },
+      "how-to-get-to-aquaverse-from-bangkok": {
+        "title": "ວິທີໄປ Aquaverse ຈາກບາງກອກ: ທຸກທາງເລືອກການເດີນທາງ (2026)",
+        "metaDescription": "7 ວິທີໄປຈາກບາງກອກຫາ Aquaverse ພັດທະຍາ ພ້ອມຄຳແນະນຳທີລະຂັ້ນ. ຂັບລົດ, ລົດບັສ, ລົດຕູ້, Grab, ຈາກສະໜາມບິນ ແລະ ທົວຈັດ. ຄ່າໃຊ້ຈ່າຍ, ເວລາ ແລະ ເຄັດລັບ.",
+        "metaKeywords": "ໄປ aquaverse ແນວໃດ, aquaverse ຈາກບາງກອກ, ການເດີນທາງ aquaverse, ບາງກອກ ພັດທະຍາ, ລົດບັສ ພັດທະຍາ",
+        "ogTitle": "ວິທີໄປ Aquaverse ຈາກບາງກອກ: ທຸກທາງເລືອກ (2026)",
+        "ogDescription": "7 ວິທີໄປ Aquaverse ຈາກບາງກອກ. ຂັບລົດ, ລົດບັສ, Grab ແລະ ອື່ນໆ ພ້ອມລາຄາ ແລະ ເວລາ.",
+        "twitterTitle": "ວິທີໄປ Aquaverse ຈາກບາງກອກ 2026",
+        "twitterDescription": "7 ວິທີ ພ້ອມລາຄາ ແລະ ເວລາ.",
+        "breadcrumbName": "ວິທີໄປ Aquaverse ຈາກບາງກອກ"
+      },
+      "pattaya-couples-guide": {
+        "title": "ພັດທະຍາສຳລັບຄູ່ຮັກ 2026: ກິດຈະກຳໂຣແມນຕິກ 8 ຢ່າງ",
+        "metaDescription": "ວາງແຜນການທ່ອງທ່ຽວໂຣແມນຕິກທີ່ພັດທະຍາ 2026. 8 ກິດຈະກຳສຳລັບຄູ່ຮັກ ລວມທັງ Aquaverse, Sanctuary of Truth, ເກາະລ້ານ, ອາຫານຄ່ຳຊົມພະອາທິດຕົກ ແລະ ສະປາ. ແຜນ 2 ວັນ ແລະ ຄູ່ມືງົບປະມານ 3 ລະດັບ.",
+        "metaKeywords": "ພັດທະຍາ ຄູ່ຮັກ, ພັດທະຍາ ໂຣແມນຕິກ, ພັດທະຍາ ຮັນນີມູນ, ກິດຈະກຳ ພັດທະຍາ ຄູ່ຮັກ, ພັດທະຍາ ເດດ 2026",
+        "ogTitle": "ພັດທະຍາສຳລັບຄູ່ຮັກ 2026: ກິດຈະກຳໂຣແມນຕິກ 8 ຢ່າງ",
+        "ogDescription": "ວາງແຜນການທ່ອງທ່ຽວໂຣແມນຕິກທີ່ພັດທະຍາ 2026. 8 ກິດຈະກຳ, ແຜນ 2 ວັນ ແລະ ຄູ່ມືງົບປະມານ.",
+        "twitterTitle": "ພັດທະຍາສຳລັບຄູ່ຮັກ 2026: ກິດຈະກຳໂຣແມນຕິກ 8 ຢ່າງ",
+        "twitterDescription": "ວາງແຜນການທ່ອງທ່ຽວໂຣແມນຕິກທີ່ພັດທະຍາ 2026. 8 ກິດຈະກຳ, ແຜນ 2 ວັນ ແລະ ຄູ່ມືງົບປະມານ.",
+        "breadcrumbName": "ພັດທະຍາສຳລັບຄູ່ຮັກ"
+      },
+      "pattaya-itinerary-aquaverse": {
+        "title": "ແຜນການເດີນທາງພັດທະຍາ ກັບ Aquaverse 2026: 3 ແຜນວັນທ່ຽວຈາກບາງກອກ",
+        "metaDescription": "ວາງແຜນເດີນທາງພັດທະຍາ ລວມ Columbia Pictures Aquaverse. 3 ແຜນວັນ ສຳລັບຄອບຄົວ, ຄູ່ຮັກ ແລະ ທ່ຽວສຸດສັບດາ ພ້ອມງົບ, ເວລາ, ສະຖານທີ່ໃກ້ຄຽງ ແລະ ສິ່ງທີ່ຕ້ອງກຽມ.",
+        "metaKeywords": "ແຜນການເດີນທາງ ພັດທະຍາ aquaverse, ໄປ aquaverse ຈາກ ບາງກອກ, ແຜນທ່ຽວພັດທະຍາ, ສິ່ງທີ່ຕ້ອງເຮັດ ພັດທະຍາ, ສະຖານທີ່ໃກ້ aquaverse",
+        "ogTitle": "ແຜນການເດີນທາງພັດທະຍາ ກັບ Aquaverse 2026: 3 ແຜນວັນ",
+        "ogDescription": "3 ແຜນເດີນທາງພັດທະຍາ ລວມ Aquaverse. ເຕັມວັນ, Aquaverse + Nong Nooch, ແລະ ທ່ຽວ 2 ມື້ ພ້ອມງົບ ແລະ ຄຳແນະນຳ.",
+        "twitterTitle": "ແຜນການເດີນທາງພັດທະຍາ ກັບ Aquaverse 2026",
+        "twitterDescription": "3 ແຜນເດີນທາງພັດທະຍາ ລວມ Aquaverse ພ້ອມງົບ ແລະ ຄຳແນະນຳ.",
+        "breadcrumbName": "ແຜນການເດີນທາງພັດທະຍາ"
+      },
+      "pattaya-kids-activities": {
+        "title": "10 ກິດຈະກຳທີ່ດີທີ່ສຸດສຳລັບເດັກນ້ອຍໃນພັດທະຍາ (2026)",
+        "metaDescription": "ຄູ່ມືກິດຈະກຳສຳລັບຄອບຄົວໃນພັດທະຍາ 2026. Aquaverse, Ramayana, Underwater World ແລະ ອື່ນໆ.",
+        "metaKeywords": "ພັດທະຍາ ເດັກນ້ອຍ, ກິດຈະກຳ ຄອບຄົວ ພັດທະຍາ 2026",
+        "ogTitle": "10 ກິດຈະກຳທີ່ດີທີ່ສຸດສຳລັບເດັກນ້ອຍໃນພັດທະຍາ (2026)",
+        "ogDescription": "ຄູ່ມືກິດຈະກຳສຳລັບຄອບຄົວໃນພັດທະຍາ 2026. Aquaverse, Ramayana, Underwater World ແລະ ອື່ນໆ.",
+        "twitterTitle": "10 ກິດຈະກຳທີ່ດີທີ່ສຸດສຳລັບເດັກນ້ອຍໃນພັດທະຍາ (2026)",
+        "twitterDescription": "",
+        "breadcrumbName": "ກິດຈະກຳສຳລັບເດັກນ້ອຍ"
+      },
+      "pattaya-seniors-guide": {
+        "title": "ພັດທະຍາສຳລັບຜູ້ສູງອາຍຸ (ຄູ່ມື 2026)",
+        "metaDescription": "ຄູ່ມືທ່ອງທ່ຽວພັດທະຍາກັບພໍ່ແມ່ຜູ້ສູງອາຍຸ 2026. ສະຖານທີ່ທີ່ເໝາະ, Aquaverse, ຄຳແນະນຳສຸຂະພາບ.",
+        "metaKeywords": "ພັດທະຍາ ຜູ້ສູງອາຍຸ, ພັດທະຍາ ພໍ່ແມ່ 2026",
+        "ogTitle": "ພັດທະຍາສຳລັບຜູ້ສູງອາຍຸ (ຄູ່ມື 2026)",
+        "ogDescription": "ຄູ່ມືທ່ອງທ່ຽວພັດທະຍາກັບພໍ່ແມ່ຜູ້ສູງອາຍຸ 2026. ສະຖານທີ່ທີ່ເໝາະ, Aquaverse, ຄຳແນະນຳສຸຂະພາບ.",
+        "twitterTitle": "ພັດທະຍາສຳລັບຜູ້ສູງອາຍຸ (ຄູ່ມື 2026)",
+        "twitterDescription": "",
+        "breadcrumbName": "ພັດທະຍາສຳລັບຜູ້ສູງອາຍຸ"
+      },
+      "pattaya-solo-travel": {
+        "title": "ທ່ອງທ່ຽວຄົນດຽວພັດທະຍາ 2026: ຄູ່ມືສົມບູນ",
+        "metaDescription": "ຄູ່ມືທ່ອງທ່ຽວຄົນດຽວພັດທະຍາ 2026. ຄວາມປອດໄພ, ງົບປະມານ, ກິດຈະກຳ solo ແລະ ແຜນ 3 ວັນ.",
+        "metaKeywords": "ທ່ອງທ່ຽວຄົນດຽວ ພັດທະຍາ, ພັດທະຍາ solo 2026",
+        "ogTitle": "ທ່ອງທ່ຽວຄົນດຽວພັດທະຍາ 2026: ຄູ່ມືສົມບູນ",
+        "ogDescription": "ຄູ່ມືທ່ອງທ່ຽວຄົນດຽວພັດທະຍາ 2026. ຄວາມປອດໄພ, ງົບປະມານ, ກິດຈະກຳ solo ແລະ ແຜນ 3 ວັນ.",
+        "twitterTitle": "ທ່ອງທ່ຽວຄົນດຽວພັດທະຍາ 2026: ຄູ່ມືສົມບູນ",
+        "twitterDescription": "",
+        "breadcrumbName": "ທ່ອງທ່ຽວຄົນດຽວພັດທະຍາ"
+      },
+      "pattaya-water-parks": {
+        "title": "ສວນນ້ຳພັດທະຍາ: ຄູ່ມືສະບັບສົມບູນ 2026",
+        "metaDescription": "ຄູ່ມືສົມບູນກ່ຽວກັບສວນນ້ຳພັດທະຍາ 2026. ທຽບ Aquaverse ແລະ Ramayana, ລາຄາ, ຄຳແນະນຳ.",
+        "metaKeywords": "ສວນນ້ຳພັດທະຍາ, aquaverse, ramayana, ສວນນ້ຳ ໄທ 2026",
+        "ogTitle": "ສວນນ້ຳພັດທະຍາ: ຄູ່ມືສະບັບສົມບູນ 2026",
+        "ogDescription": "ຄູ່ມືສົມບູນກ່ຽວກັບສວນນ້ຳພັດທະຍາ 2026. ທຽບ Aquaverse ແລະ Ramayana, ລາຄາ, ຄຳແນະນຳ.",
+        "twitterTitle": "ສວນນ້ຳພັດທະຍາ: ຄູ່ມືສະບັບສົມບູນ 2026",
+        "twitterDescription": "",
+        "breadcrumbName": "ສວນນ້ຳພັດທະຍາ"
+      },
+      "why-visit-pattaya": {
+        "title": "ເປັນຫຍັງຕ້ອງໄປພັດທະຍາ? 10 ເຫດຜົນທີ່ຕ້ອງໄປ (2026)",
+        "metaDescription": "10 ເຫດຜົນທີ່ທ່ານຕ້ອງໄປພັດທະຍາໃນປີ 2026. ຈາກສວນນ້ຳ Aquaverse ຫາຫາດຊາຍ, ວັດ, ອາຫານທະເລ ແລະ ຕະຫຼາດກາງຄືນ — ຄູ່ມືສົມບູນຈາກຄົນທີ່ໄປມາຫຼາຍຄັ້ງ.",
+        "metaKeywords": "ເປັນຫຍັງຕ້ອງໄປພັດທະຍາ, ເຫດຜົນໄປພັດທະຍາ, ພັດທະຍາ 2026, ທ່ອງທ່ຽວພັດທະຍາ, ພັດທະຍາ ລາວ",
+        "ogTitle": "ເປັນຫຍັງຕ້ອງໄປພັດທະຍາ? 10 ເຫດຜົນທີ່ຕ້ອງໄປ (2026)",
+        "ogDescription": "10 ເຫດຜົນທີ່ຕ້ອງໄປພັດທະຍາໃນປີ 2026. ສວນນ້ຳ, ຫາດຊາຍ, ວັດ, ອາຫານ ແລະ ອື່ນໆ.",
+        "twitterTitle": "ເປັນຫຍັງຕ້ອງໄປພັດທະຍາ? 10 ເຫດຜົນ (2026)",
+        "twitterDescription": "10 ເຫດຜົນທີ່ຕ້ອງໄປພັດທະຍາ. ສວນນ້ຳ Aquaverse, ຫາດຊາຍ, ວັດ, ອາຫານ ແລະ ກິດຈະກຳ.",
+        "breadcrumbName": "ເປັນຫຍັງຕ້ອງໄປພັດທະຍາ?"
+      }
+    },
+    "index": {
+      "title": "ບລັອກ Aquaverse | ຄູ່ມື, ຄຳແນະນຳ ແລະ ລີວິວ",
+      "metaDescription": "ບລັອກ Aquaverse ກັບຄູ່ມືສຳລັບນັກທ່ອງທ່ຽວ, ຄຳແນະນຳການເດີນທາງ, ລີວິວຈິງ ແລະ ການປຽບທຽບ. ວາງແຜນວັນທີ່ສົມບູນແບບຂອງທ່ານທີ່ Columbia Pictures Aquaverse ພັດທະຍາ ປະເທດໄທ.",
+      "metaKeywords": "aquaverse ບລັອກ, aquaverse ຄູ່ມື, aquaverse ຄຳແນະນຳ, aquaverse ລີວິວ, aquaverse ພັດທະຍາ, ສວນນ້ຳ ປະເທດໄທ",
+      "ogTitle": "ບລັອກ Aquaverse | ຄູ່ມື, ຄຳແນະນຳ ແລະ ລີວິວ",
+      "ogDescription": "ຄູ່ມືສຳລັບນັກທ່ອງທ່ຽວ, ຄຳແນະນຳການເດີນທາງ, ລີວິວຈິງ ແລະ ການປຽບທຽບສຳລັບ Columbia Pictures Aquaverse ພັດທະຍາ ປະເທດໄທ.",
+      "twitterTitle": "ບລັອກ Aquaverse | ຄູ່ມື, ຄຳແນະນຳ ແລະ ລີວິວ",
+      "twitterDescription": "ຄູ່ມືນັກທ່ອງທ່ຽວ, ຄຳແນະນຳ ແລະ ລີວິວສຳລັບສວນນ້ຳ Aquaverse ພັດທະຍາ.",
+      "breadcrumbName": "ບລັອກ",
+      "h1": "ບລັອກ Aquaverse",
+      "h1Sub": "ຄູ່ມືນັກທ່ອງທ່ຽວ, ຄຳແນະນຳການເດີນທາງ, ລີວິວຈິງ ແລະ ທຸກຢ່າງທີ່ທ່ານຕ້ອງການເພື່ອວາງແຜນວັນທີ່ສົມບູນແບບທີ່ Columbia Pictures Aquaverse ພັດທະຍາ.",
+      "overview": "",
+      "cta": {
+        "h2": "ວາງແຜນການໄປຢ້ຽມຢາມ Aquaverse ຂອງທ່ານ",
+        "text": "ຈອງປີ້ອອນລາຍແລ້ວປະຢັດສູງສຸດ 27% ຈາກລາຄາໜ້າປະຕູ. ເຊົ່າຕູ້ເກັບຂອງຟຣີທຸກການຈອງອອນລາຍ.",
+        "button": "ຈອງປີ້ Aquaverse &mdash; ເລີ່ມຕົ້ນ THB 1,176 &rarr;"
+      },
+      "cards": [
+        {
+          "slug": "aquaverse-vs-ramayana",
+          "category": "ປຽບທຽບ",
+          "title": "Aquaverse vs Ramayana 2026: ສວນນ້ຳໃດທີ່ພັດທະຍາທີ່ທ່ານຄວນໄປ?",
+          "description": "ປຽບທຽບແບບຄຽງຂ້າງກັນຂອງສວນນ້ຳທີ່ດີທີ່ສຸດ 2 ແຫ່ງໃນພັດທະຍາ. ພວກເຮົາປຽບທຽບລາຄາປີ້, ເຄື່ອງຫຼິ້ນ, ໂຊນ, ພື້ນທີ່ເດັກ, ອາຫານ ແລະ ໃຫ້ຄຳຕັດສິນທີ່ຈິງໃຈ."
+        },
+        {
+          "slug": "why-visit-pattaya",
+          "category": "ຄູ່ມືພັດທະຍາ",
+          "title": "ເປັນຫຍັງຕ້ອງໄປພັດທະຍາ? 10 ເຫດຜົນໃນປີ 2026",
+          "description": "ຄົ້ນພົບ 10 ເຫດຜົນອັນດັບຕົ້ນໃນການໄປພັດທະຍາໃນປີ 2026 ສວນນ້ຳລະດັບໂລກ, ຫາດຊາຍທີ່ສວຍງາມ, ອາຫານລາຄາຖືກ ແລະ ວັດທະນະທຳທີ່ມີຊີວິດຊີວາ."
+        },
+        {
+          "slug": "aquaverse-with-kids",
+          "category": "ຄູ່ມືຄອບຄົວ",
+          "title": "Aquaverse ໄປກັບເດັກນ້ອຍ: ຄູ່ມືຄອບຄົວສົມບູນ (2026)",
+          "description": "ທຸກຢ່າງທີ່ພໍ່ແມ່ຕ້ອງຮູ້ກ່ຽວກັບການໄປ Aquaverse ກັບເດັກນ້ອຍ. ໂຊນທີ່ເໝາະສົມກັບອາຍຸ, ຂໍ້ຈຳກັດຄວາມສູງ, ສິ່ງທີ່ຄວນນຳ, ອາຫານ ແລະ ກົນລະຍຸດການໄປຢ້ຽມຢາມ."
+        },
+        {
+          "slug": "how-to-get-to-aquaverse-from-bangkok",
+          "category": "ຄູ່ມືການເດີນທາງ",
+          "title": "ວິທີໄປ Aquaverse ຈາກບາງກອກ: ທຸກທາງເລືອກການເດີນທາງ (2026)",
+          "description": "7 ວິທີໄປຈາກບາງກອກຫາ Aquaverse ພ້ອມຄຳແນະນຳທີລະຂັ້ນ. ຂັບລົດ, ລົດບັສ, ລົດຕູ້, Grab, ຈາກສະໜາມບິນ ແລະ ທົວຈັດ. ຄ່າໃຊ້ຈ່າຍ, ເວລາ ແລະ ເຄັດລັບ."
+        },
+        {
+          "slug": "aquaverse-ticket-prices",
+          "category": "ປີ້",
+          "title": "ລາຄາປີ້ Aquaverse 2026: ວິທີໄດ້ລາຄາທີ່ດີທີ່ສຸດ",
+          "description": "ລາຍລະອຽດລາຄາປີ້ Aquaverse ສົມບູນສຳລັບປີ 2026. ປຽບທຽບລາຄາໜ້າປະຕູ vs ອອນລາຍ, ປີ້ຊຸດ, ສ່ວນຫຼຸດເດັກ ແລະ ບ່ອນຊື້ປີ້ລາຄາຖືກທີ່ສຸດ."
+        },
+        {
+          "slug": "aquaverse-review",
+          "category": "ລີວິວ",
+          "title": "ລີວິວຈິງ Aquaverse: ຄຸ້ມຄ່າບໍທີ່ຈະໄປໃນປີ 2026?",
+          "description": "ລີວິວຈິງຂອງ Aquaverse ຫຼັງຈາກໄປຫຼາຍຄັ້ງ. ສິ່ງທີ່ເຮົາມັກ, ສິ່ງທີ່ຜິດຫວັງ ແລະ ມັນຄຸ້ມຄ່າກັບ hype ບໍ. ຄະແນນສຳລັບເຄື່ອງຫຼິ້ນ, ທີມ, ອາຫານ ແລະ ອື່ນໆ."
+        },
+        {
+          "slug": "best-hotels-near-aquaverse",
+          "category": "ໂຮງແຮມ",
+          "title": "8 ໂຮງແຮມທີ່ດີທີ່ສຸດໃກ້ Aquaverse ພັດທະຍາ (2026)",
+          "description": "ໂຮງແຮມທີ່ຄະແນນດີທີ່ສຸດພາຍໃນ 15 ນາທີຈາກ Aquaverse ສຳລັບທຸກງົບປະມານ. ລີສອດລະດັບຫຼູ, ລະດັບກາງເໝາະກັບຄອບຄົວ ແລະ ລາຄາປະຢັດ."
+        },
+        {
+          "slug": "aquaverse-food-guide",
+          "category": "ອາຫານ",
+          "title": "ຄູ່ມືອາຫານ Aquaverse: ກິນບ່ອນໃດ ແລະ ລາຄາ (2026)",
+          "description": "ຄູ່ມືສົມບູນສຳລັບອາຫານຢູ່ Aquaverse. ທຸກຮ້ານອາຫານ, ສູນອາຫານ ແລະ ຮ້ານຂາຍເຄື່ອງວ່າງ ພ້ອມລາຄາ. ເຄັດລັບສາຍແຂນ RFID, ເມນູແນະນຳ ແລະ ວິທີປະຢັດ."
+        },
+        {
+          "slug": "pattaya-itinerary-aquaverse",
+          "category": "ແຜນການເດີນທາງ",
+          "title": "ແຜນການເດີນທາງພັດທະຍາກັບ Aquaverse: 3 ແຜນວັນທີ່ສົມບູນແບບ (2026)",
+          "description": "3 ແຜນການເດີນທາງທີ່ກຽມພ້ອມ ລວມ Aquaverse ກັບສະຖານທີ່ທ່ອງທ່ຽວທີ່ດີທີ່ສຸດຂອງພັດທະຍາ. ໝົດມື້ຢູ່ສວນ, Aquaverse + Nong Nooch ແລະ ທ່ຽວ 2 ວັນ. ງົບ, ເວລາ ແລະ ຄຳແນະນຳ."
+        },
+        {
+          "slug": "pattaya-water-parks",
+          "category": "ສວນນ້ຳ",
+          "title": "ປຽບທຽບສວນນ້ຳພັດທະຍາ (2026)",
+          "description": "ປຽບທຽບສວນນ້ຳທີ່ດີທີ່ສຸດໃນພັດທະຍາ: Aquaverse, Ramayana ແລະ ອື່ນໆ. ລາຄາ, ເຄື່ອງຫຼິ້ນ, ຂໍ້ດີ ແລະ ຂໍ້ເສຍ."
+        },
+        {
+          "slug": "pattaya-kids-activities",
+          "category": "ຄູ່ມືຄອບຄົວ",
+          "title": "10 ກິດຈະກຳທີ່ດີທີ່ສຸດສຳລັບເດັກນ້ອຍໃນພັດທະຍາ (2026)",
+          "description": "ກິດຈະກຳທີ່ດີທີ່ສຸດກັບເດັກນ້ອຍໃນພັດທະຍາ. ສວນນ້ຳ, ອະຄວາລຽມ, ມິນິກອຟ ແລະ ສະຖານທີ່ເໝາະກັບຄອບຄົວ ພ້ອມລາຄາ ແລະ ຄຳແນະນຳ."
+        },
+        {
+          "slug": "pattaya-couples-guide",
+          "category": "ຄູ່ມືຄູ່ຮັກ",
+          "title": "ພັດທະຍາສຳລັບຄູ່ຮັກ: ກິດຈະກຳໂຣແມນຕິກ &amp; ຄຳແນະນຳ",
+          "description": "ວາງແຜນວັນພັກໂຣແມນຕິກທີ່ສົມບູນແບບໃນພັດທະຍາ. ອາຫານຄ່ຳຍາມພະອາທິດຕົກ, ສະປາຄູ່, ທ່ຽວເກາະ ແລະ ປະສົບການທີ່ດີທີ່ສຸດສຳລັບສອງຄົນ."
+        },
+        {
+          "slug": "pattaya-solo-travel",
+          "category": "ທ່ຽວຄົນດຽວ",
+          "title": "ທ່ຽວພັດທະຍາຄົນດຽວ: ຄູ່ມືນັກທ່ອງທ່ຽວດ່ຽວ (2026)",
+          "description": "ທຸກຢ່າງທີ່ນັກທ່ອງທ່ຽວດ່ຽວຕ້ອງຮູ້ກ່ຽວກັບພັດທະຍາ. ຄຳແນະນຳຄວາມປອດໄພ, ການວາງງົບ, ບ່ອນພົບປະຄົນ ແລະ ກິດຈະກຳທີ່ດີທີ່ສຸດສຳລັບຄົນດຽວ."
+        },
+        {
+          "slug": "pattaya-seniors-guide",
+          "category": "ຄູ່ມືຜູ້ສູງອາຍຸ",
+          "title": "ພັດທະຍາສຳລັບຜູ້ສູງອາຍຸ: ກິດຈະກຳສະບາຍໆ &amp; ຄຳແນະນຳ",
+          "description": "ຄູ່ມືການເດີນທາງສະບາຍໆສຳລັບຜູ້ສູງອາຍຸໃນພັດທະຍາ. ສະຖານທີ່ທີ່ເຂົ້າເຖິງງ່າຍ, ໂຮງແຮມສະດວກສະບາຍ, ຄຳແນະນຳສຸຂະພາບ ແລະ ເສັ້ນທາງທີ່ສະຫງົບ."
+        },
+        {
+          "slug": "best-things-to-do-pattaya",
+          "category": "ຄູ່ມືພັດທະຍາ",
+          "title": "15 ກິດຈະກຳທີ່ດີທີ່ສຸດໃນພັດທະຍາ (2026)",
+          "description": "ລາຍການສຸດທ້າຍຂອງ 15 ກິດຈະກຳທີ່ດີທີ່ສຸດໃນພັດທະຍາ. ວັດ, ຫາດຊາຍ, ສວນນ້ຳ, ຕະຫຼາດ ແລະ ສະຖານທີ່ລັບສຳລັບທຸກປະເພດນັກທ່ອງທ່ຽວ."
+        }
+      ]
+    }
   }
 }
