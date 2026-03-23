@@ -1494,5 +1494,179 @@
         }
       ]
     }
+  },
+  "tickets": {
+    "title": "Beli Tiket Aquaverse Online | Jimat ~26% vs Harga Pintu | Tempah Sekarang 2026",
+    "metaDescription": "Tempah tiket Aquaverse Pattaya dalam talian dari THB 1,176 (pintu THB 1,595). Pengesahan segera, pembatalan percuma, loker disertakan. Bandingkan pakej Standard, Kombo &amp; All-Inclusive. Kanak-kanak 0-2 percuma.",
+    "metaKeywords": "tiket Aquaverse, harga tiket Aquaverse, tiket Aquaverse Pattaya, tiket Columbia Pictures Aquaverse, tempahan dalam talian Aquaverse, diskaun Aquaverse, all-inclusive Aquaverse, loker Aquaverse, harga tiket kanak-kanak Aquaverse",
+    "ogTitle": "Harga Tiket Aquaverse 2026 | Jimat ~26% Online",
+    "ogDescription": "Tiket Aquaverse dari THB 1,176 dalam talian (harga pintu THB 1,595). Jimat ~26%, pembatalan percuma, loker disertakan. Kanak-kanak bawah 3 tahun percuma.",
+    "twitterTitle": "Harga Tiket Aquaverse 2026 | Jimat ~26% Online",
+    "twitterDescription": "Tiket Aquaverse dari THB 1,176 dalam talian (harga pintu THB 1,595). Jimat ~26%, pembatalan percuma, loker disertakan.",
+    "hero": {
+      "badge": "Tiket &amp; Harga",
+      "h1": "Harga Tiket Aquaverse 2026",
+      "h1Sub": "Jimat ~27% Dengan Tempahan Online",
+      "sub": "Langkau giliran di pintu dan jimat besar. Tiket dalam talian bermula dari hanya THB 1,176 setiap orang\n        dengan sewaan loker percuma disertakan. Kanak-kanak bawah 3 tahun masuk percuma.",
+      "cta1": "Tempah Tiket Diskaun &rarr;",
+      "cta2": "Lihat Semua Pilihan",
+      "stats": [
+        {
+          "number": "THB 1,176",
+          "label": "Harga Online"
+        },
+        {
+          "number": "26%",
+          "label": "Penjimatan Maks"
+        },
+        {
+          "number": "Percuma",
+          "label": "Bawah 3 Tahun"
+        },
+        {
+          "number": "Segera",
+          "label": "E-Tiket"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "",
+    "tldr": [
+      {
+        "bold": "Harga pintu:",
+        "text": "THB 1,595 setiap orang (~$49 USD)"
+      },
+      {
+        "bold": "Harga dalam talian:",
+        "text": "Dari THB 1,176 setiap orang (~$36 USD) &mdash; jimat sehingga 27%"
+      },
+      {
+        "bold": "Kanak-kanak bawah 3 tahun:",
+        "text": "Masuk PERCUMA"
+      },
+      {
+        "bold": "Tiket dalam talian termasuk:",
+        "text": "Sewaan loker sehari penuh (bernilai THB 300)"
+      },
+      {
+        "bold": "Go-kart &amp; mini golf:",
+        "text": "Tersedia dengan kos tambahan di dalam taman"
+      },
+      {
+        "bold": "Pembatalan:",
+        "text": "Pembatalan percuma tersedia untuk kebanyakan tempahan dalam talian"
+      }
+    ],
+    "ticketOptions": {
+      "sectionLabel": "Bandingkan Pilihan",
+      "heading": "Semua Jenis Tiket Aquaverse",
+      "description": "Pilih tiket yang sesuai dengan bajet dan tahap pengalaman anda. Semua pilihan termasuk akses penuh ke tarikan air.",
+      "tableHeaders": [
+        "Jenis Tiket",
+        "Harga Pintu",
+        "Harga Online",
+        "Apa Yang Disertakan"
+      ],
+      "tableRows": [
+        {
+          "name": "Kemasukan Standard",
+          "included": "Semua wahana air, kolam ombak, sungai malas, loker"
+        },
+        {
+          "name": "Pakej All-Inclusive",
+          "included": "Semua wahana air + kupon makanan 200 THB + 1 sesi luncur"
+        }
+      ],
+      "tableFootnote": "Kanak-kanak berumur 0-2 masuk percuma dengan semua jenis tiket &bull; Harga adalah setiap orang",
+      "cta": "Tempah Online &amp; Jimat 27% &rarr;"
+    },
+    "pricingCards": {
+      "sectionLabel": "Nilai Terbaik",
+      "heading": "Pilihan Tiket Paling Popular",
+      "description": "Tiket terlaris kami untuk pengunjung Aquaverse. Semua termasuk pengesahan e-tiket segera.",
+      "cards": [
+        {
+          "h3": "Harga Pintu",
+          "period": "~$49 USD setiap orang",
+          "features": [
+            "Semua tarikan air disertakan",
+            "Loker TIDAK disertakan (tambahan THB 1,595)",
+            "Tertakluk kepada ketersediaan",
+            "Tiada keutamaan giliran"
+          ],
+          "cta": "Masuk Terus Sahaja"
+        },
+        {
+          "h3": "Tiket Tempahan Awal Online",
+          "period": "~$36 USD setiap orang &mdash; Jimat 27%!",
+          "features": [
+            "Semua tarikan air disertakan",
+            "Sewaan loker DISERTAKAN",
+            "Pengesahan e-tiket segera",
+            "Pembatalan percuma tersedia",
+            "Langkau giliran tiket"
+          ],
+          "cta": "Tempah Sekarang &mdash; Jimat 27% &rarr;"
+        },
+        {
+          "h3": "Pakej All-Inclusive",
+          "period": "~$48 USD setiap orang",
+          "features": [
+            "Semua tarikan air disertakan",
+            "Kupon makanan &amp; minuman 200 THB",
+            "1 sesi luncur FlowRider",
+            "Sewaan loker disertakan",
+            "Pengesahan e-tiket segera"
+          ],
+          "cta": "Tempah All-Inclusive &rarr;"
+        }
+      ]
+    },
+    "addons": {},
+    "howToBook": {},
+    "cancellation": {},
+    "savingsTips": {},
+    "cta1": {
+      "heading": "Bersedia untuk Melawati Aquaverse?",
+      "text": "Tempah tiket anda dalam talian dan jimat sehingga 27%. Pengesahan segera, pembatalan percuma untuk kebanyakan tempahan, dan kemasukan langkau giliran.",
+      "button": "Tempah Tiket Diskaun Sekarang &rarr;",
+      "subtextPrefix": "Tawaran hari ini tamat dalam"
+    },
+    "faq": {
+      "sectionLabel": "Soalan Lazim",
+      "heading": "Soalan Tentang Tiket &amp; Harga",
+      "description": "Soalan biasa tentang tiket, harga, dan apa yang disertakan di Aquaverse.",
+      "items": [
+        {
+          "question": "Adakah loker disertakan dengan tiket Aquaverse?",
+          "answer": "<p><strong>Ya, tiket tempahan awal dalam talian termasuk sewaan loker sehari penuh tanpa kos tambahan.</strong> Jika anda membeli tiket di pintu, sewaan loker adalah tambahan <strong>THB 300</strong> sehari.</p>\n                <p>Tempahan dalam talian menjimatkan ~26% daripada harga pintu dan termasuk loker &mdash; ia sentiasa berbaloi untuk membeli tiket terlebih dahulu.</p>"
+        },
+        {
+          "question": "Adakah tuala disediakan di Aquaverse?",
+          "answer": "<p>Tuala <strong>tidak disertakan</strong> dengan tiket standard. Anda boleh menyewa tuala di taman seharga <strong>THB 107</strong> ditambah <strong>deposit boleh dikembalikan THB 300</strong> (dikembalikan apabila anda memulangkan tuala).</p>\n                <p><strong>Tip:</strong> Tuala tidak disertakan dengan mana-mana tiket. Bawa tuala sendiri untuk menjimatkan wang, atau sewa satu di taman seharga THB 107.</p>"
+        },
+        {
+          "question": "Adakah pakaian renang dijual di Aquaverse?",
+          "answer": "<p><strong>Ya.</strong> Aquaverse mempunyai kedai runcit di dalam taman di mana anda boleh membeli pakaian renang, gogal, pelindung matahari, kes telefon kalis air, dan aksesori renang lain.</p>\n                <p>Walau bagaimanapun, harga adalah lebih tinggi daripada kedai luar, jadi kami mengesyorkan membawa pakaian renang sendiri untuk menjimatkan wang.</p>"
+        },
+        {
+          "question": "Bolehkah saya mendapat bayaran balik untuk tiket Aquaverse?",
+          "answer": "<p><strong>Ya, pembatalan percuma</strong> tersedia untuk kebanyakan tempahan tiket dalam talian. Semak polisi pembatalan khusus semasa tempahan anda untuk syarat dan tarikh akhir yang tepat.</p>\n                <p>Bayaran balik biasanya diproses dalam 5&ndash;10 hari perniagaan kembali ke kaedah pembayaran asal anda.</p>"
+        },
+        {
+          "question": "Adakah terdapat harga tiket kanak-kanak di Aquaverse?",
+          "answer": "<p>Kanak-kanak bawah <strong>3 tahun masuk percuma</strong>. Untuk kanak-kanak berumur 3&ndash;12 tahun dan warga emas 65+, beberapa sumber menunjukkan harga pintu diskaun <strong>THB 1,290</strong> (berbanding THB 1,590 untuk dewasa). Tempahan dalam talian biasanya menggunakan satu harga untuk semua umur (3+).</p>\n                <p><strong>Tip:</strong> Tempah dalam talian untuk mendapatkan harga terbaik tanpa mengira umur. Tiket tempahan awal dalam talian bermula dari THB 1,176 setiap orang.</p>"
+        },
+        {
+          "question": "Apakah kaedah pembayaran yang diterima untuk tempahan dalam talian?",
+          "answer": "<p>Tempahan dalam talian biasanya menerima <strong>kad kredit</strong> (Visa, Mastercard, AMEX), <strong>PayPal</strong>, dan pelbagai <strong>kaedah pembayaran tempatan</strong> bergantung pada platform tempahan.</p>\n                <p>Di pintu taman, tunai (Baht Thailand) dan kad kredit diterima. Taman juga menggunakan sistem gelang tangan RFID tanpa tunai untuk pembelian di dalam taman.</p>"
+        }
+      ],
+      "viewAll": "Lihat Semua Soalan Lazim &rarr;"
+    },
+    "priceGuide": {},
+    "cta2": {},
+    "schema": {
+      "breadcrumbCurrent": ""
+    }
   }
 }

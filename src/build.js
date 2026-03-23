@@ -46,6 +46,10 @@ const PAGE_CONFIGS = {
     template: 'pages/attractions.njk',
     slug: 'attractions.html',
   },
+  tickets: {
+    template: 'pages/tickets.njk',
+    slug: 'tickets.html',
+  },
 };
 
 // Load home page data (non-translatable)
@@ -159,6 +163,8 @@ function buildPage(pageKey, pageConfig) {
   const standardPkg = prices.packages.find(p => p.id === 'standard-admission') || prices.packages[0];
   const stickyPrice = standardPkg.priceTHB;
   const stickyOriginalPrice = standardPkg.gatePrice || 1595;
+  const allInclusivePkg = prices.packages.find(p => p.id === 'admission-food-surf') || prices.packages[1];
+  const allInclusivePrice = allInclusivePkg.priceTHB;
 
   let built = 0;
 
@@ -184,6 +190,11 @@ function buildPage(pageKey, pageConfig) {
       schemaAttractionsFaq = buildHomeFaqSchema(t.attractions.faq.items);
     }
 
+    let schemaTicketsFaq = null;
+    if (pageKey === 'tickets' && t.tickets && t.tickets.faq && t.tickets.faq.items) {
+      schemaTicketsFaq = buildHomeFaqSchema(t.tickets.faq.items);
+    }
+
     const context = {
       site: SITE,
       lang,
@@ -199,6 +210,10 @@ function buildPage(pageKey, pageConfig) {
       stickyOriginalPrice,
       stickyPriceFormatted: formatNumber(stickyPrice),
       stickyOriginalPriceFormatted: formatNumber(stickyOriginalPrice),
+      allInclusivePrice,
+      allInclusivePriceFormatted: formatNumber(allInclusivePrice),
+      savingsPercent: Math.round((1 - stickyPrice / stickyOriginalPrice) * 100),
+      schemaTicketsFaq,
       footerGuidesSlugs: FOOTER_GUIDES_SLUGS,
     };
 

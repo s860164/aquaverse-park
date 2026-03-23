@@ -1494,5 +1494,179 @@
         }
       ]
     }
+  },
+  "tickets": {
+    "title": "線上購買 Aquaverse 門票 | 比門市省~26% | 立即預訂 2026",
+    "metaDescription": "線上預訂 Aquaverse 芭提雅門票，最低 THB 1,176（門市價 THB 1,595）。即時確認、免費取消、含置物櫃。比較標準票、組合票與全包套餐。0-2歲兒童免費入場。",
+    "metaKeywords": "Aquaverse門票, Aquaverse票價, Aquaverse芭提雅門票, Columbia Pictures Aquaverse門票, Aquaverse線上預訂, Aquaverse優惠, Aquaverse全包套餐, Aquaverse置物櫃, Aquaverse兒童票價",
+    "ogTitle": "Aquaverse 2026 門票票價 | 線上省~26%",
+    "ogDescription": "線上預訂 Aquaverse 門票最低 THB 1,176（門市價 THB 1,595）。省~26%、免費取消、含置物櫃。3歲以下兒童免費入場。",
+    "twitterTitle": "Aquaverse 2026 門票票價 | 線上省~26%",
+    "twitterDescription": "線上預訂 Aquaverse 門票最低 THB 1,176（門市價 THB 1,595）。省~26%、免費取消、含置物櫃。",
+    "hero": {
+      "badge": "門票與票價",
+      "h1": "Aquaverse 2026 門票票價",
+      "h1Sub": "線上預訂省~27%",
+      "sub": "免排隊、省大錢。線上門票每人最低僅 THB 1,176，含免費置物櫃租借。3歲以下兒童免費入場。",
+      "cta1": "立即購買優惠門票 &rarr;",
+      "cta2": "查看所有選項",
+      "stats": [
+        {
+          "number": "THB 1,176",
+          "label": "線上票價"
+        },
+        {
+          "number": "26%",
+          "label": "最高節省"
+        },
+        {
+          "number": "免費",
+          "label": "3歲以下"
+        },
+        {
+          "number": "即時",
+          "label": "電子票"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "",
+    "tldr": [
+      {
+        "bold": "門市票價：",
+        "text": "每人 THB 1,595（約 $49 美元）"
+      },
+      {
+        "bold": "線上票價：",
+        "text": "每人最低 THB 1,176（約 $36 美元）&mdash; 最高省 27%"
+      },
+      {
+        "bold": "3歲以下兒童：",
+        "text": "免費入場"
+      },
+      {
+        "bold": "線上票包含：",
+        "text": "全日置物櫃租借（價值 THB 300）"
+      },
+      {
+        "bold": "卡丁車和迷你高爾夫：",
+        "text": "需在園內額外付費"
+      },
+      {
+        "bold": "取消政策：",
+        "text": "大多數線上訂單可免費取消"
+      }
+    ],
+    "ticketOptions": {
+      "sectionLabel": "比較選項",
+      "heading": "所有 Aquaverse 門票類型",
+      "description": "選擇最適合您預算和體驗需求的門票。所有票種均含水上遊樂設施全區通行。",
+      "tableHeaders": [
+        "門票類型",
+        "門市價格",
+        "線上價格",
+        "包含內容"
+      ],
+      "tableRows": [
+        {
+          "name": "標準入場票",
+          "included": "全部水上滑道、造浪池、漂流河、置物櫃"
+        },
+        {
+          "name": "全包套餐",
+          "included": "全部水上滑道 + 200 THB 餐飲抵用券 + 1次衝浪體驗"
+        }
+      ],
+      "tableFootnote": "所有票種 0-2 歲兒童免費入場 &bull; 以上為每人票價",
+      "cta": "線上預訂省 27% &rarr;"
+    },
+    "pricingCards": {
+      "sectionLabel": "超值首選",
+      "heading": "最熱門門票選項",
+      "description": "最受遊客歡迎的票種，全部提供即時電子票確認。",
+      "cards": [
+        {
+          "h3": "門市票價",
+          "period": "每人約 $49 美元",
+          "features": [
+            "包含全部水上遊樂設施",
+            "不含置物櫃（需額外 THB 1,595）",
+            "視當日餘位而定",
+            "無優先入場"
+          ],
+          "cta": "現場購票"
+        },
+        {
+          "h3": "線上預購票",
+          "period": "每人約 $36 美元 &mdash; 省 27%！",
+          "features": [
+            "包含全部水上遊樂設施",
+            "含置物櫃租借",
+            "即時電子票確認",
+            "可免費取消",
+            "免排隊購票"
+          ],
+          "cta": "立即預訂 &mdash; 省 27% &rarr;"
+        },
+        {
+          "h3": "全包套餐",
+          "period": "每人約 $48 美元",
+          "features": [
+            "包含全部水上遊樂設施",
+            "200 THB 餐飲抵用券",
+            "1次 FlowRider 衝浪體驗",
+            "含置物櫃租借",
+            "即時電子票確認"
+          ],
+          "cta": "預訂全包套餐 &rarr;"
+        }
+      ]
+    },
+    "addons": {},
+    "howToBook": {},
+    "cancellation": {},
+    "savingsTips": {},
+    "cta1": {
+      "heading": "準備好暢遊 Aquaverse 了嗎？",
+      "text": "線上預訂門票最高省27%。即時確認、大多數訂單可免費取消，並可免排隊直接入場。",
+      "button": "立即預訂優惠門票 &rarr;",
+      "subtextPrefix": "今日優惠將在"
+    },
+    "faq": {
+      "sectionLabel": "常見問題",
+      "heading": "門票與票價常見問題",
+      "description": "關於 Aquaverse 門票、票價及包含內容的常見問題。",
+      "items": [
+        {
+          "question": "Aquaverse 門票有含置物櫃嗎？",
+          "answer": "<p><strong>有的，線上預購門票含全日置物櫃租借，免額外費用。</strong>若在門市購票，租借置物櫃需額外支付 <strong>THB 300</strong>。</p>\n                <p>線上預訂可省門市價約26%，並附贈置物櫃 &mdash; 提前購票絕對划算。</p>"
+        },
+        {
+          "question": "Aquaverse 有提供毛巾嗎？",
+          "answer": "<p>標準門票<strong>不含毛巾</strong>。您可在園內租借毛巾，費用為 <strong>THB 107</strong>，另需支付 <strong>THB 300 押金</strong>（歸還毛巾時退還）。</p>\n                <p><strong>小提示：</strong>任何票種均不含毛巾。建議自備毛巾節省費用，或在園內以 THB 107 租借。</p>"
+        },
+        {
+          "question": "Aquaverse 園內有賣泳衣嗎？",
+          "answer": "<p><strong>有的。</strong>Aquaverse 園內設有零售商店，可購買泳衣、蛙鏡、防曬乳、防水手機套及其他游泳配件。</p>\n                <p>不過，園內商品價格高於園外，建議自備泳衣以節省費用。</p>"
+        },
+        {
+          "question": "Aquaverse 門票可以退款嗎？",
+          "answer": "<p><strong>可以，大多數線上購票訂單可免費取消。</strong>請在購票時確認具體取消政策，了解詳細條款和截止期限。</p>\n                <p>退款通常在5&ndash;10個工作日內退回原始付款方式。</p>"
+        },
+        {
+          "question": "Aquaverse 有兒童票價嗎？",
+          "answer": "<p><strong>3歲以下兒童免費入場</strong>。3&ndash;12歲兒童及65歲以上長者，部分資料顯示門市優惠票價為 <strong>THB 1,290</strong>（成人票 THB 1,590）。線上購票通常適用單一票價（3歲以上）。</p>\n                <p><strong>小提示：</strong>線上預訂可獲得最優惠票價，不分年齡。線上預購票每人最低 THB 1,176 起。</p>"
+        },
+        {
+          "question": "線上預訂接受哪些付款方式？",
+          "answer": "<p>線上預訂通常接受<strong>信用卡</strong>（Visa、Mastercard、AMEX）、<strong>PayPal</strong>及各種<strong>當地支付方式</strong>，視訂票平台而定。</p>\n                <p>園區門市接受現金（泰銖）和信用卡。園內消費則採用無現金 RFID 手環系統。</p>"
+        }
+      ],
+      "viewAll": "查看所有常見問題 &rarr;"
+    },
+    "priceGuide": {},
+    "cta2": {},
+    "schema": {
+      "breadcrumbCurrent": ""
+    }
   }
 }

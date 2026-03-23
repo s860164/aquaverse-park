@@ -1494,5 +1494,179 @@
         }
       ]
     }
+  },
+  "tickets": {
+    "title": "Mua Vé Aquaverse Online | Tiết Kiệm ~26% So Với Giá Tại Cổng | Đặt Ngay 2026",
+    "metaDescription": "Đặt vé Aquaverse Pattaya online từ THB 1.176 (giá tại cổng THB 1.595). Xác nhận tức thì, hủy miễn phí, bao gồm tủ khóa. So sánh gói Tiêu Chuẩn, Combo & Tất Cả Bao Gồm. Trẻ em 0-2 tuổi miễn phí.",
+    "metaKeywords": "vé Aquaverse, giá vé Aquaverse, vé Aquaverse Pattaya, vé Columbia Pictures Aquaverse, đặt vé Aquaverse online, giảm giá Aquaverse, Aquaverse tất cả bao gồm, tủ khóa Aquaverse, giá vé trẻ em Aquaverse",
+    "ogTitle": "Giá Vé Aquaverse 2026 | Tiết Kiệm ~26% Khi Đặt Online",
+    "ogDescription": "Vé Aquaverse từ THB 1.176 online (giá tại cổng THB 1.595). Tiết kiệm ~26%, hủy miễn phí, bao gồm tủ khóa. Trẻ em dưới 3 tuổi miễn phí.",
+    "twitterTitle": "Giá Vé Aquaverse 2026 | Tiết Kiệm ~26% Khi Đặt Online",
+    "twitterDescription": "Vé Aquaverse từ THB 1.176 online (giá tại cổng THB 1.595). Tiết kiệm ~26%, hủy miễn phí, bao gồm tủ khóa.",
+    "hero": {
+      "badge": "Vé &amp; Giá Cả",
+      "h1": "Giá Vé Aquaverse 2026",
+      "h1Sub": "Tiết Kiệm ~27% Khi Đặt Online",
+      "sub": "Bỏ qua hàng chờ tại cổng và tiết kiệm lớn. Vé online chỉ từ THB 1.176 mỗi người\n        đã bao gồm thuê tủ khóa miễn phí. Trẻ em dưới 3 tuổi vào cửa miễn phí.",
+      "cta1": "Đặt Vé Giảm Giá &rarr;",
+      "cta2": "Xem Tất Cả Lựa Chọn",
+      "stats": [
+        {
+          "number": "THB 1.176",
+          "label": "Giá Online"
+        },
+        {
+          "number": "26%",
+          "label": "Tiết Kiệm Tối Đa"
+        },
+        {
+          "number": "Miễn Phí",
+          "label": "Dưới 3 Tuổi"
+        },
+        {
+          "number": "Tức Thì",
+          "label": "Vé Điện Tử"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "",
+    "tldr": [
+      {
+        "bold": "Giá tại cổng:",
+        "text": "THB 1.595 mỗi người (~$49 USD)"
+      },
+      {
+        "bold": "Giá online:",
+        "text": "Từ THB 1.176 mỗi người (~$36 USD) &mdash; tiết kiệm đến 27%"
+      },
+      {
+        "bold": "Trẻ em dưới 3 tuổi:",
+        "text": "Vào cửa MIỄN PHÍ"
+      },
+      {
+        "bold": "Vé online bao gồm:",
+        "text": "Thuê tủ khóa cả ngày (trị giá THB 300)"
+      },
+      {
+        "bold": "Đua xe go-kart &amp; mini golf:",
+        "text": "Có sẵn với chi phí bổ sung trong công viên"
+      },
+      {
+        "bold": "Hủy vé:",
+        "text": "Hủy miễn phí có sẵn cho hầu hết các vé đặt online"
+      }
+    ],
+    "ticketOptions": {
+      "sectionLabel": "So Sánh Lựa Chọn",
+      "heading": "Tất Cả Loại Vé Aquaverse",
+      "description": "Chọn vé phù hợp với ngân sách và nhu cầu trải nghiệm của bạn. Tất cả các lựa chọn đều bao gồm quyền truy cập đầy đủ vào các trò chơi nước.",
+      "tableHeaders": [
+        "Loại Vé",
+        "Giá Tại Cổng",
+        "Giá Online",
+        "Bao Gồm"
+      ],
+      "tableRows": [
+        {
+          "name": "Vé Vào Cổng Tiêu Chuẩn",
+          "included": "Tất cả trò chơi nước, hồ sóng, sông lười, tủ khóa"
+        },
+        {
+          "name": "Gói Tất Cả Bao Gồm",
+          "included": "Tất cả trò chơi nước + phiếu ăn 200 THB + 1 buổi lướt sóng"
+        }
+      ],
+      "tableFootnote": "Trẻ em từ 0-2 tuổi vào cửa miễn phí với tất cả loại vé &bull; Giá tính theo từng người",
+      "cta": "Đặt Online &amp; Tiết Kiệm 27% &rarr;"
+    },
+    "pricingCards": {
+      "sectionLabel": "Giá Trị Tốt Nhất",
+      "heading": "Các Loại Vé Phổ Biến Nhất",
+      "description": "Những vé bán chạy nhất cho du khách đến Aquaverse. Tất cả đều bao gồm xác nhận vé điện tử tức thì.",
+      "cards": [
+        {
+          "h3": "Giá Tại Cổng",
+          "period": "~$49 USD mỗi người",
+          "features": [
+            "Bao gồm tất cả trò chơi nước",
+            "KHÔNG bao gồm tủ khóa (thêm THB 1.595)",
+            "Tùy theo tình trạng còn vé",
+            "Không ưu tiên hàng chờ"
+          ],
+          "cta": "Chỉ Mua Tại Cổng"
+        },
+        {
+          "h3": "Vé Đặt Trước Online",
+          "period": "~$36 USD mỗi người &mdash; Tiết kiệm 27%!",
+          "features": [
+            "Bao gồm tất cả trò chơi nước",
+            "BẢO GỒM thuê tủ khóa",
+            "Xác nhận vé điện tử tức thì",
+            "Hủy miễn phí",
+            "Bỏ qua hàng chờ mua vé"
+          ],
+          "cta": "Đặt Ngay &mdash; Tiết Kiệm 27% &rarr;"
+        },
+        {
+          "h3": "Gói Tất Cả Bao Gồm",
+          "period": "~$48 USD mỗi người",
+          "features": [
+            "Bao gồm tất cả trò chơi nước",
+            "Phiếu ăn &amp; uống 200 THB",
+            "1 buổi lướt sóng FlowRider",
+            "Bao gồm thuê tủ khóa",
+            "Xác nhận vé điện tử tức thì"
+          ],
+          "cta": "Đặt Gói Tất Cả Bao Gồm &rarr;"
+        }
+      ]
+    },
+    "addons": {},
+    "howToBook": {},
+    "cancellation": {},
+    "savingsTips": {},
+    "cta1": {
+      "heading": "Sẵn Sàng Tham Quan Aquaverse?",
+      "text": "Đặt vé online và tiết kiệm đến 27%. Xác nhận tức thì, hủy miễn phí với hầu hết các vé và vào cửa không cần chờ hàng.",
+      "button": "Đặt Vé Giảm Giá Ngay &rarr;",
+      "subtextPrefix": "Ưu đãi hôm nay hết hạn sau"
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "Câu Hỏi Về Vé &amp; Giá Cả",
+      "description": "Các câu hỏi phổ biến về vé Aquaverse, giá cả và những gì được bao gồm.",
+      "items": [
+        {
+          "question": "Vé Aquaverse có bao gồm tủ khóa không?",
+          "answer": "<p><strong>Có, vé đặt trước online bao gồm thuê tủ khóa cả ngày miễn phí.</strong> Nếu bạn mua vé tại cổng, thuê tủ khóa sẽ tốn thêm <strong>THB 300</strong> mỗi ngày.</p>\n                <p>Đặt vé online tiết kiệm ~26% so với giá tại cổng và bao gồm tủ khóa &mdash; mua vé trước luôn là lựa chọn đáng giá.</p>"
+        },
+        {
+          "question": "Aquaverse có cung cấp khăn tắm không?",
+          "answer": "<p>Khăn tắm <strong>không được bao gồm</strong> trong vé tiêu chuẩn. Bạn có thể thuê khăn tắm tại công viên với giá <strong>THB 107</strong> cộng thêm <strong>tiền đặt cọc hoàn lại THB 300</strong> (hoàn lại khi trả khăn).</p>\n                <p><strong>Mẹo:</strong> Khăn tắm không được bao gồm trong bất kỳ loại vé nào. Hãy mang theo khăn của bạn để tiết kiệm tiền, hoặc thuê tại công viên với giá THB 107.</p>"
+        },
+        {
+          "question": "Có thể mua đồ bơi tại Aquaverse không?",
+          "answer": "<p><strong>Có.</strong> Aquaverse có các cửa hàng bán lẻ trong công viên nơi bạn có thể mua đồ bơi, kính bơi, kem chống nắng, vỏ điện thoại chống nước và các phụ kiện bơi khác.</p>\n                <p>Tuy nhiên, giá tại đây cao hơn so với các cửa hàng bên ngoài, vì vậy chúng tôi khuyên bạn nên mang theo đồ bơi của riêng mình để tiết kiệm tiền.</p>"
+        },
+        {
+          "question": "Tôi có thể hoàn vé Aquaverse không?",
+          "answer": "<p><strong>Có, hủy miễn phí</strong> có sẵn cho hầu hết các vé đặt online. Kiểm tra chính sách hủy cụ thể tại thời điểm đặt vé để biết các điều khoản và thời hạn chính xác.</p>\n                <p>Hoàn tiền thường được xử lý trong vòng 5&ndash;10 ngày làm việc về phương thức thanh toán ban đầu của bạn.</p>"
+        },
+        {
+          "question": "Aquaverse có giá vé trẻ em không?",
+          "answer": "<p>Trẻ em dưới <strong>3 tuổi vào cửa miễn phí</strong>. Đối với trẻ em từ 3&ndash;12 tuổi và người cao tuổi từ 65 tuổi trở lên, một số nguồn cho biết giá tại cổng được giảm là <strong>THB 1.290</strong> (so với THB 1.590 cho người lớn). Đặt vé online thường áp dụng một mức giá cho tất cả mọi lứa tuổi (từ 3 tuổi trở lên).</p>\n                <p><strong>Mẹo:</strong> Đặt online để có giá tốt nhất bất kể độ tuổi. Vé đặt trước online bắt đầu từ THB 1.176 mỗi người.</p>"
+        },
+        {
+          "question": "Những phương thức thanh toán nào được chấp nhận khi đặt vé online?",
+          "answer": "<p>Đặt vé online thường chấp nhận <strong>thẻ tín dụng</strong> (Visa, Mastercard, AMEX), <strong>PayPal</strong> và các <strong>phương thức thanh toán nội địa</strong> tùy thuộc vào nền tảng đặt vé.</p>\n                <p>Tại cổng công viên, tiền mặt (Baht Thái) và thẻ tín dụng được chấp nhận. Công viên cũng sử dụng hệ thống vòng tay RFID không dùng tiền mặt cho các giao dịch trong công viên.</p>"
+        }
+      ],
+      "viewAll": "Xem Tất Cả FAQ &rarr;"
+    },
+    "priceGuide": {},
+    "cta2": {},
+    "schema": {
+      "breadcrumbCurrent": ""
+    }
   }
 }

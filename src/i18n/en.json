@@ -1419,5 +1419,285 @@
         }
       ]
     }
+  },
+  "tickets": {
+    "title": "Buy Aquaverse Tickets Online | Save ~26% vs Gate Price | Book Now 2026",
+    "metaDescription": "Book Aquaverse Pattaya tickets online from THB 1,176 (gate THB 1,595). Instant confirmation, free cancellation, locker included. Compare Standard, Combo &amp; All-Inclusive packages. Children 0-2 free.",
+    "metaKeywords": "Aquaverse tickets, Aquaverse ticket price, Aquaverse Pattaya tickets, Columbia Pictures Aquaverse tickets, Aquaverse online booking, Aquaverse discount, Aquaverse all-inclusive, Aquaverse locker, Aquaverse children price",
+    "ogTitle": "Aquaverse Ticket Prices 2026 | Save ~26% Online",
+    "ogDescription": "Aquaverse tickets from THB 1,176 online (gate price THB 1,595). Save ~26%, free cancellation, locker included. Children under 3 free.",
+    "twitterTitle": "Aquaverse Ticket Prices 2026 | Save ~26% Online",
+    "twitterDescription": "Aquaverse tickets from THB 1,176 online (gate price THB 1,595). Save ~26%, free cancellation, locker included.",
+    "hero": {
+      "badge": "Tickets &amp; Pricing",
+      "h1": "Aquaverse Ticket Prices 2026",
+      "h1Sub": "Save ~27% Booking Online",
+      "sub": "Skip the gate queue and save big. Online tickets start from just THB 1,176 per person\n        with free locker rental included. Children under 3 enter free.",
+      "cta1": "Book Discounted Tickets &rarr;",
+      "cta2": "View All Options",
+      "stats": [
+        {
+          "number": "THB 1,176",
+          "label": "Online Price"
+        },
+        {
+          "number": "26%",
+          "label": "Max Savings"
+        },
+        {
+          "number": "Free",
+          "label": "Under 3s"
+        },
+        {
+          "number": "Instant",
+          "label": "E-Ticket"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "Tickets &amp; Prices",
+    "tldr": [
+      {
+        "bold": "Gate price:",
+        "text": "THB 1,595 per person (~$49 USD)"
+      },
+      {
+        "bold": "Online price:",
+        "text": "From THB 1,176 per person (~$36 USD) &mdash; save up to 26%"
+      },
+      {
+        "bold": "Children under 3:",
+        "text": "FREE admission"
+      },
+      {
+        "bold": "Online tickets include:",
+        "text": "Full-day locker rental (worth THB 300)"
+      },
+      {
+        "bold": "Go-karts &amp; mini golf:",
+        "text": "Available at additional cost inside the park"
+      },
+      {
+        "bold": "Cancellation:",
+        "text": "Free cancellation available on most online bookings"
+      }
+    ],
+    "ticketOptions": {
+      "sectionLabel": "Compare Options",
+      "heading": "All Aquaverse Ticket Types",
+      "description": "Choose the ticket that fits your budget and experience level. All options include full park access to water attractions.",
+      "tableHeaders": [
+        "Ticket Type",
+        "Gate Price",
+        "Online Price",
+        "What's Included"
+      ],
+      "tableRows": [
+        {
+          "name": "Standard Admission",
+          "included": "All water rides, wave pool, lazy river, locker"
+        },
+        {
+          "name": "All-Inclusive Package",
+          "included": "All water rides + 200 THB food coupon + 1 surf session"
+        }
+      ],
+      "tableFootnote": "Children aged 0-2 enter free with all ticket types &bull; Prices are per person",
+      "cta": "Book Online &amp; Save 26% &rarr;"
+    },
+    "pricingCards": {
+      "sectionLabel": "Best Value",
+      "heading": "Most Popular Ticket Options",
+      "description": "Our top-selling tickets for visitors to Aquaverse. All include instant e-ticket confirmation.",
+      "cards": [
+        {
+          "h3": "Gate Price",
+          "period": "~$49 USD per person",
+          "features": [
+            "All water attractions included",
+            "Locker NOT included (THB 1,595 extra)",
+            "Subject to availability",
+            "No queue priority"
+          ],
+          "cta": "Walk-in Only"
+        },
+        {
+          "h3": "Online Advance Ticket",
+          "period": "~$36 USD per person &mdash; Save 26%!",
+          "features": [
+            "All water attractions included",
+            "Locker rental INCLUDED",
+            "Instant e-ticket confirmation",
+            "Free cancellation available",
+            "Skip the ticket queue"
+          ],
+          "cta": "Book Now &mdash; Save 26% &rarr;"
+        },
+        {
+          "h3": "All-Inclusive Package",
+          "period": "~$48 USD per person",
+          "features": [
+            "All water attractions included",
+            "200 THB food &amp; drink coupon",
+            "1 FlowRider surf session",
+            "Locker rental included",
+            "Instant e-ticket confirmation"
+          ],
+          "cta": "Book All-Inclusive &rarr;"
+        }
+      ]
+    },
+    "addons": {
+      "sectionLabel": "Add-Ons",
+      "heading": "Additional Activities &amp; Extras",
+      "description": "These experiences are available at extra cost inside the park and are not included with standard admission.",
+      "items": [
+        {
+          "h3": "Bad Boys Go-Kart",
+          "text": "Race on a Miami-themed go-kart circuit with custom karts and drift bikes. Pay separately at the park &mdash; pricing varies by session."
+        },
+        {
+          "h3": "Emoji Mini Golf",
+          "text": "Fun 9-hole mini golf course inspired by The Emoji Movie. Pay separately at the park &mdash; great for families and groups."
+        },
+        {
+          "h3": "Getting There",
+          "text": "<strong>No official park shuttle bus.</strong> Use Grab (THB 1,595&ndash;500 from Pattaya center), private taxi, or arrange a hotel transfer through a tour operator for an extra charge."
+        },
+        {
+          "h3": "Onsen &amp; Steam Room",
+          "text": "Upgrade to the Admission + Onsen ticket (THB 1,200 online) for access to the Japanese-style onsen and steam room facilities."
+        }
+      ]
+    },
+    "howToBook": {
+      "sectionLabel": "Simple Process",
+      "heading": "How to Book Aquaverse Tickets",
+      "description": "Booking online takes less than 2 minutes via <a href=\"https://www.klook.com/activity/85772-columbia-pictures-aquaverse-admission-ticket/\" rel=\"sponsored noopener\" target=\"_blank\">Klook</a>, the authorized ticket reseller. Here's how it works.",
+      "items": [
+        {
+          "h3": "Book Online",
+          "text": "Select your preferred date and ticket type. Pay securely online with credit card, PayPal, or local payment methods."
+        },
+        {
+          "h3": "Get Instant E-Ticket",
+          "text": "Receive your e-ticket via email immediately after booking. No printing needed &mdash; just save it on your phone."
+        },
+        {
+          "h3": "Show QR Code",
+          "text": "Present your QR code at the Aquaverse entrance. Skip the ticket queue and head straight to the turnstile."
+        },
+        {
+          "h3": "Enjoy the Park!",
+          "text": "Collect your RFID wristband, grab your locker, and start exploring all 9 movie-themed zones."
+        }
+      ],
+      "cta": "Start Booking Now &rarr;"
+    },
+    "cancellation": {
+      "sectionLabel": "Flexible Booking",
+      "heading": "Cancellation Policy",
+      "items": [
+        {
+          "bold": "Free cancellation",
+          "text": "is available on most online ticket bookings"
+        },
+        {
+          "bold": "",
+          "text": "Check the specific cancellation terms at the time of booking"
+        },
+        {
+          "bold": "",
+          "text": "Refunds are typically processed within 5&ndash;10 business days"
+        },
+        {
+          "bold": "",
+          "text": "Same-day cancellations may not be eligible for a full refund"
+        },
+        {
+          "bold": "",
+          "text": "All-Inclusive packages follow the same cancellation terms as standard tickets"
+        }
+      ],
+      "footerNote": "Book with confidence &mdash; plans change, and we understand. Most tickets offer hassle-free cancellation."
+    },
+    "savingsTips": {
+      "sectionLabel": "Save More",
+      "heading": "5 Money-Saving Tips for Aquaverse",
+      "description": "Get the most value from your visit with these insider tips.",
+      "tips": [
+        {
+          "h3": "1. Book Online to Save ~26%",
+          "text": "The biggest savings come from booking in advance online. Standard admission drops from THB 1,595 (gate) to just THB 1,176 online &mdash; and your locker is included free."
+        },
+        {
+          "h3": "2. Visit on Weekdays for Shorter Queues",
+          "text": "Weekdays (especially Monday to Thursday, excluding Wednesday when the park is closed) are significantly less crowded. You'll spend more time on rides and less time waiting."
+        },
+        {
+          "h3": "3. Use the Cashless RFID Wristband System",
+          "text": "Load credit onto your RFID wristband to buy food, drinks, and souvenirs without carrying cash or cards around the water park. Easy to track spending too."
+        },
+        {
+          "h3": "4. Upgrade to All-Inclusive for Best Value",
+          "text": "The All-Inclusive package adds a 200 THB food coupon and a FlowRider surf session for a small premium over the standard ticket. Great value if you plan to eat and surf at the park."
+        },
+        {
+          "h3": "5. Arrive at 10 AM to Maximize Value",
+          "text": "The park opens at 10 AM and closes at 6 PM. Arriving at opening gives you a full 8 hours, shorter queues in the morning, and the best experience for your money."
+        }
+      ],
+      "cta": "Read All Visitor Tips &rarr;"
+    },
+    "cta1": {
+      "heading": "Ready to Visit Aquaverse?",
+      "text": "Book your tickets online and save up to 26%. Instant confirmation, free cancellation on most bookings, and skip-the-queue entry.",
+      "button": "Book Discounted Tickets Now &rarr;",
+      "subtextPrefix": "Today's deal expires in"
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "Ticket &amp; Pricing Questions",
+      "description": "Common questions about Aquaverse tickets, pricing, and what's included.",
+      "items": [
+        {
+          "question": "Is a locker included with Aquaverse tickets?",
+          "answer": "<p><strong>Yes, online advance tickets include a full-day locker rental at no extra cost.</strong> If you buy tickets at the gate, locker rental is an additional <strong>THB 1,595</strong> per day.</p>\n                <p>Booking online saves you ~26% off the gate price and includes the locker — it's always worthwhile to buy tickets in advance.</p>"
+        },
+        {
+          "question": "Are towels provided at Aquaverse?",
+          "answer": "<p>Towels are <strong>not included</strong> with standard tickets. You can rent a towel at the park for <strong>THB 107</strong> plus a <strong>THB 300 refundable deposit</strong> (returned when you hand back the towel).</p>\n                <p><strong>Tip:</strong> Towels are not included with any ticket. Bring your own towel to save money, or rent one at the park for THB 107.</p>"
+        },
+        {
+          "question": "Is swimwear available to buy at Aquaverse?",
+          "answer": "<p><strong>Yes.</strong> Aquaverse has retail shops inside the park where you can purchase swimwear, goggles, sunscreen, waterproof phone cases, and other swim accessories.</p>\n                <p>However, prices are higher than outside shops, so we recommend bringing your own swimwear to save money.</p>"
+        },
+        {
+          "question": "Can I get a refund on Aquaverse tickets?",
+          "answer": "<p><strong>Yes, free cancellation</strong> is available on most online ticket bookings. Check the specific cancellation policy at the time of your booking for exact terms and deadlines.</p>\n                <p>Refunds are typically processed within 5&ndash;10 business days back to your original payment method.</p>"
+        },
+        {
+          "question": "Is there a child ticket price at Aquaverse?",
+          "answer": "<p>Children under <strong>3 years old enter free</strong>. For children aged 3&ndash;12 and seniors 65+, some sources indicate a discounted gate price of <strong>THB 1,290</strong> (vs THB 1,590 for adults). Online booking typically uses a single price for all ages (3+).</p>\n                <p><strong>Tip:</strong> Book online to get the best price regardless of age. Online advance tickets start from THB 1,176 per person.</p>"
+        },
+        {
+          "question": "What payment methods are accepted for online booking?",
+          "answer": "<p>Online bookings typically accept <strong>credit cards</strong> (Visa, Mastercard, AMEX), <strong>PayPal</strong>, and various <strong>local payment methods</strong> depending on the booking platform.</p>\n                <p>At the park gate, cash (Thai Baht) and credit cards are accepted. The park also uses a cashless RFID wristband system for in-park purchases.</p>"
+        }
+      ],
+      "viewAll": "View All FAQs &rarr;"
+    },
+    "priceGuide": {
+      "heading": "Want the Complete Ticket Price Breakdown?",
+      "description": "Our detailed blog guide covers every ticket option, hidden costs, seasonal promotions, and exactly how to get the best deal on Aquaverse tickets in 2026.",
+      "button": "Read Full Ticket Price Guide &rarr;"
+    },
+    "cta2": {
+      "heading": "Don't Pay Full Price at the Gate",
+      "text": "Online tickets save you up to THB 424 per person compared to the gate price. Book now and get instant e-ticket delivery plus free locker rental.",
+      "button": "Get Your Discounted Tickets &rarr;"
+    },
+    "schema": {
+      "breadcrumbCurrent": "Tickets &amp; Prices"
+    }
   }
 }

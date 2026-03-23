@@ -1486,5 +1486,179 @@
         }
       ]
     }
+  },
+  "tickets": {
+    "title": "Acheter des billets Aquaverse en ligne | Économisez ~26% vs prix guichet | Réservez 2026",
+    "metaDescription": "Réservez vos billets Aquaverse Pattaya en ligne à partir de THB 1&nbsp;176 (guichet THB 1&nbsp;595). Confirmation instantanée, annulation gratuite, casier inclus. Comparez les formules Standard, Combo et Tout Inclus. Enfants 0-2 ans gratuits.",
+    "metaKeywords": "billets Aquaverse, prix billets Aquaverse, billets Aquaverse Pattaya, billets Columbia Pictures Aquaverse, réservation en ligne Aquaverse, réduction Aquaverse, tout inclus Aquaverse, casier Aquaverse, tarif enfant Aquaverse",
+    "ogTitle": "Prix des billets Aquaverse 2026 | Économisez ~26% en ligne",
+    "ogDescription": "Billets Aquaverse à partir de THB 1&nbsp;176 en ligne (prix guichet THB 1&nbsp;595). Économisez ~26%, annulation gratuite, casier inclus. Enfants de moins de 3 ans gratuits.",
+    "twitterTitle": "Prix des billets Aquaverse 2026 | Économisez ~26% en ligne",
+    "twitterDescription": "Billets Aquaverse à partir de THB 1&nbsp;176 en ligne (prix guichet THB 1&nbsp;595). Économisez ~26%, annulation gratuite, casier inclus.",
+    "hero": {
+      "badge": "Billets &amp; Tarifs",
+      "h1": "Prix des billets Aquaverse 2026",
+      "h1Sub": "Économisez ~27% en réservant en ligne",
+      "sub": "Évitez la file d'attente au guichet et économisez. Les billets en ligne commencent à partir de THB&nbsp;1&nbsp;176 par personne\n        avec la location de casier gratuite incluse. Les enfants de moins de 3 ans entrent gratuitement.",
+      "cta1": "Réserver des billets à prix réduit &rarr;",
+      "cta2": "Voir toutes les options",
+      "stats": [
+        {
+          "number": "THB 1&nbsp;176",
+          "label": "Prix en ligne"
+        },
+        {
+          "number": "26%",
+          "label": "Économies max"
+        },
+        {
+          "number": "Gratuit",
+          "label": "Moins de 3 ans"
+        },
+        {
+          "number": "Instantané",
+          "label": "Billet électronique"
+        }
+      ]
+    },
+    "breadcrumbCurrent": "",
+    "tldr": [
+      {
+        "bold": "Prix au guichet&nbsp;:",
+        "text": "THB 1&nbsp;595 par personne (~49 USD)"
+      },
+      {
+        "bold": "Prix en ligne&nbsp;:",
+        "text": "À partir de THB 1&nbsp;176 par personne (~36 USD) &mdash; économisez jusqu'à 27%"
+      },
+      {
+        "bold": "Enfants de moins de 3 ans&nbsp;:",
+        "text": "Entrée GRATUITE"
+      },
+      {
+        "bold": "Les billets en ligne incluent&nbsp;:",
+        "text": "Location de casier pour la journée (valeur THB 300)"
+      },
+      {
+        "bold": "Karting &amp; mini-golf&nbsp;:",
+        "text": "Disponibles en supplément à l'intérieur du parc"
+      },
+      {
+        "bold": "Annulation&nbsp;:",
+        "text": "Annulation gratuite disponible sur la plupart des réservations en ligne"
+      }
+    ],
+    "ticketOptions": {
+      "sectionLabel": "Comparer les options",
+      "heading": "Tous les types de billets Aquaverse",
+      "description": "Choisissez le billet qui correspond à votre budget et à votre niveau d'expérience. Toutes les options incluent l'accès complet au parc et aux attractions aquatiques.",
+      "tableHeaders": [
+        "Type de billet",
+        "Prix au guichet",
+        "Prix en ligne",
+        "Ce qui est inclus"
+      ],
+      "tableRows": [
+        {
+          "name": "Entrée standard",
+          "included": "Tous les toboggans, piscine à vagues, rivière tranquille, casier"
+        },
+        {
+          "name": "Formule tout inclus",
+          "included": "Tous les toboggans + bon repas de 200 THB + 1 session de surf"
+        }
+      ],
+      "tableFootnote": "Les enfants de 0 à 2 ans entrent gratuitement avec tous les types de billets &bull; Prix par personne",
+      "cta": "Réserver en ligne &amp; économiser 27% &rarr;"
+    },
+    "pricingCards": {
+      "sectionLabel": "Meilleur rapport qualité-prix",
+      "heading": "Options de billets les plus populaires",
+      "description": "Nos billets les plus vendus pour les visiteurs d'Aquaverse. Tous incluent une confirmation immédiate par billet électronique.",
+      "cards": [
+        {
+          "h3": "Prix au guichet",
+          "period": "~49 USD par personne",
+          "features": [
+            "Toutes les attractions aquatiques incluses",
+            "Casier NON inclus (THB 300 en supplément)",
+            "Soumis à disponibilité",
+            "Pas de priorité aux caisses"
+          ],
+          "cta": "Guichet uniquement"
+        },
+        {
+          "h3": "Billet en ligne à l'avance",
+          "period": "~36 USD par personne &mdash; Économisez 27%&nbsp;!",
+          "features": [
+            "Toutes les attractions aquatiques incluses",
+            "Location de casier INCLUSE",
+            "Confirmation instantanée par billet électronique",
+            "Annulation gratuite disponible",
+            "Passez la file d'attente au guichet"
+          ],
+          "cta": "Réserver maintenant &mdash; Économiser 27% &rarr;"
+        },
+        {
+          "h3": "Formule tout inclus",
+          "period": "~48 USD par personne",
+          "features": [
+            "Toutes les attractions aquatiques incluses",
+            "Bon repas &amp; boissons de 200 THB",
+            "1 session de surf FlowRider",
+            "Location de casier incluse",
+            "Confirmation instantanée par billet électronique"
+          ],
+          "cta": "Réserver tout inclus &rarr;"
+        }
+      ]
+    },
+    "addons": {},
+    "howToBook": {},
+    "cancellation": {},
+    "savingsTips": {},
+    "cta1": {
+      "heading": "Prêt à visiter Aquaverse&nbsp;?",
+      "text": "Réservez vos billets en ligne et économisez jusqu'à 27%. Confirmation instantanée, annulation gratuite sur la plupart des réservations, et entrée sans file d'attente.",
+      "button": "Réserver vos billets à prix réduit maintenant &rarr;",
+      "subtextPrefix": "L'offre du jour expire dans"
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "Questions sur les billets &amp; tarifs",
+      "description": "Questions fréquentes sur les billets Aquaverse, les tarifs et ce qui est inclus.",
+      "items": [
+        {
+          "question": "Un casier est-il inclus avec les billets Aquaverse&nbsp;?",
+          "answer": "<p><strong>Oui, les billets achetés en ligne à l'avance incluent la location d'un casier pour la journée entière sans frais supplémentaires.</strong> Si vous achetez vos billets au guichet, la location du casier est de <strong>THB 300</strong> supplémentaires par jour.</p>\n                <p>Réserver en ligne vous fait économiser ~26% sur le prix du guichet et inclut le casier &mdash; il est toujours conseillé d'acheter ses billets à l'avance.</p>"
+        },
+        {
+          "question": "Des serviettes sont-elles fournies à Aquaverse&nbsp;?",
+          "answer": "<p>Les serviettes <strong>ne sont pas incluses</strong> avec les billets standard. Vous pouvez louer une serviette au parc pour <strong>THB 107</strong> plus un <strong>dépôt remboursable de THB 300</strong> (rendu quand vous rapportez la serviette).</p>\n                <p><strong>Conseil&nbsp;:</strong> Les serviettes ne sont incluses avec aucun billet. Apportez votre propre serviette pour économiser, ou louez-en une au parc pour THB 107.</p>"
+        },
+        {
+          "question": "Peut-on acheter des maillots de bain à Aquaverse&nbsp;?",
+          "answer": "<p><strong>Oui.</strong> Aquaverse dispose de boutiques à l'intérieur du parc où vous pouvez acheter des maillots de bain, des lunettes de natation, de la crème solaire, des étuis imperméables pour téléphone et d'autres accessoires de piscine.</p>\n                <p>Cependant, les prix sont plus élevés qu'en dehors du parc, nous vous recommandons donc d'apporter vos propres affaires pour économiser.</p>"
+        },
+        {
+          "question": "Puis-je obtenir un remboursement sur mes billets Aquaverse&nbsp;?",
+          "answer": "<p><strong>Oui, l'annulation gratuite</strong> est disponible sur la plupart des réservations de billets en ligne. Vérifiez la politique d'annulation spécifique au moment de votre réservation pour les conditions exactes et les délais.</p>\n                <p>Les remboursements sont généralement traités dans un délai de 5 à 10 jours ouvrables sur votre mode de paiement d'origine.</p>"
+        },
+        {
+          "question": "Existe-t-il un tarif enfant à Aquaverse&nbsp;?",
+          "answer": "<p>Les enfants de moins de <strong>3 ans entrent gratuitement</strong>. Pour les enfants de 3 à 12 ans et les personnes de 65 ans et plus, certaines sources indiquent un tarif guichet réduit de <strong>THB 1&nbsp;290</strong> (contre THB 1&nbsp;590 pour les adultes). La réservation en ligne utilise généralement un prix unique pour tous les âges (3 ans et plus).</p>\n                <p><strong>Conseil&nbsp;:</strong> Réservez en ligne pour obtenir le meilleur prix quel que soit l'âge. Les billets en ligne à l'avance commencent à partir de THB 1&nbsp;176 par personne.</p>"
+        },
+        {
+          "question": "Quels modes de paiement sont acceptés pour la réservation en ligne&nbsp;?",
+          "answer": "<p>Les réservations en ligne acceptent généralement les <strong>cartes de crédit</strong> (Visa, Mastercard, AMEX), <strong>PayPal</strong> et divers <strong>modes de paiement locaux</strong> selon la plateforme de réservation.</p>\n                <p>Au guichet du parc, les espèces (bahts thaïlandais) et les cartes de crédit sont acceptés. Le parc utilise également un système de bracelet RFID sans espèces pour les achats à l'intérieur du parc.</p>"
+        }
+      ],
+      "viewAll": "Voir toutes les FAQ &rarr;"
+    },
+    "priceGuide": {},
+    "cta2": {},
+    "schema": {
+      "breadcrumbCurrent": ""
+    }
   }
 }
