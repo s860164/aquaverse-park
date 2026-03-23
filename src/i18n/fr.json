@@ -2307,5 +2307,279 @@
       "button": "Réserver des billets à prix réduit maintenant &rarr;",
       "subtext": "Billets à partir d'environ THB 1&nbsp;200 par personne &bull; Enfants de 0 à 2 ans gratuits"
     }
+  },
+  "blog": {
+    "posts": {
+      "aquaverse-food-guide": {
+        "title": "Guide restauration Aquaverse 2026 : Restaurants, prix et astuces",
+        "metaDescription": "Guide complet de la restauration au Columbia Pictures Aquaverse à Pattaya. Prix des repas, menus des restaurants, options halal, système de bracelet RFID, repas pour enfants et astuces pour économiser en 2026.",
+        "metaKeywords": "aquaverse restauration, prix nourriture aquaverse, restaurant aquaverse, que manger aquaverse, guide alimentaire aquaverse, aquaverse halal",
+        "ogTitle": "Guide restauration Aquaverse 2026 : Restaurants, prix et astuces",
+        "ogDescription": "Tout sur la restauration à Aquaverse. Prix de THB 50 à 500, emplacements des restaurants, options halal, astuces bracelet RFID et comment économiser.",
+        "twitterTitle": "Guide restauration Aquaverse 2026 : Prix et astuces",
+        "twitterDescription": "Tout sur la restauration à Aquaverse. Prix, restaurants, options halal et comment économiser.",
+        "breadcrumbName": "Guide restauration Aquaverse"
+      },
+      "aquaverse-review": {
+        "title": "Avis honnête sur Aquaverse 2026 : Vaut-il la visite ? (Note 4,3/5)",
+        "metaDescription": "Notre avis honnête sur Aquaverse après 4 visites. Notes détaillées pour les toboggans, la thématique, la restauration, le rapport qualité-prix et la propreté. Le Columbia Pictures Aquaverse obtient 4,3/5 — voici pourquoi.",
+        "metaKeywords": "avis aquaverse, aquaverse pattaya avis, aquaverse vaut-il le coup, aquaverse critique honnête, note aquaverse, columbia pictures aquaverse avis 2026",
+        "ogTitle": "Avis honnête sur Aquaverse 2026 : Vaut-il la visite ? (Note 4,3/5)",
+        "ogDescription": "Avis honnête et équilibré sur le Columbia Pictures Aquaverse à Pattaya. Notes détaillées pour les toboggans, la thématique, la restauration et plus. 4,3/5.",
+        "twitterTitle": "Avis honnête sur Aquaverse 2026 : Note 4,3/5",
+        "twitterDescription": "Avis honnête et équilibré après 4 visites. Notes pour les toboggans, la thématique, la restauration et le rapport qualité-prix.",
+        "breadcrumbName": "Avis Aquaverse 2026"
+      },
+      "aquaverse-ticket-prices": {
+        "title": "Prix des billets Aquaverse 2026 : Économisez 27% en réservant en ligne (à partir de THB 1 171)",
+        "metaDescription": "Guide complet des prix des billets Aquaverse pour 2026. Guichet THB 1 595 vs en ligne à partir de THB 1 171 — économisez jusqu",
+        "metaKeywords": "prix billets aquaverse, billets aquaverse, réduction aquaverse, code promo aquaverse, billets aquaverse pas cher, réservation en ligne aquaverse, forfait tout compris aquaverse, prix columbia pictures aquaverse",
+        "ogTitle": "Prix des billets Aquaverse 2026 : Économisez 27% en réservant en ligne",
+        "ogDescription": "Détail complet des prix des billets Aquaverse. Guichet THB 1 595 vs en ligne à partir de THB 1 171. Admission standard, forfait tout compris et tarifs groupe + astuces pour économiser.",
+        "twitterTitle": "Prix des billets Aquaverse 2026 : Économisez 27% — À partir de THB 1 171",
+        "twitterDescription": "Détail complet des prix des billets Aquaverse. Guichet vs en ligne, forfaits et astuces pour trouver les meilleures offres.",
+        "breadcrumbName": "Prix des billets Aquaverse 2026"
+      },
+      "aquaverse-vs-ramayana": {
+        "title": "Aquaverse vs Ramayana 2026 : Quel parc aquatique choisir à Pattaya ?",
+        "metaDescription": "Comparaison détaillée d",
+        "metaKeywords": "aquaverse vs ramayana, meilleur parc aquatique pattaya, comparaison parcs aquatiques pattaya, aquaverse ou ramayana, ramayana vs aquaverse 2026",
+        "ogTitle": "Aquaverse vs Ramayana 2026 : Quel parc aquatique choisir à Pattaya ?",
+        "ogDescription": "Comparaison côte à côte des deux meilleurs parcs aquatiques de Pattaya. Prix, toboggans, restauration, enfants et verdict.",
+        "twitterTitle": "Aquaverse vs Ramayana 2026 : Quel parc aquatique à Pattaya ?",
+        "twitterDescription": "Comparaison côte à côte des deux meilleurs parcs aquatiques de Pattaya. Prix, toboggans, restauration, enfants et verdict.",
+        "breadcrumbName": "Aquaverse vs Ramayana 2026"
+      },
+      "aquaverse-with-kids": {
+        "title": "Aquaverse avec des enfants : Guide familial complet (2026)",
+        "metaDescription": "Tout ce que les parents doivent savoir pour visiter Aquaverse avec des enfants. Zones par âge, restrictions de taille, quoi emporter, nourriture pour enfants difficiles, sécurité et stratégie de visite.",
+        "metaKeywords": "aquaverse avec enfants, aquaverse famille, aquaverse tout-petits, aquaverse zone enfants, hotel transylvania parc aquatique",
+        "ogTitle": "Aquaverse avec des enfants : Guide familial complet (2026)",
+        "ogDescription": "Guide complet pour les parents visitant Aquaverse. Zones par âge, restrictions de taille, liste d",
+        "twitterTitle": "Aquaverse avec des enfants : Guide familial 2026",
+        "twitterDescription": "Guide complet pour les parents. Zones par âge, restrictions de taille, liste d",
+        "breadcrumbName": "Aquaverse avec des enfants"
+      },
+      "best-hotels-near-aquaverse": {
+        "title": "Les 8 meilleurs hôtels près d'Aquaverse Pattaya (2026)",
+        "metaDescription": "Où loger près du parc aquatique Aquaverse à Pattaya. Les 8 meilleurs hôtels du budget (THB 900) au luxe (THB 5 000) avec distances, prix et conseils pour choisir le bon hébergement.",
+        "metaKeywords": "hôtels près aquaverse, où loger aquaverse, meilleur hôtel aquaverse pattaya, hébergement aquaverse, hôtels proches aquaverse pattaya",
+        "ogTitle": "Les 8 meilleurs hôtels près d",
+        "ogDescription": "Hôtels les mieux notés près du parc aquatique Aquaverse à Pattaya. Sélection budget, milieu de gamme et luxe avec distances, prix et astuces.",
+        "twitterTitle": "Les 8 meilleurs hôtels près d",
+        "twitterDescription": "Hôtels les mieux notés près d",
+        "breadcrumbName": "Meilleurs hôtels près d'Aquaverse"
+      },
+      "best-things-to-do-pattaya": {
+        "title": "15 meilleures choses à faire à Pattaya (Guide 2026)",
+        "metaDescription": "Le guide définitif des 15 meilleures choses à faire à Pattaya en 2026. Attractions classées par catégorie : parcs à thème, plages, culture, nature, activités intérieures et shopping. Itinéraires par durée et référence budget inclus.",
+        "metaKeywords": "choses à faire pattaya, meilleures attractions pattaya, activités pattaya 2026, que faire pattaya, tourisme pattaya, guide pattaya",
+        "ogTitle": "15 meilleures choses à faire à Pattaya (Guide 2026)",
+        "ogDescription": "Le guide définitif des 15 meilleures attractions de Pattaya, classées par catégorie avec itinéraires et référence budget.",
+        "twitterTitle": "15 meilleures choses à faire à Pattaya (Guide 2026)",
+        "twitterDescription": "Le guide définitif des 15 meilleures attractions de Pattaya avec itinéraires et référence budget.",
+        "breadcrumbName": "15 meilleures choses à faire à Pattaya 2026"
+      },
+      "best-time-to-visit-aquaverse": {
+        "title": "Meilleure période pour visiter Aquaverse 2026 : Guide météo &amp; affluence mois par mois",
+        "metaDescription": "Trouvez la meilleure période pour visiter Aquaverse Pattaya en 2026. Guide météo, affluence et prix mois par mois. Novembre–février est idéal, mais chaque saison a ses avantages.",
+        "metaKeywords": "meilleure période aquaverse, météo aquaverse, calendrier affluence aquaverse, meilleur mois aquaverse pattaya, saison des pluies aquaverse, aquaverse songkran",
+        "ogTitle": "Meilleure période pour visiter Aquaverse 2026 : Guide météo &amp; affluence mois par mois",
+        "ogDescription": "Guide mois par mois pour visiter Aquaverse Pattaya. Prévisions météo, niveaux d",
+        "twitterTitle": "Meilleure période pour visiter Aquaverse 2026 : Guide mois par mois",
+        "twitterDescription": "Guide mois par mois pour visiter Aquaverse Pattaya. Météo, affluence, conseils tarifaires et meilleurs mois pour tous les voyageurs.",
+        "breadcrumbName": "Meilleure p&eacute;riode pour visiter Aquaverse"
+      },
+      "how-to-get-to-aquaverse-from-bangkok": {
+        "title": "Comment aller à Aquaverse depuis Bangkok : Tous les transports (2026)",
+        "metaDescription": "Guide complet pour aller de Bangkok à Aquaverse. En voiture (1h30), bus depuis Ekkamai (THB 108), van, Grab (THB 1 200+) ou depuis les aéroports. Itinéraires détaillés, coûts et astuces.",
+        "metaKeywords": "comment aller aquaverse depuis bangkok, aquaverse depuis bangkok, bangkok aquaverse transport, aquaverse directions, ekkamai pattaya bus",
+        "ogTitle": "Comment aller à Aquaverse depuis Bangkok : Tous les transports (2026)",
+        "ogDescription": "7 façons d",
+        "twitterTitle": "Comment aller à Aquaverse depuis Bangkok (2026)",
+        "twitterDescription": "7 façons d",
+        "breadcrumbName": "Comment aller à Aquaverse depuis Bangkok"
+      },
+      "pattaya-couples-guide": {
+        "title": "Pattaya en couple 2026 : Activit&eacute;s romantiques &amp; bons plans",
+        "metaDescription": "Guide romantique de Pattaya pour les couples en 2026. Couchers de soleil, spas, excursions sur les îles, bars rooftop et expériences culinaires — tout pour des vacances en amoureux en Thaïlande.",
+        "metaKeywords": "pattaya couple, pattaya romantique, pattaya en amoureux, activités couple pattaya, pattaya lune de miel, pattaya date 2026",
+        "ogTitle": "Pattaya en couple 2026 : Guide romantique",
+        "ogDescription": "Guide romantique pour les couples à Pattaya. Couchers de soleil, spas, îles et restaurants.",
+        "twitterTitle": "Pattaya en couple 2026",
+        "twitterDescription": "Activités romantiques et bons plans pour les couples à Pattaya.",
+        "breadcrumbName": "Pattaya en couple 2026"
+      },
+      "pattaya-itinerary-aquaverse": {
+        "title": "Itinéraire Pattaya + Aquaverse : 3 programmes parfaits (2026)",
+        "metaDescription": "Planifiez l",
+        "metaKeywords": "itinéraire pattaya aquaverse, excursion aquaverse depuis bangkok, programme pattaya aquaverse, que faire pattaya aquaverse, attractions près aquaverse",
+        "ogTitle": "Itinéraire Pattaya + Aquaverse : 3 programmes parfaits (2026)",
+        "ogDescription": "Trois itinéraires clé en main pour Pattaya incluant Aquaverse. Journée complète au parc, Aquaverse + Nong Nooch, et week-end 2 jours avec budgets et astuces.",
+        "twitterTitle": "Itinéraire Pattaya + Aquaverse : 3 programmes (2026)",
+        "twitterDescription": "Trois itinéraires Pattaya incluant Aquaverse. Journée complète, culture + fun, et week-end 2 jours avec budgets et astuces.",
+        "breadcrumbName": "Itinéraire Pattaya + Aquaverse"
+      },
+      "pattaya-kids-activities": {
+        "title": "Pattaya avec des enfants : Top 10 des activit&eacute;s familiales (2026)",
+        "metaDescription": "Les 10 meilleures activités pour les familles avec enfants à Pattaya en 2026. Aquaverse, Ramayana, Nong Nooch, Koh Larn et plus encore — prix, conseils pratiques et recommandations par âge.",
+        "metaKeywords": "pattaya avec enfants, pattaya famille, activités enfants pattaya, pattaya familial, thailande enfants, aquaverse enfants",
+        "ogTitle": "Pattaya avec des enfants : Top 10 activit&eacute;s (2026)",
+        "ogDescription": "Les meilleures activités familiales à Pattaya. Parcs aquatiques, jardins, plages et musées avec conseils pratiques.",
+        "twitterTitle": "Pattaya avec des enfants : Top 10 (2026)",
+        "twitterDescription": "Les meilleures activités familiales à Pattaya avec prix et conseils pratiques.",
+        "breadcrumbName": "Pattaya avec des enfants"
+      },
+      "pattaya-seniors-guide": {
+        "title": "Visiter Pattaya avec des parents âgés (Guide 2026)",
+        "metaDescription": "Guide complet pour visiter Pattaya avec des parents âgés en 2026. Attractions adaptées aux seniors, Aquaverse pour seniors, conseils santé, itinéraire doux de 3 jours et hôtels accessibles.",
+        "metaKeywords": "pattaya seniors, pattaya parents âgés, pattaya accessibilité, pattaya personnes âgées, aquaverse seniors 2026",
+        "ogTitle": "Visiter Pattaya avec des parents âgés (Guide 2026)",
+        "ogDescription": "Guide complet pour visiter Pattaya avec des parents âgés. Attractions seniors, santé, itinéraire doux et hôtels.",
+        "twitterTitle": "Visiter Pattaya avec des parents âgés (Guide 2026)",
+        "twitterDescription": "Guide pour visiter Pattaya avec des parents âgés. Seniors, santé et itinéraire.",
+        "breadcrumbName": "Pattaya avec des parents âgés"
+      },
+      "pattaya-solo-travel": {
+        "title": "Voyage solo à Pattaya 2026 : Guide complet",
+        "metaDescription": "Le guide ultime du voyage solo à Pattaya en 2026. Conseils de sécurité, budget détaillé (auberges dès THB 300), attractions solo, conseils Aquaverse pour visiteurs solo, comment rencontrer des gens et itinéraire de 3 jours.",
+        "metaKeywords": "voyage solo pattaya, pattaya seul, guide solo pattaya, pattaya routard, pattaya budget 2026",
+        "ogTitle": "Voyage solo à Pattaya 2026 : Guide complet",
+        "ogDescription": "Tout ce qu",
+        "twitterTitle": "Voyage solo à Pattaya 2026 : Guide complet",
+        "twitterDescription": "Tout ce qu",
+        "breadcrumbName": "Voyage solo à Pattaya"
+      },
+      "pattaya-water-parks": {
+        "title": "Parcs aquatiques à Pattaya : Guide complet 2026",
+        "metaDescription": "Guide complet des parcs aquatiques à Pattaya en 2026. Comparatif détaillé entre Aquaverse et Ramayana : prix, toboggans, zones enfants, horaires et conseils pratiques pour choisir le meilleur parc.",
+        "metaKeywords": "parcs aquatiques pattaya, aquaverse pattaya, ramayana pattaya, meilleur parc aquatique pattaya, parc aquatique thailande 2026, toboggan pattaya",
+        "ogTitle": "Parcs aquatiques à Pattaya : Guide complet 2026",
+        "ogDescription": "Comparatif détaillé des parcs aquatiques de Pattaya : Aquaverse vs Ramayana. Prix, attractions, zones enfants et conseils pour choisir.",
+        "twitterTitle": "Parcs aquatiques à Pattaya : Guide complet 2026",
+        "twitterDescription": "Comparatif détaillé des parcs aquatiques de Pattaya : Aquaverse vs Ramayana. Prix, attractions et conseils.",
+        "breadcrumbName": "Parcs aquatiques à Pattaya"
+      },
+      "why-visit-pattaya": {
+        "title": "Pourquoi visiter Pattaya ? 10 raisons d'y aller en 2026",
+        "metaDescription": "Découvrez 10 raisons convaincantes de visiter Pattaya en 2026. Des parcs aquatiques de classe mondiale aux temples, plages, marchés nocturnes et activités familiales. Guide complet pour planifier votre voyage.",
+        "metaKeywords": "pourquoi visiter pattaya, raisons visiter pattaya, pattaya 2026, voyage pattaya, vacances pattaya, tourisme pattaya, pattaya thailande",
+        "ogTitle": "Pourquoi visiter Pattaya ? 10 raisons d",
+        "ogDescription": "10 raisons convaincantes de visiter Pattaya en 2026 : parcs aquatiques, temples, plages, gastronomie, marchés nocturnes et bien plus. Guide complet.",
+        "twitterTitle": "Pourquoi visiter Pattaya ? 10 raisons en 2026",
+        "twitterDescription": "10 raisons convaincantes de visiter Pattaya en 2026 : parcs aquatiques, temples, plages, gastronomie et bien plus.",
+        "breadcrumbName": "Pourquoi visiter Pattaya"
+      }
+    },
+    "index": {
+      "title": "Blog Aquaverse | Guides, Conseils &amp; Avis",
+      "metaDescription": "Blog Aquaverse avec guides visiteurs, conseils de voyage, avis honnêtes et comparatifs. Planifiez votre journée parfaite au Columbia Pictures Aquaverse à Pattaya, Thaïlande.",
+      "metaKeywords": "aquaverse blog, guide aquaverse, conseils aquaverse, avis aquaverse, aquaverse pattaya, parc aquatique thaïlande",
+      "ogTitle": "Blog Aquaverse | Guides, Conseils & Avis",
+      "ogDescription": "Guides visiteurs, conseils de voyage, avis honnêtes et comparatifs pour le Columbia Pictures Aquaverse à Pattaya, Thaïlande.",
+      "twitterTitle": "Blog Aquaverse | Guides, Conseils & Avis",
+      "twitterDescription": "Guides visiteurs, conseils et avis pour le parc aquatique Aquaverse à Pattaya.",
+      "breadcrumbName": "Blog",
+      "h1": "Blog Aquaverse",
+      "h1Sub": "Guides visiteurs, conseils de voyage, avis honnêtes et tout ce qu'il faut savoir pour planifier votre journée parfaite au Columbia Pictures Aquaverse à Pattaya.",
+      "overview": "",
+      "cta": {
+        "h2": "Planifiez votre visite à Aquaverse",
+        "text": "Réservez vos billets en ligne et économisez jusqu'à 27% par rapport au prix au guichet. Location de casier gratuite incluse avec chaque réservation en ligne.",
+        "button": "Réserver des billets Aquaverse &mdash; À partir de THB 1 171 &rarr;"
+      },
+      "cards": [
+        {
+          "slug": "aquaverse-vs-ramayana",
+          "category": "Comparatif",
+          "title": "Aquaverse vs Ramayana 2026 : Quel parc aquatique à Pattaya ?",
+          "description": "Comparaison côte à côte des deux meilleurs parcs aquatiques de Pattaya. Prix des billets, toboggans, zones, espaces enfants, restauration et notre verdict honnête."
+        },
+        {
+          "slug": "why-visit-pattaya",
+          "category": "Guide Pattaya",
+          "title": "Pourquoi visiter Pattaya ? 10 raisons d'y aller en 2026",
+          "description": "Découvrez les 10 meilleures raisons de visiter Pattaya en 2026. Parcs aquatiques, plages magnifiques, cuisine abordable et culture vibrante."
+        },
+        {
+          "slug": "pattaya-water-parks",
+          "category": "Parcs aquatiques",
+          "title": "Comparatif des parcs aquatiques à Pattaya (2026)",
+          "description": "Comparaison complète des meilleurs parcs aquatiques de Pattaya : Aquaverse, Ramayana et plus. Prix, attractions, avantages et inconvénients."
+        },
+        {
+          "slug": "pattaya-kids-activities",
+          "category": "Guide famille",
+          "title": "Top 10 des activités pour enfants à Pattaya (2026)",
+          "description": "Les meilleures activités à faire avec des enfants à Pattaya. Parcs aquatiques, aquariums, mini-golf et attractions familiales avec prix et conseils."
+        },
+        {
+          "slug": "pattaya-couples-guide",
+          "category": "Guide couples",
+          "title": "Pattaya en couple : activités romantiques &amp; conseils",
+          "description": "Planifiez l'escapade romantique parfaite à Pattaya. Dîner au coucher du soleil, spa en duo, excursion en île, et Aquaverse à deux."
+        },
+        {
+          "slug": "pattaya-solo-travel",
+          "category": "Voyage solo",
+          "title": "Voyage solo à Pattaya 2026 : Guide complet",
+          "description": "Tout ce qu'il faut savoir pour voyager seul à Pattaya. Conseils de sécurité, budget, lieux sociaux et les meilleures activités en solo."
+        },
+        {
+          "slug": "pattaya-seniors-guide",
+          "category": "Guide seniors",
+          "title": "Visiter Pattaya avec des parents âgés (Guide 2026)",
+          "description": "Guide complet pour visiter Pattaya avec des parents âgés. Attractions accessibles, hôtels confortables, conseils santé et itinéraire adapté."
+        },
+        {
+          "slug": "best-things-to-do-pattaya",
+          "category": "Guide Pattaya",
+          "title": "15 meilleures choses à faire à Pattaya (Guide 2026)",
+          "description": "La liste ultime des 15 meilleures activités à Pattaya. Temples, plages, parcs aquatiques, marchés et pépites cachées pour chaque type de voyageur."
+        },
+        {
+          "slug": "aquaverse-with-kids",
+          "category": "Guide familial",
+          "title": "Aquaverse avec des enfants : Guide familial complet (2026)",
+          "description": "Tout ce que les parents doivent savoir pour visiter Aquaverse avec des enfants. Zones adaptées par âge, restrictions de taille, quoi emporter, repas et stratégie de visite."
+        },
+        {
+          "slug": "how-to-get-to-aquaverse-from-bangkok",
+          "category": "Guide transport",
+          "title": "Comment aller à Aquaverse depuis Bangkok : Tous les transports (2026)",
+          "description": "7 façons de se rendre de Bangkok à Aquaverse avec des itinéraires détaillés. Voiture, bus, van, Grab, depuis les deux aéroports et circuits organisés. Coûts, durées et astuces."
+        },
+        {
+          "slug": "aquaverse-ticket-prices",
+          "category": "Billets",
+          "title": "Prix des billets Aquaverse 2026 : Économisez 27% en réservant en ligne",
+          "description": "Détail complet des prix des billets Aquaverse pour 2026. Guichet vs en ligne, billets combinés, réductions enfants et où trouver les meilleures offres légitimes."
+        },
+        {
+          "slug": "aquaverse-review",
+          "category": "Avis",
+          "title": "Avis honnête sur Aquaverse : Vaut-il la visite en 2026 ?",
+          "description": "Notre avis honnête et sans filtre sur Aquaverse après plusieurs visites. Ce que nous avons aimé, ce qui nous a déçus, et si le parc est à la hauteur. Notes pour les toboggans, la thématique, la restauration et plus encore."
+        },
+        {
+          "slug": "best-hotels-near-aquaverse",
+          "category": "Hôtels",
+          "title": "Les 8 meilleurs hôtels près d'Aquaverse Pattaya (2026)",
+          "description": "Hôtels les mieux notés à moins de 15 minutes d'Aquaverse pour tous les budgets. Resorts de luxe en bord de mer, gamme intermédiaire familiale et options économiques fiables avec piscine."
+        },
+        {
+          "slug": "aquaverse-food-guide",
+          "category": "Restauration",
+          "title": "Guide restauration Aquaverse : Restaurants et prix (2026)",
+          "description": "Guide complet de la restauration à Aquaverse. Tous les restaurants, food courts et snack-bars avec prix. Bracelet RFID, meilleurs plats, options enfants et astuces pour économiser."
+        },
+        {
+          "slug": "pattaya-itinerary-aquaverse",
+          "category": "Itinéraire",
+          "title": "Itinéraire Pattaya + Aquaverse : 3 programmes parfaits (2026)",
+          "description": "3 itinéraires prêts à l'emploi combinant Aquaverse avec les meilleures attractions de Pattaya. Journée complète au parc, Aquaverse + Nong Nooch, et week-end de 2 jours. Budgets, horaires et astuces inclus."
+        }
+      ]
+    }
   }
 }

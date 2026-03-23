@@ -58,7 +58,30 @@ const PAGE_CONFIGS = {
     template: 'pages/tips.njk',
     slug: 'tips.html',
   },
+  'blog-index': {
+    template: 'blog/index.njk',
+    slug: 'blog/index.html',
+  },
 };
+
+const BLOG_POST_SLUGS = [
+  'aquaverse-food-guide',
+  'aquaverse-review',
+  'aquaverse-ticket-prices',
+  'aquaverse-vs-ramayana',
+  'aquaverse-with-kids',
+  'best-hotels-near-aquaverse',
+  'best-things-to-do-pattaya',
+  'best-time-to-visit-aquaverse',
+  'how-to-get-to-aquaverse-from-bangkok',
+  'pattaya-couples-guide',
+  'pattaya-itinerary-aquaverse',
+  'pattaya-kids-activities',
+  'pattaya-seniors-guide',
+  'pattaya-solo-travel',
+  'pattaya-water-parks',
+  'why-visit-pattaya',
+];
 
 // Load home page data (non-translatable)
 const HOME_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'home.json'), 'utf8'));
@@ -68,6 +91,9 @@ const ATTRACTIONS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data',
 
 // Load tips page data (non-translatable)
 const TIPS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'tips.json'), 'utf8'));
+
+// Load blog index data (non-translatable card metadata)
+const BLOG_INDEX_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'blog', 'index.json'), 'utf8'));
 
 // Footer guide blog post slugs (same order as labels in i18n files)
 const FOOTER_GUIDES_SLUGS = [
@@ -232,16 +258,19 @@ function buildPage(pageKey, pageConfig) {
       schemaTicketsFaq,
       schemaGettingThereFaq,
       tipsData: TIPS_DATA,
+      blogIndexData: BLOG_INDEX_DATA,
       footerGuidesSlugs: FOOTER_GUIDES_SLUGS,
     };
 
     try {
       const html = env.render(pageConfig.template, context);
 
-      // Determine output path
-      const outDir = lang.code === 'en' ? ROOT : path.join(ROOT, lang.code);
+      // Determine output path (supports subdirectory slugs like blog/index.html)
+      const outDir = lang.code === 'en'
+        ? path.join(ROOT, path.dirname(pageConfig.slug))
+        : path.join(ROOT, lang.code, path.dirname(pageConfig.slug));
       fs.mkdirSync(outDir, { recursive: true });
-      const outPath = path.join(outDir, pageConfig.slug);
+      const outPath = path.join(outDir, path.basename(pageConfig.slug));
 
       fs.writeFileSync(outPath, html);
       console.log(`  Built ${lang.code}/${pageConfig.slug}`);
@@ -251,6 +280,66 @@ function buildPage(pageKey, pageConfig) {
     }
   }
 
+  return built;
+}
+
+function buildBlogPost(slug) {
+  const translations = loadI18n();
+  const prices = loadPrices();
+  const standardPkg = prices.packages.find(p => p.id === 'standard-admission') || prices.packages[0];
+  const stickyPrice = standardPkg.priceTHB;
+  const stickyOriginalPrice = standardPkg.gatePrice || 1595;
+
+  const blogPostDataPath = path.join(__dirname, 'data', 'blog', `${slug}.json`);
+  const blogPostData = JSON.parse(fs.readFileSync(blogPostDataPath, 'utf8'));
+
+  let built = 0;
+
+  for (const lang of SITE.languages) {
+    const t = translations[lang.code];
+    if (!t) continue;
+
+    // Read article body content file
+    const contentPath = path.join(__dirname, 'content', 'blog', slug, `${lang.code}.html`);
+    if (!fs.existsSync(contentPath)) {
+      console.warn(`  Warning: Missing content file: ${contentPath}`);
+      continue;
+    }
+    const articleBody = fs.readFileSync(contentPath, 'utf8');
+
+    const page = { slug: `blog/${slug}.html` };
+
+    const context = {
+      site: SITE,
+      lang,
+      t,
+      page,
+      activePage: 'blog',
+      postSlug: slug,
+      blogPostData,
+      articleBody,
+      stickyPrice,
+      stickyOriginalPrice,
+      stickyPriceFormatted: formatNumber(stickyPrice),
+      stickyOriginalPriceFormatted: formatNumber(stickyOriginalPrice),
+      savingsPercent: Math.round((1 - stickyPrice / stickyOriginalPrice) * 100),
+      footerGuidesSlugs: FOOTER_GUIDES_SLUGS,
+    };
+
+    try {
+      const html = env.render('blog/post.njk', context);
+      const outDir = lang.code === 'en'
+        ? path.join(ROOT, 'blog')
+        : path.join(ROOT, lang.code, 'blog');
+      fs.mkdirSync(outDir, { recursive: true });
+      const outPath = path.join(outDir, `${slug}.html`);
+      fs.writeFileSync(outPath, html);
+      console.log(`  Built ${lang.code}/blog/${slug}.html`);
+      built++;
+    } catch (err) {
+      console.error(`  ERROR building ${lang.code}/blog/${slug}.html:`, err.message);
+    }
+  }
   return built;
 }
 
@@ -264,6 +353,13 @@ function main() {
     if (pageFilter && key !== pageFilter) continue;
     console.log(`Building ${key}...`);
     totalBuilt += buildPage(key, config);
+  }
+
+  // Build blog posts
+  for (const slug of BLOG_POST_SLUGS) {
+    if (pageFilter && `blog/${slug}` !== pageFilter) continue;
+    console.log(`Building blog/${slug}...`);
+    totalBuilt += buildBlogPost(slug);
   }
 
   console.log(`\n=== Done: ${totalBuilt} files built ===`);

@@ -2260,5 +2260,279 @@
       "button": "立即购买优惠门票 &rarr;",
       "subtext": "门票约 THB 1,200 起/人 &bull; 2岁以下儿童免费入园"
     }
+  },
+  "blog": {
+    "posts": {
+      "aquaverse-food-guide": {
+        "title": "Aquaverse美食指南2026：餐厅、价格与省钱攻略",
+        "metaDescription": "Aquaverse园内餐饮完整攻略。8大餐饮区价格（THB 50-500）、RFID手环消费指南、清真及素食选择、儿童友好餐厅推荐，以及6个省钱用餐技巧。",
+        "metaKeywords": "aquaverse美食, aquaverse餐厅, aquaverse食物价格, aquaverse餐饮攻略, aquaverse清真食物, aquaverse儿童餐, 哥伦比亚影业水世界美食",
+        "ogTitle": "Aquaverse美食指南2026：餐厅、价格与省钱攻略",
+        "ogDescription": "Aquaverse园内餐饮完整攻略。8大餐饮区价格、RFID手环消费指南、清真及素食选择，以及省钱用餐技巧。",
+        "twitterTitle": "Aquaverse美食指南2026：餐厅、价格与省钱攻略",
+        "twitterDescription": "Aquaverse园内餐饮完整攻略。8大餐饮区价格、RFID手环消费、清真素食选择及省钱技巧。",
+        "breadcrumbName": "Aquaverse美食指南"
+      },
+      "aquaverse-review": {
+        "title": "Aquaverse真实评价2026：4次实地探访后的诚实评分（值得去吗？）",
+        "metaDescription": "4次实地探访后的Aquaverse真实评价。游乐设施、主题设计、餐饮、性价比、清洁度逐项打分。Columbia Pictures Aquaverse芭提雅综合评分4.3/5 — 详解原因及适合人群。",
+        "metaKeywords": "aquaverse评价, aquaverse芭提雅评价, aquaverse值得去吗, aquaverse真实评测, aquaverse评分, 哥伦比亚影业水世界评价2026",
+        "ogTitle": "Aquaverse真实评价2026：4次实地探访后的诚实评分（值得去吗？）",
+        "ogDescription": "芭提雅Aquaverse真实评价。游乐设施、主题、餐饮、性价比等各维度评分。综合4.3/5分。",
+        "twitterTitle": "Aquaverse真实评价2026：4次实地探访后的诚实评分",
+        "twitterDescription": "芭提雅Aquaverse真实评价。各维度评分与详细体验分享。综合4.3/5分。",
+        "breadcrumbName": "Aquaverse真实评价"
+      },
+      "aquaverse-ticket-prices": {
+        "title": "Aquaverse门票价格2026：在线订票省27%（低至THB 1,176）",
+        "metaDescription": "2026年Aquaverse门票完整价格攻略。现场票THB 1,595 vs 在线票低至THB 1,176，最高省27%。标准票、全包套票、儿童票对比，附购票技巧与优惠信息。",
+        "metaKeywords": "aquaverse门票价格, aquaverse门票, aquaverse优惠, aquaverse折扣码, 最便宜aquaverse门票, aquaverse在线订票, aquaverse全包套票, 哥伦比亚影业水世界价格",
+        "ogTitle": "Aquaverse门票价格2026：在线订票省27%",
+        "ogDescription": "Aquaverse门票完整价格攻略。现场票THB 1,595 vs 在线票低至THB 1,176。标准票、全包套票及省钱技巧。",
+        "twitterTitle": "Aquaverse门票价格2026：在线订票省27% — 低至THB 1,176",
+        "twitterDescription": "Aquaverse门票完整价格攻略。现场票vs在线票对比，标准票、全包套票及省钱技巧。",
+        "breadcrumbName": "Aquaverse门票价格2026"
+      },
+      "aquaverse-vs-ramayana": {
+        "title": "Aquaverse vs Ramayana 2026：芭提雅两大水上乐园全面对比",
+        "metaDescription": "Aquaverse和Ramayana水上乐园详细对比。门票价格、游乐设施、主题区、餐饮、亲子区全面PK，帮你决定2026年该选哪个芭提雅水上乐园。",
+        "metaKeywords": "aquaverse vs ramayana, 芭提雅最好的水上乐园, 芭提雅水上乐园对比, aquaverse还是ramayana, ramayana vs aquaverse 2026",
+        "ogTitle": "Aquaverse vs Ramayana 2026：芭提雅水上乐园对比",
+        "ogDescription": "芭提雅两大水上乐园全面对比。门票、设施、餐饮、亲子区及我们的真实推荐。",
+        "twitterTitle": "Aquaverse vs Ramayana 2026：芭提雅水上乐园对比",
+        "twitterDescription": "芭提雅两大水上乐园全面对比。门票、设施、餐饮、亲子区及我们的真实推荐。",
+        "breadcrumbName": "Aquaverse vs Ramayana 2026"
+      },
+      "aquaverse-with-kids": {
+        "title": "带孩子玩Aquaverse：2026完整亲子攻略",
+        "metaDescription": "家长必看的Aquaverse亲子攻略。按年龄分区推荐、身高限制表、必备清单、挑食儿童餐饮选择、安全贴士及最佳游览动线。精灵旅社区是东南亚最佳儿童水上乐园。",
+        "metaKeywords": "aquaverse亲子, aquaverse带孩子, aquaverse儿童, aquaverse幼儿, aquaverse儿童区, 精灵旅社水上乐园",
+        "ogTitle": "带孩子玩Aquaverse：2026完整亲子攻略",
+        "ogDescription": "家长完整指南。按年龄分区、身高限制、必备清单、餐饮选择及最佳游览策略。",
+        "twitterTitle": "带孩子玩Aquaverse：2026完整亲子攻略",
+        "twitterDescription": "家长完整指南。按年龄分区推荐、身高限制、必备清单及最佳游览策略。",
+        "breadcrumbName": "带孩子玩Aquaverse"
+      },
+      "best-hotels-near-aquaverse": {
+        "title": "Aquaverse附近8大最佳酒店2026（经济型到豪华型）",
+        "metaDescription": "芭提雅Aquaverse水上乐园附近最佳住宿推荐。8家精选酒店涵盖经济型（THB 900起）到豪华型（THB 5,000），附距离、价格及选择建议。",
+        "metaKeywords": "aquaverse附近酒店, aquaverse住宿, 芭提雅aquaverse酒店, aquaverse住哪里, 中天海滩酒店, 梭桃邑酒店",
+        "ogTitle": "Aquaverse附近8大最佳酒店2026（经济型到豪华型）",
+        "ogDescription": "芭提雅Aquaverse附近精选酒店推荐。经济型、中端和豪华型酒店，附距离、价格及实用建议。",
+        "twitterTitle": "Aquaverse附近8大最佳酒店2026（经济型到豪华型）",
+        "twitterDescription": "芭提雅Aquaverse附近精选酒店推荐。经济型、中端和豪华型酒店，附距离、价格及实用建议。",
+        "breadcrumbName": "Aquaverse附近最佳酒店"
+      },
+      "best-things-to-do-pattaya": {
+        "title": "芭提雅必玩景点2026：15个不可错过的体验",
+        "metaDescription": "2026年芭提雅最全景点攻略：按类别推荐15个不可错过的体验，包括Aquaverse水上乐园、真理圣殿、格兰岛、夜市美食等。附1-5天行程规划、预算参考和交通指南。",
+        "metaKeywords": "芭提雅景点, 芭提雅必玩, 芭提雅旅游攻略2026, 芭提雅好玩的地方, 芭提雅一日游, 芭提雅自由行, 芭提雅行程",
+        "ogTitle": "芭提雅必玩景点2026：15个不可错过的体验",
+        "ogDescription": "2026年芭提雅15个必玩景点：水上乐园、海岛、寺庙、夜市、文化体验，按类别分类推荐。",
+        "twitterTitle": "芭提雅必玩景点2026：15个不可错过的体验",
+        "twitterDescription": "2026年芭提雅15大必玩景点全攻略：按类别推荐，附行程规划和预算参考。",
+        "breadcrumbName": "芭提雅必玩景点15选"
+      },
+      "best-time-to-visit-aquaverse": {
+        "title": "2026年游览Aquaverse最佳时间：逐月天气与人流指南",
+        "metaDescription": "2026年游览Aquaverse芭提雅的最佳时机。逐月天气、人流等级与票价指南。11月至2月最理想，但每个季节各有优势。",
+        "metaKeywords": "aquaverse最佳游览时间, aquaverse天气, aquaverse人流日历, aquaverse芭提雅最佳月份, aquaverse雨季, aquaverse宋干节",
+        "ogTitle": "2026年游览Aquaverse最佳时间：逐月天气与人流指南",
+        "ogDescription": "游览Aquaverse芭提雅的逐月指南。天气预报、人流等级、票价攻略，以及适合家庭、情侣和预算旅客的最佳月份。",
+        "twitterTitle": "2026年游览Aquaverse最佳时间：逐月指南",
+        "twitterDescription": "游览Aquaverse芭提雅的逐月指南。天气、人流等级、票价攻略，以及适合各类游客的最佳月份。",
+        "breadcrumbName": "游览Aquaverse的最佳时间"
+      },
+      "how-to-get-to-aquaverse-from-bangkok": {
+        "title": "从曼谷到Aquaverse怎么去：2026年全部交通方式详解",
+        "metaDescription": "从曼谷到Aquaverse水上乐园的完整交通攻略。自驾（1.5小时）、Ekkamai大巴（THB 108）、Grab打车（THB 1,200+）、两大机场出发路线，附详细费用与时间。",
+        "metaKeywords": "曼谷到aquaverse, aquaverse交通, 曼谷到aquaverse怎么去, aquaverse交通攻略, ekkamai到芭提雅, 素万那普到aquaverse",
+        "ogTitle": "从曼谷到Aquaverse怎么去：2026年全部交通方式详解",
+        "ogDescription": "7种交通方式从曼谷到Aquaverse。自驾、大巴、拼车、Grab打车及两大机场出发路线，附费用和时间。",
+        "twitterTitle": "从曼谷到Aquaverse怎么去（2026）",
+        "twitterDescription": "7种交通方式从曼谷到Aquaverse。自驾、大巴、Grab打车及机场出发路线，附费用和时间。",
+        "breadcrumbName": "从曼谷到Aquaverse怎么去"
+      },
+      "pattaya-couples-guide": {
+        "title": "芭提雅情侣约会攻略2026：8大浪漫景点+2日行程+预算",
+        "metaDescription": "2026芭提雅情侣约会完整攻略：8大浪漫景点推荐、2日情侣行程规划、详细预算参考。从Aquaverse水上乐园到日落晚餐，芭提雅浪漫之旅一篇搞定。",
+        "metaKeywords": "芭提雅情侣游, 芭提雅约会, 芭提雅浪漫景点, 芭提雅蜜月, 芭提雅情侣行程, 泰国情侣旅行, 芭提雅2026",
+        "ogTitle": "芭提雅情侣约会攻略2026：8大浪漫景点+2日行程+预算",
+        "ogDescription": "8大浪漫景点推荐、2日情侣行程规划和详细预算，芭提雅浪漫之旅一篇搞定。",
+        "twitterTitle": "芭提雅情侣约会攻略2026：8大浪漫景点+2日行程+预算",
+        "twitterDescription": "8大浪漫景点推荐、2日情侣行程规划和详细预算参考。",
+        "breadcrumbName": "芭提雅情侣约会攻略"
+      },
+      "pattaya-itinerary-aquaverse": {
+        "title": "芭提雅+Aquaverse行程规划2026：3套完美一日游方案",
+        "metaDescription": "从曼谷出发的芭提雅+Aquaverse行程规划。3套方案适合家庭、情侣和周末游客，含详细时间表、预算清单、周边景点及行装建议。",
+        "metaKeywords": "芭提雅行程aquaverse, aquaverse一日游, 芭提雅一日游行程, aquaverse攻略, aquaverse周边景点, 曼谷到aquaverse一日游",
+        "ogTitle": "芭提雅+Aquaverse行程规划2026：3套完美一日游方案",
+        "ogDescription": "3套芭提雅+Aquaverse行程方案。全天乐园日、Aquaverse+东芭乐园组合、2日周末游，含预算和实用建议。",
+        "twitterTitle": "芭提雅+Aquaverse行程规划2026：3套一日游方案",
+        "twitterDescription": "3套芭提雅+Aquaverse行程方案。全天乐园日、文化+乐园组合、2日周末游，含预算和实用建议。",
+        "breadcrumbName": "芭提雅+Aquaverse行程规划"
+      },
+      "pattaya-kids-activities": {
+        "title": "芭提雅亲子景点Top 10：2026带娃必去的10大景点",
+        "metaDescription": "2026芭提雅亲子景点Top 10完整攻略：10大景点详细介绍、年龄推荐、门票价格，附3日亲子行程规划。从Aquaverse水上乐园到海底世界，芭提雅带娃旅行一篇搞定。",
+        "metaKeywords": "芭提雅亲子游, 芭提雅带孩子, 芭提雅亲子景点, 芭提雅儿童活动, 芭提雅家庭游, 泰国亲子旅行, Aquaverse亲子",
+        "ogTitle": "芭提雅亲子景点Top 10：2026带娃必去的10大景点",
+        "ogDescription": "10大亲子景点详细介绍、年龄推荐和3日行程规划，芭提雅带娃旅行一篇搞定。",
+        "twitterTitle": "芭提雅亲子景点Top 10：2026带娃必去的10大景点",
+        "twitterDescription": "10大亲子景点详细介绍、年龄推荐和门票价格，附3日亲子行程规划。",
+        "breadcrumbName": "芭提雅亲子景点Top 10"
+      },
+      "pattaya-seniors-guide": {
+        "title": "带长辈去芭提雅2026：适合老人景点+Aquaverse长辈攻略+3日轻松行程",
+        "metaDescription": "2026带长辈去芭提雅完整攻略：适合老人的轻松景点、Aquaverse长辈游玩指南、3日轻松行程规划。从温泉按摩到花园散步，让长辈也能享受芭提雅的美好。含预算和住宿建议。",
+        "metaKeywords": "芭提雅老人旅游, 带长辈去芭提雅, 芭提雅银发族, 芭提雅适合老人, 芭提雅轻松行程, 泰国老人旅行, Aquaverse长辈",
+        "ogTitle": "带长辈去芭提雅2026：适合老人景点+Aquaverse长辈攻略+3日轻松行程",
+        "ogDescription": "适合老人的轻松景点、Aquaverse长辈游玩指南和3日轻松行程规划。",
+        "twitterTitle": "带长辈去芭提雅2026：适合老人景点+Aquaverse长辈攻略+3日轻松行程",
+        "twitterDescription": "适合老人的轻松景点和3日轻松行程规划，带长辈出行一篇搞定。",
+        "breadcrumbName": "带长辈去芭提雅"
+      },
+      "pattaya-solo-travel": {
+        "title": "芭提雅独自旅行攻略2026：安全须知+省钱攻略+3日行程",
+        "metaDescription": "2026芭提雅独自旅行完整攻略：安全须知、省钱技巧、一个人怎么玩、3日独行行程规划。从Aquaverse水上乐园到格兰岛，芭提雅一人游也精彩。含预算参考和住宿推荐。",
+        "metaKeywords": "芭提雅独自旅行, 芭提雅一个人, 芭提雅solo旅行, 芭提雅背包客, 芭提雅独行攻略, 泰国一个人旅行, 芭提雅安全",
+        "ogTitle": "芭提雅独自旅行攻略2026：安全须知+省钱攻略+3日行程",
+        "ogDescription": "安全须知、省钱技巧和3日独行行程规划，芭提雅一人游也精彩。",
+        "twitterTitle": "芭提雅独自旅行攻略2026：安全须知+省钱攻略+3日行程",
+        "twitterDescription": "安全须知、省钱技巧和3日独行行程，芭提雅一人游完整攻略。",
+        "breadcrumbName": "芭提雅独自旅行攻略"
+      },
+      "pattaya-water-parks": {
+        "title": "芭提雅水上乐园完整指南2026：Aquaverse vs Ramayana全面对比",
+        "metaDescription": "2026芭提雅水上乐园完整指南：Aquaverse与Ramayana详细对比表，门票价格、设施评分、适合人群分析。含各族群推荐和一日游行程规划，帮你选出最适合的水上乐园。",
+        "metaKeywords": "芭提雅水上乐园, Aquaverse水上乐园, Ramayana水上乐园, 芭提雅水上乐园对比, 芭提雅水上乐园门票, 泰国水上乐园, 芭提雅亲子游",
+        "ogTitle": "芭提雅水上乐园完整指南2026：Aquaverse vs Ramayana全面对比",
+        "ogDescription": "Aquaverse与Ramayana两大水上乐园全面对比，含门票价格、设施评分和一日游行程规划。",
+        "twitterTitle": "芭提雅水上乐园完整指南2026：Aquaverse vs Ramayana全面对比",
+        "twitterDescription": "Aquaverse与Ramayana两大水上乐园全面对比，门票价格、设施评分一目了然。",
+        "breadcrumbName": "芭提雅水上乐园完整指南"
+      },
+      "why-visit-pattaya": {
+        "title": "为什么要去芭提雅？2026年必去的10大理由",
+        "metaDescription": "2026年去芭提雅的10大理由：从世界级水上乐园Aquaverse到绝美海岛、夜市美食和亲子景点，全面解析芭提雅的独特魅力。对比普吉岛、华欣，附最佳出行季节和实用贴士。",
+        "metaKeywords": "芭提雅旅游, 为什么去芭提雅, 芭提雅2026, 芭提雅旅游攻略, 芭提雅值得去吗, 芭提雅景点推荐, 泰国芭提雅",
+        "ogTitle": "为什么要去芭提雅？2026年必去的10大理由",
+        "ogDescription": "2026年去芭提雅的10大理由：世界级水上乐园、绝美海岛、夜市美食、亲子景点一网打尽。",
+        "twitterTitle": "为什么要去芭提雅？2026年必去的10大理由",
+        "twitterDescription": "2026年去芭提雅的10大理由：世界级水上乐园、绝美海岛、夜市美食等全面解析。",
+        "breadcrumbName": "为什么要去芭提雅"
+      }
+    },
+    "index": {
+      "title": "Aquaverse博客 | 攻略、贴士与真实评价",
+      "metaDescription": "Aquaverse博客：游客攻略、旅行贴士、真实评价与对比。帮您规划完美的泰国芭提雅哥伦比亚影业水世界之旅。",
+      "metaKeywords": "aquaverse博客, aquaverse攻略, aquaverse贴士, aquaverse评价, aquaverse芭提雅, 泰国水上乐园",
+      "ogTitle": "Aquaverse博客 | 攻略、贴士与真实评价",
+      "ogDescription": "游客攻略、旅行贴士、真实评价与对比，助您畅游泰国芭提雅哥伦比亚影业水世界。",
+      "twitterTitle": "Aquaverse博客 | 攻略、贴士与真实评价",
+      "twitterDescription": "游客攻略、旅行贴士与真实评价，助您畅游芭提雅Aquaverse水上乐园。",
+      "breadcrumbName": "博客",
+      "h1": "Aquaverse 博客",
+      "h1Sub": "游客攻略、旅行贴士、真实评价，以及规划完美芭提雅哥伦比亚影业水世界之旅所需的一切。",
+      "overview": "",
+      "cta": {
+        "h2": "规划您的Aquaverse之旅",
+        "text": "在线预订门票，最高可省27%。在线订票即赠免费储物柜。",
+        "button": "预订Aquaverse门票 &mdash; 低至 THB 1,176 &rarr;"
+      },
+      "cards": [
+        {
+          "slug": "aquaverse-vs-ramayana",
+          "category": "对比评测",
+          "title": "Aquaverse vs Ramayana 2026：芭提雅水上乐园对比",
+          "description": "芭提雅两大水上乐园全面对比。门票价格、滑梯数量、主题区、亲子区、餐饮及我们的真实推荐，帮你选出最适合的乐园。"
+        },
+        {
+          "slug": "why-visit-pattaya",
+          "category": "芭提雅指南",
+          "title": "为什么要去芭提雅？2026年必去的10大理由",
+          "description": "探索2026年造访芭提雅的10大理由。从世界级水上乐园、美丽海滩到实惠美食与丰富文化，了解为何芭提雅值得一游。"
+        },
+        {
+          "slug": "pattaya-water-parks",
+          "category": "水上乐园",
+          "title": "芭提雅水上乐园大比拼（2026）",
+          "description": "芭提雅最佳水上乐园全面比较，包括Aquaverse、Ramayana等。价格、设施、优缺点一次看清，助您做出最佳选择。"
+        },
+        {
+          "slug": "pattaya-kids-activities",
+          "category": "亲子活动",
+          "title": "芭提雅10大亲子活动推荐（2026）",
+          "description": "带孩子到芭提雅的最佳选择。水上乐园、水族馆、迷你高尔夫等家庭友好景点，附价格与实用建议。"
+        },
+        {
+          "slug": "pattaya-couples-guide",
+          "category": "情侣指南",
+          "title": "芭提雅情侣指南：浪漫活动与建议",
+          "description": "规划完美的芭提雅浪漫之旅。日落晚餐、双人SPA、跳岛游，以及包括Aquaverse在内的最佳双人体验。"
+        },
+        {
+          "slug": "pattaya-solo-travel",
+          "category": "独旅指南",
+          "title": "芭提雅独旅指南（2026）",
+          "description": "独自旅行者的芭提雅完整攻略。安全建议、预算规划、社交好去处，以及一个人也能尽兴的最佳活动。"
+        },
+        {
+          "slug": "pattaya-seniors-guide",
+          "category": "银发族指南",
+          "title": "芭提雅银发族指南：轻松活动与实用建议",
+          "description": "专为年长旅客打造的芭提雅休闲指南。无障碍景点、舒适酒店、健康建议与轻松行程规划。"
+        },
+        {
+          "slug": "best-things-to-do-pattaya",
+          "category": "芭提雅指南",
+          "title": "芭提雅15大必玩景点（2026）",
+          "description": "芭提雅15大必玩景点终极清单。寺庙、海滩、水上乐园、市场与隐藏好去处，满足各类旅客需求。"
+        },
+        {
+          "slug": "aquaverse-with-kids",
+          "category": "亲子攻略",
+          "title": "带孩子玩Aquaverse：2026完整亲子攻略",
+          "description": "家长必看！带孩子去Aquaverse的全面指南。按年龄分区推荐、身高限制、必备清单、挑食儿童餐饮选择及最佳游览策略。"
+        },
+        {
+          "slug": "how-to-get-to-aquaverse-from-bangkok",
+          "category": "交通指南",
+          "title": "从曼谷到Aquaverse怎么去：所有交通方式（2026）",
+          "description": "7种从曼谷到Aquaverse的交通方式，附详细路线。自驾、大巴、小巴、Grab打车、两大机场出发及跟团一日游，费用、时间及实用贴士。"
+        },
+        {
+          "slug": "aquaverse-ticket-prices",
+          "category": "门票",
+          "title": "Aquaverse门票价格2026：在线订票省27%",
+          "description": "2026年Aquaverse门票完整价格攻略。现场购票vs在线购票、套票、儿童折扣，以及在哪里买到最便宜的正规门票。"
+        },
+        {
+          "slug": "aquaverse-review",
+          "category": "测评",
+          "title": "Aquaverse真实评价：2026年值得去吗？",
+          "description": "多次实地探访后的真实评价。游乐设施、主题设计、餐饮、性价比等各维度打分，为你揭示Aquaverse是否名副其实。"
+        },
+        {
+          "slug": "best-hotels-near-aquaverse",
+          "category": "住宿",
+          "title": "Aquaverse附近8大推荐酒店（2026）",
+          "description": "距离Aquaverse 15分钟以内的高评分酒店推荐。豪华海滨度假村、高性价比亲子酒店及带泳池的经济型酒店一网打尽。"
+        },
+        {
+          "slug": "aquaverse-food-guide",
+          "category": "美食攻略",
+          "title": "Aquaverse美食指南：餐厅与价格（2026）",
+          "description": "Aquaverse园内餐饮完整指南。每家餐厅、美食广场和小吃亭的菜品与价格，RFID手环使用贴士、推荐菜品、儿童餐及省钱攻略。"
+        },
+        {
+          "slug": "pattaya-itinerary-aquaverse",
+          "category": "行程规划",
+          "title": "芭提雅+Aquaverse行程规划：3日完美行程（2026）",
+          "description": "3套现成的芭提雅行程方案，将Aquaverse与芭提雅热门景点完美组合。全天乐园游、Aquaverse+东芭乐园一日游、两天周末之旅，含预算、时间安排及实用贴士。"
+        }
+      ]
+    }
   }
 }
