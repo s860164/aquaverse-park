@@ -54,6 +54,10 @@ const PAGE_CONFIGS = {
     template: 'pages/getting-there.njk',
     slug: 'getting-there.html',
   },
+  tips: {
+    template: 'pages/tips.njk',
+    slug: 'tips.html',
+  },
 };
 
 // Load home page data (non-translatable)
@@ -61,6 +65,9 @@ const HOME_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'home.
 
 // Load attractions page data (non-translatable)
 const ATTRACTIONS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'attractions.json'), 'utf8'));
+
+// Load tips page data (non-translatable)
+const TIPS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'tips.json'), 'utf8'));
 
 // Footer guide blog post slugs (same order as labels in i18n files)
 const FOOTER_GUIDES_SLUGS = [
@@ -224,6 +231,7 @@ function buildPage(pageKey, pageConfig) {
       savingsPercent: Math.round((1 - stickyPrice / stickyOriginalPrice) * 100),
       schemaTicketsFaq,
       schemaGettingThereFaq,
+      tipsData: TIPS_DATA,
       footerGuidesSlugs: FOOTER_GUIDES_SLUGS,
     };
 
