@@ -946,5 +946,553 @@
         }
       ]
     }
+  },
+  "attractions": {
+    "title": "Semua Tarikan & Wahana Aquaverse | Panduan 9 Zon Filem 2026",
+    "metaDescription": "Panduan lengkap semua 9 zon bertema filem di Columbia Pictures Aquaverse Pattaya. Zon kanak-kanak Hotel Transylvania, Kubah Air Ghostbusters, terjunan 18m Zombieland, pengembaraan Jumanji, kolam ombak, go-kart, onsen & lagi.",
+    "metaKeywords": "tarikan Aquaverse, wahana Aquaverse, zon Aquaverse, Kubah Air Ghostbusters, gelongsor Zombieland, taman air Hotel Transylvania, wahana Jumanji Aquaverse, kolam ombak Aquaverse, FlowRider Aquaverse, go-kart Aquaverse",
+    "ogTitle": "Semua Tarikan & Wahana Aquaverse | Panduan 9 Zon Filem 2026",
+    "ogDescription": "Terokai semua 9 zon bertema filem di Columbia Pictures Aquaverse. Dari Kubah Air Pertama di Dunia hingga gelongsor air tertinggi di Asia. Panduan wahana lengkap dengan tips.",
+    "twitterTitle": "Semua Tarikan & Wahana Aquaverse | Panduan 9 Zon Filem 2026",
+    "twitterDescription": "Panduan lengkap semua 9 zon di Aquaverse Pattaya. Gelongsor air, kolam ombak, go-kart, onsen & lagi. Rancang lawatan anda hari ini.",
+    "breadcrumbCurrent": "Tarikan &amp; Wahana",
+    "pageHeader": {
+      "h1": "Semua Tarikan &amp; Wahana Aquaverse",
+      "description": "Terokai semua 9 zon bertema filem, 20+ wahana dan tarikan, serta go-kart, mini golf, onsen, dan kabana VIP di Columbia Pictures Aquaverse di Pattaya."
+    },
+    "tldr": [
+      {
+        "bold": "Jumlah Zon:",
+        "text": "9 zon bertema filem &mdash; 7 zon air + go-kart + mini golf"
+      },
+      {
+        "bold": "Wahana Utama:",
+        "text": "Kubah Air Pertama di Dunia (Ghostbusters), Terjunan 18m The Beast (Zombieland), FlowRider (Surf's Up)"
+      },
+      {
+        "bold": "Terbaik untuk Kanak-kanak:",
+        "text": "<a href=\"#hotel-transylvania\">Zon Hotel Transylvania</a> &mdash; Taman air berjenama terbesar di Asia Tenggara"
+      },
+      {
+        "bold": "Terbaik untuk Keseronokan:",
+        "text": "<a href=\"#zombieland\">Zombieland</a> &amp; <a href=\"#ghostbusters\">Ghostbusters</a> zon untuk pencari adrenalin"
+      },
+      {
+        "bold": "Bayaran Tambahan:",
+        "text": "Go-kart (Bad Boys) dan mini golf (Emoji Movie) dikenakan bayaran tambahan; semua lain termasuk dalam <a href=\"/ms/tickets.html\">tiket kemasukan am</a>"
+      },
+      {
+        "bold": "Juga:",
+        "text": "Onsen &amp; bilik stim, kabana VIP (dari THB 2,500), sistem foto gelang tangan RFID"
+      }
+    ],
+    "zoneNav": {
+      "sectionLabel": "Lompat ke Zon",
+      "heading": "9 Zon Bertema Filem",
+      "description": "Klik mana-mana zon untuk terus ke butiran, wahana, dan tips.",
+      "zones": [
+        {
+          "tag": "Kegemaran Kanak-kanak",
+          "name": "Hotel Transylvania",
+          "subtitle": "Taman air kanak-kanak"
+        },
+        {
+          "tag": "Pertama di Dunia",
+          "name": "Ghostbusters",
+          "subtitle": "Wahana mendebarkan Kubah Air"
+        },
+        {
+          "tag": "Ekstrem",
+          "name": "Zombieland",
+          "subtitle": "Terjunan 18m &amp; gelongsor ekstrem"
+        },
+        {
+          "tag": "Pengembaraan",
+          "name": "Jumanji",
+          "subtitle": "Wahana pengembaraan hutan"
+        },
+        {
+          "tag": "Luncur Pro",
+          "name": "Surf's Up",
+          "subtitle": "Simulator FlowRider"
+        },
+        {
+          "tag": "Santai",
+          "name": "Cloudy with a Chance of Meatballs",
+          "subtitle": "Pengembaraan sungai malas"
+        },
+        {
+          "tag": "Go-Kart",
+          "name": "Bad Boys Race Club",
+          "subtitle": "Litar go-kart Miami"
+        },
+        {
+          "tag": "Mini Golf",
+          "name": "The Emoji Movie",
+          "subtitle": "Mini golf dengan hadiah"
+        },
+        {
+          "tag": "Pawagam + Ombak",
+          "name": "Kolam Ombak Mega",
+          "subtitle": "Omnitheatre &amp; konsert"
+        }
+      ]
+    },
+    "zones": [
+      {
+        "tag": "Kegemaran Kanak-kanak",
+        "h2": "Zon Hotel Transylvania",
+        "subtitle": "Taman Air Berjenama Terbesar di Asia Tenggara",
+        "intro": "Zon Hotel Transylvania ialah syurga untuk pelawat muda dan keluarga. Ia merupakan <strong>taman air berjenama terbesar di Asia Tenggara</strong>, menampilkan pelbagai keseronokan berasaskan air yang direka khusus untuk kanak-kanak semua umur. Zon ini bertema sepenuhnya berdasarkan francais filem Hotel Transylvania yang disayangi, menghidupkan dunia Drac yang seram (tetapi mesra keluarga).",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "9 Gelongsor Air Mesra Kanak-kanak",
+            "desc": "Gelongsor lembut direka untuk kanak-kanak pelbagai umur dan tahap keyakinan"
+          },
+          {
+            "name": "Puluhan Ciri Air",
+            "desc": "Kawasan percikan, meriam air, penyembur, baldi terjunan, dan elemen permainan interaktif"
+          },
+          {
+            "name": "2 Baldi Air Terbesar di Thailand",
+            "desc": "Baldi gergasi yang dipenuhi dan ditumpahkan ratusan gelen air ke atas tetamu di bawah"
+          },
+          {
+            "name": "Pesta Buih",
+            "desc": "Pesta buih berjadual sepanjang hari di mana kanak-kanak boleh bermain dalam gunung buih"
+          },
+          {
+            "name": "Perjumpaan Watak",
+            "desc": "Bertemu Drac, Mavis, Blobby, dan watak Hotel Transylvania lain untuk foto dan keseronokan"
+          },
+          {
+            "name": "Roket Air",
+            "desc": "Tembak roket air ke langit dan lihat ia kembali dengan percikan"
+          }
+        ],
+        "highlights": [
+          "👶 Semua Umur Dialu-alukan",
+          "📸 Foto Watak",
+          "🎉 Pesta Buih",
+          "🚀 Roket Air",
+          "✅ Termasuk dalam Tiket"
+        ],
+        "tipContent": "<p><strong>Tip Ibu Bapa:</strong> Zon ini mempunyai kawasan tempat duduk bernaung di sekeliling taman permainan di mana ibu bapa boleh berehat sambil memerhatikan anak-anak bermain. Tiba awal untuk mendapatkan tempat yang baik. Untuk panduan keluarga lengkap, baca <a href=\"/ms/blog/aquaverse-with-kids.html\">panduan Aquaverse bersama kanak-kanak</a> kami.</p>"
+      },
+      {
+        "tag": "Pertama di Dunia",
+        "h2": "Zon Ghostbusters",
+        "subtitle": "Rumah Kubah Air Pertama di Dunia",
+        "intro": "Zon Ghostbusters ialah tempat Aquaverse benar-benar membezakan dirinya daripada setiap taman air lain di dunia. Zon ini menempatkan <strong>Kubah Air Pertama di Dunia</strong>, dikenali sebagai \"Proton Stream\" &mdash; konsep wahana air yang benar-benar unik yang tidak boleh dialami di mana-mana lain di planet ini. Keseluruhan zon direka berdasarkan francais Ghostbusters yang ikonik, lengkap dengan pintu masuk Rumah Bomba yang terkenal.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Proton Stream (Kubah Air Pertama di Dunia)",
+            "desc": "Tarikan utama di mana penunggang meluncur melalui terowong gelap berliku di atas pelampung Ghostbusters sebelum terjun ke dalam kubah air tertutup. Pengalaman satu-satunya di dunia"
+          },
+          {
+            "name": "Pengembaraan Perangkap Hantu",
+            "desc": "Pengalaman wahana gelap interaktif bertema menangkap hantu"
+          },
+          {
+            "name": "Gelongsor Pecut Slimer",
+            "desc": "Gelongsor air berkelajuan tinggi bertema hantu hijau yang ikonik"
+          },
+          {
+            "name": "Gelongsor Air Supernatural Ghostbusters Pertama di Asia",
+            "desc": "Gelongsor bertema ghaib yang eksklusif untuk taman ini"
+          },
+          {
+            "name": "Pelampung Ghostbusters dalam Kegelapan",
+            "desc": "Naik pelampung bertema Ghostbusters khas melalui terowong gelap dengan kesan cahaya"
+          },
+          {
+            "name": "Pintu Masuk Rumah Bomba Ikonik",
+            "desc": "Berjalan melalui replika ibu pejabat Rumah Bomba Ghostbusters"
+          }
+        ],
+        "highlights": [
+          "💥 Tahap Keseronokan: Tinggi",
+          "🔮 Kubah Air Pertama di Dunia",
+          "👻 Wahana Perangkap Hantu",
+          "🌙 Pengalaman Wahana Gelap",
+          "✅ Termasuk dalam Tiket"
+        ],
+        "tipContent": "<p><strong>Wajib Cuba:</strong> Kubah Air Proton Stream ialah tarikan paling unik di Aquaverse dan boleh dikatakan di seluruh Asia Tenggara. Naik pada waktu pagi untuk mengelakkan barisan yang lebih panjang pada waktu petang. Lihat <a href=\"/ms/tips.html\">tips pelawat</a> kami untuk strategi susunan wahana terbaik.</p>"
+      },
+      {
+        "tag": "Ekstrem",
+        "h2": "Zon Zombieland",
+        "subtitle": "Rumah Gelongsor Air Paling Ekstrem di Asia",
+        "intro": "Zon Zombieland ialah tempat pencari adrenalin dan pencari keseronokan akan menemui syurga mereka. Zon ini menempatkan <strong>\"The Beast\"</strong> &mdash; salah satu gelongsor air tertinggi di Asia dengan terjunan menegak 18 meter yang menghentikan degupan jantung. Bertema francais filem Zombieland, keseluruhan zon mempunyai suasana apokaliptik yang sengit direka untuk membuatkan jantung anda berdegup kencang sebelum anda naik gelongsor.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "\"The Beast\" (Terjunan Menegak 18 Meter)",
+            "desc": "Salah satu gelongsor air tertinggi di Asia. Berdiri di atas platform pintu perangkap, lantai jatuh di bawah anda, dan anda terjun hampir tegak ke bawah. Bukan untuk yang lemah semangat"
+          },
+          {
+            "name": "Gelongsor Jatuh Bebas 12 Meter",
+            "desc": "Gelongsor badan curam yang memberikan sensasi jatuh bebas perut bergolak"
+          },
+          {
+            "name": "Gelongsor Pusingan 360 Darjah",
+            "desc": "Gelongsor tiub tertutup sepenuhnya yang memutarkan penunggang melalui gelung 360 darjah lengkap"
+          },
+          {
+            "name": "Gelongsor Badan",
+            "desc": "Gelongsor badan berkelajuan tinggi klasik dengan terjunan curam dan selekoh tajam"
+          },
+          {
+            "name": "Pelumba Tikar",
+            "desc": "Berlumba rakan dan keluarga sebelah-menyebelah di gelongsor tikar berbilang lorong"
+          },
+          {
+            "name": "Kejaran Zombi",
+            "desc": "Pengalaman bertema di mana anda mengemudi melalui laluan yang dipenuhi zombi"
+          }
+        ],
+        "highlights": [
+          "⚡ Keseronokan Ekstrem",
+          "📏 Terjunan Menegak 18m",
+          "🔄 Gelongsor Pusingan 360°",
+          "🏃 Pelumba Tikar",
+          "✅ Termasuk dalam Tiket"
+        ],
+        "tipContent": "<p><strong>Sekatan Ketinggian:</strong> Kebanyakan gelongsor di zon Zombieland memerlukan penunggang sekurang-kurangnya <strong>120 cm (3'11\") tinggi</strong>. The Beast mungkin mempunyai sekatan tambahan. Ketinggian diperiksa di setiap pintu masuk wahana untuk keselamatan.</p>"
+      },
+      {
+        "tag": "Pengembaraan",
+        "h2": "Zon Jumanji",
+        "subtitle": "Masuki Pengembaraan Hutan Liar",
+        "intro": "Masuki dunia Jumanji yang liar, di mana hutan menghidupkan wahana air yang mendebarkan dan tema yang mendalam. Zon Jumanji menghidupkan francais filem pengembaraan dengan pemandangan hutan yang rimbun, ciri air yang bergemuruh, dan gelongsor yang mengepam adrenalin. Zon ini mencapai keseimbangan sempurna antara keseronokan dan kebolehcapaian, menjadikannya sesuai untuk remaja, dewasa, dan kanak-kanak yang lebih besar yang suka mencabar diri.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Gunung Jaguar",
+            "desc": "Wahana utama zon ini. Panjat ke puncak gunung hutan dan turun melalui gelongsor berliku dikelilingi oleh air terjun dan dedaunan tropika"
+          },
+          {
+            "name": "Gelongsor Viper",
+            "desc": "Gelongsor tiub tertutup berliku yang meniru pergerakan ular melalui hutan"
+          },
+          {
+            "name": "Serangan Hutan",
+            "desc": "Wahana rakit berbilang orang yang menghantar kumpulan meredah jeram bersama"
+          },
+          {
+            "name": "Kolam Percikan Kejaran Mandril",
+            "desc": "Kolam percikan di bawah di mana mandril animatronik \"mengejar\" penunggang ke dalam air"
+          }
+        ],
+        "highlights": [
+          "🌿 Tema Hutan Mendalam",
+          "🏔️ Gunung Jaguar",
+          "🐍 Gelongsor Viper",
+          "👨‍👩‍👧‍👦 Sesuai untuk Kumpulan",
+          "✅ Termasuk dalam Tiket"
+        ],
+        "tipContent": "<p><strong>Tip:</strong> Wahana rakit Serangan Hutan paling menyeronokkan dengan kumpulan penuh. Jika anda melawat secara berpasangan atau sendirian, anda mungkin akan digandingkan dengan tetamu lain untuk mengisi rakit, yang merupakan sebahagian daripada keseronokan!</p>"
+      },
+      {
+        "tag": "Luncur Pro",
+        "h2": "Zon Surf's Up",
+        "subtitle": "Simulator Luncur FlowRider dengan Arahan Profesional",
+        "intro": "Rasai keseronokan meluncur di simulator FlowRider di zon Surf's Up! Bertema filem animasi meluncur, zon ini menawarkan peluang untuk merasai pengalaman luncur ombak sebenar dalam persekitaran yang selamat dan terkawal sepenuhnya. Sama ada anda pemula atau peluncur berpengalaman, <strong>pengajar profesional sedia membantu</strong> membimbing anda dan membantu anda menangkap ombak sempurna. Nota: tarikan ini memerlukan bayaran tambahan.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Mesin Luncur FlowRider Double 40 Kaki",
+            "desc": "Simulator luncur berganda canggih yang menghasilkan ombak berterusan untuk luncur berdiri dan papan boogie"
+          },
+          {
+            "name": "Arahan Luncur Profesional",
+            "desc": "Pengajar bertauliah akan mengajar anda cara mengimbang, menangkap ombak, dan meluncur seperti profesional"
+          },
+          {
+            "name": "Papan Boogie",
+            "desc": "Pilihan yang baik untuk pemula yang ingin menunggang ombak sambil berbaring atau berlutut di atas papan"
+          }
+        ],
+        "highlights": [
+          "🏄 FlowRider",
+          "👨‍🏫 Arahan Pro Percuma",
+          "🤙 Papan Boogie",
+          "📷 Tempat Foto Hebat",
+          "💰 Bayaran Tambahan Diperlukan"
+        ],
+        "tipContent": "<p><strong>Bayaran Tambahan:</strong> Simulator luncur FlowRider memerlukan <strong>bayaran tambahan</strong> selain tiket kemasukan am. Bayar di zon menggunakan gelang tangan RFID anda. Cuba pergi sebaik sahaja taman dibuka untuk mengelakkan barisan yang lebih panjang pada waktu petang.</p>"
+      },
+      {
+        "tag": "Santai",
+        "h2": "Zon Cloudy with a Chance of Meatballs",
+        "subtitle": "Pengembaraan Sungai Swallow Falls &amp; Sungai Malas",
+        "intro": "Berehat daripada keseronokan dan terapung di sepanjang <strong>Pengembaraan Sungai Swallow Falls</strong>, sungai malas bertema Aquaverse. Saluran air yang lembut dan berliku-liku ini membawa anda melalui pemandangan yang diilhamkan oleh filem animasi, dikelilingi oleh arca makanan gergasi dan Foodimals pelik dari filem tersebut. Ia cara yang sempurna untuk berehat, menyejukkan diri, dan mengecas semula antara wahana yang lebih sengit.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Pengembaraan Sungai Swallow Falls (335 meter)",
+            "desc": "Sungai malas bertema sepanjang 335 meter yang berliku melalui pemandangan bertema makanan dari filem. Ambil tiub pelampung dan hanyut mengikut kadar anda sendiri"
+          },
+          {
+            "name": "Foodimals Pelik",
+            "desc": "Hibrid haiwan-makanan animatronik berwarna-warni dari filem yang diletakkan di sepanjang laluan sungai untuk peluang foto"
+          },
+          {
+            "name": "Pengalaman Bertema Makanan",
+            "desc": "Ciri air interaktif yang direka untuk kelihatan seperti item makanan bersaiz besar yang menyembur dan memercik penunggang"
+          }
+        ],
+        "highlights": [
+          "🛟 Sungai Malas",
+          "🍔 Pemandangan Bertema Makanan",
+          "😌 Terapung Santai",
+          "👶 Semua Umur",
+          "✅ Termasuk dalam Tiket"
+        ],
+        "tipContent": "<p><strong>Tip:</strong> Sungai malas ialah rehat tengah hari yang hebat. Tiub pelampung tersedia di titik masuk &mdash; ambil satu dan masuk sahaja. Satu pusingan mengambil masa kira-kira 15-20 minit dan anda boleh berulang sebanyak kali yang anda mahu.</p>"
+      },
+      {
+        "tag": "Go-Kart &middot; Bayaran Tambahan",
+        "h2": "Bad Boys Race Club",
+        "subtitle": "Litar Lumba Go-Kart Bertema Miami",
+        "intro": "Turun dari gelongsor air dan naik ke litar lumba di <strong>Bad Boys Race Club</strong>. Bertema francais aksi Bad Boys, zon ini menawarkan lumba go-kart berkelajuan tinggi di litar bertema Miami. Ini adalah salah satu tarikan bukan air yang menjadikan Aquaverse lebih daripada sekadar taman air &mdash; ia merupakan destinasi hiburan penuh.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Litar Go-Kart Bertema Miami 500 Meter",
+            "desc": "Litar lumba reka bentuk khas sepanjang 500 meter dengan selekoh, pusingan, dan jalan lurus diilhamkan oleh jalan-jalan Miami"
+          },
+          {
+            "name": "Go-Kart Khas (Sehingga 80 km/j)",
+            "desc": "Kart dibina khas yang mencapai kelajuan sehingga 80 km/j dengan tetapan boleh laras untuk tahap kemahiran berbeza"
+          },
+          {
+            "name": "Basikal Drift",
+            "desc": "Basikal khusus yang direka untuk drifting terkawal di litar khusus"
+          }
+        ],
+        "highlights": [
+          "🏎️ Go-Kart",
+          "🏁 Tema Miami",
+          "🛞 Basikal Drift",
+          "💰 Bayaran Tambahan Diperlukan"
+        ],
+        "tipContent": "<p><strong>Bayaran Tambahan:</strong> Bad Boys Race Club <strong>tidak termasuk</strong> dalam tiket kemasukan am. Sesi go-kart dan tunggangan basikal drift dikenakan bayaran berasingan di tempat. Anda boleh membayar menggunakan kredit yang diisi pada gelang tangan RFID anda.</p>"
+      },
+      {
+        "tag": "Mini Golf &middot; Bayaran Tambahan",
+        "h2": "Zon The Emoji Movie",
+        "subtitle": "Mini Golf Kreatif dengan Hadiah",
+        "intro": "Berehat daripada air dengan satu pusingan mini golf di <strong>zon The Emoji Movie</strong>. Padang mini golf bertema emoji yang berwarna-warni ini memaparkan halangan dan cabaran kreatif yang diilhamkan oleh dunia di dalam telefon anda. Bertanding dengan rakan dan keluarga untuk skor terbaik, dan pemain terbaik boleh memenangi hadiah!",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Padang Mini Golf Bertema Emoji 9 Lubang",
+            "desc": "Padang mini golf 9 lubang dengan halangan unik yang dihiasi watak emoji dan tema dunia telefon"
+          },
+          {
+            "name": "Halangan Kreatif",
+            "desc": "Setiap lubang memaparkan cabaran bertema berbeza yang menguji kemahiran putting anda"
+          },
+          {
+            "name": "Sistem Hadiah",
+            "desc": "Skor cukup baik dan anda boleh memenangi hadiah di akhir pusingan anda"
+          }
+        ],
+        "highlights": [
+          "⛳ Mini Golf",
+          "🏆 Menangi Hadiah",
+          "👨‍👩‍👧‍👦 Semua Umur",
+          "💰 Bayaran Tambahan Diperlukan"
+        ],
+        "tipContent": "<p><strong>Bayaran Tambahan:</strong> Mini golf di zon The Emoji Movie <strong>tidak termasuk</strong> dalam tiket kemasukan am dan memerlukan bayaran tambahan dibayar di tempat. Sesuai untuk rehat kering apabila anda perlukan rehat daripada air.</p>"
+      },
+      {
+        "tag": "Pawagam + Ombak",
+        "h2": "Kolam Ombak Mega Omnitheatre",
+        "subtitle": "Ombak, Filem, Konsert &amp; Pesta Buih",
+        "intro": "<strong>Kolam Ombak Mega Omnitheatre</strong> ialah jantung Aquaverse yang berdenyut. Kolam ombak besar ini menghasilkan <strong>ombak mega setiap 20 minit</strong>, dan berfungsi ganda sebagai tempat hiburan luar dengan skrin LED gergasi dan Bunyi Keliling Dolby DTS. Sepanjang hari (dan semasa acara malam khas), Omnitheatre menjadi tuan rumah tayangan filem luar, konsert langsung, dan pesta buih yang epik.",
+        "keyAttractionsLabel": "Tarikan Utama",
+        "attractions": [
+          {
+            "name": "Kolam Ombak Mega",
+            "desc": "Kolam besar yang menghasilkan ombak besar setiap 20 minit untuk luncur badan, terapung, dan bermain percikan"
+          },
+          {
+            "name": "Pesta Buih",
+            "desc": "Letupan buih berjadual yang menukarkan kawasan kolam ombak menjadi pesta buih besar-besaran"
+          },
+          {
+            "name": "Tayangan Filem Luar",
+            "desc": "Tonton filem di skrin LED gergasi sambil terapung di kolam ombak"
+          },
+          {
+            "name": "Konsert Langsung &amp; Set DJ",
+            "desc": "Persembahan muzik langsung dan acara DJ secara berkala, terutamanya pada hujung minggu dan cuti"
+          },
+          {
+            "name": "Bunyi Keliling Dolby DTS",
+            "desc": "Sistem audio gred profesional yang menyampaikan bunyi berkualiti pawagam di seluruh tempat"
+          },
+          {
+            "name": "Skrin LED Gergasi",
+            "desc": "Pelbagai skrin LED definisi tinggi yang boleh dilihat dari mana-mana sahaja di kolam ombak"
+          }
+        ],
+        "highlights": [
+          "🌊 Ombak Mega Setiap 20 Min",
+          "🎬 Pawagam Luar",
+          "🎸 Konsert Langsung",
+          "🎉 Pesta Buih",
+          "✅ Termasuk dalam Tiket"
+        ],
+        "tipContent": "<p><strong>Tip:</strong> Kolam ombak ialah kawasan paling popular di taman, terutamanya pada waktu petang. Ambil pelampung anda awal dan dapatkan tempat. Semak papan jadual harian di pintu masuk untuk waktu pesta buih dan tayangan filem. Acara malam pada hujung minggu amat mengagumkan.</p>"
+      }
+    ],
+    "extras": {
+      "sectionLabel": "Lebih Dari Zon",
+      "heading": "Tarikan &amp; Perkhidmatan Tambahan",
+      "description": "Aquaverse menawarkan lebih daripada sekadar wahana air. Berehat di onsen, tempah kabana VIP, dan abadikan setiap detik dengan sistem foto RFID.",
+      "items": [
+        {
+          "h3": "Onsen &amp; Bilik Stim",
+          "content": "<p>Berehat di <strong>onsen (mandian air panas) dan bilik stim</strong> gaya Jepun Aquaverse. Selepas satu hari penuh gelongsor air dan kolam ombak, tiada cara yang lebih baik untuk merehatkan otot yang penat dan mengakhiri lawatan anda dengan nota yang menenangkan. Kawasan onsen terpisah dari zon taman air utama dan menyediakan suasana yang lebih tenang dan tenteram.</p>\n            <p>Ini ciri unik yang membezakan Aquaverse daripada taman air lain di rantau ini &mdash; sedikit taman air yang menawarkan pengalaman onsen tulen bersama wahana mendebarkan mereka.</p>",
+          "highlights": [
+            "♨️ Mandian Air Panas",
+            "💨 Bilik Stim",
+            "✅ Termasuk dalam Tiket"
+          ]
+        },
+        {
+          "h3": "Kabana VIP",
+          "content": "<p>Naik taraf pengalaman Aquaverse anda dengan <strong>kabana VIP peribadi</strong>. Nikmati kawasan bernaung eksklusif dengan tempat duduk yang selesa, storan untuk barang-barang anda, dan perkhidmatan khusus. Tiga peringkat tersedia:</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Kabana Deluxe</strong> &mdash; THB 2,500/hari &mdash; Kawasan bernaung, tempat duduk, loker, tuala</li>\n              <li><strong>Kabana Super Deluxe</strong> &mdash; THB 3,000/hari &mdash; Ruang lebih besar, tempat duduk premium, minuman termasuk</li>\n              <li><strong>Kabana VIP</strong> &mdash; THB 3,500/hari &mdash; Pakej tertinggi dengan lokasi terbaik, kredit makanan &amp; minuman, perkhidmatan keutamaan</li>\n            </ul>",
+          "highlights": [
+            "🏖️ Naung Peribadi",
+            "🍹 Perkhidmatan Minuman",
+            "💰 Dari THB 2,500"
+          ]
+        },
+        {
+          "h3": "Sistem Foto &amp; Video Gelang Tangan RFID",
+          "content": "<p>Setiap tetamu di Aquaverse menerima <strong>gelang tangan RFID</strong> yang bukan sekadar memberi akses ke taman. Gelang tangan ini berfungsi sebagai <strong>sistem pembayaran tanpa tunai</strong> (isi kredit untuk membeli makanan, minuman, dan tambahan tanpa membawa wang tunai) dan juga bersambung dengan <strong>sistem foto dan video automatik</strong> taman.</p>\n            <p>Kamera yang diletakkan di momen utama wahana secara automatik menangkap reaksi anda di gelongsor dan tarikan. Di akhir hari, anda boleh melihat dan membeli semua foto dan video yang dikaitkan dengan gelang tangan anda &mdash; cara hebat untuk membawa pulang kenangan momen terbaik anda.</p>",
+          "highlights": [
+            "📸 Foto Wahana Auto",
+            "🎥 Rakaman Video",
+            "💳 Pembayaran Tanpa Tunai"
+          ]
+        },
+        {
+          "h3": "Sekatan Ketinggian",
+          "content": "<p>Untuk keselamatan tetamu, gelongsor air dan tarikan tertentu di Aquaverse mempunyai <strong>keperluan ketinggian minimum</strong>. Ketinggian diukur dan diperiksa di setiap pintu masuk wahana. Panduan utama:</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Bawah 100 cm:</strong> Zon Hotel Transylvania, sungai malas, dan kolam ombak (dengan jaket keselamatan)</li>\n              <li><strong>100-120 cm:</strong> Kebanyakan wahana Jumanji, beberapa gelongsor Ghostbusters, Surf's Up (dengan pengajar)</li>\n              <li><strong>120 cm+:</strong> Diperlukan untuk gelongsor ekstrem Zombieland (The Beast, pusingan 360 darjah, jatuh bebas)</li>\n              <li><strong>Semua umur:</strong> Sungai malas, kolam ombak, onsen, mini golf, perjumpaan watak</li>\n            </ul>\n            <p style=\"margin-top: 0.5rem;\">Jaket keselamatan tersedia secara percuma untuk tetamu yang lebih muda dan bukan perenang. Baca <a href=\"/ms/blog/aquaverse-with-kids.html\">panduan keluarga</a> kami untuk cadangan umur terperinci mengikut zon.</p>",
+          "highlights": [
+            "📏 Diperiksa di Setiap Wahana",
+            "🦺 Jaket Keselamatan Percuma",
+            "👶 Zon Kanak-kanak Tersedia"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "sectionLabel": "Soalan Lazim",
+      "heading": "FAQ Tarikan",
+      "description": "Soalan lazim tentang wahana, zon, dan tarikan di Aquaverse.",
+      "items": [
+        {
+          "question": "Berapa banyak zon yang ada di Aquaverse?",
+          "answer": "<p>Aquaverse mempunyai <strong>9 zon bertema filem</strong>: Hotel Transylvania (kanak-kanak), Ghostbusters (mendebarkan), Zombieland (ekstrem), Jumanji (pengembaraan), Surf's Up (luncur), Cloudy with a Chance of Meatballs (sungai malas), Bad Boys Race Club (go-kart), The Emoji Movie (mini golf), dan Kolam Ombak Mega Omnitheatre. Tujuh zon berasaskan air dan termasuk dalam tiket kemasukan am. Dua zon (go-kart dan mini golf) ialah aktiviti kering dengan bayaran tambahan.</p>"
+        },
+        {
+          "question": "Apakah wahana paling menakutkan di Aquaverse?",
+          "answer": "<p><strong>The Beast</strong> di zon Zombieland ialah wahana paling ekstrem. Ia memaparkan terjunan menegak 18 meter di mana lantai jatuh dari bawah anda. Zon ini juga mempunyai gelongsor jatuh bebas 12 meter dan gelongsor pusingan 360 darjah. Ketiga-tiganya dikhaskan untuk pelawat paling berani dan memerlukan ketinggian minimum 120 cm.</p>"
+        },
+        {
+          "question": "Adakah sekatan ketinggian di Aquaverse?",
+          "answer": "<p>Ya. Kebanyakan wahana mendebarkan di zon Zombieland dan Ghostbusters memerlukan penunggang sekurang-kurangnya <strong>120 cm tinggi</strong>. Zon Hotel Transylvania direka untuk semua umur tanpa sekatan ketinggian. Ketinggian dipasang dengan jelas dan diperiksa di setiap pintu masuk wahana. Jaket keselamatan percuma tersedia untuk tetamu yang lebih muda.</p>\n                <p><a href=\"/ms/blog/aquaverse-with-kids.html\">Baca panduan keluarga lengkap kami untuk butiran &rarr;</a></p>"
+        },
+        {
+          "question": "Tarikan apa yang dikenakan bayaran tambahan di Aquaverse?",
+          "answer": "<p>Kebanyakan tarikan termasuk dalam tiket kemasukan am. Dua zon memerlukan bayaran tambahan:</p>\n                <ul>\n                  <li><strong>Bad Boys Race Club</strong> &mdash; Go-kart dan basikal drift</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; Mini golf</li>\n                </ul>\n                <p>Kabana VIP juga tambahan: Deluxe (THB 2,500), Super Deluxe (THB 3,000), dan VIP (THB 3,500). Pakej foto/video gelang tangan RFID boleh dibeli di akhir lawatan anda.</p>\n                <p><a href=\"/ms/tickets.html\">Lihat semua pilihan tiket dan harga &rarr;</a></p>"
+        },
+        {
+          "question": "Apakah Kubah Air Pertama di Dunia?",
+          "answer": "<p><strong>Kubah Air Proton Stream</strong> di zon Ghostbusters ialah tarikan pertama di dunia yang eksklusif untuk Aquaverse. Penunggang menaiki pelampung bertema Ghostbusters dan meluncur melalui terowong gelap berliku dengan kesan cahaya sebelum terjun ke dalam kubah air tertutup. Tiada yang serupa di mana-mana taman air lain di dunia.</p>"
+        },
+        {
+          "question": "Adakah Aquaverse mempunyai sungai malas?",
+          "answer": "<p>Ya! <strong>Zon Cloudy with a Chance of Meatballs</strong> memaparkan Pengembaraan Sungai Swallow Falls, sungai malas bertema di mana anda terapung melepasi Foodimals pelik dan pemandangan bertema makanan dari filem. Tiub pelampung tersedia di titik masuk. Satu pusingan mengambil masa kira-kira 15-20 minit dan anda boleh menunggang sebanyak kali yang anda mahu.</p>"
+        }
+      ],
+      "viewAll": "Lihat Semua Soalan Lazim &rarr;"
+    },
+    "cta": {
+      "heading": "Sedia untuk Menakluki Semua 9 Zon?",
+      "text": "Tempah tiket Aquaverse anda dalam talian dan jimat lebih 25%. Semua zon air, kolam ombak, sungai malas, onsen &mdash; termasuk dalam satu tiket dari sekitar THB 1,200 (semak harga terkini).",
+      "button": "Tempah Tiket Diskaun Sekarang &rarr;",
+      "link": "Lihat semua pilihan tiket &amp; tawaran kombo &rarr;"
+    },
+    "schema": {
+      "name": "Columbia Pictures Aquaverse - Tarikan & Wahana",
+      "alternateName": [
+        "Tarikan Aquaverse",
+        "Wahana Aquaverse",
+        "Zon Aquaverse"
+      ],
+      "description": "Semua 9 zon bertema filem dan tarikan di taman air Columbia Pictures Aquaverse di Pattaya, Thailand. Memaparkan Kubah Air Pertama di Dunia, gelongsor air tertinggi di Asia, FlowRider, kolam ombak, go-kart, mini golf, dan onsen.",
+      "touristType": [
+        "Keluarga",
+        "Pencari Keseronokan",
+        "Peminat Filem",
+        "Kanak-kanak"
+      ],
+      "containsPlace": [
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon Hotel Transylvania",
+          "description": "Taman air berjenama terbesar di Asia Tenggara dengan 9 gelongsor air mesra kanak-kanak, puluhan ciri air, dan perjumpaan watak."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon Ghostbusters",
+          "description": "Rumah Kubah Air Pertama di Dunia (Proton Stream), Pengembaraan Perangkap Hantu, dan Gelongsor Air Supernatural Ghostbusters Pertama di Asia."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon Zombieland",
+          "description": "Memaparkan The Beast, salah satu gelongsor air tertinggi di Asia dengan terjunan menegak 18 meter, ditambah gelongsor pusingan 360 darjah dan pelumba tikar."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon Jumanji",
+          "description": "Zon pengembaraan hutan dengan Gunung Jaguar, gelongsor Viper, dan wahana air Serangan Hutan."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon Surf's Up",
+          "description": "Simulator luncur FlowRider Double 40 kaki dengan arahan profesional untuk papan boogie dan luncur. Bayaran tambahan diperlukan."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon Cloudy with a Chance of Meatballs",
+          "description": "Pengembaraan Sungai Swallow Falls sungai malas dengan Foodimals pelik dan pengalaman bertema makanan."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Bad Boys Race Club",
+          "description": "Litar go-kart bertema Miami dengan kart reka bentuk khas dan basikal drift. Bayaran tambahan diperlukan."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zon The Emoji Movie",
+          "description": "Padang mini golf kreatif 9 lubang dengan halangan dan sistem hadiah. Bayaran tambahan diperlukan."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Kolam Ombak Mega Omnitheatre",
+          "description": "Ombak mega setiap 20 minit dengan pesta buih, tayangan filem luar, konsert langsung, Bunyi Keliling Dolby DTS, dan skrin LED gergasi."
+        }
+      ]
+    }
   }
 }

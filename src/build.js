@@ -42,10 +42,17 @@ const PAGE_CONFIGS = {
     template: 'pages/faq.njk',
     slug: 'faq.html',
   },
+  attractions: {
+    template: 'pages/attractions.njk',
+    slug: 'attractions.html',
+  },
 };
 
 // Load home page data (non-translatable)
 const HOME_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'home.json'), 'utf8'));
+
+// Load attractions page data (non-translatable)
+const ATTRACTIONS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'attractions.json'), 'utf8'));
 
 // Footer guide blog post slugs (same order as labels in i18n files)
 const FOOTER_GUIDES_SLUGS = [
@@ -172,6 +179,11 @@ function buildPage(pageKey, pageConfig) {
       schemaHomeFaq = buildHomeFaqSchema(t.home.faq.items);
     }
 
+    let schemaAttractionsFaq = null;
+    if (pageKey === 'attractions' && t.attractions && t.attractions.faq && t.attractions.faq.items) {
+      schemaAttractionsFaq = buildHomeFaqSchema(t.attractions.faq.items);
+    }
+
     const context = {
       site: SITE,
       lang,
@@ -181,6 +193,8 @@ function buildPage(pageKey, pageConfig) {
       schemaFaq,
       schemaHomeFaq,
       homeData: HOME_DATA,
+      attractionsData: ATTRACTIONS_DATA,
+      schemaAttractionsFaq,
       stickyPrice,
       stickyOriginalPrice,
       stickyPriceFormatted: formatNumber(stickyPrice),

@@ -1,0 +1,15 @@
+{
+  "zones": [
+    {"id": "hotel-transylvania", "cssClass": "zone-hotel-t",   "gray": true,  "tipStyle": "default"},
+    {"id": "ghostbusters",       "cssClass": "zone-ghostbusters","gray": false, "tipStyle": "default"},
+    {"id": "zombieland",         "cssClass": "zone-zombieland",  "gray": true,  "tipStyle": "danger"},
+    {"id": "jumanji",            "cssClass": "zone-jumanji",     "gray": false, "tipStyle": "default"},
+    {"id": "surfs-up",           "cssClass": "zone-surfs-up",    "gray": true,  "tipStyle": "default"},
+    {"id": "cloudy",             "cssClass": "zone-cloudy",      "gray": false, "tipStyle": "default"},
+    {"id": "bad-boys",           "cssClass": "zone-bad-boys",    "gray": true,  "tipStyle": "warning"},
+    {"id": "emoji",              "cssClass": "zone-emoji",       "gray": false, "tipStyle": "warning"},
+    {"id": "wave-pool",          "cssClass": "zone-wave-pool",   "gray": true,  "tipStyle": "default"}
+  ],
+  "extraIds":    ["onsen",  "cabanas", "rfid",  "height-restrictions"],
+  "extraEmojis": ["♨️",    "🏖️",    "📸",    "📏"]
+}

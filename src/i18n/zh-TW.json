@@ -946,5 +946,553 @@
         }
       ]
     }
+  },
+  "attractions": {
+    "title": "Aquaverse 全部遊樂設施與滑道 | 9大電影主題區完整指南 2026",
+    "metaDescription": "Columbia Pictures Aquaverse 芭提雅全部9大電影主題區完整指南。精靈旅社兒童區、捉鬼敢死隊水穹頂、喪屍樂園18米垂直落差、勇敢者遊戲叢林冒險、造浪池、卡丁車、溫泉等。",
+    "metaKeywords": "Aquaverse遊樂設施, Aquaverse滑道, Aquaverse主題區, 捉鬼敢死隊水穹頂, 喪屍樂園滑道, 精靈旅社水上樂園, 勇敢者遊戲Aquaverse, Aquaverse造浪池, FlowRider Aquaverse, Aquaverse卡丁車",
+    "ogTitle": "Aquaverse 全部遊樂設施與滑道 | 9大電影主題區完整指南 2026",
+    "ogDescription": "探索 Columbia Pictures Aquaverse 全部9大電影主題區。從全球首創水穹頂到亞洲最高水滑道，完整遊樂設施指南與攻略。",
+    "twitterTitle": "Aquaverse 全部遊樂設施與滑道 | 9大電影主題區完整指南 2026",
+    "twitterDescription": "Aquaverse 芭提雅全部9大主題區完整指南。水滑道、造浪池、卡丁車、溫泉等，立即規劃您的行程。",
+    "breadcrumbCurrent": "遊樂設施",
+    "pageHeader": {
+      "h1": "Aquaverse 全部遊樂設施與滑道",
+      "description": "探索 Columbia Pictures Aquaverse 芭提雅全部9大電影主題區、20+遊樂設施，以及卡丁車、迷你高爾夫、溫泉和VIP包廂。"
+    },
+    "tldr": [
+      {
+        "bold": "主題區總數：",
+        "text": "9個電影主題區 &mdash; 7個水上區 + 卡丁車 + 迷你高爾夫"
+      },
+      {
+        "bold": "必玩項目：",
+        "text": "全球首創水穹頂（捉鬼敢死隊）、18米垂直落差巨獸（喪屍樂園）、FlowRider衝浪模擬器（衝浪季節）"
+      },
+      {
+        "bold": "最適合兒童：",
+        "text": "<a href=\"#hotel-transylvania\">精靈旅社區</a> &mdash; 東南亞最大品牌兒童水上遊樂場"
+      },
+      {
+        "bold": "最適合追求刺激：",
+        "text": "<a href=\"#zombieland\">喪屍樂園</a>和<a href=\"#ghostbusters\">捉鬼敢死隊</a>區，腎上腺素飆升"
+      },
+      {
+        "bold": "額外付費：",
+        "text": "卡丁車（絕地戰警）和迷你高爾夫（表情奇幻世界）需額外付費；其餘全部包含在<a href=\"/zh-TW/tickets.html\">門票</a>中"
+      },
+      {
+        "bold": "其他：",
+        "text": "溫泉和蒸氣室、VIP包廂（THB 2,500起）、RFID手環拍照系統"
+      }
+    ],
+    "zoneNav": {
+      "sectionLabel": "跳至主題區",
+      "heading": "9大電影主題區",
+      "description": "點擊任一主題區，直接查看詳細介紹、遊樂設施和攻略。",
+      "zones": [
+        {
+          "tag": "兒童最愛",
+          "name": "精靈旅社",
+          "subtitle": "兒童水上遊樂場"
+        },
+        {
+          "tag": "全球首創",
+          "name": "捉鬼敢死隊",
+          "subtitle": "水穹頂驚險滑道"
+        },
+        {
+          "tag": "極限",
+          "name": "喪屍樂園",
+          "subtitle": "18米垂直落差極限滑道"
+        },
+        {
+          "tag": "冒險",
+          "name": "勇敢者遊戲",
+          "subtitle": "叢林冒險滑道"
+        },
+        {
+          "tag": "專業衝浪",
+          "name": "衝浪季節",
+          "subtitle": "FlowRider衝浪模擬器"
+        },
+        {
+          "tag": "休閒放鬆",
+          "name": "天降美食",
+          "subtitle": "主題漂流河"
+        },
+        {
+          "tag": "卡丁車",
+          "name": "絕地戰警賽車俱樂部",
+          "subtitle": "邁阿密卡丁車賽道"
+        },
+        {
+          "tag": "迷你高爾夫",
+          "name": "表情奇幻世界",
+          "subtitle": "迷你高爾夫贏獎品"
+        },
+        {
+          "tag": "影院 + 巨浪",
+          "name": "巨型造浪池",
+          "subtitle": "全景劇場與演唱會"
+        }
+      ]
+    },
+    "zones": [
+      {
+        "tag": "兒童最愛",
+        "h2": "精靈旅社主題區（Hotel Transylvania Zone）",
+        "subtitle": "東南亞最大品牌兒童水上遊樂場",
+        "intro": "精靈旅社區是小朋友和家庭的天堂。這裡是<strong>東南亞最大的品牌兒童水上遊樂場</strong>，擁有專為各年齡兒童設計的豐富水上遊樂設施。整個區域以深受喜愛的《乖尖叫旅社》（Hotel Transylvania）電影系列為主題，將德古拉的奇趣世界栩栩如生地呈現在眼前。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "9條兒童水滑道",
+            "desc": "專為不同年齡和膽量的兒童設計的溫和滑道"
+          },
+          {
+            "name": "數十項水上設施",
+            "desc": "戲水區、水砲、噴水器、翻斗水桶和互動遊樂元素"
+          },
+          {
+            "name": "泰國最大翻斗水桶 x 2",
+            "desc": "巨型水桶裝滿水後傾倒，數百加侖的水瞬間傾瀉而下"
+          },
+          {
+            "name": "泡沫派對",
+            "desc": "全天多時段舉辦泡沫派對，小朋友可以在泡沫堆中盡情玩耍"
+          },
+          {
+            "name": "角色互動合影",
+            "desc": "與德古拉、梅維斯、布洛比等精靈旅社角色近距離互動合影"
+          },
+          {
+            "name": "水火箭",
+            "desc": "將水火箭發射到空中，觀看它們濺落回水面"
+          }
+        ],
+        "highlights": [
+          "👶 適合所有年齡",
+          "📸 角色合影",
+          "🎉 泡沫派對",
+          "🚀 水火箭",
+          "✅ 包含在門票中"
+        ],
+        "tipContent": "<p><strong>家長貼士：</strong>本區設有遮陽座位區，家長可以在此放鬆休息，同時看顧孩子玩耍。建議早到佔個好位子。完整親子攻略請參閱我們的<a href=\"/zh-TW/blog/aquaverse-with-kids.html\">帶娃遊 Aquaverse 指南</a>。</p>"
+      },
+      {
+        "tag": "全球首創",
+        "h2": "捉鬼敢死隊主題區（Ghostbusters Zone）",
+        "subtitle": "全球首創水穹頂所在地",
+        "intro": "捉鬼敢死隊區是 Aquaverse 真正脫穎而出的地方。這裡擁有<strong>全球首創水穹頂</strong>，被稱為「質子流」（Proton Stream）&mdash; 一個全球獨一無二的水上遊樂設施，您在地球上任何其他地方都無法體驗到。整個區域圍繞經典《魔鬼剋星》（Ghostbusters）系列打造，包括著名的消防站入口。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "質子流（全球首創水穹頂）",
+            "desc": "標誌性設施，遊客乘坐捉鬼敢死隊主題浮圈在黑暗中急速穿越彎道，最後衝入巨大的封閉式水穹頂。獨一無二的體驗"
+          },
+          {
+            "name": "幽靈陷阱冒險",
+            "desc": "以捉鬼為主題的互動暗黑遊樂體驗"
+          },
+          {
+            "name": "史萊姆極速滑道",
+            "desc": "以經典綠色幽靈為主題的高速水滑道"
+          },
+          {
+            "name": "亞洲首條捉鬼敢死隊超自然水滑道",
+            "desc": "本樂園獨有的超自然主題滑道"
+          },
+          {
+            "name": "黑暗中的捉鬼敢死隊浮圈",
+            "desc": "乘坐捉鬼敢死隊主題浮圈穿越帶有燈光效果的黑暗隧道"
+          },
+          {
+            "name": "經典消防站入口",
+            "desc": "漫步穿過捉鬼敢死隊消防站總部的還原場景"
+          }
+        ],
+        "highlights": [
+          "💥 驚險度：高",
+          "🔮 全球首創水穹頂",
+          "👻 幽靈陷阱",
+          "🌙 暗黑遊樂體驗",
+          "✅ 包含在門票中"
+        ],
+        "tipContent": "<p><strong>必玩：</strong>質子流水穹頂是 Aquaverse 最獨特的設施，也可以說是全東南亞最獨特的。建議一早入園第一個體驗，避開午後更長的排隊時間。查看我們的<a href=\"/zh-TW/tips.html\">遊玩攻略</a>了解最佳遊玩順序。</p>"
+      },
+      {
+        "tag": "極限",
+        "h2": "喪屍樂園主題區（Zombieland Zone）",
+        "subtitle": "亞洲最極限水滑道所在地",
+        "intro": "喪屍樂園區是追求腎上腺素飆升的刺激愛好者的天堂。這裡擁有<strong>「巨獸」（The Beast）</strong>&mdash; 亞洲最高水滑道之一，令人心跳驟停的18米垂直落差。以《乖乖屍樂園》（Zombieland）電影系列為主題，整個區域營造出緊張的末日氛圍，讓您在踏上滑道之前心跳就已加速。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "「巨獸」（18米垂直落差）",
+            "desc": "亞洲最高水滑道之一。站在活板門平台上，腳下地板瞬間打開，幾乎垂直急速墜落。膽小者勿入"
+          },
+          {
+            "name": "12米自由落體滑道",
+            "desc": "陡峭的身體滑道，帶來失重般的自由落體感受"
+          },
+          {
+            "name": "360度旋轉滑道",
+            "desc": "全封閉管道滑道，遊客在管內完成完整的360度迴旋"
+          },
+          {
+            "name": "身體滑道",
+            "desc": "經典高速身體滑道，配有陡峭落差和急彎"
+          },
+          {
+            "name": "競速墊滑道",
+            "desc": "與朋友家人並排競速的多道墊板滑道"
+          },
+          {
+            "name": "喪屍追逐",
+            "desc": "在喪屍出沒的路線中穿越的主題體驗"
+          }
+        ],
+        "highlights": [
+          "⚡ 極限刺激",
+          "📏 18米垂直落差",
+          "🔄 360度旋轉",
+          "🏃 競速墊滑道",
+          "✅ 包含在門票中"
+        ],
+        "tipContent": "<p><strong>身高限制：</strong>喪屍樂園區大多數滑道要求遊客身高至少<strong>120公分（3呎11吋）</strong>。「巨獸」可能有額外限制。各設施入口處均有安全人員進行身高檢測。</p>"
+      },
+      {
+        "tag": "冒險",
+        "h2": "勇敢者遊戲主題區（Jumanji Zone）",
+        "subtitle": "踏入狂野叢林冒險",
+        "intro": "踏入《乖野蠻遊戲》（Jumanji）的未馴世界，叢林在這裡活了過來，充滿驚險的水上設施和沉浸式主題佈景。勇敢者遊戲區以蔥鬱的叢林景觀、澎湃的水上設施和令人腎上腺素飆升的滑道，將冒險電影系列栩栩如生地呈現。這個區域在刺激和可及性之間取得了完美平衡，非常適合青少年、成人和勇敢的大孩子。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "美洲豹山",
+            "desc": "本區的核心設施。攀上叢林山頂，沿著蜿蜒的滑道穿越瀑布和熱帶植物急速而下"
+          },
+          {
+            "name": "蝮蛇滑道",
+            "desc": "一條扭轉旋繞的封閉管道滑道，模擬蛇在叢林中的蜿蜒動態"
+          },
+          {
+            "name": "叢林踩踏",
+            "desc": "多人橡皮艇設施，讓一群人一起在急流中衝刺"
+          },
+          {
+            "name": "山魈追逐戲水池",
+            "desc": "底部的戲水池，電動山魈會「追趕」遊客跳入水中"
+          }
+        ],
+        "highlights": [
+          "🌿 沉浸式叢林主題",
+          "🏔️ 美洲豹山",
+          "🐍 蝮蛇滑道",
+          "👨‍👩‍👧‍👦 適合團體",
+          "✅ 包含在門票中"
+        ],
+        "tipContent": "<p><strong>貼士：</strong>叢林踩踏橡皮艇設施最好湊滿一整艇人一起玩。如果您是情侶或獨自前來，可能會被安排與其他遊客同乘，這也是樂趣的一部分！</p>"
+      },
+      {
+        "tag": "專業衝浪",
+        "h2": "衝浪季節主題區（Surf's Up Zone）",
+        "subtitle": "FlowRider衝浪模擬器配專業教練指導",
+        "intro": "來衝浪季節區的FlowRider衝浪模擬器上乘風破浪吧！以動畫衝浪電影《衝浪乖公仔》（Surf's Up）為主題，這個區域讓您在完全安全可控的環境中體驗真實衝浪的快感。無論您是完全的新手還是有經驗的衝浪者，<strong>專業教練隨時在場</strong>指導您抓住完美浪花。注意：此設施需額外付費。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "40英尺FlowRider雙人衝浪機",
+            "desc": "先進的雙人衝浪模擬器，產生持續的浪花，可進行站立衝浪和趴板衝浪"
+          },
+          {
+            "name": "專業衝浪教學",
+            "desc": "認證教練教您如何平衡、抓浪和像專業選手一樣衝浪"
+          },
+          {
+            "name": "趴板衝浪",
+            "desc": "非常適合初學者，趴在或跪在板上乘浪前行"
+          }
+        ],
+        "highlights": [
+          "🏄 FlowRider",
+          "👨‍🏫 免費專業教學",
+          "🤙 趴板衝浪",
+          "📷 絕佳拍照點",
+          "💰 需額外付費"
+        ],
+        "tipContent": "<p><strong>額外費用：</strong>FlowRider衝浪模擬器<strong>需在門票之外額外付費</strong>。可在該區使用RFID手環支付。建議開園時就去，避開下午較長的排隊。</p>"
+      },
+      {
+        "tag": "休閒放鬆",
+        "h2": "天降美食主題區（Cloudy with a Chance of Meatballs Zone）",
+        "subtitle": "Swallow Falls River Adventure 漂流河",
+        "intro": "暫時離開刺激的滑道，沿著<strong>Swallow Falls River Adventure</strong>——Aquaverse 的主題漂流河悠閒漂流。這條緩緩流動的水道帶您穿越受動畫電影《乖食物從天而降》（Cloudy with a Chance of Meatballs）啟發的場景，沿途有巨型食物雕塑和電影中古怪的食物動物。這是在更刺激的項目間休息放鬆、消暑降溫的完美方式。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "Swallow Falls River Adventure（335米）",
+            "desc": "全長335米的主題漂流河，蜿蜒穿過電影中的美食場景。抓一個浮圈，隨自己的節奏漂流"
+          },
+          {
+            "name": "古怪食物動物",
+            "desc": "電影中色彩繽紛的食物動物混合體電動模型，沿河道放置，提供絕佳拍照機會"
+          },
+          {
+            "name": "美食主題體驗",
+            "desc": "設計成超大食物造型的互動水上裝置，向遊客噴水濺水"
+          }
+        ],
+        "highlights": [
+          "🛟 漂流河",
+          "🍔 美食主題場景",
+          "😌 輕鬆漂流",
+          "👶 適合所有年齡",
+          "✅ 包含在門票中"
+        ],
+        "tipContent": "<p><strong>貼士：</strong>漂流河是午間休息的好選擇。入口處有浮圈，拿一個跳進去就行。一圈大約15-20分鐘，想漂幾次都可以。</p>"
+      },
+      {
+        "tag": "卡丁車 &middot; 額外付費",
+        "h2": "絕地戰警賽車俱樂部（Bad Boys Race Club）",
+        "subtitle": "邁阿密主題卡丁車賽道",
+        "intro": "離開水滑道，走上賽車場！<strong>絕地戰警賽車俱樂部</strong>以火爆動作電影《乖絕地戰警》（Bad Boys）系列為主題，提供邁阿密風格賽道上的高速卡丁車體驗。這是 Aquaverse 非水上遊樂設施之一，讓這裡不僅僅是一個水上樂園 &mdash; 更是一個綜合娛樂目的地。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "500米邁阿密主題卡丁車賽道",
+            "desc": "500米定製賽道，有彎道、急轉和直線加速段，靈感源自邁阿密街頭"
+          },
+          {
+            "name": "定製卡丁車（最高時速80公里）",
+            "desc": "專門打造的卡丁車，最高時速可達80公里，可針對不同技能水平調節設定"
+          },
+          {
+            "name": "甩尾單車",
+            "desc": "專為在專用賽道上進行可控甩尾而設計的特殊單車"
+          }
+        ],
+        "highlights": [
+          "🏎️ 卡丁車",
+          "🏁 邁阿密主題",
+          "🛞 甩尾單車",
+          "💰 需額外付費"
+        ],
+        "tipContent": "<p><strong>額外費用：</strong>絕地戰警賽車俱樂部<strong>不包含</strong>在門票中。卡丁車和甩尾單車需在現場另行付費。可使用RFID手環上的儲值金額支付。</p>"
+      },
+      {
+        "tag": "迷你高爾夫 &middot; 額外付費",
+        "h2": "表情奇幻世界主題區（The Emoji Movie Zone）",
+        "subtitle": "創意迷你高爾夫贏獎品",
+        "intro": "暫離水上項目，來<strong>表情奇幻世界區</strong>打一場輕鬆有趣的迷你高爾夫吧！這個色彩繽紛、以表情符號為主題的迷你高爾夫球場，設有靈感來自手機世界的創意障礙和挑戰。和朋友家人一較高下，表現優異者還能贏取獎品！",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "9洞表情符號主題迷你高爾夫球場",
+            "desc": "9洞迷你高爾夫球場，每洞都有表情符號角色和手機世界主題的獨特障礙"
+          },
+          {
+            "name": "創意障礙",
+            "desc": "每個洞都有不同主題的挑戰，考驗您的推桿技術"
+          },
+          {
+            "name": "獎品系統",
+            "desc": "成績達標即可在比賽結束後贏取獎品"
+          }
+        ],
+        "highlights": [
+          "⛳ 迷你高爾夫",
+          "🏆 贏取獎品",
+          "👨‍👩‍👧‍👦 適合所有年齡",
+          "💰 需額外付費"
+        ],
+        "tipContent": "<p><strong>額外費用：</strong>表情奇幻世界區的迷你高爾夫<strong>不包含</strong>在門票中，需額外在現場付費。當您需要暫時離開水上項目休息時，這是個很好的選擇。</p>"
+      },
+      {
+        "tag": "影院 + 巨浪",
+        "h2": "巨型造浪池全景劇場（Mega Wave Pool Omnitheatre）",
+        "subtitle": "巨浪、電影、演唱會和泡沫派對",
+        "intro": "<strong>巨型造浪池全景劇場</strong>是 Aquaverse 的心臟地帶。這座巨大的造浪池每<strong>20分鐘製造一次巨浪</strong>，同時也是配備巨型LED螢幕和杜比DTS環繞音效的戶外娛樂場所。白天（以及特殊夜間活動期間），全景劇場會舉辦戶外電影放映、現場演唱會和震撼的泡沫派對。",
+        "keyAttractionsLabel": "主要設施",
+        "attractions": [
+          {
+            "name": "巨型造浪池",
+            "desc": "超大型泳池，每20分鐘產生巨浪，可以衝浪、漂浮和戲水"
+          },
+          {
+            "name": "泡沫派對",
+            "desc": "定時泡沫噴射，將造浪池區域變成一場大型泡沫派對"
+          },
+          {
+            "name": "戶外電影放映",
+            "desc": "在造浪池中漂浮的同時在巨型LED螢幕上觀看電影"
+          },
+          {
+            "name": "現場演唱會和DJ表演",
+            "desc": "定期舉辦現場音樂表演和DJ活動，週末和假日尤其精彩"
+          },
+          {
+            "name": "杜比DTS環繞音效",
+            "desc": "專業級音響系統，提供電影院品質的音效體驗"
+          },
+          {
+            "name": "巨型LED螢幕",
+            "desc": "多塊高清LED螢幕，從造浪池任何位置都能清晰觀看"
+          }
+        ],
+        "highlights": [
+          "🌊 每20分鐘巨浪來襲",
+          "🎬 戶外影院",
+          "🎸 現場演唱會",
+          "🎉 泡沫派對",
+          "✅ 包含在門票中"
+        ],
+        "tipContent": "<p><strong>貼士：</strong>造浪池是園區最受歡迎的區域，下午尤其擁擠。建議提早拿好浮圈佔好位置。在入口處的每日活動看板查看泡沫派對和電影放映時間。週末的夜間活動尤其精彩。</p>"
+      }
+    ],
+    "extras": {
+      "sectionLabel": "主題區之外",
+      "heading": "其他設施與服務",
+      "description": "Aquaverse 提供的遠不止水上滑道。在溫泉放鬆、預訂VIP包廂，並通過RFID拍照系統捕捉每一個精彩瞬間。",
+      "items": [
+        {
+          "h3": "溫泉和蒸氣室",
+          "content": "<p>在 Aquaverse 的日式<strong>溫泉（熱泉浴）和蒸氣室</strong>中放鬆身心。在玩了一整天的水滑道和造浪池之後，沒有比舒緩疲勞的肌肉更好的方式來結束一天的行程了。溫泉區與主要水上樂園區域分開，提供更安靜、更悠閒的氛圍。</p>\n            <p>這是讓 Aquaverse 有別於本地區其他水上樂園的獨特設施 &mdash; 很少有水上樂園能在驚險刺激的項目之外還提供正宗的溫泉體驗。</p>",
+          "highlights": [
+            "♨️ 熱泉浴",
+            "💨 蒸氣室",
+            "✅ 包含在門票中"
+          ]
+        },
+        {
+          "h3": "VIP包廂",
+          "content": "<p>升級您的 Aquaverse 體驗，預訂一個<strong>私人VIP包廂</strong>。享受遮陽的專屬區域、舒適座椅、物品寄存和專屬服務。三種等級可選：</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>豪華包廂</strong> &mdash; THB 2,500/天 &mdash; 遮陽區域、座椅、置物櫃、毛巾</li>\n              <li><strong>超豪華包廂</strong> &mdash; THB 3,000/天 &mdash; 更大空間、高級座椅、含飲品</li>\n              <li><strong>VIP包廂</strong> &mdash; THB 3,500/天 &mdash; 最佳位置、餐飲抵用金、優先服務的頂級享受</li>\n            </ul>",
+          "highlights": [
+            "🏖️ 私人遮陽",
+            "🍹 飲品服務",
+            "💰 THB 2,500起"
+          ]
+        },
+        {
+          "h3": "RFID手環拍照與錄影系統",
+          "content": "<p>每位 Aquaverse 遊客都會收到一條<strong>RFID手環</strong>，功能不僅限於入園通行。手環同時是<strong>無現金支付系統</strong>（儲值後可購買食物、飲料和額外服務，無需攜帶現金），還連接到園區的<strong>自動拍照和錄影系統</strong>。</p>\n            <p>在關鍵的滑道瞬間，定位攝影機會自動捕捉您的精彩反應。在一天結束時，您可以查看並購買所有與您手環關聯的照片和影片 &mdash; 帶回您最精彩瞬間的美好回憶。</p>",
+          "highlights": [
+            "📸 自動滑道拍照",
+            "🎥 影片捕捉",
+            "💳 無現金支付"
+          ]
+        },
+        {
+          "h3": "身高限制",
+          "content": "<p>為確保遊客安全，Aquaverse 部分水滑道和遊樂設施設有<strong>最低身高要求</strong>。各設施入口處均會進行身高測量和檢查。主要指引：</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>100公分以下：</strong>精靈旅社區、漂流河和造浪池（需穿救生衣）</li>\n              <li><strong>100-120公分：</strong>大部分勇敢者遊戲滑道、部分捉鬼敢死隊滑道、衝浪季節（需教練陪同）</li>\n              <li><strong>120公分以上：</strong>喪屍樂園極限滑道（巨獸、360度旋轉、自由落體）必須達到此身高</li>\n              <li><strong>不限年齡：</strong>漂流河、造浪池、溫泉、迷你高爾夫、角色互動合影</li>\n            </ul>\n            <p style=\"margin-top: 0.5rem;\">免費救生衣提供給年幼遊客和不會游泳者。詳細的分齡建議請閱讀我們的<a href=\"/zh-TW/blog/aquaverse-with-kids.html\">親子攻略</a>。</p>",
+          "highlights": [
+            "📏 各設施入口檢查",
+            "🦺 免費救生衣",
+            "👶 兒童專區"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "sectionLabel": "常見問題",
+      "heading": "遊樂設施常見問題",
+      "description": "關於 Aquaverse 遊樂設施、主題區和滑道的常見問題。",
+      "items": [
+        {
+          "question": "Aquaverse 有幾個主題區？",
+          "answer": "<p>Aquaverse 有<strong>9個電影主題區</strong>：精靈旅社（兒童區）、捉鬼敢死隊（驚險區）、喪屍樂園（極限區）、勇敢者遊戲（冒險區）、衝浪季節（衝浪）、天降美食（漂流河）、絕地戰警賽車俱樂部（卡丁車）、表情奇幻世界（迷你高爾夫）及巨型造浪池全景劇場。其中7個為水上區域，包含在門票中。2個區域（卡丁車和迷你高爾夫）為非水上活動，需額外付費。</p>"
+        },
+        {
+          "question": "Aquaverse 最刺激的遊樂設施是什麼？",
+          "answer": "<p>喪屍樂園區的<strong>「巨獸」</strong>是最極限的遊樂設施。擁有18米垂直落差，腳下地板瞬間打開急速墜落。該區還有12米自由落體滑道和360度旋轉滑道。這三項設施只為最勇敢的遊客而設，要求最低身高120公分。</p>"
+        },
+        {
+          "question": "Aquaverse 有身高限制嗎？",
+          "answer": "<p>有的。喪屍樂園和捉鬼敢死隊區的大多數驚險滑道要求遊客身高至少<strong>120公分</strong>。精靈旅社區適合所有年齡，不設身高限制。各設施入口處均有清楚標示和身高檢測。免費救生衣提供給年幼遊客。</p>\n                <p><a href=\"/zh-TW/blog/aquaverse-with-kids.html\">閱讀完整親子攻略了解詳情 &rarr;</a></p>"
+        },
+        {
+          "question": "Aquaverse 哪些設施需要額外付費？",
+          "answer": "<p>大多數遊樂設施包含在門票中。兩個區域需額外付費：</p>\n                <ul>\n                  <li><strong>絕地戰警賽車俱樂部</strong> &mdash; 卡丁車和甩尾單車</li>\n                  <li><strong>表情奇幻世界</strong> &mdash; 迷你高爾夫</li>\n                </ul>\n                <p>VIP包廂也需額外付費：豪華（THB 2,500）、超豪華（THB 3,000）和VIP（THB 3,500）。RFID手環拍照/影片套餐可在離園前購買。</p>\n                <p><a href=\"/zh-TW/tickets.html\">查看所有門票選項和價格 &rarr;</a></p>"
+        },
+        {
+          "question": "什麼是全球首創水穹頂？",
+          "answer": "<p>捉鬼敢死隊區的<strong>質子流水穹頂</strong>（Proton Stream Water Dome）是 Aquaverse 獨有的全球首創設施。遊客乘坐捉鬼敢死隊主題浮圈在黑暗中急速穿越帶有燈光效果的彎道隧道，最後衝入巨大的封閉式水穹頂。全球任何其他水上樂園都找不到類似的設施。</p>"
+        },
+        {
+          "question": "Aquaverse 有漂流河嗎？",
+          "answer": "<p>有！<strong>天降美食區</strong>設有 Swallow Falls River Adventure 主題漂流河，漂流途中可觀賞電影中古怪的食物動物和美食主題場景。入口處可取用浮圈。一圈大約15-20分鐘，想漂幾次都可以。</p>"
+        }
+      ],
+      "viewAll": "查看所有常見問題 &rarr;"
+    },
+    "cta": {
+      "heading": "準備好暢玩9大主題區了嗎？",
+      "text": "線上預訂 Aquaverse 門票，最高可省超過25%。所有水上區域、造浪池、漂流河、溫泉 &mdash; 全包在一張門票中，約 THB 1,200 起（請查看最新價格）。",
+      "button": "立即預訂優惠門票 &rarr;",
+      "link": "查看所有門票選項和套餐優惠 &rarr;"
+    },
+    "schema": {
+      "name": "Columbia Pictures Aquaverse - 遊樂設施與滑道",
+      "alternateName": [
+        "Aquaverse遊樂設施",
+        "Aquaverse滑道",
+        "Aquaverse主題區"
+      ],
+      "description": "泰國芭提雅 Columbia Pictures Aquaverse 水上樂園全部9大電影主題區與遊樂設施。擁有全球首創水穹頂、亞洲最高水滑道、FlowRider衝浪模擬器、造浪池、卡丁車、迷你高爾夫及溫泉。",
+      "touristType": [
+        "親子家庭",
+        "刺激愛好者",
+        "電影粉絲",
+        "兒童"
+      ],
+      "containsPlace": [
+        {
+          "@type": "TouristAttraction",
+          "name": "精靈旅社主題區（Hotel Transylvania Zone）",
+          "description": "東南亞最大品牌兒童水上遊樂場，擁有9條兒童水滑道、數十項水上設施及角色互動合影。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "捉鬼敢死隊主題區（Ghostbusters Zone）",
+          "description": "全球首創水穹頂（質子流）、幽靈陷阱冒險及亞洲首條捉鬼敢死隊超自然水滑道。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "喪屍樂園主題區（Zombieland Zone）",
+          "description": "擁有「巨獸」——亞洲最高水滑道之一，18米垂直落差，另有360度旋轉滑道和競速墊滑道。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "勇敢者遊戲主題區（Jumanji Zone）",
+          "description": "叢林冒險區，設有美洲豹山、蝮蛇滑道和叢林踩踏水上設施。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "衝浪季節主題區（Surf's Up Zone）",
+          "description": "40英尺FlowRider雙人衝浪模擬器，配有專業教練指導趴板衝浪和立式衝浪。需額外付費。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "天降美食主題區（Cloudy with a Chance of Meatballs Zone）",
+          "description": "Swallow Falls River Adventure漂流河，沿途可觀賞古怪的食物動物和美食主題場景。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "絕地戰警賽車俱樂部（Bad Boys Race Club）",
+          "description": "邁阿密主題卡丁車賽道，配有定制卡丁車和甩尾單車。需額外付費。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "表情奇幻世界主題區（The Emoji Movie Zone）",
+          "description": "9洞創意迷你高爾夫球場，配有障礙物和獎品系統。需額外付費。"
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "巨型造浪池全景劇場（Mega Wave Pool Omnitheatre）",
+          "description": "每20分鐘巨浪來襲，配有泡沫派對、戶外電影、現場演唱會、杜比DTS環繞音效及巨型LED螢幕。"
+        }
+      ]
+    }
   }
 }

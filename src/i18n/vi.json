@@ -946,5 +946,553 @@
         }
       ]
     }
+  },
+  "attractions": {
+    "title": "Tất Cả Trò Chơi & Khu Vui Chơi Aquaverse | Hướng Dẫn 9 Khu Vực Phim 2026",
+    "metaDescription": "Hướng dẫn đầy đủ tất cả 9 khu vực chủ đề phim tại Columbia Pictures Aquaverse Pattaya. Khu trẻ em Hotel Transylvania, Vòm Nước Ghostbusters, đường trượt 18m Zombieland, phiêu lưu Jumanji, hồ sóng, đua xe go-kart, onsen & nhiều hơn nữa.",
+    "metaKeywords": "trò chơi Aquaverse, khu vui chơi Aquaverse, khu vực Aquaverse, Vòm Nước Ghostbusters, đường trượt Zombieland, công viên nước Hotel Transylvania, trò chơi Jumanji Aquaverse, hồ sóng Aquaverse, FlowRider Aquaverse, đua xe go-kart Aquaverse",
+    "ogTitle": "Tất Cả Trò Chơi & Khu Vui Chơi Aquaverse | Hướng Dẫn 9 Khu Vực Phim 2026",
+    "ogDescription": "Khám phá tất cả 9 khu vực chủ đề phim tại Columbia Pictures Aquaverse. Từ Vòm Nước Đầu Tiên Trên Thế Giới đến đường trượt nước cao nhất châu Á. Hướng dẫn đầy đủ với mẹo.",
+    "twitterTitle": "Tất Cả Trò Chơi & Khu Vui Chơi Aquaverse | Hướng Dẫn 9 Khu Vực Phim 2026",
+    "twitterDescription": "Hướng dẫn đầy đủ tất cả 9 khu vực tại Aquaverse Pattaya. Đường trượt nước, hồ sóng, đua xe go-kart, onsen & nhiều hơn nữa. Lên kế hoạch chuyến đi ngay hôm nay.",
+    "breadcrumbCurrent": "Trò Chơi &amp; Khu Vui Chơi",
+    "pageHeader": {
+      "h1": "Tất Cả Trò Chơi &amp; Khu Vui Chơi Aquaverse",
+      "description": "Khám phá tất cả 9 khu vực chủ đề phim, 20+ trò chơi và khu vui chơi, cùng đua xe go-kart, golf mini, onsen, và cabin VIP tại Columbia Pictures Aquaverse ở Pattaya."
+    },
+    "tldr": [
+      {
+        "bold": "Tổng Khu Vực:",
+        "text": "9 khu vực chủ đề phim &mdash; 7 khu nước + đua xe go-kart + golf mini"
+      },
+      {
+        "bold": "Trò Chơi Hàng Đầu:",
+        "text": "Vòm Nước Đầu Tiên Trên Thế Giới (Ghostbusters), The Beast rơi 18m (Zombieland), FlowRider (Surf's Up)"
+      },
+      {
+        "bold": "Tốt Nhất Cho Trẻ Em:",
+        "text": "<a href=\"#hotel-transylvania\">Khu Hotel Transylvania</a> &mdash; Sân chơi nước có thương hiệu lớn nhất Đông Nam Á"
+      },
+      {
+        "bold": "Tốt Nhất Cho Cảm Giác Mạnh:",
+        "text": "Khu <a href=\"#zombieland\">Zombieland</a> &amp; <a href=\"#ghostbusters\">Ghostbusters</a> dành cho người nghiện adrenaline"
+      },
+      {
+        "bold": "Phụ Phí:",
+        "text": "Đua xe go-kart (Bad Boys) và golf mini (Emoji Movie) phụ phí riêng; mọi thứ khác bao gồm trong <a href=\"/vi/tickets.html\">vé vào cổng</a>"
+      },
+      {
+        "bold": "Ngoài Ra:",
+        "text": "Onsen &amp; phòng xông hơi, cabin VIP (từ THB 2.500), hệ thống ảnh vòng tay RFID"
+      }
+    ],
+    "zoneNav": {
+      "sectionLabel": "Chuyển Đến Khu Vực",
+      "heading": "9 Khu Vực Chủ Đề Phim",
+      "description": "Nhấn vào bất kỳ khu vực nào để chuyển trực tiếp đến chi tiết, trò chơi và mẹo.",
+      "zones": [
+        {
+          "tag": "Trẻ Em Yêu Thích",
+          "name": "Hotel Transylvania",
+          "subtitle": "Sân chơi nước trẻ em"
+        },
+        {
+          "tag": "Đầu Tiên Thế Giới",
+          "name": "Ghostbusters",
+          "subtitle": "Trò chơi Vòm Nước cảm giác mạnh"
+        },
+        {
+          "tag": "Cực Đoan",
+          "name": "Zombieland",
+          "subtitle": "Rơi 18m &amp; đường trượt cực đoan"
+        },
+        {
+          "tag": "Phiêu Lưu",
+          "name": "Jumanji",
+          "subtitle": "Trò chơi phiêu lưu rừng rậm"
+        },
+        {
+          "tag": "Lướt Sóng Chuyên Nghiệp",
+          "name": "Surf's Up",
+          "subtitle": "Mô phỏng lướt sóng FlowRider"
+        },
+        {
+          "tag": "Thư Giãn",
+          "name": "Cloudy with a Chance of Meatballs",
+          "subtitle": "Phiêu lưu sông lười"
+        },
+        {
+          "tag": "Đua Xe Go-Kart",
+          "name": "Bad Boys Race Club",
+          "subtitle": "Đường đua go-kart Miami"
+        },
+        {
+          "tag": "Golf Mini",
+          "name": "The Emoji Movie",
+          "subtitle": "Golf mini có giải thưởng"
+        },
+        {
+          "tag": "Rạp Chiếu + Sóng",
+          "name": "Hồ Sóng Mega",
+          "subtitle": "Omnitheatre &amp; hòa nhạc"
+        }
+      ]
+    },
+    "zones": [
+      {
+        "tag": "Trẻ Em Yêu Thích",
+        "h2": "Khu Vực Hotel Transylvania",
+        "subtitle": "Sân Chơi Nước Có Thương Hiệu Lớn Nhất Đông Nam Á",
+        "intro": "Khu Hotel Transylvania là thiên đường cho du khách nhỏ tuổi và gia đình. Đây là <strong>sân chơi nước có thương hiệu lớn nhất Đông Nam Á</strong>, có hàng loạt trò chơi nước được thiết kế đặc biệt cho trẻ em mọi lứa tuổi. Khu vực được trang trí hoàn toàn theo phim Hotel Transylvania, đưa thế giới ma quái (nhưng thân thiện với gia đình) của Drac vào cuộc sống.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "9 Đường Trượt Dành Cho Trẻ Em",
+            "desc": "Các đường trượt nhẹ nhàng thiết kế cho trẻ em với nhiều độ tuổi và mức tự tin khác nhau"
+          },
+          {
+            "name": "Hàng Chục Trò Chơi Nước",
+            "desc": "Sàn phun nước, súng nước, vòi phun, xô đổ nước, và các yếu tố tương tác"
+          },
+          {
+            "name": "2 Xô Đổ Nước Lớn Nhất Thái Lan",
+            "desc": "Xô khổng lồ đầy nước rồi đổ hàng trăm gallon lên khách bên dưới"
+          },
+          {
+            "name": "Tiệc Bọt",
+            "desc": "Tiệc bọt theo lịch trong ngày nơi trẻ em có thể chơi trong núi bọt"
+          },
+          {
+            "name": "Gặp Gỡ Nhân Vật",
+            "desc": "Gặp Drac, Mavis, Blobby, và các nhân vật Hotel Transylvania khác để chụp ảnh và vui chơi"
+          },
+          {
+            "name": "Tên Lửa Nước",
+            "desc": "Bắn tên lửa nước lên trời và xem chúng rơi xuống"
+          }
+        ],
+        "highlights": [
+          "👶 Mọi Lứa Tuổi",
+          "📸 Ảnh Nhân Vật",
+          "🎉 Tiệc Bọt",
+          "🚀 Tên Lửa Nước",
+          "✅ Bao Gồm Trong Vé"
+        ],
+        "tipContent": "<p><strong>Mẹo Cho Phụ Huynh:</strong> Khu vực này có chỗ ngồi có mái che xung quanh sân chơi nơi phụ huynh có thể thư giãn trong khi theo dõi trẻ chơi. Đến sớm để chọn chỗ tốt. Để xem hướng dẫn đầy đủ cho gia đình, đọc <a href=\"/vi/blog/aquaverse-with-kids.html\">Hướng dẫn Aquaverse cùng trẻ em</a>.</p>"
+      },
+      {
+        "tag": "Đầu Tiên Thế Giới",
+        "h2": "Khu Vực Ghostbusters",
+        "subtitle": "Nơi Có Vòm Nước Đầu Tiên Trên Thế Giới",
+        "intro": "Khu Ghostbusters là nơi Aquaverse thực sự khác biệt so với mọi công viên nước khác trên thế giới. Khu vực này chứa <strong>Vòm Nước Đầu Tiên Trên Thế Giới</strong>, được gọi là \"Proton Stream\" &mdash; một khái niệm trò chơi nước hoàn toàn độc đáo mà bạn không thể trải nghiệm ở bất kỳ đâu khác trên hành tinh. Toàn bộ khu vực được thiết kế theo thương hiệu Ghostbusters huyền thoại, hoàn chỉnh với lối vào Firehouse nổi tiếng.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Proton Stream (Vòm Nước Đầu Tiên Thế Giới)",
+            "desc": "Trò chơi đặc trưng nơi người chơi lao qua đường hầm tối, xoắn trên phao Ghostbusters trước khi lao xuống vòm nước kín. Trải nghiệm độc nhất vô nhị"
+          },
+          {
+            "name": "Phiêu Lưu Bẫy Ma",
+            "desc": "Trải nghiệm trò chơi tối tương tác theo chủ đề bắt ma"
+          },
+          {
+            "name": "Đường Trượt Tốc Độ Slimer",
+            "desc": "Đường trượt nước tốc độ cao theo chủ đề bóng ma xanh huyền thoại"
+          },
+          {
+            "name": "Đường Trượt Nước Siêu Nhiên Ghostbusters Đầu Tiên Châu Á",
+            "desc": "Đường trượt theo chủ đề siêu nhiên độc quyền tại công viên này"
+          },
+          {
+            "name": "Phao Ghostbusters Trong Bóng Tối",
+            "desc": "Cưỡi phao chủ đề Ghostbusters đặc biệt qua đường hầm tối với hiệu ứng ánh sáng"
+          },
+          {
+            "name": "Lối Vào Firehouse Huyền Thoại",
+            "desc": "Đi qua bản tái tạo trụ sở Firehouse của Ghostbusters"
+          }
+        ],
+        "highlights": [
+          "💥 Mức Cảm Giác Mạnh: Cao",
+          "🔮 Vòm Nước Đầu Tiên Thế Giới",
+          "👻 Trò Chơi Bẫy Ma",
+          "🌙 Trải Nghiệm Trong Tối",
+          "✅ Bao Gồm Trong Vé"
+        ],
+        "tipContent": "<p><strong>Không Thể Bỏ Qua:</strong> Vòm Nước Proton Stream là trò chơi độc đáo nhất tại Aquaverse và có thể nói là trong toàn Đông Nam Á. Chơi ngay khi mở cửa buổi sáng để tránh xếp hàng dài hơn vào buổi chiều. Xem <a href=\"/vi/tips.html\">mẹo du khách</a> của chúng tôi để biết chiến lược chơi tốt nhất.</p>"
+      },
+      {
+        "tag": "Cực Đoan",
+        "h2": "Khu Vực Zombieland",
+        "subtitle": "Nơi Có Đường Trượt Nước Cực Đoan Nhất Châu Á",
+        "intro": "Khu Zombieland là nơi những người nghiện adrenaline và tìm kiếm cảm giác mạnh sẽ tìm thấy thiên đường. Khu vực này là nhà của <strong>\"The Beast\"</strong> &mdash; một trong những đường trượt nước cao nhất châu Á với độ rơi thẳng đứng 18 mét gây nghẹt thở. Theo chủ đề phim Zombieland, toàn bộ khu vực có bầu không khí tận thế mãnh liệt được thiết kế để tim bạn đập nhanh trước khi bước lên đường trượt.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "\"The Beast\" (Rơi Thẳng Đứng 18 Mét)",
+            "desc": "Một trong những đường trượt nước cao nhất châu Á. Đứng trên nền cửa sập, sàn bung ra dưới chân bạn, và bạn lao gần như thẳng xuống. Không dành cho người yếu tim"
+          },
+          {
+            "name": "Đường Trượt Rơi Tự Do 12 Mét",
+            "desc": "Đường trượt thân dốc mang lại cảm giác rơi tự do thót tim"
+          },
+          {
+            "name": "Đường Trượt Xoay 360 Độ",
+            "desc": "Đường trượt ống kín xoay người chơi qua vòng lặp 360 độ hoàn chỉnh"
+          },
+          {
+            "name": "Đường Trượt Thân",
+            "desc": "Đường trượt thân tốc độ cao cổ điển với dốc nghiêng và cua gắt"
+          },
+          {
+            "name": "Trượt Đệm Đua",
+            "desc": "Đua với bạn bè và gia đình cạnh nhau trên đường trượt đệm nhiều làn"
+          },
+          {
+            "name": "Đuổi Bắt Zombie",
+            "desc": "Trải nghiệm theo chủ đề nơi bạn điều hướng qua đường đầy zombie"
+          }
+        ],
+        "highlights": [
+          "⚡ Cảm Giác Cực Đoan",
+          "📏 Rơi Thẳng Đứng 18m",
+          "🔄 Trượt Xoay 360°",
+          "🏃 Trượt Đệm Đua",
+          "✅ Bao Gồm Trong Vé"
+        ],
+        "tipContent": "<p><strong>Giới Hạn Chiều Cao:</strong> Hầu hết đường trượt ở khu Zombieland yêu cầu người chơi cao ít nhất <strong>120 cm (3'11\")</strong>. The Beast có thể có hạn chế bổ sung. Chiều cao được kiểm tra tại lối vào mỗi trò chơi vì an toàn.</p>"
+      },
+      {
+        "tag": "Phiêu Lưu",
+        "h2": "Khu Vực Jumanji",
+        "subtitle": "Bước Vào Cuộc Phiêu Lưu Rừng Rậm Hoang Dã",
+        "intro": "Bước vào thế giới hoang dã của Jumanji, nơi rừng rậm sống động với các trò chơi nước ly kỳ và trang trí sống động. Khu Jumanji mang cuộc phiêu lưu phim vào cuộc sống với phong cảnh rừng rậm tươi tốt, các trò chơi nước gầm rú, và đường trượt đầy adrenaline. Khu vực này đạt sự cân bằng hoàn hảo giữa sự hứng thú và dễ tiếp cận, phù hợp cho thanh thiếu niên, người lớn, và trẻ lớn thích phiêu lưu.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Núi Jaguar",
+            "desc": "Trò chơi trung tâm của khu vực. Leo lên đỉnh núi rừng rậm và trượt xuống qua các đường trượt quanh co bao quanh bởi thác nước và cây nhiệt đới"
+          },
+          {
+            "name": "Đường Trượt Viper",
+            "desc": "Đường trượt ống kín xoắn, quay theo chuyển động của con rắn qua rừng rậm"
+          },
+          {
+            "name": "Jungle Stampede",
+            "desc": "Trò chơi bè nhiều người đưa nhóm lao xuống thác nước cùng nhau"
+          },
+          {
+            "name": "Hồ Mandrill Chase",
+            "desc": "Hồ nước ở dưới nơi các con mandrill hoạt hình \"đuổi\" người chơi xuống nước"
+          }
+        ],
+        "highlights": [
+          "🌿 Chủ Đề Rừng Rậm Sống Động",
+          "🏔️ Núi Jaguar",
+          "🐍 Đường Trượt Viper",
+          "👨‍👩‍👧‍👦 Tuyệt Vời Cho Nhóm",
+          "✅ Bao Gồm Trong Vé"
+        ],
+        "tipContent": "<p><strong>Mẹo:</strong> Trò chơi bè Jungle Stampede tuyệt vời nhất khi đi đủ nhóm. Nếu bạn đến với cặp đôi hoặc một mình, bạn có thể được ghép với khách khác để đầy bè, đây cũng là một phần thú vị!</p>"
+      },
+      {
+        "tag": "Lướt Sóng Chuyên Nghiệp",
+        "h2": "Khu Vực Surf's Up",
+        "subtitle": "Mô Phỏng Lướt Sóng FlowRider Với Hướng Dẫn Chuyên Nghiệp",
+        "intro": "Lướt sóng trên máy mô phỏng FlowRider ở khu Surf's Up! Theo chủ đề phim hoạt hình lướt sóng, khu vực này mang đến cơ hội trải nghiệm lướt sóng thực sự trong môi trường an toàn, có kiểm soát. Dù bạn là người mới hoàn toàn hay tay lướt sóng kinh nghiệm, <strong>huấn luyện viên chuyên nghiệp luôn sẵn sàng</strong> hướng dẫn bạn bắt sóng hoàn hảo. Lưu ý: trò chơi này yêu cầu phụ phí.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Máy Lướt Sóng FlowRider Double 40 Foot",
+            "desc": "Máy mô phỏng lướt sóng đôi hiện đại tạo sóng liên tục cho lướt sóng đứng và boogie boarding"
+          },
+          {
+            "name": "Hướng Dẫn Lướt Sóng Chuyên Nghiệp",
+            "desc": "Huấn luyện viên được chứng nhận sẽ dạy bạn cách cân bằng, bắt sóng, và lướt như dân chuyên"
+          },
+          {
+            "name": "Boogie Boarding",
+            "desc": "Lựa chọn tuyệt vời cho người mới muốn lướt sóng khi nằm hoặc quỳ trên ván"
+          }
+        ],
+        "highlights": [
+          "🏄 FlowRider",
+          "👨‍🏫 Hướng Dẫn Chuyên Nghiệp Miễn Phí",
+          "🤙 Boogie Boarding",
+          "📷 Điểm Chụp Ảnh Tuyệt Vời",
+          "💰 Yêu Cầu Phụ Phí"
+        ],
+        "tipContent": "<p><strong>Phụ Phí:</strong> Máy mô phỏng lướt sóng FlowRider yêu cầu <strong>phụ phí</strong> ngoài vé vào cổng. Thanh toán tại khu vực bằng vòng tay RFID. Cố gắng đi ngay khi công viên mở cửa để tránh xếp hàng dài buổi chiều.</p>"
+      },
+      {
+        "tag": "Thư Giãn",
+        "h2": "Khu Vực Cloudy with a Chance of Meatballs",
+        "subtitle": "Phiêu Lưu Sông Swallow Falls &amp; Sông Lười",
+        "intro": "Nghỉ ngơi sau những trò chơi cảm giác mạnh và trôi dọc <strong>Phiêu Lưu Sông Swallow Falls</strong>, sông lười theo chủ đề của Aquaverse. Con sông êm đềm, uốn quanh đưa bạn qua các cảnh lấy cảm hứng từ phim hoạt hình, bao quanh bởi tượng đồ ăn khổng lồ và các Foodimals kỳ quặc từ phim. Đây là cách hoàn hảo để thư giãn, làm mát, và nạp năng lượng giữa các trò chơi mãnh liệt hơn.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Phiêu Lưu Sông Swallow Falls (335 mét)",
+            "desc": "Sông lười theo chủ đề dài 335 mét uốn quanh qua phong cảnh lấy cảm hứng từ đồ ăn trong phim. Lấy phao và trôi theo nhịp của bạn"
+          },
+          {
+            "name": "Foodimals Kỳ Quặc",
+            "desc": "Các sinh vật hoạt hình lai giữa đồ ăn và động vật đầy màu sắc từ phim đặt dọc sông để chụp ảnh"
+          },
+          {
+            "name": "Trải Nghiệm Chủ Đề Đồ Ăn",
+            "desc": "Các trò chơi nước tương tác được thiết kế giống đồ ăn khổng lồ phun và bắn nước vào người chơi"
+          }
+        ],
+        "highlights": [
+          "🛟 Sông Lười",
+          "🍔 Cảnh Chủ Đề Đồ Ăn",
+          "😌 Thư Giãn Trôi Nổi",
+          "👶 Mọi Lứa Tuổi",
+          "✅ Bao Gồm Trong Vé"
+        ],
+        "tipContent": "<p><strong>Mẹo:</strong> Sông lười là giải lao tuyệt vời giữa ngày. Phao có sẵn tại điểm vào &mdash; chỉ cần lấy một cái và nhảy vào. Một vòng mất khoảng 15-20 phút và bạn có thể đi bao nhiêu vòng tùy thích.</p>"
+      },
+      {
+        "tag": "Đua Xe Go-Kart &middot; Phụ Phí",
+        "h2": "Bad Boys Race Club",
+        "subtitle": "Đường Đua Go-Kart Chủ Đề Miami",
+        "intro": "Rời đường trượt nước và bước lên đường đua tại <strong>Bad Boys Race Club</strong>. Theo chủ đề phim hành động Bad Boys, khu vực này cung cấp đua xe go-kart tốc độ cao trên đường đua lấy cảm hứng từ Miami. Đây là một trong những trò chơi không phải nước khiến Aquaverse không chỉ là công viên nước &mdash; mà là điểm đến giải trí đầy đủ.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Đường Đua Go-Kart Chủ Đề Miami 500 Mét",
+            "desc": "Đường đua 500 mét thiết kế tùy chỉnh với các khúc cua, đoạn thẳng lấy cảm hứng từ đường phố Miami"
+          },
+          {
+            "name": "Xe Go-Kart Tùy Chỉnh (Tối Đa 80 km/h)",
+            "desc": "Xe kart chuyên dụng đạt tốc độ tối đa 80 km/h với cài đặt điều chỉnh cho các cấp độ kỹ năng khác nhau"
+          },
+          {
+            "name": "Xe Drift",
+            "desc": "Xe chuyên dụng được thiết kế để drift có kiểm soát trên đường đua riêng"
+          }
+        ],
+        "highlights": [
+          "🏎️ Đua Xe Go-Kart",
+          "🏁 Chủ Đề Miami",
+          "🛞 Xe Drift",
+          "💰 Yêu Cầu Phụ Phí"
+        ],
+        "tipContent": "<p><strong>Phụ Phí:</strong> Bad Boys Race Club <strong>không bao gồm</strong> trong vé vào cổng. Phiên đua xe go-kart và xe drift tính phí riêng tại khu vực. Bạn có thể thanh toán bằng số dư trên vòng tay RFID.</p>"
+      },
+      {
+        "tag": "Golf Mini &middot; Phụ Phí",
+        "h2": "Khu Vực The Emoji Movie",
+        "subtitle": "Golf Mini Sáng Tạo Có Giải Thưởng",
+        "intro": "Nghỉ ngơi vui vẻ khỏi nước với một vòng golf mini trong <strong>khu The Emoji Movie</strong>. Sân golf mini đầy màu sắc theo chủ đề emoji này có các chướng ngại vật sáng tạo và thử thách lấy cảm hứng từ thế giới bên trong điện thoại. Thi đấu với bạn bè và gia đình để đạt điểm cao nhất, và người chơi xuất sắc có thể giành giải thưởng!",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Sân Golf Mini 9 Lỗ Chủ Đề Emoji",
+            "desc": "Sân golf mini 9 lỗ với chướng ngại vật độc đáo trang trí nhân vật emoji và chủ đề thế giới điện thoại"
+          },
+          {
+            "name": "Chướng Ngại Vật Sáng Tạo",
+            "desc": "Mỗi lỗ có các thử thách theo chủ đề khác nhau kiểm tra kỹ năng đánh golf của bạn"
+          },
+          {
+            "name": "Hệ Thống Giải Thưởng",
+            "desc": "Đạt điểm đủ cao và bạn có thể giành giải thưởng cuối vòng"
+          }
+        ],
+        "highlights": [
+          "⛳ Golf Mini",
+          "🏆 Giành Giải Thưởng",
+          "👨‍👩‍👧‍👦 Mọi Lứa Tuổi",
+          "💰 Yêu Cầu Phụ Phí"
+        ],
+        "tipContent": "<p><strong>Phụ Phí:</strong> Golf mini ở khu The Emoji Movie <strong>không bao gồm</strong> trong vé vào cổng và yêu cầu phụ phí tại khu vực. Tuyệt vời cho giải lao khô ráo khi bạn cần nghỉ ngơi khỏi nước.</p>"
+      },
+      {
+        "tag": "Rạp Chiếu + Sóng",
+        "h2": "Hồ Sóng Mega Omnitheatre",
+        "subtitle": "Sóng, Phim, Hòa Nhạc &amp; Tiệc Bọt",
+        "intro": "<strong>Hồ Sóng Mega Omnitheatre</strong> là trái tim đang đập của Aquaverse. Hồ sóng khổng lồ này tạo <strong>sóng lớn mỗi 20 phút</strong>, đồng thời là địa điểm giải trí ngoài trời với màn hình LED khổng lồ và âm thanh vòm Dolby DTS. Trong suốt ngày (và các sự kiện buổi tối đặc biệt), Omnitheatre tổ chức chiếu phim ngoài trời, hòa nhạc trực tiếp, và tiệc bọt hoành tráng.",
+        "keyAttractionsLabel": "Các Trò Chơi Chính",
+        "attractions": [
+          {
+            "name": "Hồ Sóng Mega",
+            "desc": "Hồ khổng lồ tạo sóng lớn mỗi 20 phút cho lướt sóng thân, trôi nổi, và vui chơi"
+          },
+          {
+            "name": "Tiệc Bọt",
+            "desc": "Bọt phun theo lịch biến khu hồ sóng thành tiệc bọt khổng lồ"
+          },
+          {
+            "name": "Chiếu Phim Ngoài Trời",
+            "desc": "Xem phim trên màn hình LED khổng lồ khi trôi nổi trong hồ sóng"
+          },
+          {
+            "name": "Hòa Nhạc Trực Tiếp &amp; DJ",
+            "desc": "Biểu diễn nhạc sống và sự kiện DJ thường xuyên, đặc biệt cuối tuần và ngày lễ"
+          },
+          {
+            "name": "Âm Thanh Vòm Dolby DTS",
+            "desc": "Hệ thống âm thanh chuyên nghiệp mang lại chất lượng âm thanh rạp chiếu khắp khu vực"
+          },
+          {
+            "name": "Màn Hình LED Khổng Lồ",
+            "desc": "Nhiều màn hình LED độ nét cao có thể nhìn thấy từ bất kỳ đâu trong hồ sóng"
+          }
+        ],
+        "highlights": [
+          "🌊 Sóng Mega Mỗi 20 Phút",
+          "🎬 Rạp Chiếu Ngoài Trời",
+          "🎸 Hòa Nhạc Trực Tiếp",
+          "🎉 Tiệc Bọt",
+          "✅ Bao Gồm Trong Vé"
+        ],
+        "tipContent": "<p><strong>Mẹo:</strong> Hồ sóng là khu vực phổ biến nhất trong công viên, đặc biệt buổi chiều. Lấy phao sớm và chọn chỗ. Kiểm tra bảng lịch hàng ngày tại lối vào để biết thời gian tiệc bọt và chiếu phim. Sự kiện buổi tối cuối tuần đặc biệt ngoạn mục.</p>"
+      }
+    ],
+    "extras": {
+      "sectionLabel": "Ngoài Các Khu Vực",
+      "heading": "Trò Chơi &amp; Dịch Vụ Bổ Sung",
+      "description": "Aquaverse cung cấp nhiều hơn chỉ là trò chơi nước. Thư giãn trong onsen, đặt cabin VIP, và ghi lại mọi khoảnh khắc với hệ thống ảnh RFID.",
+      "items": [
+        {
+          "h3": "Onsen &amp; Phòng Xông Hơi",
+          "content": "<p>Thư giãn trong <strong>onsen (tắm suối nóng) và phòng xông hơi</strong> kiểu Nhật của Aquaverse. Sau một ngày đầy đường trượt nước và hồ sóng, không có cách nào tốt hơn để thư giãn cơ bắp mệt mỏi và kết thúc chuyến thăm một cách êm dịu. Khu onsen tách biệt khỏi các khu vực công viên nước chính và mang lại bầu không khí yên tĩnh, thanh bình hơn.</p>\n            <p>Đây là tính năng độc đáo giúp Aquaverse khác biệt so với các công viên nước khác trong khu vực &mdash; ít công viên nước nào cung cấp trải nghiệm onsen chính hiệu bên cạnh trò chơi cảm giác mạnh.</p>",
+          "highlights": [
+            "♨️ Tắm Suối Nóng",
+            "💨 Phòng Xông Hơi",
+            "✅ Bao Gồm Trong Vé"
+          ]
+        },
+        {
+          "h3": "Cabin VIP",
+          "content": "<p>Nâng cấp trải nghiệm Aquaverse với <strong>cabin VIP riêng</strong>. Tận hưởng khu vực có mái che, riêng tư với chỗ ngồi thoải mái, nơi cất đồ, và dịch vụ chuyên biệt. Ba cấp bậc có sẵn:</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Cabin Deluxe</strong> &mdash; THB 2.500/ngày &mdash; Khu có mái che, chỗ ngồi, tủ khóa, khăn tắm</li>\n              <li><strong>Cabin Super Deluxe</strong> &mdash; THB 3.000/ngày &mdash; Không gian rộng hơn, chỗ ngồi cao cấp, đồ uống bao gồm</li>\n              <li><strong>Cabin VIP</strong> &mdash; THB 3.500/ngày &mdash; Gói tối ưu với vị trí tốt nhất, tín dụng đồ ăn &amp; uống, dịch vụ ưu tiên</li>\n            </ul>",
+          "highlights": [
+            "🏖️ Mái Che Riêng",
+            "🍹 Dịch Vụ Đồ Uống",
+            "💰 Từ THB 2.500"
+          ]
+        },
+        {
+          "h3": "Hệ Thống Ảnh &amp; Video Vòng Tay RFID",
+          "content": "<p>Mỗi khách tại Aquaverse nhận <strong>vòng tay RFID</strong> không chỉ cấp quyền vào công viên. Vòng tay hoạt động như <strong>hệ thống thanh toán không tiền mặt</strong> (nạp tín dụng để mua đồ ăn, uống, và phụ phí không cần mang tiền) và cũng kết nối với <strong>hệ thống ảnh và video tự động</strong> của công viên.</p>\n            <p>Camera đặt tại các khoảnh khắc quan trọng trên trò chơi tự động chụp phản ứng của bạn trên đường trượt. Cuối ngày, bạn có thể xem và mua tất cả ảnh và video liên kết với vòng tay &mdash; cách tuyệt vời để mang về kỷ niệm những khoảnh khắc đẹp nhất.</p>",
+          "highlights": [
+            "📸 Ảnh Tự Động Trên Trò Chơi",
+            "🎥 Quay Video",
+            "💳 Thanh Toán Không Tiền Mặt"
+          ]
+        },
+        {
+          "h3": "Giới Hạn Chiều Cao",
+          "content": "<p>Vì an toàn khách, một số đường trượt nước và trò chơi tại Aquaverse có <strong>yêu cầu chiều cao tối thiểu</strong>. Chiều cao được đo và kiểm tra tại lối vào mỗi trò chơi. Hướng dẫn chính:</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Dưới 100 cm:</strong> Khu Hotel Transylvania, sông lười, và hồ sóng (với áo phao)</li>\n              <li><strong>100-120 cm:</strong> Hầu hết trò chơi Jumanji, một số đường trượt Ghostbusters, Surf's Up (với huấn luyện viên)</li>\n              <li><strong>120 cm+:</strong> Yêu cầu cho đường trượt cực đoan Zombieland (The Beast, xoay 360 độ, rơi tự do)</li>\n              <li><strong>Mọi lứa tuổi:</strong> Sông lười, hồ sóng, onsen, golf mini, gặp gỡ nhân vật</li>\n            </ul>\n            <p style=\"margin-top: 0.5rem;\">Áo phao miễn phí cho khách nhỏ tuổi và người không biết bơi. Đọc <a href=\"/vi/blog/aquaverse-with-kids.html\">hướng dẫn gia đình</a> để biết khuyến nghị độ tuổi chi tiết theo khu vực.</p>",
+          "highlights": [
+            "📏 Kiểm Tra Tại Mỗi Trò Chơi",
+            "🦺 Áo Phao Miễn Phí",
+            "👶 Có Khu Trẻ Em"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "sectionLabel": "Câu Hỏi Thường Gặp",
+      "heading": "FAQ Về Trò Chơi",
+      "description": "Các câu hỏi phổ biến về trò chơi, khu vực, và khu vui chơi tại Aquaverse.",
+      "items": [
+        {
+          "question": "Aquaverse có bao nhiêu khu vực?",
+          "answer": "<p>Aquaverse có <strong>9 khu vực chủ đề phim</strong>: Hotel Transylvania (trẻ em), Ghostbusters (cảm giác mạnh), Zombieland (cực đoan), Jumanji (phiêu lưu), Surf's Up (lướt sóng), Cloudy with a Chance of Meatballs (sông lười), Bad Boys Race Club (đua xe go-kart), The Emoji Movie (golf mini), và Hồ Sóng Mega Omnitheatre. Bảy khu vực là nước và bao gồm trong vé vào cổng. Hai khu vực (đua xe go-kart và golf mini) là hoạt động khô có phụ phí.</p>"
+        },
+        {
+          "question": "Trò chơi đáng sợ nhất tại Aquaverse là gì?",
+          "answer": "<p><strong>The Beast</strong> ở khu Zombieland là trò chơi cực đoan nhất. Nó có độ rơi thẳng đứng 18 mét nơi sàn bung ra từ dưới chân bạn. Khu vực cũng có đường trượt rơi tự do 12 mét và đường trượt xoay 360 độ. Cả ba dành cho du khách dũng cảm nhất và yêu cầu chiều cao tối thiểu 120 cm.</p>"
+        },
+        {
+          "question": "Aquaverse có giới hạn chiều cao không?",
+          "answer": "<p>Có. Hầu hết trò chơi cảm giác mạnh ở khu Zombieland và Ghostbusters yêu cầu người chơi cao ít nhất <strong>120 cm</strong>. Khu Hotel Transylvania được thiết kế cho mọi lứa tuổi không giới hạn chiều cao. Giới hạn chiều cao được niêm yết rõ ràng và kiểm tra tại lối vào mỗi trò chơi. Áo phao miễn phí cho khách nhỏ tuổi.</p>\n                <p><a href=\"/vi/blog/aquaverse-with-kids.html\">Đọc hướng dẫn gia đình đầy đủ &rarr;</a></p>"
+        },
+        {
+          "question": "Trò chơi nào phải trả thêm phí tại Aquaverse?",
+          "answer": "<p>Hầu hết trò chơi bao gồm trong vé vào cổng. Hai khu vực yêu cầu phụ phí:</p>\n                <ul>\n                  <li><strong>Bad Boys Race Club</strong> &mdash; Đua xe go-kart và xe drift</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; Golf mini</li>\n                </ul>\n                <p>Cabin VIP cũng phụ phí: Deluxe (THB 2.500), Super Deluxe (THB 3.000), và VIP (THB 3.500). Gói ảnh/video vòng tay RFID có thể mua cuối ngày.</p>\n                <p><a href=\"/vi/tickets.html\">Xem tất cả tùy chọn vé và giá &rarr;</a></p>"
+        },
+        {
+          "question": "Vòm Nước Đầu Tiên Trên Thế Giới là gì?",
+          "answer": "<p><strong>Vòm Nước Proton Stream</strong> ở khu Ghostbusters là trò chơi đầu tiên trên thế giới, độc quyền tại Aquaverse. Người chơi lên phao chủ đề Ghostbusters và lao qua đường hầm tối, xoắn với hiệu ứng ánh sáng trước khi lao xuống vòm nước kín. Không có nơi nào khác trên thế giới có trò chơi tương tự.</p>"
+        },
+        {
+          "question": "Aquaverse có sông lười không?",
+          "answer": "<p>Có! Khu <strong>Cloudy with a Chance of Meatballs</strong> có Phiêu Lưu Sông Swallow Falls, sông lười theo chủ đề nơi bạn trôi qua Foodimals kỳ quặc và cảnh chủ đề đồ ăn từ phim. Phao có sẵn tại điểm vào. Một vòng mất khoảng 15-20 phút và bạn có thể đi bao nhiêu vòng tùy thích.</p>"
+        }
+      ],
+      "viewAll": "Xem Tất Cả Câu Hỏi &rarr;"
+    },
+    "cta": {
+      "heading": "Sẵn Sàng Chơi Tất Cả 9 Khu Vực?",
+      "text": "Đặt vé Aquaverse trực tuyến và tiết kiệm hơn 25%. Tất cả khu nước, hồ sóng, sông lười, onsen &mdash; bao gồm trong một vé từ khoảng THB 1.200 (kiểm tra giá mới nhất).",
+      "button": "Đặt Vé Giảm Giá Ngay &rarr;",
+      "link": "Xem tất cả tùy chọn vé &amp; ưu đãi combo &rarr;"
+    },
+    "schema": {
+      "name": "Columbia Pictures Aquaverse - Trò Chơi & Khu Vui Chơi",
+      "alternateName": [
+        "Aquaverse Attractions",
+        "Aquaverse Rides",
+        "Aquaverse Zones"
+      ],
+      "description": "Tất cả 9 khu vực chủ đề phim và trò chơi tại công viên nước Columbia Pictures Aquaverse ở Pattaya, Thái Lan. Bao gồm Vòm Nước Đầu Tiên Trên Thế Giới, đường trượt nước cao nhất châu Á, FlowRider, hồ sóng, đua xe go-kart, mini golf, và onsen.",
+      "touristType": [
+        "Families",
+        "Thrill Seekers",
+        "Movie Fans",
+        "Kids"
+      ],
+      "containsPlace": [
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực Hotel Transylvania",
+          "description": "Sân chơi nước có thương hiệu lớn nhất Đông Nam Á với 9 đường trượt dành cho trẻ em, hàng chục trò chơi nước, và gặp gỡ nhân vật."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực Ghostbusters",
+          "description": "Nơi có Vòm Nước Đầu Tiên Trên Thế Giới (Proton Stream), Phiêu Lưu Bẫy Ma, và Đường Trượt Nước Siêu Nhiên Ghostbusters Đầu Tiên Châu Á."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực Zombieland",
+          "description": "Có The Beast, một trong những đường trượt nước cao nhất châu Á với độ rơi thẳng đứng 18 mét, cùng đường trượt xoay 360 độ và trượt đệm đua."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực Jumanji",
+          "description": "Khu phiêu lưu rừng rậm với Núi Jaguar, đường trượt Viper, và trò chơi nước Jungle Stampede."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực Surf's Up",
+          "description": "Máy mô phỏng lướt sóng FlowRider Double 40 foot với hướng dẫn chuyên nghiệp cho boogie boarding và lướt sóng. Phụ phí riêng."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực Cloudy with a Chance of Meatballs",
+          "description": "Phiêu Lưu Sông Swallow Falls - sông lười với Foodimals kỳ quặc và trải nghiệm chủ đề đồ ăn."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Bad Boys Race Club",
+          "description": "Đường đua go-kart chủ đề Miami với xe kart tùy chỉnh và xe drift. Phụ phí riêng."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Khu Vực The Emoji Movie",
+          "description": "Sân golf mini 9 lỗ sáng tạo với chướng ngại vật và hệ thống giải thưởng. Phụ phí riêng."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Hồ Sóng Mega Omnitheatre",
+          "description": "Sóng lớn mỗi 20 phút với tiệc bọt, chiếu phim ngoài trời, hòa nhạc trực tiếp, âm thanh vòm Dolby DTS, và màn hình LED khổng lồ."
+        }
+      ]
+    }
   }
 }

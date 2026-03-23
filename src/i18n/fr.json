@@ -938,5 +938,553 @@
         }
       ]
     }
+  },
+  "attractions": {
+    "title": "Toutes les attractions &amp; toboggans Aquaverse | Guide des 9 zones 2026",
+    "metaDescription": "Guide complet des 9 zones thématiques du Columbia Pictures Aquaverse à Pattaya. Zone enfants Hôtel Transylvanie, Water Dome SOS Fantômes, chute de 18 m Bienvenue à Zombieland, aventure Jumanji, piscine à vagues, karting, onsen et plus.",
+    "metaKeywords": "attractions Aquaverse, toboggans Aquaverse, zones Aquaverse, Water Dome SOS Fantômes, toboggan Zombieland, Hôtel Transylvanie parc aquatique, attraction Jumanji Aquaverse, piscine à vagues Aquaverse, FlowRider Aquaverse, karting Aquaverse",
+    "ogTitle": "Toutes les attractions &amp; toboggans Aquaverse | Guide des 9 zones 2026",
+    "ogDescription": "Découvrez les 9 zones thématiques du Columbia Pictures Aquaverse. Du premier Water Dome au monde au plus haut toboggan aquatique d'Asie. Guide complet des attractions avec conseils.",
+    "twitterTitle": "Toutes les attractions &amp; toboggans Aquaverse | Guide des 9 zones 2026",
+    "twitterDescription": "Guide complet des 9 zones du Columbia Pictures Aquaverse à Pattaya. Toboggans, piscine à vagues, karting, onsen et plus. Planifiez votre visite.",
+    "breadcrumbCurrent": "Attractions &amp; Manèges",
+    "pageHeader": {
+      "h1": "Toutes les attractions &amp; manèges Aquaverse",
+      "description": "Explorez les 9 zones thématiques, 20+ attractions et manèges, plus le karting, le mini-golf, le onsen et les cabanes VIP au Columbia Pictures Aquaverse à Pattaya."
+    },
+    "tldr": [
+      {
+        "bold": "Total des zones :",
+        "text": "9 zones thématiques &mdash; 7 zones aquatiques + karting + mini-golf"
+      },
+      {
+        "bold": "Meilleures attractions :",
+        "text": "Premier Water Dome au monde (SOS Fantômes), The Beast chute de 18 m (Bienvenue à Zombieland), FlowRider (Surf's Up)"
+      },
+      {
+        "bold": "Idéal pour les enfants :",
+        "text": "<a href=\"#hotel-transylvania\">Zone Hôtel Transylvanie</a> &mdash; Le plus grand espace de jeux aquatiques à thème d'Asie du Sud-Est"
+      },
+      {
+        "bold": "Idéal pour les sensations :",
+        "text": "<a href=\"#zombieland\">Bienvenue à Zombieland</a> &amp; <a href=\"#ghostbusters\">SOS Fantômes</a> pour les amateurs d'adrénaline"
+      },
+      {
+        "bold": "Supplément :",
+        "text": "Karting (Bad Boys) et mini-golf (Emoji Movie) en supplément ; tout le reste inclus dans le <a href=\"/fr/tickets.html\">billet d'entrée</a>"
+      },
+      {
+        "bold": "Aussi :",
+        "text": "Onsen &amp; hammam, cabanes VIP (à partir de THB 2 500), système photo par bracelet RFID"
+      }
+    ],
+    "zoneNav": {
+      "sectionLabel": "Accéder à une zone",
+      "heading": "9 zones thématiques",
+      "description": "Cliquez sur une zone pour accéder directement à ses détails, attractions et conseils.",
+      "zones": [
+        {
+          "tag": "Préféré des enfants",
+          "name": "Hôtel Transylvanie",
+          "subtitle": "Espace de jeux aquatiques enfants"
+        },
+        {
+          "tag": "Première mondiale",
+          "name": "SOS Fantômes",
+          "subtitle": "Attractions à sensations Water Dome"
+        },
+        {
+          "tag": "Extrême",
+          "name": "Bienvenue à Zombieland",
+          "subtitle": "Chute de 18 m &amp; toboggans extrêmes"
+        },
+        {
+          "tag": "Aventure",
+          "name": "Jumanji",
+          "subtitle": "Attractions aventure dans la jungle"
+        },
+        {
+          "tag": "Surf pro",
+          "name": "Surf's Up",
+          "subtitle": "Simulateur FlowRider"
+        },
+        {
+          "tag": "Détente",
+          "name": "Tempête de boulettes géantes",
+          "subtitle": "Rivière tranquille"
+        },
+        {
+          "tag": "Karting",
+          "name": "Bad Boys Race Club",
+          "subtitle": "Circuit de karting Miami"
+        },
+        {
+          "tag": "Mini-golf",
+          "name": "The Emoji Movie",
+          "subtitle": "Mini-golf avec prix à gagner"
+        },
+        {
+          "tag": "Cinéma + Vagues",
+          "name": "Méga piscine à vagues",
+          "subtitle": "Omnitheatre &amp; concerts"
+        }
+      ]
+    },
+    "zones": [
+      {
+        "tag": "Préféré des enfants",
+        "h2": "Zone Hôtel Transylvanie",
+        "subtitle": "Le plus grand espace de jeux aquatiques à thème d'Asie du Sud-Est",
+        "intro": "La zone Hôtel Transylvanie est un paradis pour les jeunes visiteurs et les familles. C'est le <strong>plus grand espace de jeux aquatiques à thème d'Asie du Sud-Est</strong>, proposant un incroyable ensemble d'activités aquatiques spécialement conçues pour les enfants de tous âges. La zone est entièrement décorée sur le thème de la franchise Hôtel Transylvanie, donnant vie à l'univers effrayant (mais familial) de Drac.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "9 toboggans aquatiques pour enfants",
+            "desc": "Toboggans doux conçus pour les enfants de différents âges et niveaux de confiance"
+          },
+          {
+            "name": "Des dizaines d'attractions aquatiques",
+            "desc": "Aires d'éclaboussures, canons à eau, arroseurs, seaux déverseurs et éléments de jeu interactifs"
+          },
+          {
+            "name": "2 des plus grands seaux déverseurs de Thaïlande",
+            "desc": "Des seaux géants qui se remplissent et déversent des centaines de litres d'eau sur les visiteurs en dessous"
+          },
+          {
+            "name": "Fêtes de mousse",
+            "desc": "Fêtes de mousse programmées tout au long de la journée où les enfants peuvent jouer dans des montagnes de mousse"
+          },
+          {
+            "name": "Rencontres avec les personnages",
+            "desc": "Rencontrez Drac, Mavis, Blobby et d'autres personnages d'Hôtel Transylvanie pour des photos et du plaisir"
+          },
+          {
+            "name": "Fusées à eau",
+            "desc": "Lancez des fusées à eau dans le ciel et regardez-les retomber en éclaboussant"
+          }
+        ],
+        "highlights": [
+          "👶 Tous âges bienvenus",
+          "📸 Photos avec les personnages",
+          "🎉 Fêtes de mousse",
+          "🚀 Fusées à eau",
+          "✅ Inclus dans le billet"
+        ],
+        "tipContent": "<p><strong>Conseil aux parents :</strong> Cette zone dispose d'espaces ombragés avec des sièges autour de l'aire de jeux où les parents peuvent se détendre en surveillant leurs enfants. Arrivez tôt pour obtenir un bon emplacement. Pour un guide famille complet, lisez notre <a href=\"/fr/blog/aquaverse-with-kids.html\">guide Aquaverse avec des enfants</a>.</p>"
+      },
+      {
+        "tag": "Première mondiale",
+        "h2": "Zone SOS Fantômes",
+        "subtitle": "Le premier Water Dome au monde",
+        "intro": "La zone SOS Fantômes est l'endroit où Aquaverse se distingue véritablement de tous les autres parcs aquatiques au monde. Cette zone abrite le <strong>premier Water Dome au monde</strong>, connu sous le nom de « Proton Stream » &mdash; un concept d'attraction aquatique totalement unique que vous ne pouvez vivre nulle part ailleurs sur la planète. Toute la zone est conçue autour de la franchise emblématique SOS Fantômes, avec la célèbre entrée de la caserne de pompiers.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Proton Stream (premier Water Dome au monde)",
+            "desc": "L'attraction phare où les visiteurs traversent des tunnels sombres et sinueux sur des bouées SOS Fantômes avant de plonger dans un dôme d'eau clos. Une expérience unique en son genre"
+          },
+          {
+            "name": "Ghost Trap Adventure",
+            "desc": "Attraction interactive dans l'obscurité sur le thème de la chasse aux fantômes"
+          },
+          {
+            "name": "Toboggans Slimer Speed Racer",
+            "desc": "Toboggans aquatiques à grande vitesse inspirés du célèbre fantôme vert"
+          },
+          {
+            "name": "Premier toboggan aquatique surnaturel SOS Fantômes d'Asie",
+            "desc": "Un toboggan sur le thème du surnaturel exclusif à ce parc"
+          },
+          {
+            "name": "Bouées SOS Fantômes dans l'obscurité",
+            "desc": "Naviguez sur des bouées thématiques SOS Fantômes à travers des tunnels sombres avec des effets de lumière"
+          },
+          {
+            "name": "Entrée emblématique de la caserne",
+            "desc": "Traversez une reconstitution du quartier général des SOS Fantômes"
+          }
+        ],
+        "highlights": [
+          "💥 Niveau de sensations : Élevé",
+          "🔮 Premier Water Dome au monde",
+          "👻 Attraction Ghost Trap",
+          "🌙 Attraction dans l'obscurité",
+          "✅ Inclus dans le billet"
+        ],
+        "tipContent": "<p><strong>Incontournable :</strong> Le Water Dome Proton Stream est l'attraction la plus unique d'Aquaverse et sans doute de toute l'Asie du Sud-Est. Faites-la dès l'ouverture le matin pour éviter les files d'attente plus longues en journée. Consultez nos <a href=\"/fr/tips.html\">conseils pour les visiteurs</a> pour la meilleure stratégie d'ordre des attractions.</p>"
+      },
+      {
+        "tag": "Extrême",
+        "h2": "Zone Bienvenue à Zombieland",
+        "subtitle": "Les toboggans aquatiques les plus extrêmes d'Asie",
+        "intro": "La zone Bienvenue à Zombieland est le paradis des amateurs d'adrénaline et de sensations fortes. Cette zone abrite <strong>« The Beast »</strong> &mdash; l'un des plus hauts toboggans aquatiques d'Asie avec une chute verticale vertigineuse de 18 mètres. Inspirée de la franchise Bienvenue à Zombieland, toute la zone dégage une atmosphère intense et apocalyptique conçue pour faire monter votre rythme cardiaque avant même de monter sur un toboggan.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "« The Beast » (chute verticale de 18 mètres)",
+            "desc": "L'un des plus hauts toboggans aquatiques d'Asie. Vous vous tenez sur une trappe, le sol s'ouvre sous vos pieds et vous plongez presque à la verticale. Déconseillé aux personnes sensibles"
+          },
+          {
+            "name": "Toboggan en chute libre de 12 mètres",
+            "desc": "Un toboggan corporel abrupt qui procure une sensation de chute libre vertigineuse"
+          },
+          {
+            "name": "Toboggan à rotation 360 degrés",
+            "desc": "Un toboggan tubulaire entièrement fermé qui fait tourner les visiteurs dans une boucle complète à 360 degrés"
+          },
+          {
+            "name": "Toboggan corporel",
+            "desc": "Un toboggan corporel classique à grande vitesse avec des descentes abruptes et des virages serrés"
+          },
+          {
+            "name": "Course sur tapis",
+            "desc": "Affrontez vos amis et votre famille côte à côte sur des pistes de course à tapis multiples"
+          },
+          {
+            "name": "Zombie Chase",
+            "desc": "Une expérience thématique où vous naviguez à travers un parcours infesté de zombies"
+          }
+        ],
+        "highlights": [
+          "⚡ Sensations extrêmes",
+          "📏 Chute verticale de 18 m",
+          "🔄 Toboggan 360°",
+          "🏃 Course sur tapis",
+          "✅ Inclus dans le billet"
+        ],
+        "tipContent": "<p><strong>Restriction de taille :</strong> La plupart des toboggans de la zone Bienvenue à Zombieland exigent une taille minimale de <strong>120 cm (3'11\")</strong>. The Beast peut avoir des restrictions supplémentaires. La taille est vérifiée à l'entrée de chaque attraction pour des raisons de sécurité.</p>"
+      },
+      {
+        "tag": "Aventure",
+        "h2": "Zone Jumanji",
+        "subtitle": "Entrez dans l'aventure sauvage de la jungle",
+        "intro": "Plongez dans le monde sauvage de Jumanji, où la jungle prend vie avec des attractions aquatiques palpitantes et une décoration immersive. La zone Jumanji donne vie à la franchise de films d'aventure avec une végétation luxuriante, des cascades rugissantes et des toboggans qui font monter l'adrénaline. Cette zone offre l'équilibre parfait entre sensations et accessibilité, ce qui la rend idéale pour les adolescents, les adultes et les enfants plus âgés en quête d'aventure.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Jaguar Mountain",
+            "desc": "L'attraction phare de la zone. Grimpez au sommet de la montagne de la jungle et descendez par des toboggans sinueux entourés de cascades et de végétation tropicale"
+          },
+          {
+            "name": "Toboggan Viper",
+            "desc": "Un toboggan tubulaire fermé avec des virages et des rotations qui imitent le mouvement d'un serpent dans la jungle"
+          },
+          {
+            "name": "Jungle Stampede",
+            "desc": "Une descente en radeau pour plusieurs personnes qui propulse les groupes à travers des rapides ensemble"
+          },
+          {
+            "name": "Piscine Mandrill Chase",
+            "desc": "Une piscine d'éclaboussures en bas où des mandrills animatroniques « poursuivent » les visiteurs dans l'eau"
+          }
+        ],
+        "highlights": [
+          "🌿 Thème jungle immersif",
+          "🏔️ Jaguar Mountain",
+          "🐍 Toboggan Viper",
+          "👨‍👩‍👧‍👦 Idéal pour les groupes",
+          "✅ Inclus dans le billet"
+        ],
+        "tipContent": "<p><strong>Conseil :</strong> La descente en radeau Jungle Stampede est encore plus amusante avec un groupe complet. Si vous visitez en couple ou en solo, vous serez probablement associés à d'autres visiteurs pour remplir le radeau, ce qui fait partie du plaisir !</p>"
+      },
+      {
+        "tag": "Surf pro",
+        "h2": "Zone Surf's Up",
+        "subtitle": "Simulateur de surf FlowRider avec instruction professionnelle",
+        "intro": "Surfez sur le simulateur FlowRider dans la zone Surf's Up ! Inspirée du film d'animation sur le surf, cette zone offre la possibilité de vivre l'expérience du vrai surf dans un environnement totalement sûr et contrôlé. Que vous soyez débutant complet ou surfeur expérimenté, <strong>des instructeurs professionnels sont sur place</strong> pour vous guider et vous aider à prendre la vague parfaite. Note : cette attraction nécessite un supplément.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Machine de surf FlowRider Double de 12 mètres",
+            "desc": "Un simulateur de surf double de pointe qui génère une vague continue pour le surf debout et le bodyboard"
+          },
+          {
+            "name": "Instruction de surf professionnelle",
+            "desc": "Des instructeurs certifiés vous apprendront à garder l'équilibre, prendre des vagues et surfer comme un pro"
+          },
+          {
+            "name": "Bodyboard",
+            "desc": "Une excellente option pour les débutants qui veulent surfer les vagues allongés ou à genoux sur une planche"
+          }
+        ],
+        "highlights": [
+          "🏄 FlowRider",
+          "👨‍🏫 Instruction pro gratuite",
+          "🤙 Bodyboard",
+          "📷 Spot photo idéal",
+          "💰 Supplément requis"
+        ],
+        "tipContent": "<p><strong>Supplément :</strong> Le simulateur de surf FlowRider nécessite un <strong>supplément</strong> en plus du billet d'entrée. Payez sur place avec votre bracelet RFID. Essayez d'y aller dès l'ouverture du parc pour éviter les files d'attente plus longues l'après-midi.</p>"
+      },
+      {
+        "tag": "Détente",
+        "h2": "Zone Tempête de boulettes géantes",
+        "subtitle": "Swallow Falls River Adventure &amp; Rivière tranquille",
+        "intro": "Faites une pause dans les sensations fortes et laissez-vous porter le long de la <strong>Swallow Falls River Adventure</strong>, la rivière tranquille thématique d'Aquaverse. Ce cours d'eau sinueux et paisible vous emmène à travers des décors inspirés du film d'animation, entourés de sculptures de nourriture géantes et des Foodimals farfelus du film. C'est la manière idéale de se détendre, se rafraîchir et recharger ses batteries entre les attractions plus intenses.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Swallow Falls River Adventure (335 mètres)",
+            "desc": "Une rivière tranquille thématique de 335 mètres qui serpente à travers des décors inspirés de la nourriture du film. Prenez une bouée et laissez-vous porter à votre rythme"
+          },
+          {
+            "name": "Foodimals farfelus",
+            "desc": "Des hybrides animatroniques colorés mi-nourriture mi-animal du film placés le long du parcours pour des opportunités photos"
+          },
+          {
+            "name": "Expériences sur le thème de la nourriture",
+            "desc": "Attractions aquatiques interactives conçues pour ressembler à des aliments surdimensionnés qui aspergent et éclaboussent les visiteurs"
+          }
+        ],
+        "highlights": [
+          "🛟 Rivière tranquille",
+          "🍔 Décors gourmands",
+          "😌 Détente assurée",
+          "👶 Tous âges",
+          "✅ Inclus dans le billet"
+        ],
+        "tipContent": "<p><strong>Conseil :</strong> La rivière tranquille est une excellente pause en milieu de journée. Des bouées sont disponibles au point d'entrée &mdash; prenez-en une et sautez à l'eau. Le circuit prend environ 15-20 minutes et vous pouvez faire autant de tours que vous le souhaitez.</p>"
+      },
+      {
+        "tag": "Karting &middot; Supplément",
+        "h2": "Bad Boys Race Club",
+        "subtitle": "Circuit de karting sur le thème de Miami",
+        "intro": "Quittez les toboggans aquatiques et montez sur la piste de course au <strong>Bad Boys Race Club</strong>. Inspirée de la franchise d'action Bad Boys, cette zone propose des courses de karting à grande vitesse sur un circuit inspiré de Miami. C'est l'une des attractions non aquatiques qui fait d'Aquaverse bien plus qu'un simple parc aquatique &mdash; c'est une destination de divertissement complète.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Circuit de karting de 500 mètres sur le thème de Miami",
+            "desc": "Une piste de course de 500 mètres spécialement conçue avec des virages, des courbes et des lignes droites inspirés des rues de Miami"
+          },
+          {
+            "name": "Karts personnalisés (jusqu'à 80 km/h)",
+            "desc": "Des karts conçus sur mesure atteignant des vitesses jusqu'à 80 km/h avec des réglages ajustables selon les niveaux"
+          },
+          {
+            "name": "Drift bikes",
+            "desc": "Des vélos spécialisés conçus pour le drift contrôlé sur un circuit dédié"
+          }
+        ],
+        "highlights": [
+          "🏎️ Karting",
+          "🏁 Thème Miami",
+          "🛞 Drift bikes",
+          "💰 Supplément requis"
+        ],
+        "tipContent": "<p><strong>Supplément :</strong> Le Bad Boys Race Club <strong>n'est pas inclus</strong> dans le billet d'entrée. Les sessions de karting et les tours en drift bike sont facturés séparément sur place. Vous pouvez payer avec le crédit chargé sur votre bracelet RFID.</p>"
+      },
+      {
+        "tag": "Mini-golf &middot; Supplément",
+        "h2": "Zone The Emoji Movie",
+        "subtitle": "Mini-golf créatif avec prix à gagner",
+        "intro": "Faites une pause amusante hors de l'eau avec une partie de mini-golf dans la <strong>zone The Emoji Movie</strong>. Ce parcours de mini-golf coloré sur le thème des emojis propose des obstacles créatifs et des défis inspirés du monde à l'intérieur de votre téléphone. Affrontez vos amis et votre famille pour le meilleur score, et les meilleurs joueurs peuvent gagner des prix !",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Parcours de mini-golf de 9 trous sur le thème des emojis",
+            "desc": "Un parcours de mini-golf de 9 trous avec des obstacles uniques décorés de personnages emojis et du thème du monde du téléphone"
+          },
+          {
+            "name": "Obstacles créatifs",
+            "desc": "Chaque trou propose des défis thématiques différents qui mettent à l'épreuve vos compétences de putting"
+          },
+          {
+            "name": "Système de prix",
+            "desc": "Obtenez un bon score et vous pouvez remporter des prix à la fin de votre partie"
+          }
+        ],
+        "highlights": [
+          "⛳ Mini-golf",
+          "🏆 Prix à gagner",
+          "👨‍👩‍👧‍👦 Tous âges",
+          "💰 Supplément requis"
+        ],
+        "tipContent": "<p><strong>Supplément :</strong> Le mini-golf dans la zone The Emoji Movie <strong>n'est pas inclus</strong> dans le billet d'entrée et nécessite un supplément payé sur place. Idéal pour une pause au sec quand vous avez besoin de repos après les attractions aquatiques.</p>"
+      },
+      {
+        "tag": "Cinéma + Vagues",
+        "h2": "Méga piscine à vagues Omnitheatre",
+        "subtitle": "Vagues, films, concerts &amp; fêtes de mousse",
+        "intro": "La <strong>Méga piscine à vagues Omnitheatre</strong> est le cœur battant d'Aquaverse. Cette immense piscine à vagues génère des <strong>méga vagues toutes les 20 minutes</strong>, et sert également de lieu de divertissement en plein air avec des écrans LED géants et un son surround Dolby DTS. Tout au long de la journée (et lors d'événements nocturnes spéciaux), l'Omnitheatre accueille des projections de films en plein air, des concerts live et des fêtes de mousse épiques.",
+        "keyAttractionsLabel": "Attractions principales",
+        "attractions": [
+          {
+            "name": "Méga piscine à vagues",
+            "desc": "Énorme piscine générant de grandes vagues toutes les 20 minutes pour le surf corporel, la détente et les éclaboussures"
+          },
+          {
+            "name": "Fêtes de mousse",
+            "desc": "Des canons à mousse programmés transforment la zone de la piscine à vagues en une immense fête de mousse"
+          },
+          {
+            "name": "Projections de films en plein air",
+            "desc": "Regardez des films sur des écrans LED géants tout en flottant dans la piscine à vagues"
+          },
+          {
+            "name": "Concerts live &amp; sets DJ",
+            "desc": "Spectacles musicaux live réguliers et événements DJ, surtout le week-end et les jours fériés"
+          },
+          {
+            "name": "Son surround Dolby DTS",
+            "desc": "Système audio de qualité professionnelle offrant un son de qualité cinéma dans tout l'espace"
+          },
+          {
+            "name": "Écrans LED géants",
+            "desc": "Plusieurs écrans LED haute définition visibles de n'importe où dans la piscine à vagues"
+          }
+        ],
+        "highlights": [
+          "🌊 Méga vagues toutes les 20 min",
+          "🎬 Cinéma en plein air",
+          "🎸 Concerts live",
+          "🎉 Fêtes de mousse",
+          "✅ Inclus dans le billet"
+        ],
+        "tipContent": "<p><strong>Conseil :</strong> La piscine à vagues est la zone la plus populaire du parc, surtout l'après-midi. Prenez votre bouée tôt et trouvez un bon emplacement. Consultez le tableau des horaires à l'entrée pour les fêtes de mousse et les projections de films. Les événements en soirée le week-end sont particulièrement spectaculaires.</p>"
+      }
+    ],
+    "extras": {
+      "sectionLabel": "Au-delà des zones",
+      "heading": "Attractions &amp; services supplémentaires",
+      "description": "Aquaverse offre bien plus que des attractions aquatiques. Détendez-vous au onsen, réservez une cabane VIP et capturez chaque instant avec le système photo RFID.",
+      "items": [
+        {
+          "h3": "Onsen &amp; hammam",
+          "content": "<p>Détendez-vous dans le <strong>onsen (bain thermal japonais) et le hammam</strong> d'Aquaverse. Après une journée complète de toboggans et de piscine à vagues, il n'y a pas de meilleure façon de relaxer les muscles fatigués et de terminer votre visite sur une note apaisante. L'espace onsen est séparé des zones principales du parc aquatique et offre une atmosphère plus calme et sereine.</p>\n            <p>C'est une caractéristique unique qui distingue Aquaverse des autres parcs aquatiques de la région &mdash; peu de parcs aquatiques proposent une véritable expérience onsen aux côtés de leurs attractions à sensations.</p>",
+          "highlights": [
+            "♨️ Bain thermal",
+            "💨 Hammam",
+            "✅ Inclus dans le billet"
+          ]
+        },
+        {
+          "h3": "Cabanes VIP",
+          "content": "<p>Améliorez votre expérience Aquaverse avec une <strong>cabane VIP privée</strong>. Profitez d'un espace ombragé et exclusif avec des sièges confortables, un rangement pour vos affaires et un service dédié. Trois niveaux sont disponibles :</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Cabane Deluxe</strong> &mdash; THB 2 500/jour &mdash; Zone ombragée, sièges, casier, serviettes</li>\n              <li><strong>Cabane Super Deluxe</strong> &mdash; THB 3 000/jour &mdash; Espace plus grand, sièges premium, boissons incluses</li>\n              <li><strong>Cabane VIP</strong> &mdash; THB 3 500/jour &mdash; Le forfait ultime avec le meilleur emplacement, crédits nourriture &amp; boissons, service prioritaire</li>\n            </ul>",
+          "highlights": [
+            "🏖️ Ombre privée",
+            "🍹 Service boissons",
+            "💰 À partir de THB 2 500"
+          ]
+        },
+        {
+          "h3": "Bracelet RFID photo &amp; vidéo",
+          "content": "<p>Chaque visiteur d'Aquaverse reçoit un <strong>bracelet RFID</strong> qui fait bien plus que donner accès au parc. Le bracelet fonctionne comme un <strong>système de paiement sans espèces</strong> (chargez du crédit pour acheter nourriture, boissons et extras sans transporter d'argent) et se connecte également au <strong>système automatique de photos et vidéos</strong> du parc.</p>\n            <p>Des caméras positionnées aux moments clés des attractions capturent automatiquement vos réactions sur les toboggans et manèges. En fin de journée, vous pouvez visualiser et acheter toutes vos photos et vidéos liées à votre bracelet &mdash; un excellent moyen de ramener des souvenirs de vos meilleurs moments.</p>",
+          "highlights": [
+            "📸 Photos auto sur les attractions",
+            "🎥 Capture vidéo",
+            "💳 Paiement sans espèces"
+          ]
+        },
+        {
+          "h3": "Restrictions de taille",
+          "content": "<p>Pour la sécurité des visiteurs, certains toboggans et attractions d'Aquaverse ont des <strong>exigences de taille minimale</strong>. La taille est mesurée et vérifiée à l'entrée de chaque attraction. Lignes directrices :</p>\n            <ul style=\"margin-top: 0.5rem;\">\n              <li><strong>Moins de 100 cm :</strong> Zone Hôtel Transylvanie, rivière tranquille et piscine à vagues (avec gilet de sauvetage)</li>\n              <li><strong>100-120 cm :</strong> La plupart des attractions Jumanji, certains toboggans SOS Fantômes, Surf's Up (avec instructeur)</li>\n              <li><strong>120 cm+ :</strong> Requis pour les toboggans extrêmes de Bienvenue à Zombieland (The Beast, rotation 360°, chute libre)</li>\n              <li><strong>Tous âges :</strong> Rivière tranquille, piscine à vagues, onsen, mini-golf, rencontres avec les personnages</li>\n            </ul>\n            <p style=\"margin-top: 0.5rem;\">Des gilets de sauvetage sont disponibles gratuitement pour les jeunes visiteurs et les non-nageurs. Lisez notre <a href=\"/fr/blog/aquaverse-with-kids.html\">guide famille</a> pour des recommandations détaillées par âge et par zone.</p>",
+          "highlights": [
+            "📏 Vérification à chaque attraction",
+            "🦺 Gilets de sauvetage gratuits",
+            "👶 Zones enfants disponibles"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "sectionLabel": "FAQ",
+      "heading": "FAQ Attractions",
+      "description": "Questions courantes sur les manèges, zones et attractions d'Aquaverse.",
+      "items": [
+        {
+          "question": "Combien de zones Aquaverse possède-t-il ?",
+          "answer": "<p>Aquaverse possède <strong>9 zones thématiques</strong> : Hôtel Transylvanie (enfants), SOS Fantômes (sensations), Bienvenue à Zombieland (extrême), Jumanji (aventure), Surf's Up (surf), Tempête de boulettes géantes (rivière tranquille), Bad Boys Race Club (karting), The Emoji Movie (mini-golf) et la Méga piscine à vagues Omnitheatre. Sept zones sont aquatiques et incluses dans le billet d'entrée. Deux zones (karting et mini-golf) sont des activités au sec avec un supplément.</p>"
+        },
+        {
+          "question": "Quelle est l'attraction la plus sensationnelle d'Aquaverse ?",
+          "answer": "<p><strong>The Beast</strong> dans la zone Bienvenue à Zombieland est l'attraction la plus extrême. Elle propose une chute verticale de 18 mètres où le sol s'ouvre sous vos pieds. La zone comprend également un toboggan en chute libre de 12 mètres et un toboggan à rotation 360 degrés. Les trois sont réservés aux plus courageux et exigent une taille minimale de 120 cm.</p>"
+        },
+        {
+          "question": "Y a-t-il des restrictions de taille à Aquaverse ?",
+          "answer": "<p>Oui. La plupart des attractions à sensations des zones Bienvenue à Zombieland et SOS Fantômes exigent une taille minimale de <strong>120 cm</strong>. La zone Hôtel Transylvanie est conçue pour tous les âges sans restriction de taille. Les restrictions sont clairement affichées et vérifiées à l'entrée de chaque attraction. Des gilets de sauvetage gratuits sont disponibles pour les jeunes visiteurs.</p>\n                <p><a href=\"/fr/blog/aquaverse-with-kids.html\">Lisez notre guide famille complet pour plus de détails &rarr;</a></p>"
+        },
+        {
+          "question": "Quelles attractions coûtent un supplément à Aquaverse ?",
+          "answer": "<p>La plupart des attractions sont incluses dans le billet d'entrée. Deux zones nécessitent un supplément :</p>\n                <ul>\n                  <li><strong>Bad Boys Race Club</strong> &mdash; Karting et drift bikes</li>\n                  <li><strong>The Emoji Movie</strong> &mdash; Mini-golf</li>\n                </ul>\n                <p>Les cabanes VIP sont également en supplément : Deluxe (THB 2 500), Super Deluxe (THB 3 000) et VIP (THB 3 500). Le forfait photos/vidéos du bracelet RFID peut être acheté en fin de visite.</p>\n                <p><a href=\"/fr/tickets.html\">Voir toutes les options de billets et tarifs &rarr;</a></p>"
+        },
+        {
+          "question": "Qu'est-ce que le premier Water Dome au monde ?",
+          "answer": "<p>Le <strong>Water Dome Proton Stream</strong> dans la zone SOS Fantômes est une attraction mondiale exclusive à Aquaverse. Les visiteurs montent sur des bouées SOS Fantômes et traversent des tunnels sombres et sinueux avec des effets de lumière avant de plonger dans un dôme d'eau clos. Il n'existe rien de comparable dans aucun autre parc aquatique au monde.</p>"
+        },
+        {
+          "question": "Aquaverse possède-t-il une rivière tranquille ?",
+          "answer": "<p>Oui ! La <strong>zone Tempête de boulettes géantes</strong> comprend la Swallow Falls River Adventure, une rivière tranquille thématique où vous flottez au milieu de Foodimals farfelus et de décors inspirés du film. Des bouées sont disponibles au point d'entrée. Un tour prend environ 15-20 minutes et vous pouvez en faire autant que vous le souhaitez.</p>"
+        }
+      ],
+      "viewAll": "Voir toutes les FAQ &rarr;"
+    },
+    "cta": {
+      "heading": "Prêt à explorer les 9 zones ?",
+      "text": "Réservez vos billets Aquaverse en ligne et économisez plus de 25%. Toutes les zones aquatiques, piscine à vagues, rivière tranquille, onsen &mdash; inclus dans un seul billet à partir d'environ THB 1 200 (consultez les derniers tarifs).",
+      "button": "Réserver des billets à prix réduit &rarr;",
+      "link": "Voir toutes les options de billets &amp; offres combinées &rarr;"
+    },
+    "schema": {
+      "name": "Columbia Pictures Aquaverse - Attractions & Manèges",
+      "alternateName": [
+        "Attractions Aquaverse",
+        "Toboggans Aquaverse",
+        "Zones Aquaverse"
+      ],
+      "description": "Les 9 zones thématiques et attractions du parc aquatique Columbia Pictures Aquaverse à Pattaya, Thaïlande. Avec le premier Water Dome au monde, le plus haut toboggan aquatique d'Asie, FlowRider, piscine à vagues, karting, mini-golf et onsen.",
+      "touristType": [
+        "Familles",
+        "Amateurs de sensations fortes",
+        "Fans de cinéma",
+        "Enfants"
+      ],
+      "containsPlace": [
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone Hôtel Transylvanie",
+          "description": "Le plus grand espace de jeux aquatiques à thème d'Asie du Sud-Est avec 9 toboggans pour enfants, des dizaines d'attractions aquatiques et des rencontres avec les personnages."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone SOS Fantômes",
+          "description": "Abrite le premier Water Dome au monde (Proton Stream), l'aventure Ghost Trap et le premier toboggan aquatique surnaturel SOS Fantômes d'Asie."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone Bienvenue à Zombieland",
+          "description": "Comprend The Beast, l'un des plus hauts toboggans aquatiques d'Asie avec une chute verticale de 18 mètres, plus des toboggans à rotation 360 degrés et des pistes de course sur tapis."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone Jumanji",
+          "description": "Zone d'aventure dans la jungle avec Jaguar Mountain, le toboggan Viper et les attractions aquatiques Jungle Stampede."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone Surf's Up",
+          "description": "Simulateur de surf FlowRider Double de 12 mètres avec instruction professionnelle pour le bodyboard et le surf. Supplément requis."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone Tempête de boulettes géantes",
+          "description": "Rivière tranquille Swallow Falls River Adventure avec des Foodimals farfelus et des expériences sur le thème de la nourriture."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Bad Boys Race Club",
+          "description": "Circuit de karting sur le thème de Miami avec des karts personnalisés et des drift bikes. Supplément requis."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Zone The Emoji Movie",
+          "description": "Parcours de mini-golf créatif de 9 trous avec obstacles et système de prix. Supplément requis."
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "Méga piscine à vagues Omnitheatre",
+          "description": "Méga vagues toutes les 20 minutes avec fêtes de mousse, cinéma en plein air, concerts live, son surround Dolby DTS et écrans LED géants."
+        }
+      ]
+    }
   }
 }
