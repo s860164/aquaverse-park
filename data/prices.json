@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-22T16:17:08.598Z",
+  "lastUpdated": "2026-03-23T16:44:28.961Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1174,
+      "priceTHB": 1190,
       "gatePrice": 1595,
-      "priceUSD": 35.8
+      "priceUSD": 36.29
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1585,
+      "priceTHB": 1606,
       "gatePrice": null,
-      "priceUSD": 48.35
+      "priceUSD": 48.99
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 498,
+      "priceTHB": 505,
       "gatePrice": null,
-      "priceUSD": 15.19
+      "priceUSD": 15.39
     },
     {
       "id": "addons-gokart",
@@ -54,13 +54,13 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0305,
+      "rate": 0.0304,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
     },
     "EUR": {
-      "rate": 0.0264,
+      "rate": 0.0263,
       "symbol": "€",
       "code": "EUR",
       "decimals": 0
@@ -84,19 +84,19 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 45.73,
+      "rate": 45.71,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.972,
+      "rate": 0.973,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
     },
     "HKD": {
-      "rate": 0.239,
+      "rate": 0.238,
       "symbol": "$",
       "code": "HKD",
       "decimals": 0
@@ -126,19 +126,19 @@
       "decimals": 0
     },
     "VND": {
-      "rate": 796,
+      "rate": 800,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.84,
+      "rate": 2.85,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.6,
+      "rate": 2.53,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
