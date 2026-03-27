@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-26T16:52:01.478Z",
+  "lastUpdated": "2026-03-27T16:41:45.247Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1181,
+      "priceTHB": 1172,
       "gatePrice": 1595,
-      "priceUSD": 36.25
+      "priceUSD": 35.85
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1594,
+      "priceTHB": 1580,
       "gatePrice": null,
-      "priceUSD": 48.95
+      "priceUSD": 48.35
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 501,
+      "priceTHB": 496,
       "gatePrice": null,
-      "priceUSD": 15.39
+      "priceUSD": 15.19
     },
     {
       "id": "addons-gokart",
@@ -54,85 +54,85 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0306,
+      "rate": 0.0304,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
     },
     "EUR": {
-      "rate": 0.0264,
+      "rate": 0.0263,
       "symbol": "€",
       "code": "EUR",
       "decimals": 0
     },
     "GBP": {
-      "rate": 0.0229,
+      "rate": 0.0228,
       "symbol": "£",
       "code": "GBP",
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.87,
+      "rate": 4.85,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.212,
+      "rate": 0.211,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
     },
     "KRW": {
-      "rate": 45.9,
+      "rate": 45.8,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.977,
+      "rate": 0.972,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
     },
     "HKD": {
-      "rate": 0.239,
+      "rate": 0.238,
       "symbol": "$",
       "code": "HKD",
       "decimals": 0
     },
     "SGD": {
-      "rate": 0.0392,
+      "rate": 0.039,
       "symbol": "$",
       "code": "SGD",
       "decimals": 0
     },
     "MYR": {
-      "rate": 0.121,
+      "rate": 0.122,
       "symbol": "RM",
       "code": "MYR",
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.84,
+      "rate": 1.83,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 517,
+      "rate": 514,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 797,
+      "rate": 795,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.88,
+      "rate": 2.86,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
