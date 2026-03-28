@@ -9,9 +9,15 @@
     "scrape": "node scripts/scrape-klook.js",
     "rates": "node scripts/fetch-rates.js",
     "update": "node scripts/update-site.js",
-    "all": "npm run scrape && npm run rates && npm run update"
+    "all": "npm run scrape && npm run rates && npm run update",
+    "generate-blog": "node scripts/generate-blog.js",
+    "generate-blog:dry": "node scripts/generate-blog.js --dry-run"
   },
   "dependencies": {
-    "nunjucks": "^3.2.4"
+    "nunjucks": "^3.2.4",
+    "openai": "^4.96.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.3.1"
   }
 }
