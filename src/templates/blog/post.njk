@@ -70,6 +70,21 @@
       <span>{{ t.blog.posts[postSlug].breadcrumbName }}</span>
     </div>
   </div>
+
+  {% if blogPostData.heroImage %}
+  <!-- Article Hero Image -->
+  <div class="article-hero-wrap">
+    <img
+      class="article-hero-img"
+      src="{{ site.baseUrl }}/images/{{ blogPostData.ogImage }}"
+      alt="{{ t.blog.posts[postSlug].title }}"
+      width="1200"
+      height="630"
+      loading="eager"
+      fetchpriority="high"
+    >
+  </div>
+  {% endif %}
 {% endblock %}
 
 {% block content %}

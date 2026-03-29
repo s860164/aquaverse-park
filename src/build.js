@@ -64,24 +64,11 @@ const PAGE_CONFIGS = {
   },
 };
 
-const BLOG_POST_SLUGS = [
-  'aquaverse-food-guide',
-  'aquaverse-review',
-  'aquaverse-ticket-prices',
-  'aquaverse-vs-ramayana',
-  'aquaverse-with-kids',
-  'best-hotels-near-aquaverse',
-  'best-things-to-do-pattaya',
-  'best-time-to-visit-aquaverse',
-  'how-to-get-to-aquaverse-from-bangkok',
-  'pattaya-couples-guide',
-  'pattaya-itinerary-aquaverse',
-  'pattaya-kids-activities',
-  'pattaya-seniors-guide',
-  'pattaya-solo-travel',
-  'pattaya-water-parks',
-  'why-visit-pattaya',
-];
+// Load blog index data (non-translatable card metadata)
+// BLOG_POST_SLUGS is derived from this so new AI-generated posts are picked up automatically
+const BLOG_INDEX_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'blog', 'index.json'), 'utf8'));
+
+const BLOG_POST_SLUGS = BLOG_INDEX_DATA.cards.map(c => c.slug);
 
 // Load home page data (non-translatable)
 const HOME_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'home.json'), 'utf8'));
@@ -91,9 +78,6 @@ const ATTRACTIONS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data',
 
 // Load tips page data (non-translatable)
 const TIPS_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'tips.json'), 'utf8'));
-
-// Load blog index data (non-translatable card metadata)
-const BLOG_INDEX_DATA = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'blog', 'index.json'), 'utf8'));
 
 // Footer guide blog post slugs (same order as labels in i18n files)
 const FOOTER_GUIDES_SLUGS = [

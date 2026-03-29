@@ -1,0 +1,61 @@
+name: Generate AI Blog Post
+
+on:
+  schedule:
+    # Every Monday at 09:00 UTC (16:00 Taiwan / 16:00 Bangkok)
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate new blog post
+        run: node scripts/generate-blog.js
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+      - name: Rebuild site
+        run: node src/build.js
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "blog: add AI-generated post [${{ env.POST_SLUG }}]"
+          branch: "ai-blog/${{ env.POST_SLUG }}"
+          title: "blog: add new AI-generated post"
+          body: |
+            ## New AI-Generated Blog Post
+
+            This PR was automatically created by the `generate-blog.yml` workflow.
+
+            **What to check before merging:**
+            - [ ] Article reads naturally and is factually accurate
+            - [ ] Internal links work correctly
+            - [ ] SEO metadata looks good for all languages
+            - [ ] No obvious translation issues
+            - [ ] Add a real OG image (`images/og-{slug}.jpg`) and update `src/data/blog/{slug}.json`
+
+            **Post slug:** see changed files in `src/data/blog/` and `src/content/blog/`
+
+            🤖 Generated with Claude API
+          labels: "ai-content,blog"
+          draft: false

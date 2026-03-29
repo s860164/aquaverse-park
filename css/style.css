@@ -1412,6 +1412,35 @@ p { margin-bottom: 1rem; }
   color: white;
 }
 
+/* ===== ARTICLE HERO IMAGE ===== */
+.article-hero-wrap {
+  max-width: 900px;
+  margin: 0 auto 0;
+  padding: 0 1rem 0;
+  border-radius: var(--radius-2xl);
+  overflow: hidden;
+}
+
+.article-hero-img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+  border-radius: var(--radius-2xl);
+  box-shadow: var(--shadow-xl);
+}
+
+@media (max-width: 768px) {
+  .article-hero-wrap {
+    padding: 0 0.75rem;
+    border-radius: var(--radius-xl);
+  }
+  .article-hero-img {
+    max-height: 240px;
+    border-radius: var(--radius-xl);
+  }
+}
+
 /* ===== CONTENT ARTICLE ===== */
 .article-content {
   font-size: 1.05rem;
