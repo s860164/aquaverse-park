@@ -3,7 +3,7 @@
  * AI Blog Post Generator for aquaverse-park.com
  *
  * Uses OpenRouter to generate multilingual blog posts and OG images.
- *   - Text:  anthropic/claude-sonnet-4-6
+ *   - Text:  deepseek/deepseek-v3.2
  *   - Image: google/gemini-3.1-flash-image-preview
  *
  * Usage:
@@ -28,8 +28,8 @@ const IMAGES_DIR  = path.join(ROOT, 'images');
 const TOPICS_FILE = path.join(__dirname, 'topics.json');
 
 // ── Config ───────────────────────────────────────────────────────────────────
-const TEXT_MODEL      = 'anthropic/claude-sonnet-4-6';
-const TRANSLATE_MODEL = 'anthropic/claude-haiku-3-5';
+const TEXT_MODEL      = 'deepseek/deepseek-v3.2';
+const TRANSLATE_MODEL = 'deepseek/deepseek-v3.2';
 const IMAGE_MODEL     = 'google/gemini-3.1-flash-image-preview';
 const DRY_RUN     = process.argv.includes('--dry-run');
 const slugArg     = (() => {
