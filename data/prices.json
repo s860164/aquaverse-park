@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T16:44:44.773Z",
+  "lastUpdated": "2026-03-31T16:46:04.086Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
@@ -8,7 +8,7 @@
       "name": "Water Park Ticket",
       "priceTHB": 1181,
       "gatePrice": 1595,
-      "priceUSD": 35.89
+      "priceUSD": 35.9
     },
     {
       "id": "admission-food-surf",
@@ -54,19 +54,19 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0304,
+      "rate": 0.0305,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
     },
     "EUR": {
-      "rate": 0.0264,
+      "rate": 0.0265,
       "symbol": "€",
       "code": "EUR",
       "decimals": 0
     },
     "GBP": {
-      "rate": 0.0229,
+      "rate": 0.023,
       "symbol": "£",
       "code": "GBP",
       "decimals": 0
@@ -78,55 +78,55 @@
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.211,
+      "rate": 0.21,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
     },
     "KRW": {
-      "rate": 45.87,
+      "rate": 46.18,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.971,
+      "rate": 0.976,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
     },
     "HKD": {
-      "rate": 0.238,
+      "rate": 0.239,
       "symbol": "$",
       "code": "HKD",
       "decimals": 0
     },
     "SGD": {
-      "rate": 0.0391,
+      "rate": 0.0393,
       "symbol": "$",
       "code": "SGD",
       "decimals": 0
     },
     "MYR": {
-      "rate": 0.122,
+      "rate": 0.123,
       "symbol": "RM",
       "code": "MYR",
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.84,
+      "rate": 1.85,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 515,
+      "rate": 518,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 797,
+      "rate": 800,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
@@ -138,13 +138,13 @@
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.47,
+      "rate": 2.48,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0442,
+      "rate": 0.0444,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
