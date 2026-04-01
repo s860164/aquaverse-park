@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-31T16:46:04.086Z",
+  "lastUpdated": "2026-04-01T16:42:51.365Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1181,
+      "priceTHB": 1177,
       "gatePrice": 1595,
       "priceUSD": 35.9
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1594,
+      "priceTHB": 1589,
       "gatePrice": null,
       "priceUSD": 48.45
     },
@@ -34,7 +34,7 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 502,
+      "priceTHB": 500,
       "gatePrice": null,
       "priceUSD": 15.25
     },
@@ -66,7 +66,7 @@
       "decimals": 0
     },
     "GBP": {
-      "rate": 0.023,
+      "rate": 0.0231,
       "symbol": "£",
       "code": "GBP",
       "decimals": 0
@@ -78,19 +78,19 @@
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.21,
+      "rate": 0.211,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.18,
+      "rate": 46.49,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.976,
+      "rate": 0.979,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -114,31 +114,31 @@
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.85,
+      "rate": 1.86,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 518,
+      "rate": 519,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 800,
+      "rate": 803,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.88,
+      "rate": 2.87,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.48,
+      "rate": 2.49,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
