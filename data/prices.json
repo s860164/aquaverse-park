@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-06T16:34:54.452Z",
+  "lastUpdated": "2026-04-07T16:44:34.804Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1186,
+      "priceTHB": 1181,
       "gatePrice": 1595,
-      "priceUSD": 36.29
+      "priceUSD": 36.15
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1600,
+      "priceTHB": 1594,
       "gatePrice": null,
-      "priceUSD": 48.95
+      "priceUSD": 48.79
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 503,
+      "priceTHB": 502,
       "gatePrice": null,
-      "priceUSD": 15.39
+      "priceUSD": 15.35
     },
     {
       "id": "addons-gokart",
@@ -54,7 +54,7 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0306,
+      "rate": 0.0307,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
@@ -72,7 +72,7 @@
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.89,
+      "rate": 4.9,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
@@ -84,13 +84,13 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.32,
+      "rate": 46.26,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.979,
+      "rate": 0.981,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -108,7 +108,7 @@
       "decimals": 0
     },
     "MYR": {
-      "rate": 0.123,
+      "rate": 0.124,
       "symbol": "RM",
       "code": "MYR",
       "decimals": 0
@@ -120,25 +120,25 @@
       "decimals": 0
     },
     "IDR": {
-      "rate": 521,
+      "rate": 523,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 804,
+      "rate": 801,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.84,
+      "rate": 2.86,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.45,
+      "rate": 2.43,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
