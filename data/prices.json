@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-10T16:42:34.382Z",
+  "lastUpdated": "2026-04-11T16:23:48.137Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1178,
+      "priceTHB": 1173,
       "gatePrice": 1595,
-      "priceUSD": 36.75
+      "priceUSD": 36.59
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1589,
+      "priceTHB": 1583,
       "gatePrice": null,
-      "priceUSD": 49.59
+      "priceUSD": 49.39
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 500,
+      "priceTHB": 498,
       "gatePrice": null,
-      "priceUSD": 15.59
+      "priceUSD": 15.55
     },
     {
       "id": "addons-gokart",
@@ -60,7 +60,7 @@
       "decimals": 0
     },
     "EUR": {
-      "rate": 0.0267,
+      "rate": 0.0266,
       "symbol": "€",
       "code": "EUR",
       "decimals": 0
@@ -78,19 +78,19 @@
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.213,
+      "rate": 0.214,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.09,
+      "rate": 46.18,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.991,
+      "rate": 0.99,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -114,7 +114,7 @@
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.86,
+      "rate": 1.87,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
@@ -126,7 +126,7 @@
       "decimals": 0
     },
     "VND": {
-      "rate": 818,
+      "rate": 804,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
@@ -144,7 +144,7 @@
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0443,
+      "rate": 0.0441,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
