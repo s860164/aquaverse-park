@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T16:23:48.137Z",
+  "lastUpdated": "2026-04-12T16:25:52.420Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
@@ -84,7 +84,7 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.18,
+      "rate": 46.17,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
@@ -120,13 +120,13 @@
       "decimals": 0
     },
     "IDR": {
-      "rate": 533,
+      "rate": 532,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 804,
+      "rate": 808,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
