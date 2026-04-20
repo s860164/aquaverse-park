@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-19T16:26:54.313Z",
+  "lastUpdated": "2026-04-20T16:52:50.359Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1172,
+      "priceTHB": 1174,
       "gatePrice": 1595,
-      "priceUSD": 36.69
+      "priceUSD": 36.75
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1280,
+      "priceTHB": 1281,
       "gatePrice": null,
-      "priceUSD": 40.05
+      "priceUSD": 40.1
     },
     {
       "id": "group-of-3",
@@ -54,7 +54,7 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0313,
+      "rate": 0.0312,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
@@ -72,7 +72,7 @@
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.97,
+      "rate": 4.96,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
@@ -84,19 +84,19 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.14,
+      "rate": 46.03,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.988,
+      "rate": 0.983,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
     },
     "HKD": {
-      "rate": 0.245,
+      "rate": 0.244,
       "symbol": "$",
       "code": "HKD",
       "decimals": 0
@@ -114,31 +114,31 @@
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.88,
+      "rate": 1.87,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 537,
+      "rate": 535,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 809,
+      "rate": 819,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.91,
+      "rate": 2.89,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.38,
+      "rate": 2.37,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
