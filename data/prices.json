@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-20T16:52:50.359Z",
+  "lastUpdated": "2026-04-21T16:47:20.667Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1174,
+      "priceTHB": 1178,
       "gatePrice": 1595,
       "priceUSD": 36.75
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1281,
+      "priceTHB": 1285,
       "gatePrice": null,
       "priceUSD": 40.1
     },
@@ -34,7 +34,7 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 498,
+      "priceTHB": 500,
       "gatePrice": null,
       "priceUSD": 15.59
     },
@@ -78,13 +78,13 @@
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.215,
+      "rate": 0.213,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.03,
+      "rate": 45.87,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
@@ -102,7 +102,7 @@
       "decimals": 0
     },
     "SGD": {
-      "rate": 0.0397,
+      "rate": 0.0396,
       "symbol": "$",
       "code": "SGD",
       "decimals": 0
@@ -132,19 +132,19 @@
       "decimals": 0
     },
     "INR": {
-      "rate": 2.89,
+      "rate": 2.91,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.37,
+      "rate": 2.35,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0436,
+      "rate": 0.0435,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
