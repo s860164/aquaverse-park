@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-22T16:48:04.754Z",
+  "lastUpdated": "2026-04-23T17:08:59.099Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1179,
+      "priceTHB": 1165,
       "gatePrice": 1595,
-      "priceUSD": 36.79
+      "priceUSD": 36.35
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1274,
+      "priceTHB": 1272,
       "gatePrice": null,
-      "priceUSD": 39.75
+      "priceUSD": 39.69
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 500,
+      "priceTHB": 495,
       "gatePrice": null,
-      "priceUSD": 15.6
+      "priceUSD": 15.45
     },
     {
       "id": "addons-gokart",
@@ -54,7 +54,7 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0312,
+      "rate": 0.031,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
@@ -72,13 +72,13 @@
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.96,
+      "rate": 4.95,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.213,
+      "rate": 0.212,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
@@ -90,13 +90,13 @@
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.979,
+      "rate": 0.977,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
     },
     "HKD": {
-      "rate": 0.244,
+      "rate": 0.243,
       "symbol": "$",
       "code": "HKD",
       "decimals": 0
@@ -126,7 +126,7 @@
       "decimals": 0
     },
     "VND": {
-      "rate": 812,
+      "rate": 810,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
@@ -144,7 +144,7 @@
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0435,
+      "rate": 0.0434,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
