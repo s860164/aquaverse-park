@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-27T17:13:50.437Z",
+  "lastUpdated": "2026-04-28T17:28:26.384Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1180,
+      "priceTHB": 1171,
       "gatePrice": 1595,
-      "priceUSD": 36.45
+      "priceUSD": 36.19
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1277,
+      "priceTHB": 1280,
       "gatePrice": null,
-      "priceUSD": 39.45
+      "priceUSD": 39.55
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 501,
+      "priceTHB": 498,
       "gatePrice": null,
-      "priceUSD": 15.49
+      "priceUSD": 15.39
     },
     {
       "id": "addons-gokart",
@@ -66,31 +66,31 @@
       "decimals": 0
     },
     "GBP": {
-      "rate": 0.0229,
+      "rate": 0.0228,
       "symbol": "£",
       "code": "GBP",
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.92,
+      "rate": 4.93,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.212,
+      "rate": 0.211,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
     },
     "KRW": {
-      "rate": 45.6,
+      "rate": 45.57,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.971,
+      "rate": 0.973,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
@@ -114,19 +114,19 @@
       "decimals": 0
     },
     "PHP": {
-      "rate": 1.87,
+      "rate": 1.88,
       "symbol": "₱",
       "code": "PHP",
       "decimals": 0
     },
     "IDR": {
-      "rate": 530,
+      "rate": 532,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 806,
+      "rate": 811,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
@@ -144,7 +144,7 @@
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0432,
+      "rate": 0.043,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
