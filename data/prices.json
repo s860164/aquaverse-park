@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-05T17:11:34.530Z",
+  "lastUpdated": "2026-05-06T17:20:39.961Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
     {
       "id": "standard-admission",
       "name": "Water Park Ticket",
-      "priceTHB": 1253,
+      "priceTHB": 1257,
       "gatePrice": 1595,
       "priceUSD": 38.59
     },
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1268,
+      "priceTHB": 1272,
       "gatePrice": null,
       "priceUSD": 39.05
     },
@@ -34,7 +34,7 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 498,
+      "priceTHB": 500,
       "gatePrice": null,
       "priceUSD": 15.35
     },
@@ -60,25 +60,25 @@
       "decimals": 0
     },
     "EUR": {
-      "rate": 0.0262,
+      "rate": 0.0263,
       "symbol": "€",
       "code": "EUR",
       "decimals": 0
     },
     "GBP": {
-      "rate": 0.0226,
+      "rate": 0.0227,
       "symbol": "£",
       "code": "GBP",
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.81,
+      "rate": 4.84,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
     },
     "CNY": {
-      "rate": 0.21,
+      "rate": 0.211,
       "symbol": "¥",
       "code": "CNY",
       "decimals": 0
@@ -90,19 +90,19 @@
       "decimals": 0
     },
     "TWD": {
-      "rate": 0.97,
+      "rate": 0.971,
       "symbol": "$",
       "code": "TWD",
       "decimals": 0
     },
     "HKD": {
-      "rate": 0.24,
+      "rate": 0.241,
       "symbol": "$",
       "code": "HKD",
       "decimals": 0
     },
     "SGD": {
-      "rate": 0.0391,
+      "rate": 0.0392,
       "symbol": "$",
       "code": "SGD",
       "decimals": 0
@@ -120,31 +120,31 @@
       "decimals": 0
     },
     "IDR": {
-      "rate": 534,
+      "rate": 536,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 801,
+      "rate": 805,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
     },
     "INR": {
-      "rate": 2.91,
+      "rate": 2.93,
       "symbol": "₹",
       "code": "INR",
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.3,
+      "rate": 2.31,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0427,
+      "rate": 0.0428,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
