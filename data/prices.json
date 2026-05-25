@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T16:50:20.586Z",
+  "lastUpdated": "2026-05-25T17:27:18.139Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 502,
+      "priceTHB": 503,
       "gatePrice": null,
-      "priceUSD": 15.35
+      "priceUSD": 15.39
     },
     {
       "id": "addons-gokart",
@@ -72,7 +72,7 @@
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.87,
+      "rate": 4.88,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
@@ -84,7 +84,7 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 46.42,
+      "rate": 46.46,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
@@ -126,7 +126,7 @@
       "decimals": 0
     },
     "VND": {
-      "rate": 803,
+      "rate": 798,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
@@ -138,13 +138,13 @@
       "decimals": 0
     },
     "RUB": {
-      "rate": 2.18,
+      "rate": 2.19,
       "symbol": "₽",
       "code": "RUB",
       "decimals": 0
     },
     "AUD": {
-      "rate": 0.0429,
+      "rate": 0.043,
       "symbol": "$",
       "code": "AUD",
       "decimals": 0
