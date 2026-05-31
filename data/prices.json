@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T16:50:17.421Z",
+  "lastUpdated": "2026-05-31T16:54:31.906Z",
   "source": "klook",
   "activityId": "85772",
   "packages": [
@@ -13,9 +13,9 @@
     {
       "id": "admission-food-surf",
       "name": "Water Park + 200THB Food Coupon + 1 Round Surf",
-      "priceTHB": 1277,
+      "priceTHB": 1275,
       "gatePrice": null,
-      "priceUSD": 39.19
+      "priceUSD": 39.15
     },
     {
       "id": "group-of-3",
@@ -34,9 +34,9 @@
     {
       "id": "addons-food",
       "name": "Add-ons Food and Beverage",
-      "priceTHB": 500,
+      "priceTHB": 501,
       "gatePrice": null,
-      "priceUSD": 15.35
+      "priceUSD": 15.39
     },
     {
       "id": "addons-gokart",
@@ -54,7 +54,7 @@
       "decimals": 0
     },
     "USD": {
-      "rate": 0.0307,
+      "rate": 0.0308,
       "symbol": "$",
       "code": "USD",
       "decimals": 0
@@ -102,7 +102,7 @@
       "decimals": 0
     },
     "SGD": {
-      "rate": 0.0393,
+      "rate": 0.0392,
       "symbol": "$",
       "code": "SGD",
       "decimals": 0
@@ -120,13 +120,13 @@
       "decimals": 0
     },
     "IDR": {
-      "rate": 550,
+      "rate": 549,
       "symbol": "Rp",
       "code": "IDR",
       "decimals": 0
     },
     "VND": {
-      "rate": 793,
+      "rate": 797,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
