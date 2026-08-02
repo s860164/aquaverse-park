@@ -72,7 +72,7 @@
       "decimals": 0
     },
     "JPY": {
-      "rate": 4.75,
+      "rate": 4.76,
       "symbol": "¥",
       "code": "JPY",
       "decimals": 0
@@ -84,7 +84,7 @@
       "decimals": 0
     },
     "KRW": {
-      "rate": 42.99,
+      "rate": 42.95,
       "symbol": "₩",
       "code": "KRW",
       "decimals": 0
@@ -126,7 +126,7 @@
       "decimals": 0
     },
     "VND": {
-      "rate": 781,
+      "rate": 780,
       "symbol": "₫",
       "code": "VND",
       "decimals": 0
